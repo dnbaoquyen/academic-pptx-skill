@@ -138,9 +138,9 @@ function network(s, cx, cy, R, nodes, o = {}) {
   T(s, [
     { text: "Phần 3 · buổi 4/4 — Điều phối các bên liên quan phục vụ hành trình khách hàng", options: { breakLine: true } },
     { text: "Khoa Marketing · UEF", options: { breakLine: true } },
-    { text: "Giảng viên: [Tên giảng viên]" },
+    { text: "Giảng viên: Đoàn Nguyễn Bảo Quyên" },
   ], { x: M, y: 5.0, w: 6.6, h: 1.4, fontSize: 15, color: C.muted, valign: "top", paraSpaceAfter: 4 });
-  s.addNotes("Slide 1 (dàn ý #1). Buổi này khép Phần 3. Điền tên giảng viên trước khi dạy.\nAlt-text: sơ đồ hình sao — Key Account ở giữa, ba nhánh nối tới nhà tài trợ, nhà cung cấp – địa điểm, báo chí – KOL.");
+  s.addNotes("Slide 1 (dàn ý #1). Buổi này khép Phần 3.\nAlt-text: sơ đồ hình sao — Key Account ở giữa, ba nhánh nối tới nhà tài trợ, nhà cung cấp – địa điểm, báo chí – KOL.");
 }
 
 // ───────────────────────── 2 — S1 ─────────────────────────

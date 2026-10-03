@@ -129,9 +129,9 @@ function table(slide, x, y, cols, rows, { rowH, size = 14, headH = 0.55, firstBo
   T(s, [
     { text: "Stakeholders Management for Events", options: { breakLine: true } },
     { text: "Khoa Marketing · UEF", options: { breakLine: true } },
-    { text: "Giảng viên: [Tên giảng viên]" },
+    { text: "Giảng viên: Đoàn Nguyễn Bảo Quyên" },
   ], { x: M, y: 5.2, w: 6.8, h: 1.3, fontSize: 15, color: C.muted, valign: "top", paraSpaceAfter: 4 });
-  s.addNotes("Slide 1 (dàn ý #1). Điền tên giảng viên trước khi dạy.\nAlt-text: hình kim cương, bên trái là nhóm người của agency, bên phải là nhóm người của Key Account, nối với nhau bằng năm đường song song.");
+  s.addNotes("Slide 1 (dàn ý #1).\nAlt-text: hình kim cương, bên trái là nhóm người của agency, bên phải là nhóm người của Key Account, nối với nhau bằng năm đường song song.");
 }
 
 // ───────────────────────── 2 — S1 opener ─────────────────────────

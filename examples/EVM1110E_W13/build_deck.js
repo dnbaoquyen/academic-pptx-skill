@@ -133,9 +133,9 @@ function rings(s, cx, cy, R, o = {}) {
   T(s, [
     { text: "Phần 4 · buổi 1/3 — Đánh giá: bảo vệ dự án SMP · buổi xưởng", options: { breakLine: true } },
     { text: "Khoa Marketing · UEF", options: { breakLine: true } },
-    { text: "Giảng viên: [Tên giảng viên]" },
+    { text: "Giảng viên: Đoàn Nguyễn Bảo Quyên" },
   ], { x: M, y: 5.05, w: 6.6, h: 1.4, fontSize: 15, color: C.muted, valign: "top", paraSpaceAfter: 4 });
-  s.addNotes("Slide 1 (dàn ý #1). Mở Phần 4 — buổi xưởng. Nhắc SV đã mang đủ các trang SMP (Buổi 1, 7–12). Điền tên giảng viên trước khi dạy.\nAlt-text: hai vòng tròn đồng tâm — lõi là Key Account Plan, vòng ngoài là nhà tài trợ, nhà cung cấp, báo chí – KOL.");
+  s.addNotes("Slide 1 (dàn ý #1). Mở Phần 4 — buổi xưởng. Nhắc SV đã mang đủ các trang SMP (Buổi 1, 7–12).\nAlt-text: hai vòng tròn đồng tâm — lõi là Key Account Plan, vòng ngoài là nhà tài trợ, nhà cung cấp, báo chí – KOL.");
 }
 
 // ───────────────────────── 2 — S1 ─────────────────────────

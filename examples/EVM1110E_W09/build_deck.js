@@ -127,9 +127,9 @@ function venn(s, cx, cy, r, labels, o = {}) {
   T(s, [
     { text: "Phần 3 · Điều phối các bên liên quan phục vụ hành trình khách hàng", options: { breakLine: true } },
     { text: "Khoa Marketing · UEF", options: { breakLine: true } },
-    { text: "Giảng viên: [Tên giảng viên]" },
+    { text: "Giảng viên: Đoàn Nguyễn Bảo Quyên" },
   ], { x: M, y: 5.0, w: 6.8, h: 1.4, fontSize: 15, color: C.muted, valign: "top", paraSpaceAfter: 4 });
-  s.addNotes("Slide 1 (dàn ý #1). Mở Phần 3 của học phần. Điền tên giảng viên trước khi dạy.\nAlt-text: ba vòng tròn giao nhau — nhà tài trợ, Key Account, khách của Key Account — agency ở vùng giao giữa.");
+  s.addNotes("Slide 1 (dàn ý #1). Mở Phần 3 của học phần.\nAlt-text: ba vòng tròn giao nhau — nhà tài trợ, Key Account, khách của Key Account — agency ở vùng giao giữa.");
 }
 
 // ───────────────────────── 2 — S1 ─────────────────────────

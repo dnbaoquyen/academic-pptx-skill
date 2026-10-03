@@ -136,9 +136,9 @@ function floorPlan(s, x, y, w, h, o = {}) {
   T(s, [
     { text: "Phần 3 · buổi 2/4 — Điều phối các bên liên quan phục vụ hành trình khách hàng", options: { breakLine: true } },
     { text: "Khoa Marketing · UEF", options: { breakLine: true } },
-    { text: "Giảng viên: [Tên giảng viên]" },
+    { text: "Giảng viên: Đoàn Nguyễn Bảo Quyên" },
   ], { x: M, y: 5.0, w: 6.8, h: 1.4, fontSize: 15, color: C.muted, valign: "top", paraSpaceAfter: 4 });
-  s.addNotes("Slide 1 (dàn ý #1). Phần 3, buổi 2/4. Điền tên giảng viên trước khi dạy.\nAlt-text: sơ đồ mặt bằng ballroom nhìn từ trên xuống — sân khấu phía trên, các bàn tròn xếp thành hàng.");
+  s.addNotes("Slide 1 (dàn ý #1). Phần 3, buổi 2/4.\nAlt-text: sơ đồ mặt bằng ballroom nhìn từ trên xuống — sân khấu phía trên, các bàn tròn xếp thành hàng.");
 }
 
 // ───────────────────────── 2 — S1 ─────────────────────────

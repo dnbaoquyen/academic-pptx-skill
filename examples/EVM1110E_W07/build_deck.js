@@ -131,9 +131,9 @@ function matrix(slide, x, y, w, h, cells = {}, opt = {}) {
   T(s, [
     { text: "Stakeholders Management for Events", options: { breakLine: true } },
     { text: "Khoa Marketing · UEF", options: { breakLine: true } },
-    { text: "Giảng viên: [Tên giảng viên]" },
+    { text: "Giảng viên: Đoàn Nguyễn Bảo Quyên" },
   ], { x: M, y: 5.05, w: 7.0, h: 1.3, fontSize: 15, color: C.muted, valign: "top", paraSpaceAfter: 4 });
-  s.addNotes("Slide 1 (dàn ý #1). Điền tên giảng viên trước khi dạy.");
+  s.addNotes("Slide 1 (dàn ý #1).");
 }
 
 // ───────────────────────── Slide 2 — S1 opener ─────────────────────────
