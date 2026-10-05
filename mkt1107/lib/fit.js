@@ -52,4 +52,9 @@ function fitSize(paras, w, h, { max = 28, min = MIN_PT, bold = false, gapPt = 0 
   return null;
 }
 
-module.exports = { MIN_PT, LINE, INSET, textWidthIn, countLines, blockHeight, fitSize };
+// Widest unbreakable word (NBSP-joined groups count as one word), in inches.
+function widestWord(text, pt, bold) {
+  return Math.max(0, ...String(text).split(/[ \t\n\r]+/).filter(Boolean).map((w) => textWidthIn(w, pt, bold)));
+}
+
+module.exports = { widestWord, MIN_PT, LINE, INSET, textWidthIn, countLines, blockHeight, fitSize };

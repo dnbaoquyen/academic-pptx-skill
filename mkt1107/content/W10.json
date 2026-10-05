@@ -223,19 +223,19 @@
       ],
       "rows": [
         [
-          "Lọc đối tượng",
+          "Lọc đúng\nđối tượng",
           "SV học tại TP.HCM",
           "C1 gạn lọc",
           "—"
         ],
         [
-          "Mô tả hành vi",
+          "Mô tả\nhành vi mua",
           "Đã mua, số lần, nơi mua",
           "C2–C4",
           "Tần số, tỷ lệ"
         ],
         [
-          "Giá, chất lượng",
+          "Đánh giá giá,\nchất lượng",
           "GIA1–3, CL1–3",
           "C5–C10",
           "Trung bình,\nđộ lệch chuẩn"
@@ -399,8 +399,7 @@
           "Dưới 3 triệu",
           "Từ 3 đến dưới 5 triệu",
           "Từ 5 đến dưới 7 triệu",
-          "Từ 7 triệu trở lên",
-          "Không muốn trả lời"
+          "Từ 7 triệu trở lên · Không muốn trả lời"
         ]
       },
       "notes": "Câu nhạy cảm — với sinh viên, thường là tiền: thu nhập, chi tiêu, nợ. Thay vì hỏi thẳng “Thu nhập hàng tháng của bạn là bao nhiêu?”, hỏi theo khoảng và đặt ở cuối bảng hỏi: “Mức chi tiêu hàng tháng của bạn (không tính học phí)” với các khoảng: dưới 3 triệu đồng; từ 3 đến dưới 5 triệu; từ 5 đến dưới 7 triệu; từ 7 triệu trở lên; không muốn trả lời.\nChỉ vào dòng “Từ 3 đến dưới 5 triệu”: “Để ý cách viết khoảng — ‘từ… đến dưới…’. Lát nữa ở phần lỗi mình gặp lại chuyện này.”\nNối với Buổi 9: hỏi theo khoảng là chấp nhận hạ cấp thang đo từ tỷ lệ xuống thứ tự — đổi lại người trả lời sẵn lòng trả lời. Với câu nhạy cảm, đó là đánh đổi hợp lý; với câu không nhạy cảm thì hỏi số cụ thể.\nLưu ý cho giảng viên: UEF #9 dùng ví dụ “Bạn bao nhiêu tuổi?” và gọi là “xâm phạm quyền riêng tư”; với sinh viên tuổi ít nhạy cảm — slide đã đổi sang ví dụ chi tiêu như tài liệu học tập và bỏ chữ “xâm phạm quyền riêng tư”."
@@ -563,7 +562,7 @@
         },
         {
           "head": "Rẽ nhánh",
-          "text": "Bỏ qua câu không liên quan"
+          "text": "Bỏ câu không liên quan"
         }
       ],
       "callout": "Số lần mua 3 tháng qua → thang GIA, CL, YD",

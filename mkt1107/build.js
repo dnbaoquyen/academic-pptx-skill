@@ -7,7 +7,8 @@
 const fs = require("fs");
 const path = require("path");
 const pptxgen = require("pptxgenjs");
-const { MIN_PT, LINE, INSET, fitSize, blockHeight, textWidthIn } = require("./lib/fit");
+const { MIN_PT, LINE, INSET, fitSize, blockHeight, textWidthIn, widestWord } = require("./lib/fit");
+let CUR = null; // context of the deck being built, for warnings from txt()
 
 const FONT = "Alexandria";
 const BG = "FBFAF4";
@@ -97,6 +98,10 @@ class Ctx {
 
 function txt(slide, text, o) {
   const pt = o.fontSize;
+  for (const p of Array.isArray(text) ? text : [text]) {
+    const ww = widestWord(plain(p).replace(/\S*(https?:|doi\.org|www\.)\S*/g, ""), pt, !!o.bold || /\*\*/.test(p));
+    if (CUR && ww > o.w - (2 * INSET) / 72 + 0.01) CUR.warn(`word too wide for its box, would break mid-word: "${plain(p).slice(0, 40)}"`);
+  }
   const base = { color: o.color || INK, bold: !!o.bold, italic: !!o.italic };
   const paras = Array.isArray(text) ? text : [text];
   const arr = [];
@@ -418,8 +423,11 @@ L.table = (ctx, pres, s) => {
   const want = [];
   for (let j = 0; j < nc; j++) {
     const cells = [header[j], ...rows.map((r) => r[j])].filter((v) => v !== undefined);
-    const widest = Math.max(...cells.map((c, k) => textWidthIn(plain(c), pt, k === 0 && header.length > 0) / 1.6));
-    want.push(Math.max(1.6, Math.min(6, widest)));
+    const bold = (k) => (k === 0 && header.length > 0) || (s.boldFirstCol && j === 0);
+    const widest = Math.max(...cells.map((c, k) => Math.max(...plain(c).split("\n").map((ln) => textWidthIn(ln, pt, bold(k)))) / 1.6));
+    const noUrl = (c) => plain(c).replace(/\S*(https?:|doi\.org|www\.)\S*/g, "");
+    const word = Math.max(...cells.map((c, k) => widestWord(noUrl(c), pt, bold(k)))) + 0.25;
+    want.push(Math.max(1.6, word, Math.min(6, widest)));
   }
   const tot = want.reduce((a, b) => a + b, 0);
   const colW = want.map((w) => (w / tot) * CW);
@@ -703,6 +711,7 @@ async function buildWeek(file, outDir) {
   const data = JSON.parse(fs.readFileSync(file, "utf8"));
   const week = path.basename(file, ".json");
   const ctx = new Ctx(week);
+  CUR = ctx;
   const pres = new pptxgen();
   pres.layout = "LAYOUT_WIDE";
   pres.theme = { headFontFace: FONT, bodyFontFace: FONT };
