@@ -633,15 +633,25 @@ L.timeline = (ctx, pres, s) => {
 
 L.references = (ctx, pres, s) => {
   const refs = s.refs || [];
-  const avail = Y1 - Y0 + 0.2;
-  const chunks = [[]];
-  let used = 0;
-  refs.forEach((r) => {
-    const h = blockHeight([plain(r)], CW - 0.5, MIN_PT) + 0.08;
-    if (used + h > avail && chunks[chunks.length - 1].length) { chunks.push([]); used = 0; }
-    chunks[chunks.length - 1].push(r);
-    used += h;
-  });
+  const maxAvail = Y1 - Y0 + 0.2;
+  const hs = refs.map((r) => blockHeight([plain(r)], CW - 0.5, MIN_PT) + 0.08);
+  const pack = (avail) => {
+    const out = [[]];
+    let used = 0;
+    refs.forEach((r, i) => {
+      if (used + hs[i] > avail && out[out.length - 1].length) { out.push([]); used = 0; }
+      out[out.length - 1].push(r);
+      used += hs[i];
+    });
+    return out;
+  };
+  // balance pages: smallest page budget that still needs no extra page
+  let chunks = pack(maxAvail);
+  const pages = chunks.length;
+  for (let a = Math.max(...hs); a < maxAvail; a += 0.05) {
+    const c = pack(a);
+    if (c.length === pages) { chunks = c; break; }
+  }
   let first = null;
   chunks.forEach((ch, k) => {
     if (k > 0) ctx.n++;

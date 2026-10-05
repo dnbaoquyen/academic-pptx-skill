@@ -23,11 +23,11 @@
       "title": "Buổi 4, AI đã đưa cho các nhóm bao nhiêu trích dẫn không tồn tại?",
       "cards": [
         {
-          "head": "Công cụ, câu lệnh?",
+          "head": "Công cụ, câu lệnh?",
           "text": "Nhóm dùng công cụ AI nào và đã ra lệnh ra sao?"
         },
         {
-          "head": "Đúng hay sai?",
+          "head": "Đúng hay sai?",
           "text": "Bao nhiêu tài liệu đúng, có thật nhưng sai, không tồn tại?"
         },
         {
@@ -91,7 +91,7 @@
         },
         {
           "head": "Ý tưởng",
-          "text": "Gợi ý khi nhóm bị bí"
+          "text": "Gợi ý khi nhóm bị bí"
         },
         {
           "head": "Mẫu hình",
@@ -230,10 +230,10 @@
         ],
         [
           "Minh bạch quy trình AI",
-          "Khai báo công cụ, mục đích; nộp nhật ký AI"
+          "Khai báo công cụ, mục đích; nộp nhật ký AI"
         ],
         [
-          "Kiểm tra thuật toán định kỳ",
+          "Kiểm tra thuật toán định kỳ",
           "Kiểm chứng từng kết quả AI với nguồn gốc"
         ]
       ],
@@ -340,7 +340,7 @@
           "text": "Social listening: thái độ tích cực, tiêu cực về thương hiệu"
         },
         {
-          "head": "Phân tích dự báo",
+          "head": "Phân tích dự báo",
           "text": "Doanh số, khả năng rời bỏ, thành công của sản phẩm mới"
         },
         {
@@ -348,7 +348,7 @@
           "text": "Khảo sát tự động, chatbot; AI làm sạch, mã hóa, phân tích"
         }
       ],
-      "callout": "AI phân tích → đề xuất, mô phỏng → doanh nghiệp quyết định",
+      "callout": "AI phân tích → đề xuất, mô phỏng → doanh nghiệp quyết định",
       "notes": "Khoảng 4 phút. Video bài giảng nêu ba nhóm ứng dụng AI trong nghiên cứu thị trường. Một, phân tích cảm xúc người tiêu dùng (consumer sentiment analysis): AI xử lý bình luận, bài đăng mạng xã hội để nhận diện thái độ tích cực hoặc tiêu cực về thương hiệu — còn gọi là lắng nghe mạng xã hội (social listening). Hai, phân tích dự báo (predictive analytics): phân tích lịch sử mua hàng để dự báo doanh số, khả năng khách hàng rời bỏ, hoặc khả năng thành công của sản phẩm mới. Ba, tự động hóa thu thập và phân tích dữ liệu: chatbot, khảo sát tự động chạy liên tục, thu thập dữ liệu web; AI hỗ trợ làm sạch, mã hóa, phân tích chủ đề. Video nêu tình huống: hệ thống khảo sát tự động liên tục thu phản hồi, AI phân tích để nhận diện xu hướng mới nổi và điểm cần cải thiện.\nTài liệu học tập bổ sung: phân khúc khách hàng, phân tích câu trả lời mở số lượng lớn, thử nghiệm A/B, cá nhân hóa quảng cáo.\nChỉ vào hộp dưới: mũi tên cuối là doanh nghiệp ra quyết định — đúng như Bài 1, nghiên cứu (kể cả có AI) không quyết định thay nhà quản trị.\nLưu ý cho giảng viên: video không nêu tên doanh nghiệp hay số liệu — không thêm ví dụ thương hiệu thật có số liệu."
     },
     {
@@ -364,8 +364,8 @@
           "text": "4 chủ đề × cảm xúc"
         },
         {
-          "head": "Kiểm tra mẫu",
-          "text": "Đọc vài trăm bình luận"
+          "head": "Người kiểm",
+          "text": "Đọc vài trăm mẫu"
         },
         {
           "head": "Giả thuyết",
@@ -392,7 +392,7 @@
       "type": "break",
       "title": "Giải lao 15 phút",
       "big": "15'",
-      "sub": "Quay lại lúc …\nMở sẵn một công cụ AI",
+      "sub": "Quay lại lúc …\nMở sẵn một công cụ AI",
       "notes": "Không giảng. Thông báo giờ quay lại (giảng viên điền giờ cụ thể vào chỗ “…” trên slide trước buổi học).\nNhắc các nhóm tranh thủ giờ giải lao kiểm tra máy: ít nhất một máy của nhóm đã đăng nhập và mở được một công cụ AI, vì sau phần câu lệnh sẽ là 45 phút thực hành nhóm “Xưởng câu lệnh” cần chạy trực tiếp trên công cụ. Nhóm nào chưa có tài khoản hoặc gặp giới hạn lượt dùng thì báo giảng viên ngay để ghép công cụ hoặc dùng chung máy.\nGiảng viên dùng giờ giải lao chuẩn bị phiếu nhóm và mẫu nhật ký AI để phát ở phần thực hành, và kiểm tra trình chiếu cho phần công cụ."
     },
     {
@@ -588,8 +588,8 @@
           "Cải thiện cái đã có"
         ],
         [
-          "**C-A-R-E**: Context – Action – Result – Example",
-          "Việc phức tạp, cần đúng mẫu"
+          "**C-A-R-E**: Context – Action – Result – Example",
+          "Việc phức tạp, cần đúng mẫu"
         ]
       ],
       "callout": "Khung = danh sách kiểm tra điều AI cần biết",
@@ -654,12 +654,12 @@
         {
           "head": "Hành động",
           "tag": "A",
-          "text": "8–10 câu hỏi mở, buổi 30 phút"
+          "text": "8–10 câu hỏi mở, buổi 30 phút"
         },
         {
           "head": "Kết quả",
           "tag": "R",
-          "text": "3 phần; mỗi câu có câu gợi mở"
+          "text": "3 phần; mỗi câu có câu gợi mở"
         },
         {
           "head": "Ví dụ",
@@ -850,7 +850,7 @@
         },
         {
           "head": "Checklist",
-          "text": "Theo chủ đề · đọc bản gốc · APA 7 · nhật ký AI · khai báo · hướng dự kiến"
+          "text": "Theo chủ đề · đọc bản gốc · APA 7 · nhật ký AI · khai báo · hướng dự kiến"
         },
         {
           "head": "Buổi 6",

@@ -53,7 +53,7 @@
         },
         {
           "head": "Phương pháp định lượng",
-          "text": "Khảo sát, nhóm cố định, thử nghiệm"
+          "text": "Khảo sát, nhóm cố định, thử nghiệm"
         },
         {
           "head": "Chọn phương pháp",
@@ -83,7 +83,7 @@
         "head": "Sơ cấp — tự thu thập",
         "items": [
           "Định tính: quan sát, thảo luận nhóm, phỏng vấn sâu",
-          "Định lượng: khảo sát, nhóm cố định, thử nghiệm"
+          "Định lượng: khảo sát, nhóm cố định, thử nghiệm"
         ]
       },
       "notes": "Đây là bản đồ cả buổi. Mọi dữ liệu dùng trong nghiên cứu marketing thuộc một trong hai loại. Dữ liệu thứ cấp đã có sẵn, nằm bên trong hoặc bên ngoài doanh nghiệp. Dữ liệu sơ cấp do mình tự thu: định tính gồm quan sát, thảo luận nhóm, phỏng vấn sâu; định lượng gồm khảo sát, nhóm cố định, thử nghiệm.\nNguyên tắc nhớ cả đời: luôn tìm dữ liệu thứ cấp trước, chỉ thu thập dữ liệu sơ cấp cho phần thông tin mà dữ liệu thứ cấp không trả lời được. Tự thu dữ liệu tốn thời gian, tiền bạc và công sức của người trả lời.\nNói: \"Không ai nên đi hỏi lại 300 người điều mà cơ quan thống kê đã công bố.\"\nNhắc lớp: mỗi khi chuyển phần trong buổi hôm nay, chúng ta sẽ quay lại sơ đồ này để biết mình đang ở đâu — trước giải lao là thứ cấp và quan sát; sau giải lao là thảo luận nhóm, phỏng vấn sâu và các phương pháp định lượng."
@@ -171,7 +171,7 @@
         },
         {
           "head": "Hiệp hội",
-          "text": "Hiệp hội ngành hàng"
+          "text": "Hiệp hội ngành hàng"
         },
         {
           "head": "Học thuật",
@@ -248,15 +248,15 @@
         },
         {
           "head": "Vì sao",
-          "text": "Lợi ích thương mại?"
+          "text": "Lợi ích thương mại?"
         },
         {
           "head": "Đo thế nào",
-          "text": "Mẫu, cách hỏi, năm"
+          "text": "Mẫu, cách hỏi, năm"
         },
         {
           "head": "Đối chiếu",
-          "text": "Nguồn độc lập"
+          "text": "Nguồn độc lập"
         }
       ],
       "callout": "Con số có quá đẹp, quá lạ không?",
@@ -353,7 +353,7 @@
         "Bài đăng trên trang mạng xã hội của thương hiệu mỹ phẩm X: “9/10 khách hàng hài lòng với sản phẩm của chúng tôi.”",
         "Không nói khảo sát ai, bao nhiêu người, khi nào."
       ],
-      "question": "Dùng được, có điều kiện, hay bỏ? Tiêu chuẩn nào?",
+      "question": "Dùng được, có điều kiện, hay bỏ? Tiêu chuẩn nào?",
       "notes": "Đọc to mẩu 1, cho 30 giây, đếm 3–2–1.\nĐáp án: Bỏ (3 ngón). Không đạt tiêu chuẩn chính xác: không có phương pháp, không biết mẫu; người công bố có lợi ích thương mại, tức xung đột lợi ích — giống ví dụ \"9/10 mẹ tin dùng\". Có thể còn không phù hợp: mức hài lòng với sản phẩm của một thương hiệu khác với ý định mua mỹ phẩm nội địa nói chung.\nGọi một bạn giơ 3 ngón giải thích. Nếu có bạn giơ 2 ngón, hỏi: \"Điều kiện gì có thể làm con số này dùng được?\" — Gần như không có, trừ khi tìm được khảo sát gốc có phương pháp công bố.\nCâu hỏi thảo luận chung (nếu còn giờ): \"Nếu nhóm bạn chỉ tìm được số liệu kiểu mẩu 1 thì làm gì?\" Mong đợi: truy nguồn gốc; tìm nguồn khác như cơ quan nhà nước, hiệp hội, bài báo khoa học; nếu không có thì không dùng — và đó có thể chính là lý do nhóm cần thu dữ liệu sơ cấp."
     },
     {
@@ -361,7 +361,7 @@
       "title": "Mẩu 2: báo cáo của công ty nghiên cứu, có mô tả phương pháp",
       "label": "Mẩu 2",
       "scenario": [
-        "Báo cáo của một công ty nghiên cứu thị trường, công bố cách đây khoảng 7 năm.",
+        "Báo cáo của một công ty nghiên cứu thị trường, công bố cách đây khoảng 7 năm.",
         "Khảo sát 1.000 người 18–35 tuổi tại Hà Nội và TP.HCM về thói quen mua mỹ phẩm trực tuyến; có mô tả cách chọn mẫu, cách hỏi."
       ],
       "question": "Số liệu thật, phương pháp rõ — vậy dùng ngay được chưa?",
@@ -375,7 +375,7 @@
         "Bài báo khoa học công bố gần đây trên tạp chí có phản biện.",
         "Khảo sát sinh viên tại TP.HCM về ý định mua mỹ phẩm nội địa; mô tả rõ mẫu, thang đo và phương pháp."
       ],
-      "question": "Dùng được, có điều kiện, hay bỏ? Còn cần làm gì?",
+      "question": "Dùng được, có điều kiện, hay bỏ? Còn cần làm gì?",
       "notes": "Đọc to mẩu 3, cho 30 giây, đếm 3–2–1.\nĐáp án: Dùng được (1 ngón). Đạt cả bốn tiêu chuẩn: đúng đối tượng, đúng địa bàn (cụ thể, phù hợp); có phản biện và phương pháp rõ (chính xác); công bố gần đây (thời sự). Vẫn nên đối chiếu nếu dùng một con số quan trọng, và trích chính bài báo này theo APA 7.\nNếu lớp đúng hết cả ba mẩu, hỏi thêm: \"Mẩu 3 có thể không phù hợp trong trường hợp nào?\" Ví dụ nhóm nghiên cứu riêng nam sinh viên, hoặc nghiên cứu mỹ phẩm ngoại.\nChốt hoạt động, khoảng 30 giây: \"Ba mẩu, ba kết luận khác nhau — và lý do luôn gọi được bằng tên một tiêu chuẩn. Trong thực hành cuối buổi, các nhóm làm đúng như vậy với nguồn của mình.\"\nChuyển ý: thứ cấp không đủ thì phải tự thu — sang dữ liệu sơ cấp."
     },
     {
@@ -546,7 +546,7 @@
       "title": "Dân tộc học: sống cùng khách hàng để thấy điều họ không tự nói ra",
       "label": "Minh họa",
       "scenario": [
-        "Dân tộc học: hòa mình vào môi trường tự nhiên của khách hàng, quan sát và trò chuyện.",
+        "Dân tộc học: hòa mình vào môi trường tự nhiên của khách hàng, quan sát và trò chuyện.",
         "Nhà nghiên cứu đi đường dài nhiều ngày cùng người chạy xe Harley-Davidson.",
         "Họ thấy: Harley không chỉ bán xe, mà bán một phong cách sống."
       ],
@@ -559,7 +559,7 @@
       "left": {
         "head": "Điều khách nói",
         "items": [
-          "Trong khảo sát, thảo luận nhóm",
+          "Trong khảo sát, thảo luận nhóm",
           "“Muốn muỗng sắc hơn để múc kem cứng”"
         ]
       },
@@ -662,12 +662,12 @@
       "title": "Trong nhóm, người ta dễ nói theo đám đông",
       "cards": [
         {
-          "head": "Thí nghiệm Asch",
-          "text": "Câu hỏi dễ, nhưng nhiều người theo đáp án sai của số đông (Asch, 1956)"
+          "head": "Asch (1956)",
+          "text": "Thí nghiệm: câu hỏi dễ, nhưng nhiều người theo đáp án sai của số đông"
         },
         {
-          "head": "Trong thảo luận",
-          "text": "Người nói đầu tiên đặt “tông” cho cả nhóm"
+          "head": "Mở lời",
+          "text": "Người nói đầu tiên đặt “tông” cho cả nhóm"
         },
         {
           "head": "Cách giảm",
@@ -859,20 +859,20 @@
       "title": "Thử nghiệm: chủ động đổi một yếu tố, chia nhóm ngẫu nhiên, so với nhóm đối chứng",
       "steps": [
         {
-          "head": "Chia ngẫu nhiên",
+          "head": "Chia ngẫu nhiên",
           "text": "Hai nhóm tương đương"
         },
         {
-          "head": "Nhóm thử nghiệm",
+          "head": "Nhóm thử nghiệm",
           "text": "Xem quảng cáo mới"
         },
         {
-          "head": "Nhóm đối chứng",
+          "head": "Nhóm đối chứng",
           "text": "Xem quảng cáo cũ"
         },
         {
           "head": "So sánh",
-          "text": "Kết quả hai nhóm"
+          "text": "Kết quả hai nhóm"
         }
       ],
       "callout": "Ba loại: trong phòng · hiện trường · A/B trực tuyến",
@@ -885,7 +885,7 @@
       "scenario": [
         "Một chuỗi trà sữa giảm giá 20% trong tháng 6.",
         "Doanh số tháng 6 tăng mạnh so với tháng 5.",
-        "Giám đốc kết luận: “Giảm giá hiệu quả!”"
+        "Giám đốc kết luận: “Giảm giá hiệu quả!”"
       ],
       "question": "Kết luận đúng chưa? Còn điều gì có thể làm doanh số tăng?",
       "notes": "Kể tình huống giả định, hỏi lớp trước khi giải thích. Một chuỗi trà sữa giảm giá 20% trong tháng 6, doanh số tháng 6 tăng mạnh so với tháng 5. Giám đốc kết luận: \"Giảm giá hiệu quả!\" — Đúng không?\nChờ 2–3 câu trả lời. Mong đợi: tháng 6 sinh viên nghỉ hè, thi xong; trời nóng; đối thủ đóng cửa sửa chữa… — có thể có biến thứ ba làm doanh số tăng.\nKể thêm trường hợp tương tự từ video: một hãng ô tô ở nước ngoài giảm giá đúng vào thời điểm có bão tuyết lớn trong vùng — doanh số tăng, nhưng không ai tách được bao nhiêu là do giảm giá, bao nhiêu là do bão. Không dùng con số cụ thể.\nNói: \"Vấn đề không phải giảm giá có hiệu quả hay không — mà là với dữ liệu này, ta không biết.\" Chuyển sang slide ba điều kiện nhân quả.\nLưu ý cho giảng viên: video nêu là Subaru và các nguồn đưa con số khác nhau — chỉ dùng logic \"biến thứ ba\", không nêu số."
@@ -895,15 +895,15 @@
       "title": "Ba điều kiện để nói “giảm giá làm tăng doanh số”",
       "cards": [
         {
-          "head": "Đi cùng nhau",
-          "text": "Hai yếu tố có tương quan"
+          "head": "Tương quan",
+          "text": "Hai yếu tố thay đổi cùng nhau"
         },
         {
           "head": "Nhân trước, quả sau",
           "text": "Giảm giá xảy ra trước khi doanh số tăng"
         },
         {
-          "head": "Loại trừ cái khác",
+          "head": "Loại trừ cái khác",
           "text": "Nghỉ hè, trời nóng, đối thủ đóng cửa?"
         }
       ],
@@ -928,12 +928,12 @@
         },
         {
           "head": "Định lượng",
-          "text": "Khảo sát mẫu lớn, kiểm tra trên diện rộng",
+          "text": "Khảo sát mẫu lớn, kiểm tra trên diện rộng",
           "tag": "2"
         },
         {
           "head": "Định tính",
-          "text": "Giải thích kết quả bất ngờ của khảo sát",
+          "text": "Giải thích kết quả bất ngờ của khảo sát",
           "tag": "3"
         }
       ],
@@ -1071,7 +1071,7 @@
         },
         {
           "head": "Mô tả",
-          "text": "Khoảng 1 trang: nguồn, phương pháp, lý do, đạo đức"
+          "text": "Khoảng 1 trang: nguồn, phương pháp, lý do, đạo đức"
         },
         {
           "head": "Hạn nộp",

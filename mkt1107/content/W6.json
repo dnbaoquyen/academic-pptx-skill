@@ -147,7 +147,7 @@
           "text": "Một câu"
         },
         {
-          "head": "Mục tiêu cụ thể",
+          "head": "Mục tiêu cụ thể",
           "text": "2–4, động từ đo được"
         },
         {
@@ -156,7 +156,7 @@
         },
         {
           "head": "Giả thuyết",
-          "text": "Chỉ có ở định lượng"
+          "text": "Chỉ có ở định lượng"
         }
       ],
       "callout": "Dùng: xác định, đo lường, so sánh, đề xuất",
@@ -259,15 +259,15 @@
       "title": "Chưa biết nên hỏi gì thì bắt đầu bằng khám phá",
       "cards": [
         {
-          "head": "Biết mình biết",
-          "text": "Không cần nghiên cứu"
+          "head": "Đã biết rõ",
+          "text": "Không cần nghiên cứu"
         },
         {
-          "head": "Biết mình chưa biết",
-          "text": "Mô tả hoặc nhân quả"
+          "head": "Biết mình thiếu gì",
+          "text": "Mô tả hoặc nhân quả"
         },
         {
-          "head": "Chưa biết mình chưa biết",
+          "head": "Chưa rõ thiếu gì",
           "text": "Khám phá"
         }
       ],
@@ -295,7 +295,7 @@
       "title": "Muốn nói “A gây ra B” phải đủ ba điều kiện",
       "steps": [
         {
-          "head": "Biến thiên đồng thời",
+          "head": "Biến thiên đồng thời",
           "text": "A và B thay đổi cùng nhau"
         },
         {
@@ -327,7 +327,7 @@
       "title": "Cùng tăng chưa chắc là nhân quả: hãy tìm biến thứ ba",
       "cards": [
         {
-          "head": "Ngủ mang giày → đau đầu?",
+          "head": "Ngủ mang giày → đau đầu?",
           "text": "Biến thứ ba: **say rượu**"
         },
         {
@@ -354,7 +354,7 @@
         ]
       },
       "vs": true,
-      "callout": "Dự án khảo sát một lần: viết “có liên hệ”, không viết “làm tăng”",
+      "callout": "Dự án khảo sát một lần: viết “có liên hệ”, không viết “làm tăng”",
       "notes": "Khoảng 2 phút. Vì sao thử nghiệm giải quyết được vấn đề biến thứ ba? Video kể một shop thời trang trực tuyến (video gọi là StyleNest) chia ngẫu nhiên khách truy cập thành hai nhóm: một nhóm xem ảnh người mẫu mặc váy, nhóm kia xem váy treo trên móc. Vì chia ngẫu nhiên, hai nhóm giống nhau về mọi mặt trừ kiểu ảnh — mọi “biến thứ ba” (tuổi, thu nhập, sở thích) phân bố đều ở hai bên. Nếu tỷ lệ mua khác nhau, có thể quy cho kiểu ảnh.\nNhấn hộp “áp dụng cho dự án”: nhóm định lượng khảo sát một lần (mô tả + tương quan) không được viết “yếu tố X làm tăng ý định mua” như một kết luận nhân quả đã chứng minh. Viết: “X có liên hệ tích cực với ý định mua” hoặc “dữ liệu ủng hộ giả thuyết H1”. Và ghi điều này vào phần giới hạn của đề cương (4.3.6).\nLưu ý cho giảng viên: không nêu mức tăng tỷ lệ mua trong video — chưa kiểm chứng."
     },
     {
@@ -408,7 +408,7 @@
       "title": "Tình huống 2: ví điện tử muốn biết sinh viên dùng ví ra sao",
       "label": "Tình huống 2",
       "scenario": [
-        "Một ví điện tử muốn biết bao nhiêu phần trăm sinh viên TP.HCM đang dùng ví, mỗi tháng giao dịch mấy lần, chi bao nhiêu tiền mỗi lần."
+        "Một ví điện tử muốn biết bao nhiêu phần trăm sinh viên TP.HCM đang dùng ví, mỗi tháng giao dịch mấy lần, chi bao nhiêu tiền mỗi lần."
       ],
       "question": "Khám phá, mô tả, nhân quả — hay nắm tay?",
       "notes": "Đọc tình huống, 30 giây cho các cặp bàn, rồi đếm 3–2–1.\nĐáp án: mô tả — 2 ngón. Dấu hiệu nhận biết: “bao nhiêu phần trăm”, “mấy lần”, “bao nhiêu tiền” — đo đặc điểm của một nhóm người. Doanh nghiệp đã biết rõ cần đo cái gì, chỉ cần con số — thường dùng khảo sát bằng bảng hỏi có cấu trúc.\nNối với dự án: đây là kiểu câu hỏi “ai, cái gì, bao nhiêu” mà đa số nhóm định lượng sẽ trả lời ở phần phân tích mô tả (tần số, tỷ lệ phần trăm, trung bình).\nNói đáp án trong một câu rồi chuyển sang tình huống 3."
@@ -453,7 +453,7 @@
       "label": "Tình huống 6",
       "scenario": [
         "Một quán trà sữa giảm giá 20% đúng tuần sinh viên vừa thi xong. Doanh số tuần đó tăng gấp rưỡi.",
-        "Chủ quán kết luận: “Giảm giá giúp tăng doanh số, tháng sau giảm giá tiếp.”"
+        "Chủ quán kết luận: “Giảm giá giúp tăng doanh số, tháng sau giảm giá tiếp.”"
       ],
       "question": "Khám phá, mô tả, nhân quả — hay nắm tay?",
       "notes": "Đọc tình huống, 30 giây cho các cặp bàn, rồi đếm 3–2–1. Tình huống trọng tâm thứ hai — chữa kỹ.\nĐáp án: nắm tay — chưa đủ. Điều kiện 1 và 2 đạt: giảm giá có trước, doanh số tăng sau. Điều kiện 3 không đạt: tuần sau thi sinh viên đi chơi nhiều — một nguyên nhân khác chưa loại trừ. Giống ví dụ “hoàn tiền hay bão tuyết”.\nGợi ý cách làm đúng: giảm giá ở một số tuần bình thường, hoặc giảm giá ở một chi nhánh và so sánh với chi nhánh không giảm giá cùng thời điểm — ý tưởng nhóm đối chứng, học thêm ở Bài 5.\nHỏi câu thảo luận chung: “Nghiên cứu của nhóm bạn giống tình huống nào nhất? Nhóm sẽ ghi gì ở mục 4.3.2 của đề cương?” Mời 1–2 nhóm trả lời, rồi chiếu bảng đáp án."
@@ -624,7 +624,7 @@
         "items": [
           "**Xác định và đo lường** ảnh hưởng đến ý định mua mỹ phẩm nội địa",
           "**Sinh viên tại TP.HCM**",
-          "Khảo sát **trong học kỳ này**"
+          "Khảo sát **trong học kỳ này**"
         ]
       },
       "vs": true,
@@ -890,11 +890,11 @@
         },
         {
           "tag": "B7",
-          "text": "B7–8: thu thập, mẫu"
+          "text": "B7–8: thu thập, mẫu"
         },
         {
           "tag": "B9",
-          "text": "B9–10: thang đo, nháp"
+          "text": "B9–10: thang đo, nháp"
         },
         {
           "tag": "B11",
@@ -912,7 +912,7 @@
         },
         {
           "tag": "Sau",
-          "text": "Sau B13: viết báo cáo"
+          "text": "Sau B13: viết báo cáo"
         }
       ],
       "callout": "Hai mốc cứng: nộp giữa kỳ trước B11, thu xong dữ liệu trước B13",
@@ -1041,7 +1041,7 @@
       "cards": [
         {
           "head": "M4",
-          "text": "Đề cương 4.3.1–4.3.9 · nhóm · 7,5% · nộp LMS, hạn …"
+          "text": "Đề cương 4.3.1⁠–⁠4.3.9 · nhóm · 7,5% · nộp LMS, hạn …"
         },
         {
           "head": "Tự học",
@@ -1049,7 +1049,7 @@
         },
         {
           "head": "Buổi 7",
-          "text": "Thu thập dữ liệu — mang theo đề cương"
+          "text": "Thu thập dữ liệu — mang theo đề cương"
         }
       ],
       "notes": "Bài tập M4 — Đề cương nghiên cứu (nhóm, 7,5%): viết đề cương đủ 9 nội dung 4.3.1–4.3.9 theo khung mẫu, nộp trên LMS sau Buổi 6. Đề bài, khung đề cương và tiêu chí chấm có trong đề M4. Tự học: tài liệu học tập Bài 4 và tài liệu đọc thêm của Buổi 6.\nNói: “Phiếu nhóm hôm nay là bản nháp của ba mục; về nhà viết nốt sáu mục còn lại theo khung mẫu.”\nNối sang buổi sau: “Buổi 7 học thu thập dữ liệu — dữ liệu thứ cấp và các phương pháp sơ cấp. Các bạn sẽ hoàn thiện mục 4.3.2 và viết phần bối cảnh có số liệu thứ cấp. Mang theo đề cương của nhóm.”\nLưu ý cho giảng viên: điền hạn nộp cụ thể (ngày giờ) vào chỗ “…” và nêu quy định nộp trễ."
