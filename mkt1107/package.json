@@ -1,0 +1,7 @@
+{
+  "name": "mkt1107-slides",
+  "private": true,
+  "description": "Builds the MKT1107 lecture decks from content/*.json",
+  "scripts": { "build": "node build.js" },
+  "dependencies": { "pptxgenjs": "^4.0.1" }
+}
