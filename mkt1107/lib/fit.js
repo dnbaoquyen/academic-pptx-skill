@@ -15,7 +15,8 @@ function textWidthIn(str, pt, bold) {
 
 // Greedy word wrap; returns number of lines for one paragraph.
 function countLines(text, widthIn, pt, bold) {
-  const words = String(text).split(/\s+/).filter(Boolean);
+  // split on breakable whitespace only: U+00A0 keeps words together, as in PowerPoint
+  const words = String(text).split(/[ \t\n\r]+/).filter(Boolean);
   if (!words.length) return 1;
   const space = textWidthIn(" ", pt, bold);
   let lines = 1;

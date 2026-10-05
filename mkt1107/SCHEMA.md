@@ -20,7 +20,8 @@ Trường chung cho mọi slide:
 - `notes` — **bắt buộc**, lời giảng (speaker notes) tiếng Việt, văn xuôi, đủ để giảng viên khác
   cầm lên giảng được: nói gì, hỏi lớp câu gì, chờ bao lâu, chuyển ý thế nào, lưu ý thời gian.
   Thường 80–250 từ. Dùng `\n` để xuống dòng giữa các ý.
-- Trong mọi chuỗi hiển thị có thể dùng `**đậm**` và `*nghiêng*`.
+- Trong mọi chuỗi hiển thị có thể dùng `**đậm**` và `*nghiêng*`; dấu sao thật viết `\\*` trong JSON
+  (vd công thức Excel). Dấu cách không ngắt (U+00A0) giữ hai từ trên cùng một dòng.
 
 ## Các loại slide
 
@@ -30,19 +31,19 @@ Trường chung cho mọi slide:
 | `section` | `tag` (≤ 3 ký tự, vd "S3"), `kicker` (vd "15–40 phút"), `title` | title ≤ 70 |
 | `bullets` | `title`, `bullets`: chuỗi hoặc `{head, text}`, `numbered` (bool), `callout` | ≤ 5 ý, mỗi ý ≤ 90 ký tự |
 | `cards` | `title`, `cards`: `[{head, text, tag?}]`, `callout` | 2–3 thẻ: text ≤ 110; 4 thẻ (2×2): ≤ 70; 5–6 thẻ (3×2): head ≤ 22, text ≤ 45 |
-| `compare` | `title`, `left`/`right`: `{head, items[]}`, `vs` (bool), `callout` | ≤ 4 ý/cột, mỗi ý ≤ 50 |
-| `steps` | `title`, `steps`: `[{head, text?, tag?}]`, `direction` ("h"/"v", tùy chọn), `callout` | ngang (≤ 4 bước có text): head ≤ 20, text ≤ 60; dọc (5–7 bước): head + text ≤ 85 |
+| `compare` | `title`, `left`/`right`: `{head, items[]}`, `vs` (bool), `callout` | ≤ 4 ý/cột (≤ 3 nếu có callout), mỗi ý ≤ 50 |
+| `steps` | `title`, `steps`: `[{head, text?, tag?}]`, `direction` ("h"/"v", tùy chọn), `callout` | ngang (≤ 4 bước có text): head ≤ 20, text ≤ 60; dọc (5–6 bước): head + text ≤ 85 |
 | `table` | `title`, `header[]`, `rows[][]`, `boldFirstCol`, `callout` | ≤ 4 cột, ≤ 5 dòng, ô ≤ 35 ký tự |
 | `statement` | `title` (tùy chọn), `big`, `sub`, `mark` ("?", "!", "“") | big ≤ 130, sub ≤ 120 |
 | `case` | `title`, `label` (mặc định "Tình huống"), `scenario` (chuỗi hoặc mảng câu), `question` | scenario ≤ 260, question ≤ 90 |
 | `model` | `title`, `inputsLabel`, `inputs[]`, `mediator?`, `outputLabel`, `output`, `callout` | ≤ 5 biến, mỗi biến ≤ 28 |
 | `stat` | `title`, `stats`: `[{value, label}]`, `callout` | 2–4 số; value ≤ 5 ký tự; label ≤ 45 |
 | `timeline` | `title`, `items`: `[{tag, text, highlight?}]`, `callout` | ≤ 8 mốc; tag ≤ 3 ký tự; text ≤ 30 |
-| `activity` | `title`, `stages`: `[{time, text}]`, `product` | ≤ 5 chặng, text ≤ 80 |
+| `activity` | `title`, `stages`: `[{time, text}]`, `product` | ≤ 5 chặng (≤ 4 nếu có product), text ≤ 80 |
 | `break` | `title`, `big` (mặc định "15'"), `sub` | |
 | `references` | `title` (mặc định "Tài liệu tham khảo"), `refs[]` (APA 7, tên sách/tạp chí trong `*...*`) | builder tự tách sang slide "(tiếp)" |
 
-`callout` là một câu chốt (≤ 110 ký tự) hiển thị trong hộp nổi bật bên dưới nội dung.
+`callout` là một câu chốt (≤ 110 ký tự; ≤ 50 ký tự thì vừa một dòng) hiển thị trong hộp nổi bật bên dưới nội dung.
 
 ## Quy tắc nội dung
 - Một thông điệp mỗi slide; chữ trên slide chỉ là điểm tựa, phần giải thích nằm trong `notes`.

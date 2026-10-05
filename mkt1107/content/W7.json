@@ -119,7 +119,7 @@
         "head": "Hạn chế",
         "items": [
           "Lệch câu hỏi của mình",
-          "Định nghĩa, phân nhóm khác",
+          "Định nghĩa, cách chia khác",
           "Có thể đã cũ",
           "Chính xác tùy người thu"
         ]
@@ -586,7 +586,7 @@
       "tag": "S5",
       "kicker": "63–80 phút",
       "title": "Thảo luận nhóm và phỏng vấn sâu",
-      "notes": "Phần S5 khoảng 17 phút: thảo luận nhóm tập trung (định nghĩa, vai trò người điều phối, hiệu ứng tuân thủ đám đông), phỏng vấn sâu (điểm mạnh, điểm yếu, ba kỹ năng), một hoạt động nhỏ 3 phút sửa ba câu hỏi lỗi, và khi nào chọn phương pháp nào.\nSlide UEF dừng ở phần quan sát — toàn bộ phần này dùng slide bổ sung. Mở phần bằng câu hỏi đã gợi trong giờ giải lao."
+      "notes": "Phần S5 khoảng 17 phút: thảo luận nhóm tập trung (định nghĩa, vai trò người điều phối, hiệu ứng tuân thủ đám đông), phỏng vấn sâu (điểm mạnh, điểm yếu, ba kỹ năng), một hoạt động nhỏ 3 phút sửa ba câu hỏi lỗi, và khi nào chọn phương pháp nào.\nSlide UEF dừng ở phần quan sát — toàn bộ phần này dùng slide bổ sung. Mở phần bằng câu hỏi đã gợi trong giờ giải lao.\nNhắc lớp: phần này nối trực tiếp với thực hành cuối buổi — mỗi bạn sẽ đóng vai phỏng vấn sâu 5 phút, nên chú ý ba kỹ năng và ba loại câu hỏi cần tránh."
     },
     {
       "type": "compare",
@@ -785,7 +785,7 @@
       "tag": "S6",
       "kicker": "80–92 phút",
       "title": "Nghiên cứu định lượng",
-      "notes": "Phần S6 khoảng 12 phút: khảo sát với bốn hình thức và cách khắc phục nhược điểm của khảo sát online; nhóm cố định; thử nghiệm với nhóm thử nghiệm, nhóm đối chứng, phân nhóm ngẫu nhiên và tình huống \"biến thứ ba\".\nNói: \"Định tính trả lời 'vì sao'. Giờ sang các phương pháp trả lời 'bao nhiêu' và 'có gây ra không'.\" Nếu trễ giờ, phần nhóm cố định chỉ nêu định nghĩa một câu."
+      "notes": "Phần S6 khoảng 12 phút: khảo sát với bốn hình thức và cách khắc phục nhược điểm của khảo sát online; nhóm cố định; thử nghiệm với nhóm thử nghiệm, nhóm đối chứng, phân nhóm ngẫu nhiên và tình huống \"biến thứ ba\".\nNói: \"Định tính trả lời 'vì sao'. Giờ sang các phương pháp trả lời 'bao nhiêu' và 'có gây ra không'.\" Nếu trễ giờ, phần nhóm cố định chỉ nêu định nghĩa một câu.\nNhắc lớp: phần lớn các nhóm định lượng sẽ làm khảo sát trực tuyến, nên slide về bốn việc cần ghi rõ trong phần phương pháp là phần các nhóm dùng ngay."
     },
     {
       "type": "table",
@@ -915,7 +915,7 @@
       "tag": "S7",
       "kicker": "92–100 phút",
       "title": "Hỗn hợp, chọn phương pháp, đạo đức",
-      "notes": "Phần S7 khoảng 8 phút: phương pháp hỗn hợp (2 phút), chọn phương pháp theo câu hỏi kèm kiểm tra nhanh giơ tay (3 phút), và năm nguyên tắc đạo đức khi thu dữ liệu sơ cấp (3 phút).\nĐây là phần nối kiến thức với dự án: sau phần này các nhóm phải tự chọn và biện luận phương pháp trong thực hành. Phần đạo đức không cắt khi trễ giờ."
+      "notes": "Phần S7 khoảng 8 phút: phương pháp hỗn hợp (2 phút), chọn phương pháp theo câu hỏi kèm kiểm tra nhanh giơ tay (3 phút), và năm nguyên tắc đạo đức khi thu dữ liệu sơ cấp (3 phút).\nĐây là phần nối kiến thức với dự án: sau phần này các nhóm phải tự chọn và biện luận phương pháp trong thực hành. Phần đạo đức không cắt khi trễ giờ.\nChuẩn bị sẵn quy ước giơ tay 1–5 ngón cho phần kiểm tra nhanh; quy ước này trùng với thứ tự các dòng trong bảng chọn phương pháp."
     },
     {
       "type": "steps",
@@ -981,7 +981,7 @@
         "Bao nhiêu % sinh viên UEF đặt đồ ăn online ≥ 3 lần/tuần?",
         "Đổi ảnh bìa sang ảnh người dùng có tăng lượt nhấp không?",
         "Khách đứng chọn đồ uống ở quầy tự phục vụ bao lâu?",
-        "Thói quen mua online của một nhóm đổi ra sao qua 12 tháng?"
+        "Mua sắm online của một nhóm đổi ra sao qua 12 tháng?"
       ],
       "notes": "Giảng viên đọc từng câu hỏi nghiên cứu (giả định); lớp giơ tay theo quy ước: 1 ngón = phỏng vấn sâu hoặc thảo luận nhóm; 2 = quan sát; 3 = khảo sát; 4 = nhóm cố định; 5 = thử nghiệm. Mỗi câu khoảng 20 giây.\nĐáp án. Câu 1, vì sao sinh viên chuyển ví điện tử: 1 ngón — phỏng vấn sâu. Câu 2, bao nhiêu phần trăm sinh viên UEF đặt đồ ăn qua ứng dụng ít nhất 3 lần mỗi tuần: 3 ngón — khảo sát. Câu 3, đổi ảnh bìa bài đăng từ ảnh sản phẩm sang ảnh người dùng có làm tăng lượt nhấp: 5 ngón — thử nghiệm A/B. Câu 4, khách ở quầy tự phục vụ của cửa hàng tiện lợi đứng chọn đồ uống bao lâu, cầm lên đặt xuống mấy lần: 2 ngón — quan sát. Câu 5, thói quen mua sắm trực tuyến của một nhóm người tiêu dùng thay đổi thế nào qua 12 tháng: 4 ngón — nhóm cố định.\nNếu lớp chia rẽ ở câu 2 — có bạn chọn 1: chỉ ra \"bao nhiêu phần trăm\" là dấu hiệu định lượng. Chốt lại: câu hỏi quyết định phương pháp."
     },
@@ -1048,7 +1048,7 @@
       "tag": "S9",
       "kicker": "145–150 phút",
       "title": "Kết buổi",
-      "notes": "Năm phút cuối: phiếu ra về, giao bài tập về nhà theo lộ trình dự án và nối sang Buổi 8. Phát phiếu giấy nhỏ cho từng bạn ngay khi chặng chia sẻ kết thúc để tiết kiệm thời gian.\nKhông cắt phần này khi trễ giờ: phiếu ra về là cách giảng viên kiểm tra mục tiêu cốt lõi của buổi — nhóm có chọn phương pháp xuất phát từ câu hỏi nghiên cứu hay không."
+      "notes": "Năm phút cuối: phiếu ra về, giao bài tập về nhà theo lộ trình dự án và nối sang Buổi 8. Phát phiếu giấy nhỏ cho từng bạn ngay khi chặng chia sẻ kết thúc để tiết kiệm thời gian.\nKhông cắt phần này khi trễ giờ: phiếu ra về là cách giảng viên kiểm tra mục tiêu cốt lõi của buổi — nhóm có chọn phương pháp xuất phát từ câu hỏi nghiên cứu hay không.\nNếu còn thời gian, nhắc lại một câu: dữ liệu thứ cấp trước, sơ cấp sau, và câu hỏi quyết định phương pháp."
     },
     {
       "type": "bullets",

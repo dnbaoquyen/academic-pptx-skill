@@ -58,7 +58,8 @@ function runs(text, base = {}) {
   const re = /(\*\*.+?\*\*(?!\*)|\*[^*]+\*)/g;
   let last = 0;
   let m;
-  const s = String(text ?? "");
+  // "\\*" in content is a literal asterisk (e.g. Excel formulas)
+  const s = String(text ?? "").replace(/\\\*/g, "\u2217");
   while ((m = re.exec(s))) {
     if (m.index > last) out.push({ text: s.slice(last, m.index), options: { ...base } });
     const t = m[0];
@@ -67,9 +68,10 @@ function runs(text, base = {}) {
     last = m.index + t.length;
   }
   if (last < s.length) out.push({ text: s.slice(last), options: { ...base } });
+  out.forEach((r) => (r.text = r.text.replace(/\u2217/g, "*")));
   return out.length ? out : [{ text: "", options: { ...base } }];
 }
-const plain = (t) => String(t ?? "").replace(/\*\*(.+?)\*\*(?!\*)/g, "$1").replace(/\*([^*]+)\*/g, "$1");
+const plain = (t) => String(t ?? "").replace(/\\\*/g, "\u2217").replace(/\*\*(.+?)\*\*(?!\*)/g, "$1").replace(/\*([^*]+)\*/g, "$1");
 
 class Ctx {
   constructor(week) {
