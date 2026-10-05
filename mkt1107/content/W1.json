@@ -1,0 +1,962 @@
+{
+  "deckTitle": "MKT1107 · Buổi 1 · Tổng quan về nghiên cứu Marketing",
+  "fileName": "MKT1107_W01_slides.pptx",
+  "slides": [
+    {
+      "type": "cover",
+      "lessonTag": "Buổi",
+      "number": 1,
+      "title": "Bài 1: Tổng quan về nghiên cứu Marketing",
+      "subtitle": "MKT1107 · Nghiên cứu Marketing",
+      "presenter": "GV: Đoàn Nguyễn Bảo Quyên",
+      "notes": "Slide mở màn, không giảng. Chào lớp thật ngắn, tự giới thiệu bằng một câu nếu đây là lần đầu gặp lớp, nhưng chưa giới thiệu môn học, chưa nói mục tiêu hay cách đánh giá.\nChuyển ngay sang slide tình huống tiếp theo: buổi học mở đầu bằng một câu chuyện để sinh viên tự phát hiện vấn đề trước, phần giới thiệu học phần để sau (S2, phút 5–15).\nLưu ý thời gian: toàn bộ phần khởi động S1 chỉ có 5 phút (0–5'), nên slide này dừng không quá 15 giây.\nLưu ý cho giảng viên: slide này thay cho slide bìa UEF #1; đã xóa chữ “Academic Blueprint” ở chân slide gốc."
+    },
+    {
+      "type": "case",
+      "title": "Hỏi 1.000 khách hàng giàu về điện thoại giá rẻ: kết quả sai ở đâu?",
+      "scenario": [
+        "Một hãng điện thoại sắp tung ra dòng máy giá rẻ.",
+        "Nhóm nghiên cứu khảo sát khách tại các showroom cao cấp.",
+        "Kết luận: “giá không quan trọng”."
+      ],
+      "question": "Sai ở đâu? Nếu công ty tin kết quả này, hậu quả là gì?",
+      "notes": "Đọc chậm tình huống: “Một hãng điện thoại chuẩn bị tung ra dòng điện thoại giá rẻ. Trước khi quyết định giá bán, họ làm khảo sát. Nhưng họ đi hỏi ở đâu? Ở các showroom cao cấp, với những khách hàng có thu nhập cao. Kết quả: phần lớn người được hỏi nói giá không quan trọng, họ sẵn sàng trả nhiều hơn để có tính năng tốt.”\nHỏi: “Kết luận này sai ở đâu? Và nếu công ty tin vào nó thì chuyện gì xảy ra?”\nCho 1 phút suy nghĩ một mình, rồi 1 phút trao đổi với bạn bên cạnh. Chỉ định 2–3 bạn trả lời.\nCâu trả lời mong đợi: hỏi sai đối tượng — người mua điện thoại giá rẻ không phải khách hàng giàu; kết quả bị chệch; công ty có thể định giá quá cao và sản phẩm thất bại.\nGhi lên bảng hai chữ “hỏi ai” và giữ suốt buổi. Chốt: dữ liệu thì có, con số thì đẹp, nhưng câu trả lời vô giá trị vì hỏi sai người."
+    },
+    {
+      "type": "cards",
+      "title": "Mọi nghiên cứu bắt đầu bằng ba câu hỏi: vì sao hỏi, hỏi thế nào, hỏi ai",
+      "cards": [
+        {
+          "head": "Vì sao hỏi?",
+          "text": "Vấn đề và mục tiêu nghiên cứu"
+        },
+        {
+          "head": "Hỏi thế nào?",
+          "text": "Thiết kế, phương pháp, công cụ"
+        },
+        {
+          "head": "Hỏi ai?",
+          "text": "Đối tượng và mẫu nghiên cứu"
+        }
+      ],
+      "callout": "Cả học phần là học trả lời ba câu này cho đúng.",
+      "notes": "Nối từ câu trả lời của lớp: “Các bạn vừa chỉ ra đúng lỗi mà rất nhiều doanh nghiệp mắc phải. Tình huống vừa rồi sai ở câu hỏi thứ ba — hỏi ai.”\nGiới thiệu ba câu hỏi: trước khi thu thập bất kỳ dữ liệu nào, nhà nghiên cứu phải trả lời được vì sao mình hỏi (vấn đề, mục tiêu), hỏi như thế nào (thiết kế, phương pháp, công cụ như bảng hỏi) và hỏi ai (đối tượng, mẫu). Chỉ vào chữ “hỏi ai” đã ghi trên bảng.\nNói câu chốt: “Cả học phần này, thật ra, là học cách trả lời ba câu hỏi đó cho đúng.” Có thể nhắc rằng các buổi sau sẽ lần lượt đi qua từng câu: vấn đề và mục tiêu (Buổi 1, 6), thiết kế và thang đo (Buổi 6–10), chọn mẫu (Buổi 8).\nChuyển ý sang S2: “Vậy học phần này sẽ giúp các bạn làm điều đó như thế nào? Mình đi qua cách học phần vận hành trong 10 phút.”"
+    },
+    {
+      "type": "section",
+      "tag": "S2",
+      "kicker": "5–15 phút",
+      "title": "Giới thiệu học phần",
+      "notes": "Chuyển sang phần giới thiệu học phần, khoảng 10 phút (phút 5–15). Phần này nói nhanh, gọn: mục tiêu, cách học bằng dự án nhóm, lộ trình, cách đánh giá và hai quy ước dùng suốt học phần (dùng AI và trích dẫn APA 7).\nNhắc sinh viên rằng mọi chi tiết đều có trong đề cương trên LMS — trên lớp chỉ nêu những điều cần nhớ nhất. Không đọc nguyên văn chuẩn đầu ra hay bảng đánh giá trong đề cương.\nNếu lớp vào muộn hoặc phần khởi động kéo dài, có thể rút phần này còn 7–8 phút bằng cách nói nhanh slide mục tiêu và slide quy ước AI."
+    },
+    {
+      "type": "compare",
+      "title": "Marketing căn bản dạy cách ra quyết định; môn này dạy cách có thông tin để quyết định",
+      "left": {
+        "head": "Marketing căn bản",
+        "items": [
+          "Sản phẩm, giá",
+          "Phân phối",
+          "Truyền thông"
+        ]
+      },
+      "right": {
+        "head": "Nghiên cứu Marketing",
+        "items": [
+          "Quyết định 4P dựa vào thông tin nào?",
+          "Làm sao có thông tin đáng tin cậy?"
+        ]
+      },
+      "vs": false,
+      "callout": "Không có thông tin đúng, 4P chỉ là đoán.",
+      "notes": "Liên hệ môn tiên quyết: “Ở môn Marketing căn bản, các bạn đã học cách doanh nghiệp ra quyết định về sản phẩm, giá, phân phối, truyền thông — tức 4P.”\nRồi đặt câu hỏi tiếp theo, cũng là lý do môn này tồn tại: “Những quyết định đó dựa vào thông tin nào, và làm sao có được thông tin đáng tin cậy?” Dừng 2–3 giây để lớp nghĩ.\nNói câu chốt trên slide: “Không có thông tin đúng, 4P chỉ là đoán.” Có thể nối lại tình huống điện thoại: hãng đó có thông tin, nhưng là thông tin sai, nên quyết định giá cũng sai.\nKhông cần hỏi lớp ở slide này; giữ nhịp nhanh vì S2 chỉ có 10 phút. Chuyển ý: “Vậy hết học phần, các bạn sẽ làm được gì?”"
+    },
+    {
+      "type": "bullets",
+      "title": "Hết học phần, bạn tự làm được một nghiên cứu marketing từ đầu đến cuối",
+      "numbered": true,
+      "bullets": [
+        "Giải thích khái niệm và phương pháp nghiên cứu marketing",
+        {
+          "head": "Lập kế hoạch",
+          "text": "nghiên cứu phục vụ một quyết định marketing cụ thể"
+        },
+        "Thực hiện các bước: vấn đề, thiết kế, mẫu, bảng hỏi, phân tích, trình bày",
+        "Làm việc nhóm, phản biện, có đạo đức nghiên cứu"
+      ],
+      "notes": "Đây là chuẩn đầu ra CLO1–8 viết lại bằng lời của sinh viên. Không đọc CLO nguyên văn — nhắc “chi tiết trong đề cương trên LMS”.\nĐi nhanh qua bốn ý. Kết thúc học phần, các bạn có thể: (1) giải thích các khái niệm và phương pháp nghiên cứu marketing; (2) xây dựng một kế hoạch nghiên cứu phục vụ một quyết định marketing cụ thể; (3) tự thực hiện các bước của một nghiên cứu: xác định vấn đề, thiết kế, chọn mẫu, thiết kế bảng hỏi, phân tích dữ liệu, trình bày kết quả; (4) làm việc nhóm, phản biện và có ý thức đạo đức khi nghiên cứu.\nNhấn ý thứ ba: không phải “biết về” nghiên cứu, mà là “tự làm được” — vì cả học kỳ các bạn sẽ làm một nghiên cứu thật. Chuyển sang slide dự án nhóm."
+    },
+    {
+      "type": "table",
+      "title": "Mỗi nhóm 2–3 bạn làm một nghiên cứu thật: 3 chương (định tính) hoặc 5 chương (định lượng)",
+      "header": [
+        "Định lượng (5 chương)",
+        "Định tính (3 chương)"
+      ],
+      "rows": [
+        [
+          "1. Giới thiệu",
+          "1. Giới thiệu & cơ sở lý thuyết"
+        ],
+        [
+          "2. Cơ sở lý thuyết & mô hình",
+          "2. Phương pháp"
+        ],
+        [
+          "3. Phương pháp",
+          "3. Kết quả, thảo luận & kết luận"
+        ],
+        [
+          "4. Kết quả",
+          ""
+        ],
+        [
+          "5. Kết luận & hàm ý",
+          ""
+        ]
+      ],
+      "boldFirstCol": false,
+      "notes": "Điểm khác của môn này: mỗi nhóm 2–3 bạn sẽ tự làm một nghiên cứu nhỏ từ đầu đến cuối, theo một trong hai hướng.\nĐịnh lượng — 5 chương: Giới thiệu nghiên cứu · Cơ sở lý thuyết và mô hình · Phương pháp nghiên cứu · Kết quả nghiên cứu · Kết luận và hàm ý quản trị.\nĐịnh tính — 3 chương: Giới thiệu và cơ sở lý thuyết · Phương pháp nghiên cứu · Kết quả, thảo luận và kết luận.\nNói rõ: chưa cần chọn hướng hôm nay — nhóm chọn ở Buổi 5, sau khi đã có tài liệu và hiểu rõ vấn đề.\nNhấn cách học: phần thực hành 45 phút cuối mỗi buổi là lúc nhóm làm một phần của dự án, có giảng viên đi kèm; bài tập về nhà là hoàn thiện phần đó. Hôm nay, 45 phút cuối là “Xưởng đề tài”.",
+      "callout": "Nhóm chọn hướng ở Buổi 5."
+    },
+    {
+      "type": "timeline",
+      "title": "Theo kịp từng buổi thì đến Buổi 13 bạn đã có gần đủ tiểu luận",
+      "items": [
+        {
+          "tag": "B1",
+          "text": "Đề tài (M1)"
+        },
+        {
+          "tag": "B2",
+          "text": "Tài liệu, APA 7 (M2)"
+        },
+        {
+          "tag": "B4",
+          "text": "AI, chọn hướng (M3)"
+        },
+        {
+          "tag": "B6",
+          "text": "Đề cương (M4)"
+        },
+        {
+          "tag": "B7",
+          "text": "Phương pháp, mẫu, thang đo"
+        },
+        {
+          "tag": "B10",
+          "text": "Bảng hỏi; giữa kỳ trước B11",
+          "highlight": true
+        },
+        {
+          "tag": "B13",
+          "text": "Phân tích; thu xong dữ liệu",
+          "highlight": true
+        },
+        {
+          "tag": "B14",
+          "text": "Thi cuối kỳ"
+        }
+      ],
+      "callout": "Dễ trễ: giữa kỳ trước B11; thu xong dữ liệu trước B13.",
+      "notes": "Đi nhanh theo dải thời gian: Buổi 1 đề tài (M1); Buổi 2–3 tìm tài liệu, học APA 7 (M2 sau Buổi 3); Buổi 4–5 dùng AI hỗ trợ nghiên cứu, chọn hướng định tính hay định lượng (M3 sau Buổi 5); Buổi 6 đề cương nghiên cứu (M4); Buổi 7–9 phương pháp, chọn mẫu, thang đo; Buổi 10–12 bảng hỏi, nhóm phát hành bảng hỏi sau Buổi 11; Buổi 13 phân tích dữ liệu; Buổi 14–15 là buổi thi.\nNhấn hai mốc dễ trễ nhất, đã tô màu trên slide: nộp bài giữa kỳ trên LMS trước Buổi 11; thu dữ liệu xong trước Buổi 13. Nhóm nào trễ thu dữ liệu sẽ không có gì để phân tích ở Buổi 13.\nCâu chốt: “Nếu các bạn theo kịp từng buổi, đến Buổi 13 các bạn đã có gần đủ bài tiểu luận cuối kỳ.”\nLưu ý cho giảng viên: tag “B2”, “B4”, “B7”, “B10”, “B14” trên slide là buổi bắt đầu của mỗi chặng (B2–3, B4–5, B7–9, B10–12, B14–15)."
+    },
+    {
+      "type": "stat",
+      "title": "70% điểm đến từ sản phẩm nghiên cứu nhóm",
+      "stats": [
+        {
+          "value": "10%",
+          "label": "Chuyên cần"
+        },
+        {
+          "value": "20%",
+          "label": "Bài tập nhóm M1–M4"
+        },
+        {
+          "value": "20%",
+          "label": "Giữa kỳ (nộp LMS)"
+        },
+        {
+          "value": "50%",
+          "label": "Tiểu luận nhóm"
+        }
+      ],
+      "callout": "Phân tích nâng cao → điểm cộng.",
+      "notes": "Giới thiệu cách đánh giá. Chuyên cần 10%: tham dự và tham gia trên lớp. Bài tập nhóm 20%, gồm bốn mốc: M1 sau Buổi 1 (2,5%), M2 sau Buổi 3 (5%), M3 sau Buổi 5 (5%), M4 sau Buổi 6 (7,5%). Giữa kỳ 20%: nộp trên LMS trước Buổi 11 — Chương 1–3 (định lượng) hoặc Chương 1–2 (định tính) kèm bản nháp bảng hỏi. Cuối kỳ 50%: tiểu luận nhóm hoàn chỉnh, Buổi 14–15 là buổi thi.\nCộng lại, 70% điểm (20% + 50%) đến từ sản phẩm nghiên cứu của nhóm — đó là lý do mỗi buổi đều có thực hành dự án.\nĐiểm cộng: nhóm định lượng nào phân tích sâu hơn yêu cầu — ví dụ kiểm định độ tin cậy thang đo, phân tích nhân tố, hồi quy — sẽ được điểm cộng.\nHỏi: “Có câu hỏi nào về cách đánh giá không?” — chờ 10 giây. Câu hỏi về hạn nộp cụ thể: trả lời theo lịch trên LMS.\nLưu ý cho giảng viên: cần bổ sung ngày hạn nộp cụ thể và quy định nộp trễ."
+    },
+    {
+      "type": "compare",
+      "title": "Được dùng AI, nhưng phải khai báo và tự kiểm chứng; trích dẫn theo APA 7",
+      "left": {
+        "head": "Dùng AI",
+        "items": [
+          "Khai báo công cụ, mục đích",
+          "Nộp nhật ký dùng AI",
+          "Tự kiểm chứng trích dẫn"
+        ]
+      },
+      "right": {
+        "head": "Trích dẫn APA 7",
+        "items": [
+          "Danh mục: Lê, Q. H. (2017)",
+          "Trong bài: (Lê, 2017)",
+          "Họ trước, tên viết tắt"
+        ]
+      },
+      "callout": "Trích tài liệu không tồn tại là lỗi của người nộp.",
+      "notes": "Hai quy ước dùng suốt học phần.\nDùng AI: được phép, với hai điều kiện — khai báo đã dùng công cụ nào, để làm gì (nộp kèm nhật ký sử dụng AI), và tự kiểm chứng mọi thông tin, mọi trích dẫn AI đưa ra. Nói rõ: “AI bịa tài liệu tham khảo là chuyện xảy ra thường xuyên; trích một tài liệu không tồn tại là lỗi của người nộp bài, không phải lỗi của AI.” Buổi 4–5 sẽ học cách dùng AI cho nghiên cứu một cách bài bản.\nTrích dẫn: theo APA 7. Tên tác giả Việt ghi họ trước, viết tắt tên đệm và tên: Lê Quang Hùng → Lê, Q. H. (2017) trong danh mục, (Lê, 2017) trong bài. Buổi 2–3 sẽ học kỹ.\nChuyển ý: “Bây giờ vào nội dung. Câu hỏi đầu tiên tưởng đơn giản: nghiên cứu marketing thực ra là gì?”"
+    },
+    {
+      "type": "section",
+      "tag": "S3",
+      "kicker": "15–40 phút",
+      "title": "Nghiên cứu marketing là gì, để làm gì, có những loại nào",
+      "notes": "Phân đoạn dày nhất buổi — 25 phút (phút 15–40): định nghĩa, bốn thành tố, vai trò và giới hạn, mục đích và phạm vi, rồi phân loại theo ba tiêu chí.\nPhần quan trọng nhất là tiêu chí 2 (khám phá, mô tả, tương quan, nhân quả) — đi chậm ở đó, vì ngay sau phần này lớp sẽ làm hoạt động Phân loại nhanh.\nLưu ý cho giảng viên: nếu chậm giờ, phần mục đích và phạm vi chỉ nêu tên 6 phạm vi; phần so sánh nghiên cứu marketing với nghiên cứu thị trường chuyển sang tài liệu đọc thêm."
+    },
+    {
+      "type": "statement",
+      "title": "Nghiên cứu marketing không chỉ là gửi một bảng hỏi Google Forms",
+      "big": "Theo bạn, nghiên cứu marketing là gì?",
+      "sub": "Trả lời trong một câu.",
+      "mark": "?",
+      "notes": "Hỏi lớp: “Theo bạn, nghiên cứu marketing là gì?” Chỉ định 2 bạn trả lời nhanh, mỗi bạn một câu.\nThường sẽ nghe câu trả lời “là khảo sát”, “là làm bảng hỏi gửi khách hàng”. Dùng chính câu đó để mở định nghĩa: “Nhiều bạn nghe ‘nghiên cứu marketing’ sẽ nghĩ ngay đến một cái bảng hỏi trên Google Forms gửi vào group Facebook. Khảo sát chỉ là một công cụ.”\nNói lý do cần hiểu đúng định nghĩa: nó giúp các bạn thấy nghiên cứu marketing rộng hơn nhiều, và giúp các bạn biết khi nào một “cuộc khảo sát” không phải là nghiên cứu.\nChuyển ý: “Xem ba tác giả định nghĩa thế nào — và tìm xem họ cùng nhấn mạnh điều gì.”"
+    },
+    {
+      "type": "cards",
+      "title": "Ba tác giả, ba câu chữ — cùng một ý: có hệ thống, để ra quyết định",
+      "cards": [
+        {
+          "head": "Kotler & Keller (2012)",
+          "text": "**Thiết kế, thu thập, phân tích, báo cáo** dữ liệu"
+        },
+        {
+          "head": "AMA (2017)",
+          "text": "**Kết nối** khách hàng với nhà marketing **qua thông tin**"
+        },
+        {
+          "head": "Nguyễn & Nguyễn (2015)",
+          "text": "**Chức năng** gắn với **mọi hoạt động marketing**"
+        }
+      ],
+      "callout": "Cả ba cùng nhấn mạnh điều gì?",
+      "notes": "Chiếu ba định nghĩa cạnh nhau. Không đọc hết — yêu cầu lớp tìm điểm chung.\nKotler và Keller (2012): việc thiết kế, thu thập, phân tích và báo cáo một cách có hệ thống các dữ liệu và phát hiện liên quan đến một tình huống marketing cụ thể mà doanh nghiệp đang đối mặt.\nHiệp hội Marketing Hoa Kỳ (American Marketing Association, 2017): chức năng kết nối người tiêu dùng, khách hàng và công chúng với nhà marketing thông qua thông tin — thông tin dùng để nhận diện cơ hội, vấn đề; tạo ra, hoàn thiện và đánh giá hành động; theo dõi kết quả.\nNguyễn Đình Thọ và Nguyễn Thị Mai Trang (2015): một chức năng liên quan đến mọi hoạt động marketing, từ hoạch định đến thực hiện và kiểm soát.\nHỏi: “Câu chữ khác nhau — nhưng cả ba cùng nhấn mạnh điều gì?” Chờ 2–3 câu trả lời. Gom lại: có hệ thống, và mục đích là phục vụ ra quyết định.\nLưu ý cho giảng viên: đã dùng định nghĩa AMA hiện hành (2017), không dùng bản cũ; câu chữ định nghĩa Nguyễn Đình Thọ chưa đối chiếu số trang."
+    },
+    {
+      "type": "steps",
+      "title": "Bốn thành tố phân biệt nghiên cứu thật với “khảo sát cho có”",
+      "steps": [
+        {
+          "head": "Có hệ thống",
+          "text": "không phải hỏi vài người bạn rồi kết luận"
+        },
+        {
+          "head": "Khách quan",
+          "text": "không phải khảo sát để chứng minh ý sếp đúng"
+        },
+        {
+          "head": "Thu thập, phân tích, diễn giải",
+          "text": "không phải Excel không ai đọc"
+        },
+        {
+          "head": "Làm cơ sở ra quyết định",
+          "text": "mục đích cuối cùng"
+        }
+      ],
+      "callout": "Mọi quyết định kinh doanh phải xuất phát từ thị trường.",
+      "notes": "Gom ý của lớp thành định nghĩa dùng trong học phần (không gán tác giả): “Nghiên cứu marketing là một hoạt động có hệ thống và khách quan nhằm thu thập, phân tích và diễn giải dữ liệu, từ đó cung cấp thông tin có ý nghĩa làm cơ sở cho nhà quản trị ra quyết định về các vấn đề marketing.”\nTách thành bốn thành tố, mỗi thành tố loại bỏ một kiểu “nghiên cứu giả”: có hệ thống — hỏi vài người bạn rồi kết luận không phải nghiên cứu; khách quan — làm khảo sát để chứng minh ý tưởng của sếp là đúng không phải nghiên cứu; thu thập, phân tích, diễn giải — một file Excel 500 dòng mà không ai đọc chưa phải nghiên cứu; làm cơ sở ra quyết định — mục đích cuối cùng là hỗ trợ nhà quản trị.\nKết bằng tư tưởng chủ đạo của marketing: mọi quyết định kinh doanh đều phải xuất phát từ thị trường — hiểu khách hàng, đối thủ, môi trường, điểm mạnh yếu và định hướng chiến lược của mình.\nLưu ý cho giảng viên: slide UEF #3 gán định nghĩa tổng hợp cho AMA — không đúng nguyên văn, đã bỏ phần gán tác giả.",
+      "direction": "v"
+    },
+    {
+      "type": "compare",
+      "title": "Nghiên cứu giảm rủi ro, nhưng không ra quyết định thay nhà quản trị",
+      "left": {
+        "head": "Vai trò",
+        "items": [
+          "Làm rõ vấn đề, giảm rủi ro",
+          "Thông tin cho quyết định",
+          "Hoạt động hiệu quả hơn",
+          "Hỗ trợ các bộ phận khác"
+        ]
+      },
+      "right": {
+        "head": "Giới hạn",
+        "items": [
+          "Không ra quyết định",
+          "Không bảo đảm thành công",
+          "Y = f(x1, x2, …, xn)"
+        ]
+      },
+      "vs": true,
+      "notes": "Cột trái — vai trò. Nghiên cứu marketing giúp doanh nghiệp: (1) xác định rõ vấn đề, loại bỏ điều mơ hồ; (2) hạn chế rủi ro — ví dụ biết trước khu vực nhu cầu thấp để không đổ tiền vào đó; (3) cung cấp thông tin có giá trị làm cơ sở cho quyết định; (4) tìm ra cách hoạt động hiệu quả hơn; (5) hỗ trợ sản xuất, kỹ thuật, tài chính cùng hướng tới thỏa mãn khách hàng.\nTrước khi nói cột phải, hỏi lớp: “Vậy nghiên cứu thị trường có phải là chìa khóa của thành công?” Chờ vài câu trả lời.\nCột phải — giới hạn. Không hẳn: nghiên cứu không ra quyết định — nhà quản trị ra quyết định. Và nghiên cứu không bảo đảm thành công, vì kết quả kinh doanh Y là hàm của nhiều yếu tố: sản phẩm, giá, đối thủ, kinh tế, cách triển khai… Nghiên cứu làm rõ một số yếu tố x, không kiểm soát được tất cả.\nLưu ý cho giảng viên: slide gốc ghi “Y = f (x1) + (fx2) +... f (xn)”, đã viết lại cho đúng ký hiệu hàm."
+    },
+    {
+      "type": "cards",
+      "title": "Nghiên cứu để giải quyết vấn đề hoặc để khai thác cơ hội",
+      "cards": [
+        {
+          "head": "Thị trường",
+          "text": "Quy mô, cơ cấu, thị phần"
+        },
+        {
+          "head": "Hành vi NTD",
+          "text": "Thái độ, thói quen, nhân khẩu"
+        },
+        {
+          "head": "Sản phẩm",
+          "text": "Ý tưởng mới, bao bì, định vị"
+        },
+        {
+          "head": "Giá",
+          "text": "Độ nhạy cảm về giá, giá đối thủ"
+        },
+        {
+          "head": "Phân phối",
+          "text": "Kênh, điểm bán"
+        },
+        {
+          "head": "Xúc tiến",
+          "text": "Thông điệp, hiệu quả quảng cáo"
+        }
+      ],
+      "notes": "Nghiên cứu marketing phục vụ một trong hai mục đích, và hai mục đích có thể chuyển hóa cho nhau: giải quyết vấn đề — ví dụ doanh số sụt giảm, cần biết vì sao; khai thác cơ hội — ví dụ nhu cầu sản phẩm tiện lợi tăng theo một xu hướng xã hội, có nên tham gia không.\nSáu phạm vi thường gặp — trùng gần khớp với 4P đã học: thị trường (quy mô, cơ cấu, thị phần); hành vi người tiêu dùng (thái độ, thói quen, nhân khẩu học); sản phẩm (ý tưởng mới, bao bì, định vị); giá (chi phí, độ nhạy cảm về giá, giá đối thủ); phân phối (kênh, điểm bán); xúc tiến (thông điệp, kênh truyền thông, hiệu quả quảng cáo).\nHỏi nhanh: “Một nghiên cứu xem khách hàng chấp nhận trả tối đa bao nhiêu cho một ly trà sữa thuộc phạm vi nào?” → giá.\nMột câu phân biệt: nghiên cứu thị trường là một phần của nghiên cứu marketing — xoay quanh thị trường mục tiêu và hành vi khách hàng; nghiên cứu marketing bao trùm cả 4P. Bảng so sánh có trong tài liệu đọc thêm."
+    },
+    {
+      "type": "cards",
+      "title": "Mỗi nghiên cứu có một vị trí trên ba tiêu chí phân loại",
+      "cards": [
+        {
+          "head": "Mục tiêu",
+          "text": "Xác định hay giải quyết vấn đề? Hàn lâm hay ứng dụng?"
+        },
+        {
+          "head": "Chuyên sâu",
+          "text": "Khám phá, mô tả, tương quan hay nhân quả?"
+        },
+        {
+          "head": "Tính chất",
+          "text": "Định tính hay định lượng?"
+        }
+      ],
+      "callout": "Ba câu hỏi khác nhau, một nghiên cứu trả lời cả ba.",
+      "notes": "Nghiên cứu marketing không phải một phương pháp duy nhất. Học phần phân loại theo ba tiêu chí, mỗi tiêu chí trả lời một câu hỏi khác nhau: theo mục tiêu nghiên cứu (xác định hay giải quyết vấn đề; hàn lâm hay ứng dụng), theo mức độ chuyên sâu (khám phá, mô tả, tương quan hay nhân quả), theo tính chất nghiên cứu (định tính hay định lượng).\nNói câu chốt: “Ba câu hỏi khác nhau, một nghiên cứu trả lời cả ba.” Một nghiên cứu cụ thể luôn có một “vị trí” trên cả ba tiêu chí — lát nữa trong hoạt động Phân loại nhanh và Xưởng đề tài, các bạn sẽ phải xác định vị trí đó.\nCác cách phân loại khác — theo địa điểm thực hiện, theo tính liên tục — có trong tài liệu đọc thêm.\nLưu ý cho giảng viên: đề cương ghi 1.2.1 và 1.2.2 cùng tên “Phân loại theo mục tiêu nghiên cứu”; đề xuất đặt lại thành 1.2.1 Theo mục tiêu · 1.2.2 Theo mức độ chuyên sâu · 1.2.3 Theo tính chất."
+    },
+    {
+      "type": "compare",
+      "title": "Trước hết phải biết vấn đề là gì, rồi mới tìm cách giải quyết (Malhotra, 2019)",
+      "left": {
+        "head": "Xác định vấn đề",
+        "items": [
+          "Tiềm năng thị trường",
+          "Thị phần, hình ảnh",
+          "Bán hàng, dự báo",
+          "Xu hướng kinh doanh"
+        ]
+      },
+      "right": {
+        "head": "Giải quyết vấn đề",
+        "items": [
+          "Phân khúc thị trường",
+          "Sản phẩm, giá",
+          "Chiêu thị, phân phối"
+        ]
+      },
+      "vs": true,
+      "notes": "Tiêu chí 1, phần (a): xác định vấn đề hay giải quyết vấn đề? Cách chia này theo Malhotra (2019).\nNghiên cứu xác định vấn đề — phát hiện những vấn đề chưa hiển hiện nhưng đang tồn tại hoặc sắp xảy ra: nghiên cứu tiềm năng thị trường, thị phần, hình ảnh thị trường, đặc điểm thị trường, phân tích bán hàng, dự báo, xu hướng kinh doanh.\nNghiên cứu giải quyết vấn đề — khi vấn đề đã rõ, tìm cách giải quyết: nghiên cứu phân khúc thị trường, sản phẩm, giá, chiêu thị, phân phối.\nVí dụ giả định với chuỗi trà sữa: nghiên cứu cho thấy thị phần của chuỗi đang giảm → đó là xác định vấn đề. Tiếp theo, nghiên cứu mức giá sinh viên chấp nhận để kéo khách trở lại → đó là giải quyết vấn đề.\nCó thể hỏi lớp: “Nếu chưa biết vấn đề mà đã nghiên cứu giá thì rủi ro gì?” — nghiên cứu có thể trả lời đúng một câu hỏi sai."
+    },
+    {
+      "type": "table",
+      "title": "Dự án của các bạn là nghiên cứu ứng dụng, phục vụ một quyết định cụ thể",
+      "header": [
+        "",
+        "Hàn lâm (cơ bản)",
+        "Ứng dụng"
+      ],
+      "rows": [
+        [
+          "Mục tiêu",
+          "Mở rộng hiểu biết lý thuyết",
+          "Giải quyết vấn đề kinh doanh cụ thể"
+        ],
+        [
+          "Đóng góp",
+          "Kiểm định mô hình, cho khoa học",
+          "Cho một doanh nghiệp cụ thể"
+        ],
+        [
+          "Ví dụ",
+          "Quảng cáo TV → lòng tin thương hiệu",
+          "Quảng cáo MXH cho công ty mỹ phẩm X"
+        ]
+      ],
+      "boldFirstCol": true,
+      "notes": "Tiêu chí 1, phần (b): hàn lâm hay ứng dụng?\nNghiên cứu hàn lâm (cơ bản): mở rộng hiểu biết lý thuyết, kiểm định mô hình, đóng góp cho khoa học marketing nói chung. Ví dụ: “Mô hình tác động của quảng cáo truyền hình đến lòng tin thương hiệu.”\nNghiên cứu ứng dụng: giải quyết một vấn đề kinh doanh cụ thể của một doanh nghiệp cụ thể. Ví dụ: “Tối ưu ngân sách quảng cáo mạng xã hội cho công ty mỹ phẩm X.”\nNhấn câu cuối: dự án của các bạn trong môn này sẽ là nghiên cứu ứng dụng — gắn với một quyết định marketing thật. Lát nữa trong Xưởng đề tài, mỗi nhóm sẽ bắt đầu từ một quyết định mà giám đốc marketing đang phải cân nhắc, không bắt đầu từ một “chủ đề nghe hay”.\nChuyển ý: “Bây giờ là tiêu chí quan trọng nhất của hôm nay — mức độ chuyên sâu.”"
+    },
+    {
+      "type": "steps",
+      "title": "Theo mức độ chuyên sâu: bốn thiết kế trả lời bốn kiểu câu hỏi",
+      "steps": [
+        {
+          "head": "Khám phá",
+          "text": "“Chuyện gì đang xảy ra?”"
+        },
+        {
+          "head": "Mô tả",
+          "text": "“Ai, cái gì, bao nhiêu?”"
+        },
+        {
+          "head": "Tương quan",
+          "text": "“Có đi cùng nhau không?”"
+        },
+        {
+          "head": "Nhân quả",
+          "text": "“A có gây ra B không?”"
+        }
+      ],
+      "callout": "Khám phá còn gọi là thăm dò; nhân quả dùng thử nghiệm.",
+      "notes": "Đây là phần quan trọng nhất của S3 — đi chậm.\nKhám phá (exploratory): “Chuyện gì đang xảy ra?” — dùng khi vấn đề còn mơ hồ, chưa biết mình chưa biết gì.\nMô tả (descriptive): ai, cái gì, ở đâu, khi nào, bao nhiêu? — dùng khi đã biết cần đo cái gì, cần con số mô tả thị trường.\nTương quan (correlational): hai yếu tố có đi cùng nhau không, mạnh đến đâu? — dùng khi muốn biết mức độ liên hệ giữa các biến.\nNhân quả (causal): A có gây ra B không? — dùng khi cần chứng minh quan hệ nguyên nhân – kết quả trước khi đầu tư lớn.\nNhắc hai tên gọi khác: nghiên cứu khám phá còn được gọi là nghiên cứu thăm dò; nghiên cứu nhân quả thường được thực hiện bằng thử nghiệm (experimental research).\nLỗi hiểu thường gặp: “Nghiên cứu khám phá là kém khoa học.” Không phải — nó là bước đi đúng khi vấn đề còn mơ hồ. Lỗi là dùng vài cuộc phỏng vấn khám phá rồi kết luận cho cả thị trường.\nChuyển ý: xem ba ví dụ minh họa."
+    },
+    {
+      "type": "case",
+      "title": "Doanh số kem giảm mà không rõ lý do: bắt đầu bằng khám phá",
+      "label": "Khám phá",
+      "scenario": [
+        "Một thương hiệu kem thấy doanh số mùa hè giảm đột ngột, không rõ vì sao.",
+        "Họ trò chuyện với khách hàng và chủ cửa hàng.",
+        "Phát hiện: đối thủ mới tung dòng kem ít đường."
+      ],
+      "question": "Phát hiện này đã là kết luận chưa?",
+      "notes": "Ví dụ minh họa từ video bài giảng — chỉ dùng như ví dụ, không phải sự kiện đã kiểm chứng.\nKể: một thương hiệu kem thấy doanh số mùa hè giảm đột ngột mà không rõ vì sao. Họ chưa làm khảo sát lớn ngay, mà đi trò chuyện với khách hàng và chủ cửa hàng bán lẻ, và phát hiện một đối thủ mới vừa tung ra dòng kem ít đường.\nHỏi lớp: “Phát hiện này đã là kết luận chưa? Công ty đã đủ căn cứ để tung dòng kem ít đường chưa?” Chờ 1–2 câu trả lời.\nChốt: chưa. Nghiên cứu khám phá không cho câu trả lời cuối cùng — nó giúp hình thành giả thuyết (“khách chuyển sang kem ít đường của đối thủ”) để kiểm tra tiếp bằng nghiên cứu mô tả hoặc nhân quả.\nNhấn dấu hiệu nhận biết: “không rõ lý do” + “đi trò chuyện để tìm hiểu” → khám phá. Dấu hiệu này sẽ xuất hiện lại trong hoạt động Phân loại nhanh."
+    },
+    {
+      "type": "steps",
+      "title": "Ai đặt đồ ăn cuối tuần, lúc nào, bao nhiêu: đó là mô tả",
+      "steps": [
+        {
+          "head": "Câu hỏi",
+          "text": "Làm sao tăng đơn cuối tuần?"
+        },
+        {
+          "head": "Khảo sát",
+          "text": "Ai đặt, giờ nào, bao nhiêu?"
+        },
+        {
+          "head": "Phát hiện",
+          "text": "Phần lớn 18–30 tuổi; SV đặt muộn"
+        },
+        {
+          "head": "Hành động",
+          "text": "Ưu đãi đêm khuya cho SV"
+        }
+      ],
+      "callout": "Mô tả trả lời *cái gì*, không trả lời *vì sao*.",
+      "notes": "Ví dụ minh họa thứ hai, cũng từ video bài giảng. Lưu ý: không đưa con số phần trăm cụ thể vì video không nêu nguồn — chỉ nói “phần lớn”.\nKể: một ứng dụng giao đồ ăn muốn tăng đơn cuối tuần. Họ khảo sát và thấy phần lớn người đặt cuối tuần ở độ tuổi 18–30, và sinh viên ở thành phố lớn hay đặt muộn. Dựa vào đó, họ tung chương trình ưu đãi đêm khuya cho sinh viên.\nHỏi lớp: “Nghiên cứu này cho biết vì sao sinh viên đặt muộn không?” → không. Nghiên cứu mô tả trả lời “cái gì” — ai, khi nào, bao nhiêu — nhưng không giải thích được “vì sao”.\nNhấn dấu hiệu nhận biết: ai, khi nào, bao nhiêu, mô tả đặc điểm → mô tả. Thường là định lượng, cần mẫu đủ lớn.\nChuyển ý: “Nếu muốn biết chắc một thay đổi có gây ra kết quả hay không thì sao?”"
+    },
+    {
+      "type": "compare",
+      "title": "Chỉ thử nghiệm có kiểm soát mới cho phép nói “A gây ra B”",
+      "left": {
+        "head": "Nhóm A (ngẫu nhiên)",
+        "items": [
+          "Xem ảnh áo treo trên móc",
+          "→ Đo tỷ lệ mua"
+        ]
+      },
+      "right": {
+        "head": "Nhóm B (ngẫu nhiên)",
+        "items": [
+          "Xem ảnh người mẫu mặc",
+          "→ Đo tỷ lệ mua"
+        ]
+      },
+      "vs": true,
+      "callout": "Hai điều kiện: chia ngẫu nhiên + chỉ đổi một yếu tố.",
+      "notes": "Ví dụ minh họa thứ ba từ video; không dùng số liệu cụ thể.\nKể: một shop thời trang trực tuyến chia khách truy cập ngẫu nhiên thành hai nhóm. Nhóm A xem ảnh áo treo trên móc; nhóm B xem ảnh người mẫu mặc. Mọi thứ khác giống nhau: giá, mô tả, trang web. Sau một thời gian, so sánh tỷ lệ mua của hai nhóm.\nHỏi: “Nếu nhóm B mua nhiều hơn, có được nói ảnh người mẫu làm tăng tỷ lệ mua không? Vì sao?”\nChốt: được — vì hai nhóm được chia ngẫu nhiên và chỉ khác nhau ở ảnh, nên khác biệt về tỷ lệ mua có thể quy cho ảnh. Đó là thử nghiệm, thường gọi là A/B testing — cách chuẩn để kết luận nhân quả.\nNhấn hai điều kiện trên slide: chia ngẫu nhiên và chỉ đổi một yếu tố. Thiếu một trong hai thì không nói được “A gây ra B”."
+    },
+    {
+      "type": "statement",
+      "title": "Cùng tăng chưa chắc là nguyên nhân",
+      "big": "Tháng chi nhiều cho quảng cáo, doanh thu cũng cao → quảng cáo gây ra doanh thu?",
+      "sub": "Có thể cả hai cùng tăng vì mùa Tết.",
+      "mark": "!",
+      "notes": "Lỗi hiểu thường gặp: “Thấy hai thứ cùng tăng là kết luận được cái này gây ra cái kia.”\nĐọc câu trên slide, rồi hỏi lớp: “Còn yếu tố nào khác có thể làm cả hai cùng tăng?” Chờ vài câu trả lời — mong đợi: mùa lễ Tết, mùa mua sắm, lương thưởng, đối thủ hết hàng…\nChốt: tháng nào chi nhiều cho quảng cáo thì doanh thu cũng cao — chưa chắc quảng cáo gây ra doanh thu, vì có thể cả hai cùng tăng do mùa lễ Tết: doanh nghiệp tăng ngân sách quảng cáo vào mùa Tết, và người mua cũng mua nhiều hơn vào mùa Tết.\nNghiên cứu tương quan chỉ cho biết hai yếu tố đi cùng nhau; muốn nói nhân quả phải có thử nghiệm kiểm soát được các yếu tố khác, như ví dụ A/B vừa rồi.\nCặp ví dụ này (tương quan và thử nghiệm) sẽ quay lại trong tình huống 3 và 4 của hoạt động Phân loại nhanh."
+    },
+    {
+      "type": "table",
+      "title": "Định tính để hiểu sâu, định lượng để đo trên diện rộng",
+      "header": [
+        "Tiêu chí",
+        "Định tính",
+        "Định lượng"
+      ],
+      "rows": [
+        [
+          "Mục đích",
+          "Hiểu sâu (quy nạp)",
+          "Đo lường (suy diễn)"
+        ],
+        [
+          "Dữ liệu",
+          "Lời nói, hình ảnh",
+          "Con số, thống kê"
+        ],
+        [
+          "Cỡ mẫu",
+          "Nhỏ, không đại diện",
+          "Lớn, hướng tới đại diện"
+        ],
+        [
+          "Phương pháp",
+          "Phỏng vấn sâu, focus group",
+          "Khảo sát, thử nghiệm, panel"
+        ],
+        [
+          "Kết hợp (mixed)",
+          "Trước: hiểu vấn đề",
+          "Sau: đo trên mẫu lớn"
+        ]
+      ],
+      "boldFirstCol": true,
+      "notes": "Tiêu chí 3 — theo tính chất nghiên cứu.\nĐịnh tính (qualitative): mục đích là khám phá sâu, hiểu động cơ, xây dựng lý thuyết (quy nạp); dữ liệu là lời nói, văn bản, hình ảnh, âm thanh; cỡ mẫu nhỏ, không đại diện; phương pháp: phỏng vấn sâu (depth interview), phỏng vấn nhóm điển hình (focus group), netnography.\nĐịnh lượng (quantitative): đo lường, kiểm định giả thuyết (suy diễn); dữ liệu là con số, tỷ lệ, thống kê; cỡ mẫu lớn, hướng tới đại diện; phương pháp: khảo sát, thử nghiệm, nghiên cứu nhóm cố định (panel).\nXu hướng hiện nay là kết hợp cả hai: định tính trước để hiểu vấn đề và xây dựng câu hỏi, định lượng sau để đo lường trên mẫu lớn.\nNói: “Buổi 5 nhóm chọn hướng định tính (3 chương) hay định lượng (5 chương). Hôm nay chỉ cần thấy khác nhau ở đâu.”\nChuyển ý: “Lý thuyết đủ rồi — thử dùng ngay.”"
+    },
+    {
+      "type": "cards",
+      "title": "Phân loại nhanh: 30 giây bàn với bạn, rồi giơ tay",
+      "cards": [
+        {
+          "head": "Khám phá",
+          "text": "Giơ 1 ngón",
+          "tag": "1"
+        },
+        {
+          "head": "Mô tả",
+          "text": "Giơ 2 ngón",
+          "tag": "2"
+        },
+        {
+          "head": "Tương quan",
+          "text": "Giơ 3 ngón",
+          "tag": "3"
+        },
+        {
+          "head": "Nhân quả",
+          "text": "Giơ 4 ngón",
+          "tag": "4"
+        }
+      ],
+      "callout": "Đếm 3–2–1, cả lớp giơ cùng lúc, không nhìn bạn khác.",
+      "notes": "Hoạt động S4 (phút 40–48), làm theo cặp với bạn ngồi cạnh, không nộp, không chấm điểm.\nĐọc kịch bản mở đầu: “Bây giờ mình thử dùng ngay ba tiêu chí vừa học. Tôi sẽ đọc 6 tình huống. Mỗi tình huống, các bạn có 30 giây bàn với bạn bên cạnh, rồi khi tôi đếm 3–2–1 thì giơ tay: 1 ngón là khám phá, 2 ngón là mô tả, 3 ngón là tương quan, 4 ngón là nhân quả. Cả lớp giơ cùng lúc, không nhìn bạn khác. Bắt đầu nhé.”\nMỗi tình huống khoảng 45 giây: đọc → 30 giây thảo luận → 3–2–1 giơ tay → nhìn lớp, nói đáp án trong một câu. Với một số tình huống, hỏi thêm: định tính hay định lượng? hàn lâm hay ứng dụng?\nNếu ít bạn giơ tay: nhắc “sai cũng không sao — đây là luyện tập”, giảng viên giơ tay làm mẫu. Ai không muốn giơ tay có thể ghi đáp án ra giấy.\nLưu ý cho giảng viên: kịch bản đầy đủ trong phiếu hoạt động Phân loại nhanh."
+    },
+    {
+      "type": "case",
+      "title": "Tình huống 1: thương hiệu kem đi trò chuyện để hiểu chuyện gì đang xảy ra",
+      "label": "Tình huống 1",
+      "scenario": "Một thương hiệu kem thấy doanh số mùa hè giảm đột ngột mà không rõ lý do. Họ đi trò chuyện với khách hàng và chủ các cửa hàng bán lẻ để tìm hiểu chuyện gì đang xảy ra.",
+      "question": "Khám phá, mô tả, tương quan hay nhân quả?",
+      "notes": "Đọc tình huống, cho 30 giây bàn, đếm 3–2–1 để cả lớp giơ tay.\nĐáp án: 1 ngón — khám phá. Dữ liệu định tính; mục tiêu ứng dụng.\nDấu hiệu nhận biết: “không rõ lý do” và “đi trò chuyện để tìm hiểu”. Đây chính là ví dụ kem vừa học, nên phần lớn lớp sẽ đúng — dùng tình huống này để lớp quen cách giơ tay.\nNói đáp án trong một câu rồi chuyển ngay sang tình huống 2. Không giảng thêm ở đây; phần chữa kỹ để cuối hoạt động.\nNếu ít bạn giơ tay, giảng viên đếm 3–2–1 và giơ tay làm mẫu, nhắc “sai cũng không sao”."
+    },
+    {
+      "type": "case",
+      "title": "Tình huống 2: ứng dụng giao đồ ăn muốn biết ai đặt hàng cuối tuần",
+      "label": "Tình huống 2",
+      "scenario": "Một ứng dụng giao đồ ăn muốn biết ai là người đặt hàng vào cuối tuần: độ tuổi, giờ đặt, số tiền mỗi đơn.",
+      "question": "Khám phá, mô tả, tương quan hay nhân quả?",
+      "notes": "Đọc tình huống, 30 giây bàn, đếm 3–2–1.\nĐáp án: 2 ngón — mô tả. Dữ liệu định lượng; mục tiêu ứng dụng.\nDấu hiệu nhận biết: ai, khi nào, bao nhiêu — mô tả đặc điểm của người đặt hàng. Không có câu hỏi “vì sao”, không có thử nghiệm.\nCó thể hỏi thêm một câu: “Định tính hay định lượng?” → định lượng, vì cần con số về độ tuổi, giờ đặt, giá trị đơn trên nhiều người.\nNếu lớp đúng gần hết ở ba tình huống đầu, rút ngắn: đọc nhanh tình huống 4–6 và dành thời gian thảo luận cặp tình huống 3 và 4."
+    },
+    {
+      "type": "case",
+      "title": "Tình huống 3: shop thời trang chia ngẫu nhiên khách thành hai nhóm",
+      "label": "Tình huống 3",
+      "scenario": "Một shop thời trang trực tuyến chia ngẫu nhiên khách truy cập thành hai nhóm: nhóm A xem ảnh áo treo trên móc, nhóm B xem ảnh người mẫu mặc. Sau hai tuần, so sánh tỷ lệ mua của hai nhóm.",
+      "question": "Khám phá, mô tả, tương quan hay nhân quả?",
+      "notes": "Đọc tình huống, 30 giây bàn, đếm 3–2–1.\nĐáp án: 4 ngón — nhân quả. Dữ liệu định lượng; mục tiêu ứng dụng.\nDấu hiệu nhận biết: chia ngẫu nhiên, chỉ thay đổi một yếu tố (kiểu ảnh), so sánh kết quả giữa hai nhóm. Đây là thử nghiệm A/B.\nNói đáp án một câu, chưa giải thích sâu — tình huống 3 sẽ được chữa kỹ cùng tình huống 4 ở slide đáp án, vì đây là cặp hay bị nhầm nhất.\nNếu lớp chia rẽ ở hầu hết các tình huống đến đây: dừng lại, nhắc lại bảng bốn loại thiết kế, rồi mới làm tiếp."
+    },
+    {
+      "type": "case",
+      "title": "Tình huống 4: chuỗi cà phê so chi phí quảng cáo với doanh thu hằng tháng",
+      "label": "Tình huống 4",
+      "scenario": "Một chuỗi cà phê muốn biết chi phí quảng cáo Facebook hằng tháng và doanh thu hằng tháng có biến động cùng chiều với nhau không, và mức độ ra sao.",
+      "question": "Khám phá, mô tả, tương quan hay nhân quả?",
+      "notes": "Đọc tình huống, 30 giây bàn, đếm 3–2–1.\nĐáp án: 3 ngón — tương quan. Dữ liệu định lượng; mục tiêu ứng dụng.\nDấu hiệu nhận biết: “biến động cùng chiều”, “mức độ” — và không có thử nghiệm, không chia nhóm ngẫu nhiên.\nĐây là tình huống hay bị nhầm nhất: nhiều bạn chọn 4 ngón vì nghĩ “quảng cáo thì phải làm tăng doanh thu”. Nhắc lại slide “Cùng tăng chưa chắc là nguyên nhân”: có thể cả hai cùng tăng vì mùa Tết.\nNếu chạy quá giờ, có thể bỏ tình huống 5, nhưng luôn giữ tình huống 3 và 4 vì là cặp quan trọng nhất."
+    },
+    {
+      "type": "case",
+      "title": "Tình huống 5: giảng viên kiểm định mô hình niềm tin và ý định mua trực tuyến",
+      "label": "Tình huống 5",
+      "scenario": "Một nhóm giảng viên đại học kiểm định mô hình về ảnh hưởng của niềm tin đến ý định mua hàng trực tuyến của người tiêu dùng trẻ, để đóng góp cho lý thuyết hành vi người tiêu dùng.",
+      "question": "Loại nào? Hàn lâm hay ứng dụng?",
+      "notes": "Đọc tình huống, 30 giây bàn, đếm 3–2–1.\nĐáp án: 3 ngón — tương quan (kiểm định mô hình). Dữ liệu định lượng; mục tiêu hàn lâm.\nTình huống này có thể gây tranh luận giữa tương quan và nhân quả. Chấp nhận “tương quan” và chuyển trọng tâm: điểm chính của tình huống này là hàn lâm — đóng góp cho lý thuyết, không gắn với một doanh nghiệp cụ thể.\nHỏi lớp câu thứ hai trên slide: “Hàn lâm hay ứng dụng?” để nhấn tiêu chí 1. So sánh với dự án của các bạn: ứng dụng, gắn với một quyết định marketing thật.\nNếu chạy quá giờ, có thể bỏ tình huống này."
+    },
+    {
+      "type": "case",
+      "title": "Tình huống 6: mỹ phẩm nội địa phỏng vấn sâu 12 khách hàng trung thành",
+      "label": "Tình huống 6",
+      "scenario": "Một thương hiệu mỹ phẩm nội địa phỏng vấn sâu 12 khách hàng trung thành để hiểu vì sao họ chọn mỹ phẩm Việt thay vì hàng ngoại.",
+      "question": "Loại nào? Định tính hay định lượng?",
+      "notes": "Đọc tình huống, 30 giây bàn, đếm 3–2–1.\nĐáp án: 1 ngón — khám phá. Dữ liệu định tính; mục tiêu ứng dụng.\nDấu hiệu nhận biết: phỏng vấn sâu, cỡ mẫu nhỏ (12 người), hỏi “hiểu vì sao”.\nMột số bạn sẽ chọn “mô tả” vì nghĩ là “mô tả lý do”. Câu chốt: 12 người, hỏi sâu “vì sao” → khám phá, định tính; không dùng kết quả này để nói “bao nhiêu phần trăm khách hàng” chọn mỹ phẩm Việt vì lý do đó.\nSau tình huống này chuyển sang slide đáp án tổng hợp."
+    },
+    {
+      "type": "table",
+      "title": "Đáp án: dấu hiệu nhận biết từng loại",
+      "header": [
+        "Tình huống",
+        "Thiết kế",
+        "Dữ liệu",
+        "Mục tiêu"
+      ],
+      "rows": [
+        [
+          "1 · Kem",
+          "Khám phá",
+          "Định tính",
+          "Ứng dụng"
+        ],
+        [
+          "2 · Đồ ăn",
+          "Mô tả",
+          "Định lượng",
+          "Ứng dụng"
+        ],
+        [
+          "3 · Ảnh A/B",
+          "**Nhân quả**",
+          "Định lượng",
+          "Ứng dụng"
+        ],
+        [
+          "4 · Quảng cáo",
+          "**Tương quan**",
+          "Định lượng",
+          "Ứng dụng"
+        ],
+        [
+          "5 · Niềm tin",
+          "Tương quan",
+          "Định lượng",
+          "**Hàn lâm**"
+        ],
+        [
+          "6 · Mỹ phẩm",
+          "Khám phá",
+          "Định tính",
+          "Ứng dụng"
+        ]
+      ],
+      "notes": "Hiện slide này sau khi lớp đã trả lời đủ 6 tình huống (phút 46–48).\nChữa kỹ 2 tình huống lớp chia rẽ nhiều nhất — chắc chắn có tình huống 3 và 4. Hỏi lớp câu thảo luận: “Vì sao tình huống 3 cho phép nói ảnh người mẫu làm tăng tỷ lệ mua, còn tình huống 4 thì không?”\nCâu chốt: ở tình huống 4, có thể cả chi phí quảng cáo và doanh thu cùng tăng vì mùa Tết; chỉ khi chia ngẫu nhiên và chỉ đổi một yếu tố như tình huống 3 thì mới nói được nhân quả.\nTình huống 5: chấp nhận tương quan; điểm chính là hàn lâm. Tình huống 6: 12 người, hỏi sâu “vì sao” → khám phá, định tính.\nHỏi thêm: “Tình huống nào dễ nhầm nhất? Dấu hiệu nào giúp phân biệt?”\nChuyển sang giải lao: “Sau giải lao, mình xem một nghiên cứu diễn ra theo những bước nào.”"
+    },
+    {
+      "type": "break",
+      "title": "Giải lao 15 phút",
+      "big": "15'",
+      "sub": "Quay lại lúc …",
+      "notes": "Giải lao 15 phút (phút 48–63). Điền giờ quay lại lên slide hoặc nói to trước khi lớp ra ngoài.\nTrong giờ giải lao: vẽ sẵn 6 ô trống lên bảng cho phần tiến trình 6 bước — sau giải lao sẽ điền dần theo ví dụ chuỗi trà sữa.\nNếu có sinh viên hỏi riêng về cách đánh giá hoặc hạn nộp M1, trả lời theo lịch trên LMS.\nLưu ý cho giảng viên: giờ quay lại trên slide đang để “…” — điền trước buổi học."
+    },
+    {
+      "type": "section",
+      "tag": "S5",
+      "kicker": "63–90 phút",
+      "title": "Tiến trình, đạo đức, hệ thống thông tin, người làm và người dùng",
+      "notes": "Phân đoạn S5, khoảng 27 phút (phút 63–90). Bốn phần: tiến trình 6 bước với một ví dụ chạy xuyên suốt (khoảng 13 phút); đặc điểm và đạo đức của hoạt động nghiên cứu (khoảng 4 phút); hệ thống thông tin marketing (khoảng 6 phút); ai làm, ai dùng nghiên cứu (khoảng 4 phút).\nChào lớp trở lại, kiểm tra nhanh mọi người đã vào chỗ.\nLưu ý cho giảng viên: nếu trễ giờ, rút phần người thực hiện và người sử dụng còn 2 phút với một slide tóm tắt; không cắt phần thực hành S7 và phần kết buổi S8."
+    },
+    {
+      "type": "steps",
+      "title": "Mọi nghiên cứu đi qua sáu bước, đúng thứ tự",
+      "steps": [
+        {
+          "head": "Vấn đề"
+        },
+        {
+          "head": "Mục tiêu"
+        },
+        {
+          "head": "Mô hình"
+        },
+        {
+          "head": "Thu thập"
+        },
+        {
+          "head": "Chuẩn bị & phân tích"
+        },
+        {
+          "head": "Trình bày"
+        }
+      ],
+      "callout": "Ví dụ xuyên suốt (giả định): chuỗi trà sữa gần trường.",
+      "notes": "Mọi nghiên cứu marketing tiêu chuẩn đều đi qua một tiến trình tuần tự gồm 6 bước: (1) xác định vấn đề nghiên cứu; (2) xác định mục tiêu nghiên cứu; (3) xây dựng mô hình nghiên cứu; (4) thu thập dữ liệu; (5) chuẩn bị và phân tích dữ liệu; (6) trình bày kết quả.\nNói: “Thay vì định nghĩa từng bước, mình đi qua một ví dụ.” Chỉ vào 6 ô trống đã vẽ trên bảng — sẽ điền dần theo ví dụ chuỗi trà sữa gần trường đại học (tình huống giả định). Mỗi bước, hỏi lớp trước khi đưa đáp án.\nCó thể nói thêm: sau bước 6 là quyết định của nhà quản trị — nằm ngoài nghiên cứu nhưng là lý do nghiên cứu tồn tại.\nNếu sinh viên hỏi về cách chia 4 giai đoạn (xác định vấn đề · thiết kế · thực hiện · báo cáo): hai cách chia khớp nhau, bảng đối chiếu có trong tài liệu đọc thêm.\nLưu ý cho giảng viên: vẽ 6 ô trống lên bảng và điền dần theo ví dụ trà sữa."
+    },
+    {
+      "type": "compare",
+      "title": "“Có nên giảm giá?” là câu hỏi quản trị; vấn đề nghiên cứu là “vì sao sinh viên mua ít đi?”",
+      "left": {
+        "head": "Quản trị: cần **làm** gì?",
+        "items": [
+          "“Có nên giảm giá không?”",
+          "Câu hỏi của giám đốc"
+        ]
+      },
+      "right": {
+        "head": "Nghiên cứu: cần **biết** gì?",
+        "items": [
+          "“Yếu tố nào khiến SV mua ít hơn?”",
+          "Điều cần biết để quyết định"
+        ]
+      },
+      "vs": true,
+      "callout": "Giả định: doanh số trà sữa gần trường giảm.",
+      "notes": "Bước 1 — xác định vấn đề. Nói rõ đây là tình huống giả định.\nKể: giám đốc một chuỗi trà sữa thấy doanh số ở các cửa hàng gần trường đại học giảm rõ rệt so với cùng kỳ năm trước. Câu hỏi của giám đốc là “Có nên giảm giá không?” — đó là vấn đề quản trị: cần làm gì. Nhà nghiên cứu phải chuyển nó thành vấn đề nghiên cứu: cần biết gì — “Những yếu tố nào khiến sinh viên mua ít hơn?”\nHỏi lớp: “Còn những nguyên nhân nào có thể khiến doanh số giảm?” Để lớp đưa ra 4–5 khả năng: giá, chất lượng, đối thủ, kỳ nghỉ, dịch vụ giao hàng… Ghi vào ô 1 trên bảng.\nNhấn: chưa nghiên cứu thì chưa biết nguyên nhân nào đúng. Đây cũng là câu hỏi thảo luận của Xưởng đề tài cuối buổi: vì sao “Có nên giảm giá không?” chưa phải là một vấn đề nghiên cứu."
+    },
+    {
+      "type": "cards",
+      "title": "Sai vấn đề thì cả nghiên cứu đi sai hướng",
+      "cards": [
+        {
+          "head": "Thảo luận",
+          "text": "Với người ra quyết định"
+        },
+        {
+          "head": "Hỏi chuyên gia",
+          "text": "Người trong ngành"
+        },
+        {
+          "head": "Dữ liệu thứ cấp",
+          "text": "Dữ liệu bán hàng có sẵn"
+        },
+        {
+          "head": "Định tính thăm dò",
+          "text": "Phỏng vấn thử vài khách"
+        }
+      ],
+      "callout": "Lý do là đối thủ mới? Giảm giá chỉ mất lãi.",
+      "notes": "Bốn cách nhà nghiên cứu xác định vấn đề: thảo luận với người ra quyết định; hỏi ý kiến chuyên gia, người trong ngành; xem và phân tích dữ liệu thứ cấp có sẵn, ví dụ dữ liệu bán hàng; và có thể làm nghiên cứu định tính thăm dò — phỏng vấn thử vài khách hàng.\nNhấn: đây là bước quan trọng nhất. Xác định sai vấn đề thì mọi bước sau đều đi sai hướng.\nVí dụ (giả định): nếu giám đốc cứ thế giảm giá mà lý do thật là một đối thủ mới mở ngay cổng trường với không gian ngồi học miễn phí — giảm giá chỉ làm mất lợi nhuận, sinh viên vẫn không quay lại.\nHỏi nhanh: “Trong bốn cách này, nhóm các bạn làm được cách nào cho đề tài của mình?” — gợi ý: hầu hết các nhóm làm được phỏng vấn thử vài khách hàng và tìm dữ liệu thứ cấp.\nLưu ý cho giảng viên: dựa trên slide UEF #10 — đã sửa ô “Tiếp cận khách hàng” bị lặp hai lần."
+    },
+    {
+      "type": "model",
+      "title": "Từ mục tiêu đến mô hình: quyết định mình sẽ đo cái gì",
+      "inputsLabel": "Biến độc lập",
+      "inputs": [
+        "Giá",
+        "Chất lượng đồ uống",
+        "Khuyến mãi",
+        "Không gian",
+        "Tiện lợi khi đặt hàng"
+      ],
+      "outputLabel": "Biến phụ thuộc",
+      "output": "Tần suất mua trà sữa của sinh viên",
+      "notes": "Bước 2 — mục tiêu nghiên cứu: trả lời câu hỏi “nghiên cứu này cần biết những gì?” Ví dụ: (1) xác định các lý do sinh viên giảm mua; (2) so sánh đánh giá của sinh viên về chuỗi với đối thủ chính; (3) đề xuất giải pháp. Ghi vào ô 2 trên bảng.\nBước 3 — mô hình nghiên cứu: phác thảo các yếu tố có thể ảnh hưởng. Biến phụ thuộc là tần suất mua của sinh viên; biến độc lập có thể là giá, chất lượng đồ uống, khuyến mãi, không gian, sự tiện lợi khi đặt hàng. Chỉ vào sơ đồ: mỗi ô bên trái là một yếu tố, mũi tên chỉ về kết quả cần giải thích.\nCâu chốt: mô hình cho biết mình sẽ đo cái gì.\nNói: “Biến độc lập, biến phụ thuộc sẽ học kỹ ở Buổi 6 và Buổi 9 — hôm nay chỉ cần thấy hình dạng của một mô hình.” Ghi vào ô 3."
+    },
+    {
+      "type": "steps",
+      "title": "Thu thập, phân tích, trình bày: dữ liệu thô phải thành câu trả lời cho nhà quản trị",
+      "steps": [
+        {
+          "head": "Thu thập",
+          "text": "Thứ cấp, phỏng vấn ~10, khảo sát ~200 SV",
+          "tag": "4"
+        },
+        {
+          "head": "Chuẩn bị & phân tích",
+          "text": "Hiệu chỉnh, mã hóa, làm sạch, phân tích",
+          "tag": "5"
+        },
+        {
+          "head": "Trình bày",
+          "text": "Báo cáo khách quan, có đề xuất",
+          "tag": "6"
+        }
+      ],
+      "callout": "Giám đốc không đọc dữ liệu thô — họ cần câu trả lời.",
+      "notes": "Bước 4 — thu thập dữ liệu: có thể kết hợp dữ liệu bán hàng nội bộ (thứ cấp), phỏng vấn sâu khoảng 10 sinh viên (định tính), rồi khảo sát khoảng 200 sinh viên (định lượng). Yêu cầu: công cụ thiết kế cẩn thận, người đi thu thập được hướng dẫn kỹ để tránh sai lệch.\nBước 5 — chuẩn bị và phân tích: kiểm tra và hiệu chỉnh phiếu (loại phiếu thiếu, mâu thuẫn), mã hóa câu trả lời thành số, nhập và làm sạch, rồi phân tích — ví dụ so sánh mức độ hài lòng của sinh viên giữa chuỗi và đối thủ.\nBước 6 — trình bày kết quả: một báo cáo khách quan, dễ hiểu cho nhà quản trị, có bảng biểu và đề xuất hành động.\nCâu chốt: “Giám đốc không đọc dữ liệu thô — họ cần câu trả lời cho câu hỏi ban đầu.” Điền nốt ô 4–6 trên bảng.\nLưu ý cho giảng viên: đã bỏ chữ “hồi quy” trên slide UEF #12 — vượt phạm vi học phần (chỉ là điểm cộng)."
+    },
+    {
+      "type": "cards",
+      "title": "Ba lỗi khiến nghiên cứu vô giá trị",
+      "cards": [
+        {
+          "head": "Sai đối tượng",
+          "text": "Bán điện thoại giá rẻ mà đi hỏi người giàu"
+        },
+        {
+          "head": "Không thiết kế",
+          "text": "In 1.000 phiếu rồi mới thấy câu hỏi sai"
+        },
+        {
+          "head": "Theo cảm tính",
+          "text": "Dùng giả định, ý kiến cá nhân thay cho dữ liệu"
+        }
+      ],
+      "callout": "Mẫu lớn chưa chắc là mẫu đúng.",
+      "notes": "Ba lỗi kinh điển, lấy từ các video bài giảng.\nMột — hỏi sai đối tượng: muốn biết sở thích thời trang của giới trẻ mà đi hỏi người trên 40 tuổi; bán điện thoại giá rẻ mà hỏi người giàu — nối lại tình huống mở đầu buổi học, chỉ vào chữ “hỏi ai” trên bảng.\nHai — không thiết kế trước: in 1.000 phiếu khảo sát rồi mới phát hiện câu hỏi sai: mất tiền, mất thời gian, phải làm lại.\nBa — quyết định theo cảm tính: dùng giả định hoặc ý kiến cá nhân thay cho dữ liệu.\nLỗi hiểu thường gặp: “Mẫu càng lớn thì kết quả càng đúng.” Hỏi 5.000 người giàu về điện thoại giá rẻ vẫn sai. Đúng đối tượng quan trọng hơn đông đối tượng. Buổi 8 sẽ học kỹ về chọn mẫu.\nChuyển ý: những lỗi này cho thấy nghiên cứu đòi hỏi một cách làm việc riêng."
+    },
+    {
+      "type": "compare",
+      "title": "Nghiên cứu tốt cần khoa học, sự hoài nghi — và đạo đức",
+      "left": {
+        "head": "Sáu đặc điểm",
+        "items": [
+          "Khoa học, sáng tạo",
+          "Nhiều phương pháp, logic",
+          "Hoài nghi",
+          "Đề cao đạo đức"
+        ]
+      },
+      "right": {
+        "head": "Đạo đức khi khảo sát",
+        "items": [
+          "Tự nguyện, được thông tin",
+          "Ẩn danh, bảo mật",
+          "Không đội lốt nghiên cứu",
+          "Trung thực khi báo cáo"
+        ]
+      },
+      "notes": "Sáu đặc điểm của hoạt động nghiên cứu marketing: dùng phương pháp khoa học — có quy trình, có bằng chứng; có tính sáng tạo — mỗi vấn đề cần một thiết kế phù hợp; dùng nhiều phương pháp — kết hợp thứ cấp, định tính, định lượng; có sự logic — từ vấn đề đến mục tiêu, dữ liệu và kết luận phải nối liền; cần sự hoài nghi — luôn hỏi “dữ liệu này có thật sự nói điều đó không?”; đề cao đạo đức nghiên cứu.\nNói: “Các bạn sắp đi hỏi người thật — 4 nguyên tắc này áp dụng cho dự án của các bạn.” Tự nguyện và được thông tin: người trả lời biết nghiên cứu để làm gì, được quyền từ chối hoặc dừng giữa chừng. Ẩn danh và bảo mật: không thu thông tin định danh nếu không cần, không chia sẻ dữ liệu cá nhân ra ngoài nhóm. Không đội lốt nghiên cứu: không dùng “khảo sát” để bán hàng. Trung thực khi báo cáo: không bịa, không sửa, không chọn lọc dữ liệu cho đẹp.\nLưu ý cho giảng viên: nếu muốn dẫn chuẩn quốc tế, đối chiếu Bộ quy tắc ICC/ESOMAR; xác nhận trường có quy định riêng về phiếu đồng ý khảo sát hay không."
+    },
+    {
+      "type": "cards",
+      "title": "Thông tin bên ngoài được theo dõi liên tục; nghiên cứu marketing trả lời một câu hỏi cụ thể",
+      "cards": [
+        {
+          "head": "Báo cáo nội bộ",
+          "text": "Nhìn vào trong: doanh số"
+        },
+        {
+          "head": "Thông tin bên ngoài",
+          "text": "Nhìn ra ngoài, liên tục"
+        },
+        {
+          "head": "Hỗ trợ quyết định",
+          "text": "MDSS: dữ liệu, mô hình"
+        },
+        {
+          "head": "Nghiên cứu marketing",
+          "text": "Dự án: câu hỏi cụ thể"
+        }
+      ],
+      "callout": "Nội bộ cho biết doanh số giảm; nghiên cứu cho biết vì sao.",
+      "notes": "Chuyển ý: một nghiên cứu như ví dụ trà sữa là một dự án — có bắt đầu, có kết thúc. Nhưng doanh nghiệp cần thông tin mỗi ngày. Vậy nghiên cứu nằm ở đâu?\nHệ thống thông tin marketing (MIS) tích hợp con người, thiết bị và quy trình để thu thập, phân tích, phân phối thông tin chính xác, kịp thời cho nhà quản lý. Bốn bộ phận: báo cáo nội bộ — nhìn vào trong, sẵn có, chi phí thấp; thu thập thông tin marketing bên ngoài (marketing intelligence) — nhìn ra ngoài, theo dõi liên tục đối thủ, xu hướng qua báo chí, nhân viên bán hàng, người mua bí mật; ví dụ các ứng dụng giao đồ ăn theo dõi khuyến mãi của nhau — công khai, hợp pháp; hệ thống hỗ trợ ra quyết định (MDSS) — chỉ nêu một câu; nghiên cứu marketing — bài toán cụ thể, tại một thời điểm.\nCâu chốt trên slide. Đối chiếu đề cương: “Đề cương (mục 1.4.2) gọi là tình báo marketing — dịch từ marketing intelligence; lớp mình gọi là thu thập thông tin bên ngoài cho đúng bản chất.”"
+    },
+    {
+      "type": "table",
+      "title": "Bạn sẽ hoặc làm, hoặc dùng nghiên cứu — người dùng giỏi biết nghiên cứu nào đáng tin",
+      "header": [
+        "Người thực hiện",
+        "Ưu điểm",
+        "Hạn chế"
+      ],
+      "rows": [
+        [
+          "Nội bộ",
+          "Hiểu DN, rẻ, bảo mật",
+          "Thiếu chuyên môn, chủ quan"
+        ],
+        [
+          "Công ty chuyên nghiệp",
+          "Chuyên môn, khách quan",
+          "Chi phí cao"
+        ],
+        [
+          "Cơ quan nhà nước",
+          "Vĩ mô, thường miễn phí",
+          "Không theo nhu cầu riêng"
+        ]
+      ],
+      "boldFirstCol": true,
+      "callout": "Bên mua xét: uy tín, phương pháp, cập nhật, chi phí.",
+      "notes": "Nếu trễ giờ, chỉ dùng slide này 2 phút theo phương án dự phòng.\nDoanh nghiệp có hai nguồn cung cấp nghiên cứu: bên trong (bộ phận marketing hoặc nghiên cứu của chính doanh nghiệp) và bên ngoài (công ty nghiên cứu chuyên nghiệp, cơ quan nhà nước, tổ chức phi chính phủ).\nNgười thực hiện: nhân sự nội bộ hiểu doanh nghiệp, chi phí thấp, bảo mật, nhưng thiếu chuyên môn sâu, dễ chủ quan; công ty nghiên cứu chuyên nghiệp (ví dụ Nielsen, Kantar, Ipsos) có chuyên môn, công nghệ, dữ liệu lớn, khách quan, nhưng chi phí cao; cơ quan nhà nước, tổ chức phi chính phủ cung cấp dữ liệu vĩ mô tin cậy, thường miễn phí, nhưng không theo nhu cầu riêng.\nNgười sử dụng: nhà quản lý nội bộ cần hiểu nghiên cứu để đặt đúng câu hỏi; bên mua thông tin đánh giá báo cáo theo uy tín, phù hợp mục tiêu, cập nhật, độ tin cậy về phương pháp, tốc độ, chi phí hợp lý.\nCâu kết: sau này các bạn sẽ hoặc làm, hoặc dùng nghiên cứu.\nLưu ý cho giảng viên: kiểm tra tên cơ quan thống kê hiện hành (Cục Thống kê, Bộ Tài chính) và việc GfK nay thuộc NielsenIQ trước khi nêu."
+    },
+    {
+      "type": "bullets",
+      "title": "Kiểm tra nhanh: ba câu hỏi, mỗi câu một bạn trả lời",
+      "numbered": true,
+      "bullets": [
+        "Trong 6 bước, bước nào quan trọng nhất? Vì sao?",
+        "Nghiên cứu marketing khác thu thập thông tin bên ngoài ở điểm nào?",
+        "Doanh nghiệp nhỏ nên tự làm nghiên cứu hay thuê công ty chuyên nghiệp?"
+      ],
+      "notes": "Phân đoạn S6 — kiểm tra nhanh, 4 phút (phút 90–94). Chiếu 3 câu, chỉ định phát biểu — mỗi câu một bạn, gọi ngẫu nhiên theo danh sách.\nĐáp án mong đợi. Câu 1: bước 1 — xác định sai vấn đề thì cả nghiên cứu đi sai hướng. Câu 2: nghiên cứu marketing trả lời một câu hỏi cụ thể, tại một thời điểm, dạng dự án; thu thập thông tin bên ngoài là theo dõi liên tục môi trường bên ngoài. Câu 3: tùy — tự làm thì rẻ, hiểu doanh nghiệp nhưng dễ chủ quan; thuê thì chuyên nghiệp, khách quan nhưng tốn kém. Câu trả lời tốt nêu được cả hai mặt.\nNếu câu 1 hoặc câu 2 nhiều bạn trả lời sai: dành 1 phút nhắc lại, ghi vào ghi chú sau buổi để ôn ở đầu Buổi 2.\nChuyển ý: “Bây giờ đến phần quan trọng nhất của hôm nay — nhóm các bạn bắt đầu dự án.”"
+    },
+    {
+      "type": "section",
+      "tag": "S7",
+      "kicker": "94–139 phút",
+      "title": "Thực hành nhóm",
+      "notes": "Phân đoạn S7 — thực hành nhóm 45 phút (phút 94–139), hoạt động Xưởng đề tài. Đây là phần không được cắt kể cả khi trễ giờ.\nTrước khi chiếu slide nhiệm vụ, nhắc sinh viên mở máy tính và chuẩn bị phiếu nhóm.\nLưu ý cho giảng viên: kịch bản, phiếu nhóm và cách phản hồi nằm trong phiếu hoạt động Xưởng đề tài; nhớ mang danh sách 10 lĩnh vực gợi ý phòng khi nhóm bí đề tài.\nKhi các nhóm bắt đầu, đi một vòng nhanh để chắc chắn mọi sinh viên đã có nhóm; ai còn lẻ thì ghép ngay trong 3 phút đầu và ghi danh sách nhóm."
+    },
+    {
+      "type": "activity",
+      "title": "Xưởng đề tài (45'): từ quyết định kinh doanh đến vấn đề nghiên cứu",
+      "stages": [
+        {
+          "time": "10'",
+          "text": "Lập nhóm 2–3 bạn, chọn lĩnh vực và một hiện tượng"
+        },
+        {
+          "time": "10'",
+          "text": "Viết 3 câu hỏi quyết định: “Có nên…?”"
+        },
+        {
+          "time": "15'",
+          "text": "1 câu → vấn đề nghiên cứu; phân loại; phác 6 bước"
+        },
+        {
+          "time": "10'",
+          "text": "4–5 nhóm chia sẻ, mỗi nhóm 1 phút"
+        }
+      ],
+      "product": "phiếu nhóm → hoàn thiện thành M1.",
+      "notes": "Để slide này trên màn hình suốt 45 phút. Kịch bản mở đầu: “45 phút tới là thời gian của nhóm. Ai chưa có nhóm thì có 3 phút để tìm nhóm 2–3 người — ai còn lẻ thì giơ tay, tôi ghép. Lưu ý quan trọng nhất: chọn lĩnh vực mà các bạn hỏi được người thật, vì cuối kỳ các bạn phải thu dữ liệu. Tôi sẽ đi từng nhóm.”\nChặng 1: chọn một lĩnh vực hoặc thương hiệu nhóm hiểu và tiếp cận được người trả lời, ghi một hiện tượng tích cực (cơ hội) hoặc tiêu cực (vấn đề). Chặng 2: đặt mình vào vị trí giám đốc marketing, viết 3 quyết định — ví dụ “Có nên mở thêm cửa hàng gần khu ký túc xá không?”. Chặng 3: viết lại thành điều cần biết, bắt đầu bằng “Xác định…”, “Đo lường…”, “Tìm hiểu…”, “So sánh…”; ghi ai sẽ trả lời.\nKhi đi các bàn: nếu câu hỏi là chủ đề, hỏi lại “Giám đốc sẽ làm gì khác đi sau khi biết điều này?”; nếu quá rộng, thu hẹp một sản phẩm, một nhóm khách, một khu vực; nếu đối tượng khó tiếp cận, khuyên đổi ngay.\nCâu chốt khi chia sẻ: “Một vấn đề nghiên cứu tốt trả lời được câu hỏi: giám đốc sẽ dùng kết quả này để quyết định điều gì?”"
+    },
+    {
+      "type": "section",
+      "tag": "S8",
+      "kicker": "139–146 phút",
+      "title": "Kết buổi",
+      "notes": "Phân đoạn S8 — kết buổi, khoảng 7 phút (phút 139–146), còn 4 phút dự phòng đến hết buổi.\nYêu cầu các nhóm dừng làm, chụp hoặc lưu phiếu nhóm để hoàn thiện thành M1 ở nhà.\nPhát phiếu ra về (giấy nhỏ hoặc trang cuối phiếu hoạt động). Phần này không được cắt kể cả khi trễ giờ — phiếu ra về là cách giảng viên biết lớp đã hiểu đến đâu."
+    },
+    {
+      "type": "cards",
+      "title": "Trước khi về: điều đã rõ, điều còn mơ hồ",
+      "cards": [
+        {
+          "head": "Đã rõ",
+          "text": "Một điều hôm nay mình đã hiểu rõ"
+        },
+        {
+          "head": "Còn mơ hồ",
+          "text": "Một điều mình vẫn còn mơ hồ"
+        }
+      ],
+      "callout": "Không cần ghi tên — nộp lại trước khi ra về.",
+      "notes": "Phiếu ra về: mỗi bạn viết ra hai dòng — một điều hôm nay mình đã hiểu rõ, và một điều mình vẫn còn mơ hồ. Không ghi tên cũng được.\nCho khoảng 2 phút để viết, rồi thu lại trước khi lớp ra về.\nNói với lớp lý do: “Tôi sẽ đọc hết các phiếu trước Buổi 2, và mở đầu Buổi 2 bằng 2–3 điều còn mơ hồ nhiều nhất.”\nĐiều giảng viên cần kiểm tra qua phiếu: sinh viên đã phân biệt được các loại thiết kế (khám phá – mô tả – nhân quả) chưa, và có hiểu vì sao bước xác định vấn đề quyết định cả dự án không.\nChuyển sang slide bài tập M1 trong khi sinh viên đang viết."
+    },
+    {
+      "type": "cards",
+      "title": "Bài tập M1 và buổi sau",
+      "cards": [
+        {
+          "head": "M1",
+          "text": "Phiếu đăng ký đề tài sơ bộ · nhóm · 2,5% · nộp LMS trước Buổi 2 (hạn: …)"
+        },
+        {
+          "head": "Tự học",
+          "text": "Tài liệu đọc thêm Bài 1"
+        },
+        {
+          "head": "Buổi 2",
+          "text": "Tìm tài liệu học thuật cho đề tài — mang máy tính"
+        }
+      ],
+      "notes": "Bài tập về nhà — M1: Phiếu đăng ký đề tài sơ bộ (nhóm, 2,5%). Hoàn thiện phiếu nhóm đã làm trên lớp hôm nay, nộp trên LMS trước Buổi 2. Đề bài và tiêu chí chấm có trên LMS.\nTự học: đọc tài liệu đọc thêm Bài 1 — trong đó có bảng so sánh nghiên cứu marketing với nghiên cứu thị trường, các cách phân loại khác và bảng đối chiếu tiến trình 4 giai đoạn.\nCâu nối sang buổi sau: “Tuần sau, mỗi nhóm sẽ đi tìm tài liệu học thuật cho chính đề tài vừa đăng ký — và học cách phân biệt một nguồn đáng tin với một bài viết trên mạng. Mang theo máy tính.”\nLưu ý cho giảng viên: điền hạn nộp M1 cụ thể, quy định nộp trễ và tên mục nộp trên LMS trước buổi học."
+    },
+    {
+      "type": "references",
+      "title": "Tài liệu tham khảo",
+      "refs": [
+        "American Marketing Association. (2017). *Definitions of marketing*. https://www.ama.org/the-definition-of-marketing-what-is-marketing/",
+        "Kotler, P., & Keller, K. L. (2012). *Marketing management* (14th ed.). Pearson Education.",
+        "Malhotra, N. K. (2019). *Marketing research: An applied orientation* (7th ed.). Pearson.",
+        "Nguyễn, Đ. T., & Nguyễn, T. M. T. (2015). *Giáo trình nghiên cứu thị trường*. Nhà xuất bản Kinh tế TP. Hồ Chí Minh."
+      ],
+      "notes": "Slide danh mục tài liệu tham khảo, đặt sau slide cuối, không giảng trong mạch bài.\nNếu còn thời gian, dùng slide này làm ví dụ mẫu APA 7 khi nhắc sinh viên về Buổi 2–3: danh mục xếp theo thứ tự A–Z theo họ tác giả; tên tổ chức (American Marketing Association) viết đầy đủ; tên sách in nghiêng; tác giả Việt ghi họ trước, viết tắt tên đệm và tên — Nguyễn, Đ. T. là Nguyễn Đình Thọ.\nNhắc: mỗi trích dẫn trong bài, như (Malhotra, 2019) trên slide phân loại, đều phải có đúng một mục tương ứng trong danh mục này."
+    }
+  ]
+}

@@ -1,0 +1,917 @@
+{
+  "deckTitle": "MKT1107 · Buổi 2 · Tham khảo và trích dẫn tài liệu",
+  "fileName": "MKT1107_W02_slides.pptx",
+  "slides": [
+    {
+      "type": "cover",
+      "lessonTag": "Buổi",
+      "number": 2,
+      "kicker": "Tìm, đánh giá và trích dẫn nguồn",
+      "title": "Bài 2: Tham khảo và trích dẫn tài liệu",
+      "subtitle": "MKT1107 · Nghiên cứu Marketing",
+      "presenter": "GV: Đoàn Nguyễn Bảo Quyên",
+      "notes": "Slide mở màn, không giảng. Buổi 2 thuộc mục 2.1 của Bài 2: trích dẫn, tìm nguồn và tránh đạo văn. APA 7 chi tiết (từng trường hợp tác giả, từng loại nguồn) để sang Buổi 3 — hôm nay chỉ giới thiệu khái niệm trích dẫn trong bài và danh mục.\nChuyển ngay sang slide tiếp theo: buổi học mở đầu bằng việc kiểm tra M1 — các nhóm đã nộp phiếu đăng ký đề tài trước buổi này.\nLưu ý thời gian: phần khởi động S1 có 8 phút (0–8'), gồm khoảng 5 phút kiểm tra M1 và 3 phút câu hỏi mở bài.\nLưu ý cho giảng viên: dựa trên slide UEF Bài 2 #1; đã thay phụ đề “theo chuẩn APA 7th” và xóa nhãn “NotebookLM” ở góc slide gốc."
+    },
+    {
+      "type": "steps",
+      "title": "Đề tài của nhóm bạn là nguyên liệu cho cả buổi hôm nay",
+      "steps": [
+        {
+          "head": "Quyết định",
+          "text": "Giám đốc cần quyết định gì?"
+        },
+        {
+          "head": "Vấn đề nghiên cứu",
+          "text": "Cần biết gì?"
+        },
+        {
+          "head": "Đối tượng",
+          "text": "Hỏi ai? Tiếp cận được không?"
+        }
+      ],
+      "callout": "Được điều chỉnh đề tài đến hết Buổi 3.",
+      "notes": "Nói: “Tuần trước các bạn đã đăng ký đề tài. Hôm nay, đề tài đó là nguyên liệu cho cả buổi: 45 phút cuối, mỗi nhóm sẽ đi tìm tài liệu cho chính đề tài của mình.”\nMời 1–2 nhóm — ưu tiên một nhóm có đề tài tốt và một nhóm có lỗi điển hình giảng viên đã thấy khi đọc M1 — nói trong 1 phút theo khung trên slide: nhóm muốn hỗ trợ quyết định gì, cần biết điều gì, sẽ hỏi ai?\nPhản hồi mỗi nhóm đúng một câu, theo một trong ba hướng: “Đây là chủ đề, chưa phải quyết định — giám đốc sẽ làm gì khác đi sau khi biết kết quả?”; “Vấn đề nghiên cứu đang là giải pháp — viết lại thành điều cần biết”; “Đối tượng này nhóm có tiếp cận được không?”\nNhắc 1–2 lỗi chung của M1 (viết chủ đề thay cho quyết định; vấn đề quá rộng; đối tượng khó tiếp cận). Nhắc: được điều chỉnh đề tài đến hết Buổi 3, khi nộp M2."
+    },
+    {
+      "type": "case",
+      "title": "“8/10 sinh viên uống trà sữa mỗi tuần”: bạn có dám đưa câu này vào tiểu luận?",
+      "label": "Fanpage",
+      "scenario": [
+        "Một bài đăng trên fanpage (giả định) viết:",
+        "**“8/10 sinh viên uống trà sữa ít nhất một lần mỗi tuần.”**",
+        "Câu này rất hợp với phần bối cảnh của nhóm."
+      ],
+      "question": "Dám hay không dám? Giơ tay.",
+      "notes": "Đọc chậm: “Giả sử nhóm bạn làm đề tài về trà sữa. Lướt mạng, bạn gặp một bài đăng trên fanpage có câu: 8/10 sinh viên uống trà sữa ít nhất một lần mỗi tuần. Câu này nghe rất hợp với phần bối cảnh của nhóm. Bạn có dám đưa câu này vào tiểu luận không?”\nCả lớp giơ tay: ai dám, ai không dám. Đếm nhanh. Chỉ định 1 bạn “dám” và 1 bạn “không dám” giải thích.\nCâu trả lời mong đợi: không dám — không biết ai khảo sát, hỏi bao nhiêu người, hỏi ở đâu, khi nào; fanpage có thể có mục đích bán hàng.\nNói rõ với lớp: đây là câu giả định để khởi động, không phải số liệu thật.\nChuyển ý: “Câu hỏi ‘có dám trích không?’ chính là nội dung hôm nay.”"
+    },
+    {
+      "type": "cards",
+      "title": "Hôm nay trả lời bốn câu hỏi trước khi đặt bút trích dẫn",
+      "cards": [
+        {
+          "head": "Vì sao trích dẫn?",
+          "text": "Bốn lý do; chuẩn APA 7"
+        },
+        {
+          "head": "Tìm ở đâu?",
+          "text": "Google Scholar, từ khóa"
+        },
+        {
+          "head": "Có đáng tin không?",
+          "text": "Bốn tiêu chí đánh giá"
+        },
+        {
+          "head": "Thế nào là đạo văn?",
+          "text": "Năm dạng và cách tránh"
+        }
+      ],
+      "callout": "Cuối buổi: mỗi nhóm có 5 tài liệu đầu tiên.",
+      "notes": "Giới thiệu bốn câu hỏi của buổi: vì sao phải trích dẫn, tìm tài liệu đáng tin ở đâu, làm sao biết một nguồn có đáng tin không, và thế nào là đạo văn.\nNói rõ phạm vi: “APA 7 chi tiết — cách ghi từng loại tài liệu, từng trường hợp tác giả — để tuần sau. Hôm nay học cách có được nguồn đáng để trích.”\nNêu sản phẩm cuối buổi: sau 45 phút thực hành, mỗi nhóm sẽ có 5 tài liệu đầu tiên cho đề tài của mình, đã được đánh giá độ tin cậy, và bắt đầu bảng tóm tắt — nguyên liệu cho bài tập về nhà và cho M2.\nChuyển ý sang S2: “Bắt đầu bằng câu hỏi thứ nhất: vì sao phải trích dẫn?”"
+    },
+    {
+      "type": "section",
+      "tag": "S2",
+      "kicker": "8–20 phút",
+      "title": "Vì sao trích dẫn; trích dẫn trong bài và trong danh mục",
+      "notes": "Phân đoạn S2, khoảng 12 phút (phút 8–20): nguyên tắc ghi nguồn, bốn lý do phải trích dẫn, các chuẩn trích dẫn (học phần dùng APA 7), khái niệm trích dẫn trong bài và danh mục tài liệu tham khảo, quy tắc khớp 1–1, và cách trích tác giả Việt.\nGiữ đúng phạm vi: chỉ giới thiệu khái niệm; không giảng cấu trúc từng thành phần của một mục danh mục — phần đó để Buổi 3, khi các nhóm mang danh mục của mình đến sửa trên lớp.\nChuẩn bị sẵn bảng để viết câu nguyên tắc ở slide tiếp theo và giữ suốt buổi."
+    },
+    {
+      "type": "statement",
+      "big": "Mọi ý tưởng, số liệu, bảng biểu không phải của bạn đều phải ghi nguồn",
+      "sub": "Ở trong bài và ở danh mục cuối bài.",
+      "mark": "!",
+      "notes": "Viết câu này lên bảng và giữ suốt buổi: mỗi ý tưởng, số liệu, bảng biểu không phải của bạn đều phải ghi nguồn — cả ở trong bài lẫn ở danh mục cuối bài.\nHỏi nhanh: “Nếu nhóm tự khảo sát và có kết quả riêng, có cần trích dẫn kết quả đó không?” Chờ vài câu trả lời.\nCâu trả lời mong đợi: không cần trích dẫn kết quả của chính mình, nhưng phải trích nguồn của thang đo, mô hình, lý thuyết mượn từ người khác. Ví dụ: nhóm dùng thang đo ý định mua lại của một tác giả khác thì phải ghi nguồn thang đo đó, dù số liệu là của nhóm.\nChuyển ý: “Vì sao phải khắt khe như vậy? Có bốn lý do.”"
+    },
+    {
+      "type": "cards",
+      "title": "Trích dẫn để trung thực, đúng luật, có hệ thống — và để thuyết phục",
+      "cards": [
+        {
+          "head": "Trung thực",
+          "text": "Người đọc phân biệt được đâu là đóng góp của bạn"
+        },
+        {
+          "head": "Pháp lý & liêm chính",
+          "text": "Tránh đạo văn và vi phạm quyền tác giả"
+        },
+        {
+          "head": "Có hệ thống",
+          "text": "Người đọc tra lại được nguồn, kiểm tra lập luận"
+        },
+        {
+          "head": "Thuyết phục",
+          "text": "Có nguồn đáng tin hơn ý kiến cá nhân"
+        }
+      ],
+      "notes": "Đi qua bốn lý do. Trung thực: thừa nhận nguồn gốc ý tưởng của người khác; người đọc phân biệt được đâu là đóng góp của bạn. Pháp lý và liêm chính học thuật: tránh đạo văn và vi phạm quyền tác giả. Có hệ thống: người đọc tra lại được nguồn, kiểm tra được lập luận của bạn. Thuyết phục: lập luận dựa trên bằng chứng có nguồn đáng tin hơn ý kiến cá nhân.\nNhấn ô thứ tư — lý do hay bị quên nhất. Trích dẫn không chỉ là nghĩa vụ, nó là vũ khí. Đọc hai câu: “Em nghĩ giá là yếu tố quan trọng nhất khi sinh viên chọn quán trà sữa.” và “Nhiều nghiên cứu về đồ uống cho thấy giá là một trong những yếu tố ảnh hưởng mạnh đến quyết định của người mua trẻ (kèm nguồn).”\nHỏi: “Giám đốc marketing tin câu nào hơn?” → câu thứ hai, vì nó cho người đọc một con đường để kiểm tra.\nLưu ý cho giảng viên: dựa trên slide UEF #2 (3 ô), thêm ô thứ tư “Thuyết phục” theo tài liệu học tập."
+    },
+    {
+      "type": "cards",
+      "title": "Có nhiều chuẩn trích dẫn; học phần này dùng APA 7 từ đầu đến cuối",
+      "cards": [
+        {
+          "head": "APA 7",
+          "text": "**Kinh doanh, giáo dục, KHXH**"
+        },
+        {
+          "head": "IEEE",
+          "text": "Kỹ thuật, công nghệ thông tin"
+        },
+        {
+          "head": "MLA",
+          "text": "Ngôn ngữ học, nhân văn"
+        },
+        {
+          "head": "Chicago",
+          "text": "Lịch sử, nghệ thuật"
+        }
+      ],
+      "callout": "Dùng một chuẩn, nhất quán từ đầu đến cuối.",
+      "notes": "Có nhiều chuẩn trích dẫn, mỗi chuẩn phổ biến trong một nhóm ngành: APA 7 trong kinh doanh, giáo dục, tâm lý học, khoa học xã hội; IEEE trong kỹ thuật, công nghệ thông tin; MLA trong ngôn ngữ học, nhân văn; Chicago trong lịch sử, nghệ thuật.\nHọc phần này — và phần lớn tiểu luận, khóa luận ngành kinh tế — dùng APA 7 (American Psychological Association, 2020).\nNói: “Không cần thuộc chuẩn khác. Điều quan trọng không phải là thuộc lòng chuẩn nào, mà là dùng một chuẩn, nhất quán từ đầu đến cuối bài.”\nLưu ý cho giảng viên: slide UEF #7 ghi “MLA 8th” và “Chicago 17th” — đã cũ; bản hiện hành là MLA 9th (2021) và Chicago 18th (2024), cần xác minh. Slide này đã bỏ số phiên bản của MLA và Chicago, chỉ giữ APA 7."
+    },
+    {
+      "type": "compare",
+      "title": "Mỗi nguồn xuất hiện hai lần: ngắn trong bài, đầy đủ ở danh mục",
+      "left": {
+        "head": "Trong bài: ngắn",
+        "items": [
+          "… giảm rủi ro (Malhotra, 2019).",
+          "Malhotra (2019) cho rằng…"
+        ]
+      },
+      "right": {
+        "head": "Danh mục: đầy đủ",
+        "items": [
+          "Malhotra, N. K. (2019). *Marketing research: An applied orientation* (7th ed.). Pearson."
+        ]
+      },
+      "vs": false,
+      "callout": "Khớp 1–1 giữa trong bài và danh mục.",
+      "notes": "APA 7 trích dẫn theo kiểu tác giả – năm. Mỗi nguồn xuất hiện hai lần: trích dẫn trong bài (in-text citation) — ngắn gọn, ngay chỗ bạn dùng ý; và danh mục tài liệu tham khảo (reference list) — đầy đủ, ở cuối bài, để người đọc tìm được tài liệu.\nHai cách đặt trích dẫn trong bài — đọc hai câu ví dụ. Trong ngoặc, cuối câu: “Nghiên cứu marketing giúp giảm rủi ro khi ra quyết định (Malhotra, 2019).” Dẫn dắt, tên tác giả là một phần của câu: “Malhotra (2019) cho rằng nghiên cứu marketing giúp giảm rủi ro.”\nNhấn quy tắc khớp 1–1: mỗi trích dẫn trong bài phải có đúng một mục trong danh mục, và mỗi mục trong danh mục phải được trích ít nhất một lần trong bài. Danh mục không phải “danh sách những gì tôi đã lướt qua”."
+    },
+    {
+      "type": "cards",
+      "title": "Tác giả Việt: trích bằng họ, không bằng tên",
+      "cards": [
+        {
+          "head": "Trong bài",
+          "text": "(Lê, 2017)"
+        },
+        {
+          "head": "Danh mục",
+          "text": "Lê, Q. H. (2017). *Phân tích dữ liệu trong kinh doanh*. Nhà xuất bản Kinh tế TP. Hồ Chí Minh."
+        }
+      ],
+      "callout": "Ghi link ở cuối bài là chưa đủ.",
+      "notes": "Nhắc lại quy ước của học phần cho tác giả Việt: ghi họ trước, viết tắt tên đệm và tên. Lê Quang Hùng → trong danh mục “Lê, Q. H. (2017)”, trong bài “(Lê, 2017)”.\nSlide này chỉ để thấy cặp “trong bài – danh mục” với tên Việt. Nói: “Công thức từng thành phần của một mục danh mục học tuần sau.”\nLỗi hiểu thường gặp: “Ghi link ở cuối bài là đủ.” Không đủ. Một đường link không cho biết ai viết, năm nào, tên tài liệu là gì; link có thể chết. Và nếu không có trích dẫn trong bài, người đọc không biết câu nào lấy từ nguồn nào.\nChuyển ý: “Trích dẫn đúng chỉ có giá trị khi nguồn đáng tin. Vậy tìm nguồn đáng tin ở đâu?”\nLưu ý cho giảng viên: slide UEF #3 gốc có hai lựa chọn sai “(Lê Quang Hùng, 2017)” và “(Hùng, 2017)”, dòng danh mục “Lê Quang Hùng (2017)” — đã sửa."
+    },
+    {
+      "type": "section",
+      "tag": "S3",
+      "kicker": "20–42 phút",
+      "title": "Tìm tài liệu học thuật",
+      "notes": "Phân đoạn S3, khoảng 22 phút (phút 20–42): nguồn học thuật và không học thuật (khoảng 6 phút); tìm ở đâu (khoảng 4 phút); từ khóa Việt – Anh (khoảng 4 phút); toán tử tìm kiếm (khoảng 3 phút); mở rộng từ một bài tốt và ghi lại ngay (khoảng 2 phút); demo trực tiếp trên Google Scholar (khoảng 6 phút).\nTrước khi vào phần này, mở sẵn Google Scholar trên máy chiếu và chuẩn bị ảnh chụp màn hình dự phòng phòng khi Google Scholar hiện captcha do nhiều máy cùng truy cập.\nNhắc sinh viên mở máy tính để thử chuỗi tìm kiếm cùng lúc với demo."
+    },
+    {
+      "type": "steps",
+      "title": "Nguồn học thuật là nguồn đã qua kiểm định của chuyên gia",
+      "steps": [
+        {
+          "head": "Tác giả gửi bài",
+          "text": "Bài báo gửi tạp chí"
+        },
+        {
+          "head": "Chuyên gia phản biện",
+          "text": "Độc lập, cùng lĩnh vực, đọc và góp ý"
+        },
+        {
+          "head": "Quyết định",
+          "text": "Đăng, yêu cầu sửa hoặc từ chối"
+        }
+      ],
+      "callout": "Tạp chí có phản biện = peer-reviewed.",
+      "notes": "Định nghĩa: nguồn học thuật (academic sources) là tài liệu do người có chuyên môn viết, công bố qua một quy trình kiểm định chất lượng.\nQuan trọng nhất là bài báo trên tạp chí có phản biện (peer-reviewed journal): trước khi đăng, bài được các chuyên gia độc lập trong cùng lĩnh vực đọc, góp ý và quyết định có cho đăng hay không — đăng, yêu cầu sửa, hoặc từ chối. Đi theo sơ đồ ba bước trên slide.\nHỏi lớp: “Bài trên báo điện tử có qua phản biện không?” Chờ vài câu trả lời.\nCâu trả lời mong đợi: có biên tập, nhưng không phải phản biện chuyên môn — biên tập viên kiểm tra tin tức và câu chữ, không có chuyên gia độc lập kiểm tra phương pháp.\nChuyển ý: “Vậy các bạn sẽ gặp những nhóm nguồn nào, và dùng mỗi nhóm ra sao?”"
+    },
+    {
+      "type": "table",
+      "title": "Ba nhóm nguồn, ba cách dùng khác nhau",
+      "header": [
+        "Nhóm nguồn",
+        "Ví dụ",
+        "Dùng để"
+      ],
+      "rows": [
+        [
+          "Học thuật",
+          "Tạp chí phản biện, sách, luận văn",
+          "Lý thuyết, mô hình, thang đo"
+        ],
+        [
+          "Có điều kiện",
+          "Thống kê, báo cáo ngành, báo chí",
+          "Bối cảnh, số liệu thị trường"
+        ],
+        [
+          "Không dùng làm nguồn",
+          "Blog, fanpage, diễn đàn, AI",
+          "Chỉ gợi ý hướng tìm"
+        ]
+      ],
+      "boldFirstCol": true,
+      "callout": "Có trên Google Scholar chưa chắc là học thuật.",
+      "notes": "Ba nhóm nguồn. Học thuật: bài báo tạp chí có phản biện, sách chuyên khảo, giáo trình, kỷ yếu hội thảo khoa học, luận văn, luận án — dùng cho cơ sở lý thuyết, mô hình, thang đo, kết quả nghiên cứu trước. Không học thuật nhưng dùng có điều kiện: số liệu cơ quan thống kê quốc gia, báo cáo ngành của công ty nghiên cứu thị trường, báo chí chính thống, website chính thức của doanh nghiệp — dùng cho bối cảnh, số liệu thị trường ở Chương 1, phải kiểm tra nguồn gốc số liệu. Không dùng làm nguồn: blog, fanpage, diễn đàn, trang tổng hợp không rõ tác giả, nội dung chatbot AI chưa kiểm chứng — chỉ để gợi ý hướng tìm.\nLuận văn thạc sĩ là học thuật nhưng chất lượng không đều — ưu tiên bài báo tạp chí; dùng luận văn để tham khảo mô hình, thang đo, danh mục tài liệu.\nMột câu: dữ liệu sơ cấp là dữ liệu bạn tự thu thập, thứ cấp là người khác đã thu thập — học kỹ Buổi 7. Hôm nay làm việc với nguồn thứ cấp.\nLỗi hiểu: Google Scholar tìm cả luận văn, bản thảo chưa phản biện — phải mở ra xem công bố ở đâu."
+    },
+    {
+      "type": "cards",
+      "title": "Bắt đầu từ Google Scholar, đi tiếp vào thư viện số và tạp chí",
+      "cards": [
+        {
+          "head": "Google Scholar",
+          "text": "Miễn phí, rộng nhất — dùng hôm nay"
+        },
+        {
+          "head": "Cơ sở dữ liệu lớn",
+          "text": "ScienceDirect, JSTOR, Scopus (qua thư viện)"
+        },
+        {
+          "head": "Thư viện số của trường",
+          "text": "Cách truy cập: …"
+        },
+        {
+          "head": "Tạp chí trong nước",
+          "text": "Bối cảnh Việt Nam, toàn văn miễn phí"
+        }
+      ],
+      "notes": "Cơ sở dữ liệu học thuật (scholarly databases) là kho trực tuyến tập hợp tài liệu đã qua thẩm định chuyên môn.\nGoogle Scholar — miễn phí, rộng nhất, điểm bắt đầu cho sinh viên. Nói: “Hôm nay dùng Google Scholar.”\nScienceDirect, JSTOR, Scopus — cơ sở dữ liệu lớn; nhiều bài cần quyền truy cập qua thư viện. PubMed cũng là cơ sở dữ liệu lớn nhưng thuộc lĩnh vực y sinh, ít dùng cho marketing.\nThư viện số của trường — giới thiệu tên cơ sở dữ liệu trường đang đăng ký và cách truy cập từ ngoài trường.\nTạp chí khoa học trong nước — nhiều tạp chí kinh tế, quản trị kinh doanh có bài về hành vi người tiêu dùng Việt Nam, đăng toàn văn miễn phí trên trang của tạp chí.\nLưu ý cho giảng viên: cần bổ sung tên cơ sở dữ liệu thư viện UEF và cách truy cập (ô thứ ba đang để “…”); nếu nêu tên tạp chí trong nước cụ thể, đối chiếu danh mục tạp chí được Hội đồng Giáo sư Nhà nước tính điểm năm hiện hành."
+    },
+    {
+      "type": "table",
+      "title": "Đừng gõ cả câu đề tài: tách thành khái niệm, tìm bằng hai thứ tiếng",
+      "header": [
+        "Khái niệm",
+        "Tiếng Việt",
+        "Tiếng Anh"
+      ],
+      "rows": [
+        [
+          "Hành vi",
+          "ý định mua lại",
+          "repurchase intention"
+        ],
+        [
+          "Sản phẩm",
+          "trà sữa",
+          "bubble tea, milk tea"
+        ],
+        [
+          "Đối tượng",
+          "sinh viên",
+          "students, young consumers"
+        ]
+      ],
+      "boldFirstCol": true,
+      "callout": "Không có bài về trà sữa? Mở rộng sang đồ uống.",
+      "notes": "Bước sai phổ biến nhất: gõ cả câu đề tài vào ô tìm kiếm. Hãy tách đề tài thành các khái niệm, mỗi khái niệm tìm từ khóa tiếng Việt và tiếng Anh.\nVí dụ giả định — đề tài “Các yếu tố ảnh hưởng đến ý định mua lại trà sữa của sinh viên”. Hành vi cần giải thích: ý định mua lại — repurchase intention, purchase intention, customer loyalty. Sản phẩm, ngành: trà sữa — bubble tea, milk tea, beverage. Đối tượng: sinh viên — students, young consumers, Gen Z.\nMẹo: khái niệm hành vi (ý định mua lại) thường cho nhiều kết quả học thuật hơn khái niệm sản phẩm (trà sữa). Nếu không có bài nào về đúng trà sữa, tài liệu về ý định mua lại trong ngành đồ uống, thức ăn nhanh vẫn là tài liệu tốt.\nHỏi nhanh một nhóm: “Đề tài của nhóm bạn tách thành mấy khái niệm?”"
+    },
+    {
+      "type": "table",
+      "title": "Năm toán tử giúp kết quả sát đề tài hơn",
+      "header": [
+        "Cách gõ",
+        "Tác dụng",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "\"cụm từ\"",
+          "Đúng cụm từ",
+          "\"repurchase intention\""
+        ],
+        [
+          "OR",
+          "Một trong hai",
+          "\"bubble tea\" OR \"milk tea\""
+        ],
+        [
+          "-từ",
+          "Loại bỏ từ",
+          "\"milk tea\" -chemistry"
+        ],
+        [
+          "intitle:",
+          "Trong tên bài",
+          "intitle:\"repurchase intention\""
+        ],
+        [
+          "Lọc năm",
+          "Giới hạn năm",
+          "Từ 2020 đến nay"
+        ]
+      ],
+      "boldFirstCol": true,
+      "notes": "Mỗi toán tử một ví dụ. Ngoặc kép: tìm đúng cụm từ, không tách rời — \"repurchase intention\". OR (viết hoa): một trong các từ — \"bubble tea\" OR \"milk tea\". Dấu trừ trước từ: loại bỏ kết quả có từ đó — \"milk tea\" -chemistry. intitle: từ khóa phải nằm trong tên bài — intitle:\"repurchase intention\". Bộ lọc năm ở cột bên trái: giới hạn thời gian, ví dụ từ 2020 đến nay. Ngoài ra có author: để tìm theo tác giả, ví dụ author:\"ajzen\".\nNhấn: Google Scholar tự hiểu các từ cách nhau là AND — phải có tất cả. Trong ScienceDirect, Scopus… các bạn gõ AND, OR, NOT rõ ràng.\nHỏi: “Muốn loại các bài hóa học về trà sữa thì dùng toán tử nào?” → dấu trừ.\nLưu ý cho giảng viên: thử lại cú pháp và vị trí bộ lọc trên giao diện Google Scholar hiện hành trước buổi học."
+    },
+    {
+      "type": "cards",
+      "title": "Một bài tốt dẫn đến mười bài tốt khác",
+      "cards": [
+        {
+          "head": "Đi lùi",
+          "text": "Danh mục tài liệu của bài: các bài cũ hơn",
+          "tag": "←"
+        },
+        {
+          "head": "Đi tới",
+          "text": "“Được trích dẫn bởi”: các bài mới hơn",
+          "tag": "→"
+        },
+        {
+          "head": "Bên cạnh",
+          "text": "“Bài viết có liên quan”",
+          "tag": "↔"
+        }
+      ],
+      "callout": "Nhanh nhất khi đã có một bài sát đề tài.",
+      "notes": "Khi đã tìm được một bài thật sát đề tài, mở rộng theo ba hướng.\nĐi lùi: đọc danh mục tài liệu của bài đó — tìm những tài liệu nền mà bài dựa vào.\nĐi tới: bấm “Được trích dẫn bởi” (Cited by) — tìm những bài mới hơn đã dùng bài đó.\nBên cạnh: bấm “Bài viết có liên quan” (Related articles).\nNói: “Đây là cách nhanh nhất khi đã có một bài sát đề tài — thay vì gõ hàng chục chuỗi tìm kiếm, các bạn đi theo dấu vết của chính các nhà nghiên cứu.”\nGợi ý cho phần thực hành: nhóm nào tìm được một bài thật sát đề tài thì làm ngay bước đi lùi và đi tới."
+    },
+    {
+      "type": "cards",
+      "title": "Ghi lại thông tin ngay khi tìm thấy, đừng để mai",
+      "cards": [
+        {
+          "head": "Tác giả",
+          "text": "Họ, tên viết tắt"
+        },
+        {
+          "head": "Năm",
+          "text": "Năm công bố"
+        },
+        {
+          "head": "Tên bài",
+          "text": "Đúng như bản gốc"
+        },
+        {
+          "head": "Nơi công bố",
+          "text": "Tạp chí, tập, số, trang"
+        },
+        {
+          "head": "DOI / link",
+          "text": "Để mở lại được"
+        },
+        {
+          "head": "Nút Cite",
+          "text": "“Trích dẫn” tiện nhưng **thường sai**"
+        }
+      ],
+      "notes": "Ghi lại ngay thông tin để lập danh mục: tác giả, năm, tên bài, nơi công bố (tạp chí, tập, số, trang), DOI hoặc đường dẫn.\nNói câu dễ nhớ: “Ghi sau là quên, quên là phải tìm lại.” Nhiều nhóm mất cả buổi cuối kỳ chỉ để tìm lại nguồn của một câu đã chép vào bài.\nLưu ý ô cuối: nút “Trích dẫn” (Cite) của Google Scholar cho sẵn một dòng APA — tiện, nhưng thường sai với tên tác giả Việt, thiếu DOI, sai chữ hoa. Buổi 3 sẽ học cách sửa. Hôm nay chỉ dùng nút đó để lưu thông tin, không chép thẳng vào danh mục.\nChuyển sang demo: “Bây giờ xem tất cả những điều này trên Google Scholar thật.”"
+    },
+    {
+      "type": "compare",
+      "title": "Demo: cùng một đề tài, hai cách tìm, hai kết quả rất khác",
+      "left": {
+        "head": "Cách 1",
+        "items": [
+          "trà sữa sinh viên",
+          "Kết quả lẫn lộn",
+          "Nhiều luận văn"
+        ]
+      },
+      "right": {
+        "head": "Cách 2",
+        "items": [
+          "\"repurchase intention\" \"bubble tea\" OR \"milk tea\"",
+          "Lọc năm: từ 2020"
+        ]
+      },
+      "vs": true,
+      "callout": "Mở một bài: tạp chí, năm, tác giả, abstract.",
+      "notes": "Chuyển sang Google Scholar trực tiếp trên máy chiếu. Làm từng bước, nói to suy nghĩ của mình.\nBước 1: gõ trà sữa sinh viên → chỉ ra kết quả lẫn lộn, nhiều luận văn, nhiều tài liệu không liên quan. Bước 2: gõ \"repurchase intention\" \"bubble tea\" OR \"milk tea\" → so sánh kết quả. Bước 3: lọc năm từ 2020 → số kết quả giảm, bài mới hơn.\nBước 4: mở một kết quả, chỉ cho lớp tên tạp chí, năm, tác giả và đơn vị, phần tóm tắt (abstract), có mô tả phương pháp không. Hỏi: “Bài này là nguồn học thuật không? Dựa vào đâu?” Bước 5: bấm “Được trích dẫn bởi” để cho thấy cách đi tới bài mới hơn.\nKhông chọn sẵn một bài để giới thiệu — tránh cả lớp chép cùng một bài. Nếu Google Scholar hiện captcha, chuyển sang ảnh chụp màn hình đã chuẩn bị.\nChuyển ý: “Kiểm tra xem các bạn đã chọn được từ khóa tốt chưa.”"
+    },
+    {
+      "type": "section",
+      "tag": "S4",
+      "kicker": "42–48 phút",
+      "title": "Kiểm tra nhanh: chuỗi tìm kiếm nào tốt hơn?",
+      "notes": "Phân đoạn S4, 6 phút (phút 42–48): ba câu hỏi nhanh về từ khóa, mỗi câu có hai phương án A và B.\nCách làm: chiếu lần lượt từng câu; cặp bàn bàn 20 giây; giảng viên đếm 3–2–1, cả lớp giơ 1 ngón cho A hoặc 2 ngón cho B cùng lúc; giảng viên nói đáp án và giải thích trong một câu.\nKhông chấm điểm; ai không muốn giơ tay có thể ghi đáp án ra giấy. Mục đích là kiểm tra lớp đã nắm cách tách khái niệm, tìm hai thứ tiếng và dùng toán tử trước khi vào thực hành."
+    },
+    {
+      "type": "cards",
+      "title": "Câu 1: đề tài “ý định mua lại trà sữa của sinh viên” — chuỗi nào tốt hơn?",
+      "cards": [
+        {
+          "head": "Giơ 1 ngón",
+          "text": "trà sữa sinh viên",
+          "tag": "A"
+        },
+        {
+          "head": "Giơ 2 ngón",
+          "text": "\"repurchase intention\" \"bubble tea\" OR \"milk tea\"",
+          "tag": "B"
+        }
+      ],
+      "callout": "20 giây bàn với bạn, đếm 3–2–1, giơ tay.",
+      "notes": "Đọc câu 1: đề tài là ý định mua lại trà sữa của sinh viên. A là trà sữa sinh viên; B là \"repurchase intention\" \"bubble tea\" OR \"milk tea\".\nCặp bàn 20 giây, đếm 3–2–1, cả lớp giơ 1 ngón (A) hoặc 2 ngón (B).\nĐáp án: B — tách khái niệm, dùng thuật ngữ học thuật tiếng Anh, cụm từ chính xác trong ngoặc kép, và OR cho hai cách gọi của cùng một sản phẩm.\nNếu nhiều bạn chọn A, hỏi lại: “Chuỗi A tìm khái niệm hành vi nào?” → không có; đây chính là lỗi gõ cả câu đề tài vào ô tìm kiếm.\nChuyển sang câu 2."
+    },
+    {
+      "type": "cards",
+      "title": "Câu 2: muốn có cả nghiên cứu ở Việt Nam và nghiên cứu quốc tế",
+      "cards": [
+        {
+          "head": "Giơ 1 ngón",
+          "text": "Chỉ tìm bằng tiếng Việt",
+          "tag": "A"
+        },
+        {
+          "head": "Giơ 2 ngón",
+          "text": "Tìm cả tiếng Việt và tiếng Anh",
+          "tag": "B"
+        }
+      ],
+      "callout": "20 giây bàn với bạn, đếm 3–2–1, giơ tay.",
+      "notes": "Đọc câu 2: nhóm muốn có cả nghiên cứu ở Việt Nam và nghiên cứu quốc tế. A: chỉ tìm bằng tiếng Việt. B: tìm cả tiếng Việt và tiếng Anh.\nCặp bàn 20 giây, đếm 3–2–1, giơ tay.\nĐáp án: B — phần lớn tài liệu học thuật về marketing viết bằng tiếng Anh; tài liệu tiếng Việt cho bối cảnh trong nước. Hai nguồn bổ sung cho nhau: quốc tế cho lý thuyết, mô hình, thang đo; trong nước cho bối cảnh và kết quả ở thị trường Việt Nam.\nCâu này thường gần như cả lớp đúng — đi nhanh, chuyển sang câu 3."
+    },
+    {
+      "type": "cards",
+      "title": "Câu 3: kết quả quá nhiều, phần lớn không liên quan — làm gì?",
+      "cards": [
+        {
+          "head": "Giơ 1 ngón",
+          "text": "Thêm ngoặc kép, intitle:, lọc năm",
+          "tag": "A"
+        },
+        {
+          "head": "Giơ 2 ngón",
+          "text": "Đổi sang từ khóa chung hơn",
+          "tag": "B"
+        }
+      ],
+      "callout": "20 giây bàn với bạn, đếm 3–2–1, giơ tay.",
+      "notes": "Đọc câu 3: kết quả quá nhiều (hàng chục nghìn), phần lớn không liên quan. A: thêm ngoặc kép, intitle:, lọc năm. B: đổi sang từ khóa chung hơn.\nCặp bàn 20 giây, đếm 3–2–1, giơ tay.\nĐáp án: A — thu hẹp. Ngược lại, khi có quá ít kết quả thì mới nới sang từ chung hơn, ví dụ từ “trà sữa” sang “đồ uống”.\nKết phần kiểm tra: nhắc ba ý — tách khái niệm, tìm hai thứ tiếng, dùng toán tử để thu hẹp hoặc nới rộng. Chuyển sang giải lao, báo trước nội dung sau giải lao: làm sao biết một nguồn có đáng tin không."
+    },
+    {
+      "type": "break",
+      "title": "Giải lao 15 phút",
+      "big": "15'",
+      "sub": "Quay lại lúc …",
+      "notes": "Giải lao 15 phút (phút 48–63). Điền giờ quay lại lên slide hoặc nói to trước khi lớp ra ngoài.\nBáo trước: “Sau giải lao: làm sao biết một nguồn có đáng tin không.”\nTrong giờ giải lao: kiểm tra mạng và truy cập Google Scholar cho phần thực hành 45 phút cuối buổi; nếu nhiều máy cùng truy cập dễ bị captcha, chuẩn bị phương án cho các nhóm dùng thêm thư viện số hoặc trang của tạp chí trong nước.\nLưu ý cho giảng viên: giờ quay lại trên slide đang để “…” — điền trước buổi học."
+    },
+    {
+      "type": "section",
+      "tag": "S5",
+      "kicker": "63–75 phút",
+      "title": "Đánh giá độ tin cậy của nguồn",
+      "notes": "Phân đoạn S5, khoảng 12 phút (phút 63–75): bốn tiêu chí đánh giá nguồn (tác giả, ấn phẩm, phương pháp, tính cập nhật) cộng câu hỏi “viết để làm gì?”; ba dấu hiệu thiên lệch; một tình huống nghiên cứu do bên hưởng lợi tài trợ (giả định).\nChào lớp trở lại, kiểm tra nhanh mọi người đã vào chỗ.\nNối lại tình huống đầu buổi: câu “8/10 sinh viên…” trên fanpage — phần này cho các bạn công cụ để giải thích vì sao không dám trích câu đó."
+    },
+    {
+      "type": "statement",
+      "big": "Không phải mọi nguồn thông tin đều có giá trị như nhau",
+      "sub": "Trước khi trích, hỏi bốn câu.",
+      "mark": "!",
+      "notes": "Nói câu trên slide: “Không phải mọi nguồn thông tin đều có giá trị như nhau.”\nNối lại tình huống fanpage đầu buổi: “Đầu buổi, phần lớn các bạn không dám trích câu ‘8/10 sinh viên uống trà sữa mỗi tuần’. Lý do các bạn đưa ra — không biết ai khảo sát, hỏi bao nhiêu người, hỏi ở đâu, khi nào — chính là các tiêu chí đánh giá nguồn. Bây giờ mình sắp xếp chúng lại thành bốn câu hỏi để dùng cho mọi nguồn.”\nDừng 2–3 giây, rồi chuyển sang bảng bốn tiêu chí.\nNhấn: bốn câu hỏi này là công cụ chính của phần thực hành cuối buổi — mỗi tài liệu nhóm tìm được đều phải đi qua bốn câu hỏi trước khi được giữ lại."
+    },
+    {
+      "type": "table",
+      "title": "Bốn câu hỏi trước khi tin một nguồn: ai viết, đăng ở đâu, dựa trên gì, khi nào",
+      "header": [
+        "Tiêu chí",
+        "Đáng tin",
+        "Cần thận trọng"
+      ],
+      "rows": [
+        [
+          "Tác giả: ai viết?",
+          "Có chuyên môn",
+          "Không rõ tác giả"
+        ],
+        [
+          "Ấn phẩm: ở đâu?",
+          "Tạp chí phản biện, NXB",
+          "Blog, mạng xã hội"
+        ],
+        [
+          "Phương pháp: dựa trên gì?",
+          "Nêu rõ mẫu, dữ liệu",
+          "Không bằng chứng"
+        ],
+        [
+          "Cập nhật: khi nào?",
+          "Còn hợp bối cảnh",
+          "Số liệu cũ"
+        ],
+        [
+          "Mục đích: để làm gì?",
+          "Thông tin, nghiên cứu",
+          "Quảng cáo"
+        ]
+      ],
+      "boldFirstCol": true,
+      "notes": "Mỗi tiêu chí: một câu hỏi và một ví dụ.\nTác giả (author's credentials): ai viết, có chuyên môn không? Đáng tin: tác giả hoặc tổ chức có chuyên môn, ghi rõ tên và đơn vị; cần thận trọng: không rõ tác giả, trang tổng hợp nội dung.\nẤn phẩm (publication's reputation): công bố ở đâu? Đáng tin: tạp chí có phản biện, nhà xuất bản, cơ quan thống kê; thận trọng: blog, diễn đàn, mạng xã hội.\nPhương pháp (methodology): dựa trên gì? Đáng tin: nêu rõ phương pháp, mẫu, dữ liệu, nguồn; thận trọng: khẳng định không có bằng chứng.\nTính cập nhật (currency): khi nào? “Cũ” không có nghĩa là “sai” — thuyết hành vi có hoạch định (Ajzen, 1991) vẫn được trích dẫn rộng rãi đến nay. Cái lỗi thời nhanh là số liệu hiện trạng: thị phần, tỷ lệ người dùng một ứng dụng, mức chi tiêu.\nCâu hỏi xuyên suốt: viết để làm gì — cung cấp thông tin, nghiên cứu, hay quảng cáo, bán hàng?"
+    },
+    {
+      "type": "cards",
+      "title": "Ba dấu hiệu một nguồn có thể thiên lệch",
+      "cards": [
+        {
+          "head": "Một chiều",
+          "text": "Chỉ nêu mặt có lợi, bỏ qua bằng chứng ngược lại"
+        },
+        {
+          "head": "Thiếu bằng chứng",
+          "text": "“Ai cũng biết…”, “chắc chắn…”, không dữ liệu"
+        },
+        {
+          "head": "Xung đột lợi ích",
+          "text": "Người viết hoặc nhà tài trợ hưởng lợi từ kết quả"
+        }
+      ],
+      "notes": "Ngay cả nguồn có tác giả, có nơi công bố vẫn có thể thiên lệch (bias). Ba dấu hiệu cảnh báo.\nMột — lập luận một chiều: chỉ nêu mặt có lợi, không nhắc đến bằng chứng ngược lại. Ví dụ đời thường: bài giới thiệu một sản phẩm chỉ nêu ưu điểm, không nói một nhược điểm nào.\nHai — khẳng định không có bằng chứng: “ai cũng biết…”, “chắc chắn…”, không có dữ liệu đi kèm.\nBa — xung đột lợi ích (conflict of interest): người viết hoặc đơn vị tài trợ có lợi ích từ kết quả.\nHỏi lớp: “Bài ‘7 lý do Gen Z mê trà sữa’ trên website một chuỗi trà sữa có dấu hiệu nào?” — mong đợi: một chiều và xung đột lợi ích.\nChuyển ý: dấu hiệu thứ ba khó nhất — xem một tình huống."
+    },
+    {
+      "type": "case",
+      "title": "Nghiên cứu do bên hưởng lợi tài trợ: chưa vội tin, cũng chưa vội loại",
+      "label": "Giả định",
+      "scenario": [
+        "Một nghiên cứu kết luận: “Đồ uống có đường không ảnh hưởng đến cân nặng của người trẻ.”",
+        "Nhà tài trợ: một hiệp hội các nhà sản xuất đồ uống."
+      ],
+      "question": "Có nên tin kết quả này không?",
+      "notes": "Đọc tình huống (giả định): một nghiên cứu kết luận đồ uống có đường không ảnh hưởng đến cân nặng của người trẻ, được tài trợ bởi một hiệp hội các nhà sản xuất đồ uống. Hỏi: “Có nên tin không?”\nChỉ định 2 bạn trả lời.\nChốt: chưa vội tin, cũng chưa vội loại — xung đột lợi ích là dấu hiệu cảnh báo, không phải bằng chứng là kết quả sai. Việc cần làm: đọc kỹ phương pháp, tìm nghiên cứu độc lập về cùng câu hỏi để đối chiếu.\nLỗi hiểu thường gặp: “Nguồn có số liệu cụ thể là nguồn đáng tin.” Con số cụ thể như “8/10 sinh viên” tạo cảm giác chính xác, nhưng nếu không biết ai khảo sát, hỏi ai, hỏi bao nhiêu người thì không kiểm chứng được. Nguyên tắc: truy về nguồn gốc của con số; không tìm được thì không dùng.\nLưu ý cho giảng viên: video gốc dùng ví dụ thuốc do chính hãng thuốc tài trợ; đã chuyển sang bối cảnh đồ uống, không nêu thương hiệu thật."
+    },
+    {
+      "type": "cards",
+      "title": "Soi nguồn: 1 ngón dùng được · 2 ngón có điều kiện · 3 ngón không dùng",
+      "cards": [
+        {
+          "head": "Dùng được",
+          "text": "Làm nguồn học thuật",
+          "tag": "1"
+        },
+        {
+          "head": "Có điều kiện",
+          "text": "Nói rõ điều kiện gì",
+          "tag": "2"
+        },
+        {
+          "head": "Không dùng",
+          "text": "Không dùng làm nguồn",
+          "tag": "3"
+        }
+      ],
+      "callout": "30 giây bàn, đếm 3–2–1, cả lớp giơ cùng lúc.",
+      "notes": "Hoạt động S6 “Soi nguồn” (phút 75–83), làm theo cặp, không nộp, không chấm điểm.\nKịch bản mở đầu: “Mình vừa có bốn tiêu chí: tác giả, ấn phẩm, phương pháp, tính cập nhật — cộng thêm câu hỏi ‘viết để làm gì’. Bây giờ thử soi sáu nguồn. Mỗi nguồn, các bạn có 30 giây bàn với bạn bên cạnh, rồi khi tôi đếm 3–2–1 thì giơ tay: 1 ngón là dùng được, 2 ngón là dùng có điều kiện, 3 ngón là không dùng. Cả lớp giơ cùng lúc.”\nMỗi nguồn khoảng 50 giây: đọc → 30 giây thảo luận → 3–2–1 giơ tay → nói đáp án và tiêu chí quyết định trong một câu. Cả 6 nguồn là mô tả giả định.\nNếu ít bạn giơ tay: nhắc “sai không sao — đây là luyện tập”, giảng viên giơ tay làm mẫu. Ai không muốn giơ tay có thể ghi ra giấy.\nLưu ý cho giảng viên: kịch bản đầy đủ trong phiếu hoạt động Soi nguồn."
+    },
+    {
+      "type": "case",
+      "title": "Nguồn 1: bài báo 2022 trên tạp chí có phản biện, khảo sát 350 sinh viên",
+      "label": "Nguồn 1",
+      "scenario": "Một bài báo năm 2022 trên tạp chí khoa học có phản biện. Tác giả là giảng viên đại học. Bài khảo sát 350 sinh viên tại TP. Hồ Chí Minh, mô tả rõ cách chọn mẫu và thang đo.",
+      "question": "1, 2 hay 3 ngón?",
+      "notes": "Đọc nguồn 1, 30 giây bàn, đếm 3–2–1.\nĐáp án: 1 ngón — dùng được. Tiêu chí quyết định: đạt cả bốn tiêu chí — tác giả có chuyên môn (giảng viên đại học), ấn phẩm là tạp chí có phản biện, phương pháp mô tả rõ cách chọn mẫu và thang đo, cập nhật (2022).\nCâu chốt: đây là loại nguồn chính cho phần tổng quan tài liệu của các nhóm.\nNếu lớp đúng gần hết ở nguồn 1–2: đi nhanh, dành thời gian cho nguồn 4–6. Ghi nhớ nguồn 1 để so sánh với nguồn 5 ở cuối hoạt động — cả hai đều đăng trên tạp chí có phản biện."
+    },
+    {
+      "type": "case",
+      "title": "Nguồn 2: “7 lý do Gen Z mê trà sữa” trên website một chuỗi trà sữa",
+      "label": "Nguồn 2",
+      "scenario": "Bài viết “7 lý do Gen Z mê trà sữa” trên website của một chuỗi trà sữa, không ghi tên người viết.",
+      "question": "1, 2 hay 3 ngón?",
+      "notes": "Đọc nguồn 2, 30 giây bàn, đếm 3–2–1.\nĐáp án: 3 ngón — không dùng. Tiêu chí quyết định: tác giả không rõ; mục đích là quảng cáo (website của chính chuỗi trà sữa — xung đột lợi ích); không có phương pháp, không có dữ liệu.\nCâu chốt: có thể đọc để lấy ý tưởng — ví dụ gợi ý những yếu tố nên tìm trong tài liệu học thuật — nhưng không trích.\nĐây là nguồn dễ nhất; nếu chạy quá giờ, có thể bỏ nguồn này và giữ nguồn 5 và 6."
+    },
+    {
+      "type": "case",
+      "title": "Nguồn 3: báo cáo thị trường đồ uống 2024 của một công ty nghiên cứu",
+      "label": "Nguồn 3",
+      "scenario": "Báo cáo về thị trường đồ uống năm 2024 do một công ty nghiên cứu thị trường công bố miễn phí, có mô tả mẫu khảo sát và thời gian khảo sát.",
+      "question": "1, 2 hay 3 ngón?",
+      "notes": "Đọc nguồn 3, 30 giây bàn, đếm 3–2–1.\nĐáp án: 2 ngón — dùng có điều kiện. Tiêu chí quyết định: không phải nguồn học thuật (không qua phản biện), nhưng có phương pháp (mô tả mẫu, thời gian khảo sát) và cập nhật.\nĐiều kiện: dùng cho bối cảnh, số liệu thị trường ở Chương 1; không dùng làm cơ sở lý thuyết; ghi rõ tổ chức công bố; xem mẫu khảo sát có đại diện cho đối tượng của nhóm không — ví dụ báo cáo khảo sát người đi làm thì không dùng để mô tả sinh viên.\nĐây là một trong các nguồn lớp hay chia rẽ; nếu vậy, chữa kỹ ở slide đáp án."
+    },
+    {
+      "type": "case",
+      "title": "Nguồn 4: báo điện tử viết “theo một khảo sát gần đây, 72%…”",
+      "label": "Nguồn 4",
+      "scenario": "Một bài trên báo điện tử chính thống viết “theo một khảo sát gần đây, 72% người trẻ thích giao hàng nhanh hơn giảm giá” nhưng không nói khảo sát nào.",
+      "question": "1, 2 hay 3 ngón?",
+      "notes": "Đọc nguồn 4, 30 giây bàn, đếm 3–2–1.\nĐáp án: 2 hoặc 3 ngón — chấp nhận cả hai nếu lý do đúng. Tiêu chí quyết định: phương pháp — không truy được nguồn gốc con số.\nNhiều bạn chọn 1 ngón vì “báo chính thống”. Câu chốt: báo chính thống đáng tin về tin tức, nhưng con số trong bài vẫn phải có nguồn gốc. “Theo một khảo sát” không phải là nguồn.\nViệc phải làm: truy về khảo sát gốc — tìm được thì trích nguồn gốc, không tìm được thì không dùng con số.\nNói rõ: con số 72% là con số giả định trong mô tả nguồn, không phải số liệu thật.\nNếu lớp tranh luận lâu: chốt “Truy nguồn gốc — đó là việc phải làm, dù chọn 2 hay 3.”"
+    },
+    {
+      "type": "case",
+      "title": "Nguồn 5: tạp chí có phản biện, nhưng nhà tài trợ hưởng lợi từ kết quả",
+      "label": "Nguồn 5",
+      "scenario": "Một nghiên cứu đăng trên tạp chí có phản biện, kết luận rằng đồ uống có đường không ảnh hưởng đến cân nặng của người trẻ. Nghiên cứu được tài trợ bởi một hiệp hội các nhà sản xuất đồ uống.",
+      "question": "1, 2 hay 3 ngón?",
+      "notes": "Đọc nguồn 5, 30 giây bàn, đếm 3–2–1.\nĐáp án: 2 ngón — dùng có điều kiện. Tiêu chí quyết định: xung đột lợi ích — đơn vị tài trợ hưởng lợi từ kết quả.\nCâu chốt: xung đột lợi ích là dấu hiệu cảnh báo, không tự động là sai. Điều kiện: đọc kỹ phương pháp, đối chiếu với nghiên cứu độc lập về cùng câu hỏi trước khi dùng.\nĐây là tình huống vừa thảo luận ở S5, nên nhiều bạn sẽ đúng; dùng nó để chuẩn bị câu thảo luận nguồn 1 và nguồn 5 ở slide đáp án.\nGiữ nguồn này kể cả khi chạy quá giờ."
+    },
+    {
+      "type": "case",
+      "title": "Nguồn 6: luận văn thạc sĩ 2012 dùng để mô tả sinh viên hiện nay",
+      "label": "Nguồn 6",
+      "scenario": "Một luận văn thạc sĩ năm 2012 về hành vi mua sắm trực tuyến của sinh viên, nhóm định dùng để mô tả thói quen mua sắm trực tuyến của sinh viên hiện nay.",
+      "question": "1, 2 hay 3 ngón?",
+      "notes": "Đọc nguồn 6, 30 giây bàn, đếm 3–2–1.\nĐáp án: 2 ngón — dùng có điều kiện. Tiêu chí quyết định: tính cập nhật — 2012, trong khi mua sắm trực tuyến thay đổi rất nhanh.\nNhiều bạn chọn 1 ngón vì “luận văn là học thuật”. Nhấn: học thuật, nhưng lỗi thời cho mục đích này. Không dùng để mô tả hiện trạng; vẫn có thể tham khảo khung lý thuyết, thang đo, danh mục tài liệu của luận văn.\nCâu chốt: cùng một nguồn có thể dùng được cho mục đích này, không dùng được cho mục đích khác.\nGiữ nguồn này kể cả khi chạy quá giờ. Sau nguồn 6 chuyển sang slide đáp án."
+    },
+    {
+      "type": "table",
+      "title": "Đáp án: tiêu chí nào quyết định từng nguồn",
+      "header": [
+        "Nguồn",
+        "Đáp án",
+        "Tiêu chí quyết định"
+      ],
+      "rows": [
+        [
+          "1 · Tạp chí 2022",
+          "Dùng được",
+          "Đạt cả 4 tiêu chí"
+        ],
+        [
+          "2 · Web chuỗi",
+          "Không dùng",
+          "Tác giả, mục đích"
+        ],
+        [
+          "3 · Báo cáo ngành",
+          "Có điều kiện",
+          "Chỉ cho bối cảnh"
+        ],
+        [
+          "4 · “72%” trên báo",
+          "2 hoặc 3",
+          "Truy nguồn gốc"
+        ],
+        [
+          "5 · Có tài trợ",
+          "Có điều kiện",
+          "Xung đột lợi ích"
+        ],
+        [
+          "6 · Luận văn 2012",
+          "Có điều kiện",
+          "Tính cập nhật"
+        ]
+      ],
+      "notes": "Hiện slide này sau khi lớp đã trả lời đủ 6 nguồn (phút 81–83).\nChữa kỹ 2 nguồn lớp chia rẽ nhiều nhất — thường là nguồn 3, 4 hoặc 5.\nChốt câu thảo luận: “Nguồn 1 và nguồn 5 đều đăng trên tạp chí có phản biện. Vì sao chúng ta đánh giá khác nhau?” Câu trả lời: tiêu chí ấn phẩm không phải là tất cả — phải xét thêm xung đột lợi ích và phương pháp.\nHỏi thêm: “Với nguồn 4, nếu nhóm rất muốn dùng con số đó thì phải làm gì?” → truy về khảo sát gốc.\nNếu còn thời gian (dư giờ), thêm nguồn 7: một đoạn tổng quan do chatbot AI viết, kèm 3 tài liệu tham khảo → không dùng như nguồn; phải kiểm tra từng tài liệu có tồn tại không, đọc bản gốc rồi trích bản gốc.\nChuyển ý sang đạo văn."
+    },
+    {
+      "type": "section",
+      "tag": "S7",
+      "kicker": "83–93 phút",
+      "title": "Đạo văn và cách tránh",
+      "notes": "Phân đoạn S7, khoảng 10 phút (phút 83–93): định nghĩa và năm dạng đạo văn (khoảng 4 phút); demo ba phiên bản diễn đạt lại một định nghĩa (khoảng 4 phút); cách tránh và chuyện dùng AI (khoảng 2 phút).\nChuyển ý từ phần trước: các bạn đã biết tìm nguồn và đánh giá nguồn — bây giờ là cách dùng nguồn cho đúng, để không vô tình biến ý của người khác thành của mình.\nLưu ý cho giảng viên: nếu muốn nêu quy định liêm chính học thuật của trường hoặc của khoa, chuẩn bị trước nội dung quy định đó."
+    },
+    {
+      "type": "cards",
+      "title": "Đạo văn là để người đọc tưởng ý của người khác là của bạn",
+      "cards": [
+        {
+          "head": "Sao chép",
+          "text": "Nguyên văn, không nguồn"
+        },
+        {
+          "head": "Diễn đạt lại",
+          "text": "Viết lại, không ghi nguồn"
+        },
+        {
+          "head": "Trích chưa đọc",
+          "text": "Như thể đã đọc bản gốc"
+        },
+        {
+          "head": "Nộp bài cũ",
+          "text": "Cho môn khác, không nói rõ"
+        },
+        {
+          "head": "Dùng AI",
+          "text": "Không khai báo"
+        },
+        {
+          "head": "Dịch",
+          "text": "Dịch Anh–Việt, không nguồn"
+        }
+      ],
+      "notes": "Định nghĩa: đạo văn (plagiarism) là dùng ý tưởng, câu chữ, số liệu của người khác mà không ghi nguồn, khiến người đọc tưởng đó là của bạn.\nNăm dạng thường gặp — đọc từng dạng, hỏi lớp “đã từng thấy chưa?”: chép nguyên văn mà không đặt trong ngoặc kép và không ghi nguồn; diễn đạt lại ý của người khác nhưng không ghi nguồn — viết lại bằng lời của mình vẫn phải ghi nguồn, vì ý tưởng vẫn là của người khác; trích dẫn một tài liệu mình chưa đọc như thể đã đọc trực tiếp — Buổi 3 học cách trích qua tác giả trung gian; nộp lại bài cũ của mình cho một môn khác mà không nói rõ; dùng nội dung do AI tạo ra mà không khai báo.\nThêm một dạng ít ai nghĩ đến (ô thứ sáu): dịch một đoạn tiếng Anh sang tiếng Việt rồi dùng mà không ghi nguồn cũng là đạo văn — dịch không làm ý tưởng trở thành của bạn.\nLưu ý cho giảng viên: bổ sung quy định cụ thể của trường về xử lý đạo văn nếu muốn nêu."
+    },
+    {
+      "type": "statement",
+      "title": "Ba bản diễn đạt lại: bản nào đạt?",
+      "big": "*“Marketing research is the function that links the consumer, customer, and public to the marketer through information…”*",
+      "sub": "Nguyên văn — American Marketing Association (2017)",
+      "mark": "“",
+      "notes": "Chiếu nguyên văn trước. Đây là định nghĩa nghiên cứu marketing của American Marketing Association (2017) — lớp đã gặp ở Buổi 1.\nGiải thích luật chơi: “Mình sẽ chiếu lần lượt ba phiên bản diễn đạt lại câu này bằng tiếng Việt. Mỗi phiên bản, các bạn bàn với bạn bên cạnh 15 giây, rồi giơ tay: đạt hay chưa đạt.”\nNhắc tiêu chí để lớp dùng: một bản diễn đạt lại đạt yêu cầu phải (1) có nguồn, và (2) thật sự dùng cấu trúc và từ ngữ của người viết; nếu muốn giữ nguyên câu chữ thì phải đặt trong ngoặc kép.\nKhông giải thích thêm ở slide này; chuyển ngay sang bản 1."
+    },
+    {
+      "type": "case",
+      "title": "Bản 1: dịch sát nguyên văn, không ghi nguồn",
+      "label": "Bản 1",
+      "scenario": "Nghiên cứu marketing là chức năng kết nối người tiêu dùng, khách hàng và công chúng với nhà marketing thông qua thông tin.",
+      "question": "Đạt hay chưa đạt? Giơ tay.",
+      "notes": "Đọc bản 1. Cặp bàn 15 giây, giơ tay đạt hoặc chưa đạt.\nĐáp án: đạo văn — đây là bản dịch sát nguyên văn, không có nguồn.\nGiải thích: người đọc sẽ tưởng câu định nghĩa này là của người viết. Dịch từ tiếng Anh sang tiếng Việt không làm ý tưởng trở thành của mình — đúng dạng “dịch không nguồn” vừa nói ở slide trước.\nHỏi nhanh: “Sửa thế nào cho đúng?” → hoặc đặt trong ngoặc kép như trích nguyên văn và ghi nguồn, hoặc diễn đạt lại thật sự và ghi nguồn.\nChuyển sang bản 2."
+    },
+    {
+      "type": "case",
+      "title": "Bản 2: gần nguyên văn, có ghi nguồn",
+      "label": "Bản 2",
+      "scenario": "Nghiên cứu marketing là chức năng nối người tiêu dùng, khách hàng và công chúng với người làm marketing bằng thông tin (American Marketing Association, 2017).",
+      "question": "Đạt hay chưa đạt? Giơ tay.",
+      "notes": "Đọc bản 2. Cặp bàn 15 giây, giơ tay.\nĐáp án: chưa đạt — có nguồn, nhưng câu chữ gần như nguyên văn (chỉ thay vài từ: “kết nối” thành “nối”, “nhà marketing” thành “người làm marketing”) mà không đặt trong ngoặc kép.\nGiải thích: có nguồn chưa đủ. Nếu giữ gần nguyên câu chữ thì phải trích nguyên văn trong ngoặc kép, kèm số trang khi có; còn nếu diễn đạt lại thì phải diễn đạt thật sự, bằng cấu trúc và từ ngữ của mình.\nĐây là bản lớp hay chia rẽ nhất — dành thêm 20–30 giây nếu cần. Chuyển sang bản 3."
+    },
+    {
+      "type": "case",
+      "title": "Bản 3: lời của người viết, có ghi nguồn",
+      "label": "Bản 3",
+      "scenario": "Theo American Marketing Association (2017), vai trò cốt lõi của nghiên cứu marketing là cung cấp thông tin giúp nhà marketing hiểu khách hàng và thị trường, từ đó nhận diện cơ hội, đánh giá hành động và theo dõi kết quả.",
+      "question": "Đạt hay chưa đạt? Giơ tay.",
+      "notes": "Đọc bản 3. Cặp bàn 15 giây, giơ tay.\nĐáp án: đạt — diễn đạt bằng cấu trúc và từ ngữ của người viết, giữ đúng ý của định nghĩa gốc, và có nguồn theo kiểu dẫn dắt.\nNhấn câu chốt của cả phần demo: diễn đạt lại vẫn phải ghi nguồn — vì ý tưởng vẫn là của người khác. Bản 3 cũng là ví dụ cho cách trích dẫn dẫn dắt đã học ở S2: tên tác giả là một phần của câu, năm trong ngoặc.\nTóm tắt ba bản: bản 1 đạo văn, bản 2 chưa đạt, bản 3 đạt.\nChuyển ý: “Vậy làm sao để không bao giờ rơi vào bản 1 và bản 2?”"
+    },
+    {
+      "type": "steps",
+      "title": "Bốn thói quen để không bao giờ đạo văn — kể cả khi dùng AI",
+      "direction": "v",
+      "steps": [
+        {
+          "head": "Ghi nguồn ngay",
+          "text": "mỗi ý ghi chép đều kèm tác giả, năm, trang"
+        },
+        {
+          "head": "Gập tài liệu lại",
+          "text": "viết theo ý mình, rồi mở ra đối chiếu"
+        },
+        {
+          "head": "Trích nguyên văn",
+          "text": "chỉ khi cần, có ngoặc kép và số trang"
+        },
+        {
+          "head": "Kiểm tra tài liệu AI gợi ý",
+          "text": "không tìm thấy thì không dùng"
+        }
+      ],
+      "callout": "Trích tài liệu không tồn tại là lỗi của người nộp.",
+      "notes": "Bốn thói quen. Ghi nguồn ngay khi ghi chép — mỗi ý chép vào sổ tay hoặc file nháp đều kèm tác giả, năm, trang. Diễn đạt lại bằng lời của mình và vẫn ghi nguồn; mẹo: đọc xong, gập tài liệu lại, viết lại ý theo trí nhớ, rồi mở ra đối chiếu. Chỉ trích nguyên văn khi câu chữ thật sự quan trọng — một định nghĩa, một phát biểu nổi tiếng — đặt trong ngoặc kép, ghi số trang. Kiểm tra mọi trích dẫn AI gợi ý — AI có thể bịa ra tài liệu không tồn tại: tên bài nghe rất thật, tác giả có thật, nhưng bài báo không có. Cách kiểm tra: tìm đúng tên bài trên Google Scholar, mở DOI. Tìm không ra thì không dùng.\nNhắc quy định của học phần: được dùng AI, phải khai báo và nộp nhật ký sử dụng AI; nhóm chịu trách nhiệm về mọi trích dẫn trong bài. Trích một tài liệu không tồn tại là lỗi của người nộp bài."
+    },
+    {
+      "type": "section",
+      "tag": "S8",
+      "kicker": "93–100 phút",
+      "title": "Tóm tắt và tổng hợp tài liệu",
+      "notes": "Phân đoạn S8, khoảng 7 phút (phút 93–100): giới thiệu tổng quan tài liệu là gì, nằm ở đâu trong tiểu luận; phân biệt tóm tắt và tổng hợp; bảng tóm tắt 5 cột làm ví dụ với Ajzen (1991).\nNói rõ với lớp: hôm nay chỉ giới thiệu — tuần sau các bạn sẽ viết đoạn tổng quan đầu tiên ngay trên lớp. Phần này chuẩn bị trực tiếp cho chặng 4 của thực hành (bắt đầu bảng tóm tắt) và cho M2 (một trang tổng quan).\nGiữ nhịp nhanh để phần thực hành có đủ 45 phút."
+    },
+    {
+      "type": "cards",
+      "title": "Tổng quan tài liệu cho thấy người khác đã biết gì — và còn thiếu gì",
+      "cards": [
+        {
+          "head": "Là gì",
+          "text": "Đánh giá có phê phán các nghiên cứu đã có"
+        },
+        {
+          "head": "Ở đâu",
+          "text": "Chương 2 (định lượng) · Chương 1 (định tính)"
+        },
+        {
+          "head": "Lộ trình",
+          "text": "M2: 1 trang → M3: 2–3 trang"
+        }
+      ],
+      "callout": "Hôm nay giới thiệu; tuần sau viết trên lớp.",
+      "notes": "Tổng quan tài liệu (literature review) là sự đánh giá có phê phán các nghiên cứu đã có về một chủ đề, nhằm cung cấp bối cảnh, chỉ ra khoảng trống và cho thấy vì sao nghiên cứu của bạn cần thiết.\nVị trí trong tiểu luận: với hướng định lượng, đây là phần chính của Chương 2; với hướng định tính, nằm trong Chương 1.\nLộ trình: M2 (nộp sau Buổi 3) yêu cầu một trang tổng quan đầu tiên; M3 (sau Buổi 5) mở rộng thành 2–3 trang.\nNói: “Hôm nay chỉ giới thiệu — tuần sau viết đoạn đầu tiên trên lớp.”\nChuyển ý: “Viết tổng quan khó nhất ở chỗ phân biệt tóm tắt với tổng hợp.”"
+    },
+    {
+      "type": "compare",
+      "title": "Tóm tắt kể từng bài nói gì; tổng hợp nói các bài cùng cho thấy điều gì",
+      "left": {
+        "head": "Tóm tắt",
+        "items": [
+          "A: giá mạnh nhất",
+          "B: chất lượng mạnh nhất",
+          "C: không gian có ảnh hưởng"
+        ]
+      },
+      "right": {
+        "head": "Tổng hợp",
+        "items": [
+          "Chung: giá, chất lượng",
+          "Khác: mẫu SV và đi làm",
+          "Thiếu: SV mua qua app"
+        ]
+      },
+      "vs": true,
+      "callout": "A, B, C là nghiên cứu giả định.",
+      "notes": "Chiếu hai đoạn. Đoạn tóm tắt (summarizing) — liệt kê từng nguồn: “Nghiên cứu A (giả định) cho thấy giá ảnh hưởng mạnh nhất đến ý định mua lại trà sữa. Nghiên cứu B cho thấy chất lượng sản phẩm ảnh hưởng mạnh nhất. Nghiên cứu C cho thấy không gian quán có ảnh hưởng.”\nĐoạn tổng hợp (synthesizing) — kết nối các nguồn: “Các nghiên cứu trước thống nhất rằng giá và chất lượng sản phẩm đều ảnh hưởng đến ý định mua lại (A; B), nhưng khác nhau về yếu tố mạnh nhất: A khảo sát sinh viên — nhóm nhạy cảm về giá — còn B khảo sát người đi làm. Chưa nghiên cứu nào xét riêng sinh viên mua qua ứng dụng giao đồ ăn — đây là khoảng trống.”\nHỏi: “Đoạn nào cho bạn biết nhiều hơn?” Chốt: tóm tắt trả lời “mỗi bài nói gì”; tổng hợp trả lời “các bài cùng nói gì, khác nhau ở đâu, có nghĩa gì với nghiên cứu của mình”. Khi kết quả trái ngược, giải thích vì sao — đó thường là chỗ sinh ra câu hỏi nghiên cứu.\nNhấn: A, B, C là giả định. Văn phong khách quan: không viết “em nghĩ…”, viết “các nghiên cứu cho thấy… (nguồn)”."
+    },
+    {
+      "type": "table",
+      "title": "Bảng tóm tắt 5 cột là bước đầu để tổng hợp",
+      "header": [
+        "Tác giả",
+        "Năm",
+        "Mục tiêu",
+        "Phương pháp",
+        "Kết quả"
+      ],
+      "rows": [
+        [
+          "Ajzen",
+          "1991",
+          "Trình bày thuyết TPB",
+          "Tổng quan lý thuyết",
+          "Thái độ, chuẩn chủ quan, kiểm soát → ý định"
+        ]
+      ],
+      "boldFirstCol": true,
+      "callout": "Đủ 8–10 dòng: đọc dọc từng cột.",
+      "notes": "Muốn tổng hợp được, trước hết phải tóm tắt có hệ thống. Mỗi tài liệu đọc xong, ghi một dòng vào bảng 5 cột: tác giả, năm, mục tiêu, phương pháp, kết quả chính.\nĐọc dòng ví dụ: Ajzen (1991) — mục tiêu: trình bày thuyết hành vi có hoạch định (TPB) và tổng hợp bằng chứng thực nghiệm; phương pháp: tổng quan lý thuyết và các nghiên cứu thực nghiệm trước đó; kết quả: ý định hành vi được dự báo bởi thái độ, chuẩn chủ quan và nhận thức kiểm soát hành vi; ý định cùng nhận thức kiểm soát hành vi dự báo hành vi.\nNói: “Khi bảng có 8–10 dòng, nhóm đọc dọc theo từng cột: các nghiên cứu dùng phương pháp gì giống nhau? Kết quả nào lặp lại? Kết quả nào mâu thuẫn? Đó là nguyên liệu cho đoạn tổng hợp.”\nChuyển sang thực hành: “Bây giờ đến lượt các nhóm — 45 phút săn tài liệu cho chính đề tài của mình.”\nLưu ý cho giảng viên: đối chiếu DOI của Ajzen (1991) trước khi dùng."
+    },
+    {
+      "type": "section",
+      "tag": "S9",
+      "kicker": "100–145 phút",
+      "title": "Thực hành nhóm",
+      "notes": "Phân đoạn S9 — thực hành nhóm 45 phút (phút 100–145), hoạt động Săn tài liệu cho đề tài. Các nhóm làm việc theo nhóm dự án 2–3 bạn đã lập ở Buổi 1, với đề tài M1 của mình.\nNhắc các nhóm mở máy tính có mạng, mở đề tài M1 và phiếu nhóm (có thể chép phiếu vào một file chung của nhóm).\nLưu ý cho giảng viên: kịch bản, năm chặng, phiếu nhóm và cách phản hồi nằm trong phiếu hoạt động Săn tài liệu. Giảng viên đi từng nhóm suốt 45 phút."
+    },
+    {
+      "type": "activity",
+      "title": "Săn tài liệu (45'): 5 tài liệu đầu tiên cho đề tài của nhóm",
+      "stages": [
+        {
+          "time": "8'",
+          "text": "Từ khóa Việt – Anh, 2 chuỗi tìm kiếm có toán tử"
+        },
+        {
+          "time": "15'",
+          "text": "Tìm 5 tài liệu, ít nhất 3 nguồn học thuật"
+        },
+        {
+          "time": "10'",
+          "text": "Phân loại, đánh giá 4 tiêu chí: giữ / có ĐK / loại"
+        },
+        {
+          "time": "8'",
+          "text": "Bảng tóm tắt ít nhất 2 tài liệu, bằng lời nhóm"
+        },
+        {
+          "time": "4'",
+          "text": "2 nhóm chia sẻ, mỗi nhóm 1 phút"
+        }
+      ],
+      "notes": "Để slide này trên màn hình suốt 45 phút.\nChặng 1: viết lại vấn đề nghiên cứu trong một câu, tách thành 2–3 khái niệm, mỗi khái niệm có từ khóa tiếng Việt và tiếng Anh, viết 2 chuỗi tìm kiếm có ít nhất một toán tử. Chặng 2: tìm trên Google Scholar 5 tài liệu liên quan nhất, ít nhất 3 là nguồn học thuật; mở từng tài liệu ra xem; ghi ngay tác giả, năm, tên bài, nơi công bố, DOI. Chặng 3: mỗi tài liệu học thuật hay không, đánh giá 4 tiêu chí (Đạt / Chưa đạt / Chưa rõ), xem dấu hiệu thiên lệch, kết luận giữ, giữ có điều kiện hay loại. Chặng 4: chọn ít nhất 2 tài liệu học thuật, đọc abstract, phương pháp, kết luận, điền bảng 5 cột bằng lời của nhóm. Chặng 5: 2 nhóm nói 1 phút về một tài liệu tốt nhất hoặc một nguồn đã loại.\nSản phẩm: phiếu nhóm với 5 tài liệu và bảng tóm tắt — làm tiếp ở nhà thành danh mục 8 tài liệu, rồi thành M2.\nCâu hỏi thảo luận chung: từ khóa nào cho kết quả tốt nhất? Không có bài đúng sản phẩm thì mở rộng sang đâu?"
+    },
+    {
+      "type": "cards",
+      "title": "Hai điều bắt buộc khi săn tài liệu",
+      "cards": [
+        {
+          "head": "Mở tài liệu ra đọc",
+          "text": "Không chọn chỉ dựa vào tên bài"
+        },
+        {
+          "head": "Tài liệu AI gợi ý",
+          "text": "Phải tìm thấy trên Google Scholar hoặc mở được bằng DOI"
+        }
+      ],
+      "callout": "Sản phẩm: 5 tài liệu + bảng tóm tắt.",
+      "notes": "Chiếu xen kẽ slide này với slide nhiệm vụ khi đi các bàn, nếu thấy nhiều nhóm chọn tài liệu chỉ dựa vào tên bài.\nĐiều thứ nhất: mở từng tài liệu ra xem — đọc tên tạp chí, abstract, phần phương pháp — không chọn chỉ dựa vào tên bài. Một bài có tên rất sát đề tài vẫn có thể là bản thảo chưa phản biện hoặc khảo sát một đối tượng hoàn toàn khác.\nĐiều thứ hai: được dùng AI nếu nhóm ghi lại đã dùng công cụ nào, để làm gì. Nhưng mọi tài liệu AI gợi ý phải được tìm thấy trên Google Scholar hoặc mở được bằng DOI, và nhóm đã tự đọc trước khi đưa vào danh mục. Tóm tắt trong bảng là lời của nhóm, không chép nguyên văn abstract.\nNhắc sản phẩm cuối giờ: phiếu nhóm có 5 tài liệu đã đánh giá và bảng tóm tắt ít nhất 2 tài liệu."
+    },
+    {
+      "type": "section",
+      "tag": "S10",
+      "kicker": "145–150 phút",
+      "title": "Kết buổi",
+      "notes": "Phân đoạn S10 — kết buổi, 5 phút (phút 145–150).\nYêu cầu các nhóm dừng làm và lưu phiếu nhóm (5 tài liệu, đánh giá, bảng tóm tắt) để làm tiếp bài tập về nhà.\nPhát phiếu ra về (giấy nhỏ). Phần này không được cắt kể cả khi thực hành kéo dài — phiếu ra về cho giảng viên biết lớp đã nắm được các tiêu chí đánh giá nguồn hay chưa, và quyết định có cần nhắc lại ở đầu Buổi 3 không."
+    },
+    {
+      "type": "statement",
+      "title": "Trước khi về: một tiêu chí bạn sẽ dùng để loại một nguồn",
+      "big": "Một tiêu chí cụ thể bạn sẽ dùng để loại một nguồn khỏi tiểu luận là gì?",
+      "sub": "Không cần ghi tên.",
+      "mark": "?",
+      "notes": "Phiếu ra về một câu: “Một tiêu chí cụ thể bạn sẽ dùng để loại một nguồn khỏi tiểu luận là gì?” Không ghi tên cũng được.\nCho khoảng 1–2 phút để viết, rồi thu lại.\nMong đợi một tiêu chí cụ thể — ví dụ “không rõ tác giả”, “không nêu phương pháp hay mẫu”, “số liệu không truy được nguồn gốc”, “số liệu hiện trạng đã quá cũ”, “nhà tài trợ hưởng lợi từ kết quả” — chứ không chỉ chung chung “nguồn không uy tín”.\nĐọc phiếu trước Buổi 3: nếu nhiều phiếu chỉ ghi chung chung, mở đầu Buổi 3 bằng 2 phút nhắc lại bốn tiêu chí.\nChuyển sang slide bài tập trong khi sinh viên đang viết."
+    },
+    {
+      "type": "cards",
+      "title": "Bài tập về nhà và M2",
+      "cards": [
+        {
+          "head": "Về nhà",
+          "text": "Danh mục ít nhất 8 tài liệu + bảng tóm tắt → mang đến Buổi 3"
+        },
+        {
+          "head": "M2",
+          "text": "Danh mục APA 7 + 1 trang tổng quan · nhóm · 5% · nộp sau Buổi 3 (hạn: …)"
+        },
+        {
+          "head": "Buổi 3",
+          "text": "APA 7 chi tiết, sửa danh mục ngay trên lớp"
+        }
+      ],
+      "notes": "Bài tập về nhà (không chấm riêng, chuẩn bị cho M2): hoàn thiện danh mục ít nhất 8 tài liệu liên quan đề tài, phần lớn là nguồn học thuật, và bảng tóm tắt 5 cột (tác giả, năm, mục tiêu, phương pháp, kết quả) cho các tài liệu đó. Mang file đến Buổi 3 — phần thực hành Buổi 3 sẽ sửa danh mục này theo APA 7.\nGiao M2 — Danh mục tài liệu chuẩn APA 7 và một trang tổng quan tài liệu (nhóm, 5%), nộp sau Buổi 3. Chỉ cho lớp phần “Tự kiểm tra trước khi nộp” trong đề M2.\nCâu nối: “Tuần sau chúng ta học APA 7 chi tiết — cách ghi từng loại tài liệu. Mang theo danh mục 8 tài liệu của nhóm: các bạn sẽ sửa ngay trên lớp.”\nLưu ý cho giảng viên: điền hạn nộp M2 cụ thể trước buổi học (trên slide đang để “…”)."
+    },
+    {
+      "type": "references",
+      "title": "Tài liệu tham khảo",
+      "refs": [
+        "Ajzen, I. (1991). The theory of planned behavior. *Organizational Behavior and Human Decision Processes, 50*(2), 179–211. https://doi.org/10.1016/0749-5978(91)90020-T",
+        "American Marketing Association. (2017). *Definitions of marketing*. https://www.ama.org/the-definition-of-marketing-what-is-marketing/",
+        "American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). https://doi.org/10.1037/0000165-000",
+        "Malhotra, N. K. (2019). *Marketing research: An applied orientation* (7th ed.). Pearson."
+      ],
+      "notes": "Slide danh mục tài liệu tham khảo, đặt sau slide cuối, không giảng trong mạch bài.\nNói một câu: “Đây là một danh mục APA 7 mẫu — để ý ba điều: sắp xếp theo thứ tự A–Z theo họ tác giả; tên tổ chức (American Marketing Association, American Psychological Association) viết đầy đủ, không viết tắt; DOI viết dạng đường dẫn https.” Tuần sau sẽ phân tích kỹ từng thành phần.\nCó thể chỉ thêm: tên tạp chí và số tập in nghiêng (Organizational Behavior and Human Decision Processes, 50), số kỳ trong ngoặc không in nghiêng.\nLưu ý cho giảng viên: đối chiếu thông tin xuất bản và DOI của Ajzen (1991) trước khi dùng."
+    }
+  ]
+}
