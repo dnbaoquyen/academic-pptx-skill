@@ -1,0 +1,874 @@
+{
+  "deckTitle": "MKT1107 · Buổi 5 · Bài 3 (tiếp): AI hỗ trợ nghiên cứu khoa học và marketing",
+  "fileName": "MKT1107_W05_slides.pptx",
+  "slides": [
+    {
+      "type": "cover",
+      "lessonTag": "Buổi",
+      "number": 5,
+      "title": "Bài 3 (tiếp): AI hỗ trợ nghiên cứu khoa học và marketing",
+      "subtitle": "MKT1107 · Nghiên cứu Marketing",
+      "presenter": "GV: Đoàn Nguyễn Bảo Quyên",
+      "notes": "Không giảng slide này. Chào lớp, ổn định chỗ ngồi theo nhóm dự án, rồi chuyển ngay sang slide báo cáo kiểm chứng để các nhóm bắt đầu.\nBuổi 5 học nửa sau của Bài 3 (mục 3.5–3.8): ưu điểm và hạn chế của AI, ứng dụng, công cụ, cách đặt câu lệnh, và quy định dùng AI của học phần. Buổi học dài 150 phút: khoảng 73 phút giảng xen hoạt động ngắn, giải lao 15 phút, và 45 phút thực hành nhóm “Xưởng câu lệnh”.\nTrước giờ học, hỏi nhanh 2–3 nhóm xem ai sẵn sàng báo cáo kết quả kiểm chứng trích dẫn của Buổi 4; ưu tiên một nhóm phát hiện nhiều trích dẫn sai và một nhóm phát hiện ít, để lớp thấy được sự khác biệt.\nLưu ý cho giảng viên: tên và tính năng công cụ AI thay đổi rất nhanh; cả buổi nhấn vào nguyên tắc (kiểm chứng, chọn công cụ theo việc, cấu trúc câu lệnh, khai báo) — những thứ ít thay đổi. Nhắc các nhóm mở sẵn bản M1/M2 và nhật ký AI Buổi 4."
+    },
+    {
+      "type": "section",
+      "tag": "S1",
+      "kicker": "0–10 phút",
+      "title": "Khởi động: AI đã bịa bao nhiêu trích dẫn?",
+      "notes": "Phần khởi động 10 phút, bắt đầu bằng kết quả của chính các nhóm. Buổi trước, mỗi nhóm đã dùng công cụ AI để tìm và tóm tắt tài liệu cho đề tài, rồi kiểm chứng từng trích dẫn AI đưa ra. Hôm nay chúng ta nhìn lại kết quả đó trước khi học tiếp.\nNói ngắn: “Mười phút đầu là của các bạn. Tôi muốn nghe AI đã làm đúng và làm sai những gì với đề tài của nhóm.”\nChuẩn bị bảng lớp: kẻ sẵn ba cột “Đúng · Có thật nhưng sai · Không tồn tại” để điền số khi các nhóm báo cáo. Giữ nhịp nhanh, không để phần báo cáo vượt quá 8 phút, vì còn cần 30 giây giới thiệu mạch buổi và chốt câu “Trôi chảy không có nghĩa là đúng”."
+    },
+    {
+      "type": "cards",
+      "title": "Buổi 4, AI đã đưa cho các nhóm bao nhiêu trích dẫn không tồn tại?",
+      "cards": [
+        {
+          "head": "Công cụ, câu lệnh?",
+          "text": "Nhóm dùng công cụ AI nào và đã ra lệnh ra sao?"
+        },
+        {
+          "head": "Đúng hay sai?",
+          "text": "Bao nhiêu tài liệu đúng, có thật nhưng sai, không tồn tại?"
+        },
+        {
+          "head": "Phát hiện thế nào?",
+          "text": "Nhóm phát hiện tài liệu bịa bằng cách nào?"
+        }
+      ],
+      "callout": "Bảng lớp: Đúng · Có thật nhưng sai · Không tồn tại",
+      "notes": "Mời 1–2 nhóm, mỗi nhóm khoảng 2 phút, trả lời ba câu trên slide: dùng công cụ gì, câu lệnh ra sao; AI đưa ra bao nhiêu tài liệu, trong đó bao nhiêu có thật và đúng, bao nhiêu có thật nhưng sai thông tin (sai năm, sai tác giả, sai nội dung), bao nhiêu không tồn tại; và nhóm phát hiện tài liệu bịa bằng cách nào.\nGhi số lên bảng ba cột. Sau đó hỏi cả lớp: “Nhóm nào gặp ít nhất một trích dẫn không tồn tại? Giơ tay.” Đếm nhanh, ghi số lên bảng.\nBình luận theo kiểu lỗi, không gắn với tên nhóm. Nếu các nhóm chưa nói, gọi tên các kiểu sai thường gặp: tên bài nghe rất hợp lý nhưng không tìm được trên Google Scholar; tác giả có thật nhưng không viết bài đó; DOI dẫn sang bài khác; năm hoặc tạp chí sai; tóm tắt “nói thay” bài báo những điều bài báo không nói.\nNhấn: điều đáng chú ý không phải con số mà là giọng văn — tài liệu bịa được trình bày tự tin, đúng định dạng APA. Nếu không kiểm, nó đi thẳng vào bài nộp, và trích một tài liệu không tồn tại là lỗi của người nộp bài."
+    },
+    {
+      "type": "steps",
+      "title": "Trôi chảy không có nghĩa là đúng: hôm nay học vì sao, và cách dùng AI cho đúng",
+      "steps": [
+        {
+          "head": "Ưu điểm, hạn chế",
+          "tag": "3.5"
+        },
+        {
+          "head": "Ứng dụng",
+          "tag": "3.6"
+        },
+        {
+          "head": "Công cụ",
+          "tag": "3.7"
+        },
+        {
+          "head": "Câu lệnh",
+          "tag": "3.8"
+        },
+        {
+          "head": "Quy định",
+          "tag": "QĐ"
+        }
+      ],
+      "callout": "Từ hạn chế, ứng dụng đến công cụ, câu lệnh, quy định",
+      "notes": "Chốt từ phần báo cáo, ghi lên bảng câu: “Trôi chảy không có nghĩa là đúng.” Đây là câu xuyên suốt buổi hôm nay.\nGiới thiệu mạch buổi trong khoảng 30 giây: “Buổi 4 chúng ta đã học AI là gì và AI tạo sinh hoạt động thế nào. Hôm nay học tiếp nửa sau của Bài 3: vì sao AI sai như vậy và AI làm được gì (mục 3.5, 3.6); dùng công cụ nào cho việc nào và cách ra lệnh để AI giúp mình tốt hơn (3.7, 3.8); cuối cùng là quy định dùng AI của học phần và cách trích dẫn AI.”\nNói thêm: nửa sau buổi học, các nhóm sẽ áp dụng ngay vào dự án trong 45 phút “Xưởng câu lệnh”, và kết quả đi thẳng vào M3.\nLưu ý cho giảng viên: slide này thay cho UEF #2 — chỉ giữ Hồi II và Hồi III; Hồi I đã dạy ở Buổi 4. Chuyển ý: “Bắt đầu với câu hỏi: AI mạnh ở đâu?”"
+    },
+    {
+      "type": "section",
+      "tag": "S2",
+      "kicker": "10–28 phút",
+      "title": "3.5 Ưu điểm và hạn chế của AI",
+      "notes": "Phần này khoảng 18 phút. Đi nhanh qua ưu điểm (khoảng 3 phút) vì sinh viên đã cảm nhận được qua Buổi 4, rồi dành phần lớn thời gian cho hạn chế — đặc biệt ba hạn chế nguy hiểm nhất với người làm nghiên cứu: ảo giác, thiên lệch và quyền riêng tư.\nCâu dẫn: “Các bạn vừa thấy AI có thể sai rất tự tin. Nhưng nó cũng có những điểm mạnh thật. Hiểu đúng cả hai mặt thì mới biết giao việc gì cho AI và giữ lại việc gì cho mình.”\nPhân bổ gợi ý: ưu điểm 3 phút, bảy hạn chế 2 phút, ảo giác và cách kiểm 5 phút, thiên lệch 4 phút, quyền riêng tư 2 phút, ba cách giảm rủi ro và quy tắc vàng 2 phút."
+    },
+    {
+      "type": "cards",
+      "title": "AI mạnh ở tốc độ và khối lượng, không phải ở sự thật",
+      "cards": [
+        {
+          "head": "Nhanh",
+          "text": "Dữ liệu lớn trong vài phút"
+        },
+        {
+          "head": "Không mệt",
+          "text": "Làm việc liên tục"
+        },
+        {
+          "head": "Tự động hóa",
+          "text": "Tóm tắt, dịch, định dạng"
+        },
+        {
+          "head": "Ý tưởng",
+          "text": "Gợi ý khi nhóm bị bí"
+        },
+        {
+          "head": "Mẫu hình",
+          "text": "Phát hiện quy luật dễ bỏ sót"
+        },
+        {
+          "head": "Hỗ trợ",
+          "text": "Người không chuyên"
+        }
+      ],
+      "notes": "Đi nhanh, khoảng 3 phút. Theo tài liệu học tập, AI có sáu ưu điểm chính: xử lý khối lượng lớn dữ liệu rất nhanh — đọc hàng nghìn bình luận trong vài phút; làm việc liên tục, không mệt mỏi; tự động hóa việc lặp lại như tóm tắt, dịch, định dạng; gợi ý ý tưởng, mở rộng góc nhìn khi nhóm bị bí; phát hiện mẫu hình trong dữ liệu mà con người dễ bỏ sót; và hỗ trợ người không chuyên tiếp cận kỹ thuật phức tạp.\nMột câu từ video bài giảng đáng nhớ: AI giải phóng nhà nghiên cứu khỏi việc xử lý dữ liệu thủ công để dành thời gian cho phần quan trọng hơn — diễn giải kết quả và suy nghĩ chiến lược. Nói cách khác: AI lấy đi phần việc tay chân, không lấy đi phần việc của bộ óc.\nLưu ý cho giảng viên: slide UEF #7 ghi “Xử lý siêu dữ liệu (Big Data) chính xác” và “Giảm thiểu lỗi do con người” — nên nói rõ “giảm lỗi thao tác”, không phải “luôn chính xác”, vì ngay sau đây là ảo giác. Chuyển ý: “Tốc độ không đi kèm sự thật. Giờ xem mặt còn lại.”"
+    },
+    {
+      "type": "compare",
+      "title": "Bảy hạn chế của AI; ba cái nguy hiểm nhất với người nghiên cứu",
+      "left": {
+        "head": "Nguy hiểm nhất",
+        "items": [
+          "**Ảo giác**: sai mà rất tự tin",
+          "**Thiên lệch** theo dữ liệu huấn luyện",
+          "**Quyền riêng tư** dữ liệu cá nhân"
+        ]
+      },
+      "right": {
+        "head": "Bốn hạn chế khác",
+        "items": [
+          "Kiến thức có hạn thời gian",
+          "Thiếu bối cảnh địa phương",
+          "“Hộp đen”: khó giải thích",
+          "Phụ thuộc, mất kỹ năng tư duy"
+        ]
+      },
+      "notes": "Khoảng 2 phút. Theo tài liệu học tập, AI có bảy hạn chế: (1) ảo giác (hallucination) — tạo thông tin sai nhưng trình bày rất tự tin; (2) thiên lệch theo dữ liệu huấn luyện; (3) kiến thức có hạn thời gian — có thể không biết sự kiện mới; (4) thiếu hiểu biết bối cảnh địa phương, văn hóa, ngành cụ thể; (5) khó giải thích vì sao đưa ra kết quả — kiểu “hộp đen”; (6) rủi ro bảo mật và quyền riêng tư khi đưa dữ liệu cá nhân lên công cụ; (7) phụ thuộc — dùng thay vì học làm người dùng mất kỹ năng tư duy.\nNếu sinh viên đã xem slide gốc UEF: “chi phí triển khai cao” đúng với doanh nghiệp xây hệ thống AI riêng, ít liên quan đến sinh viên dùng công cụ có sẵn.\nBáo trước: “Với người làm nghiên cứu, ba hạn chế nguy hiểm nhất là ảo giác, thiên lệch và quyền riêng tư. Ta đi sâu từng cái.”\nLưu ý cho giảng viên: slide UEF #7 chỉ có 4 hạn chế; slide này đã bổ sung đủ 7 theo tài liệu học tập."
+    },
+    {
+      "type": "case",
+      "title": "Ảo giác: tài liệu bịa luôn đúng định dạng APA",
+      "label": "Giả định",
+      "scenario": [
+        "Nguyễn, T. H., & Trần, M. A. (2021). Ảnh hưởng của KOL đến ý định mua mỹ phẩm nội địa của sinh viên TP.HCM. *Tạp chí Nghiên cứu Marketing Việt Nam, 12*(3), 45–60.",
+        "**Ví dụ giả định — không tồn tại**"
+      ],
+      "question": "Trông thật, nhưng không tìm thấy và không có DOI",
+      "notes": "Khoảng 5 phút cho ảo giác và cách kiểm. Nhắc lại Buổi 4: AI tạo sinh tạo ra văn bản “trông hợp lý” dựa trên xác suất — nó không tra cứu một kho sự thật. Khi hỏi “cho tôi 5 bài báo về ý định mua mỹ phẩm nội địa”, AI biết một bài báo “trông như thế nào”: tên tác giả, năm, tên bài có từ khóa, tạp chí, DOI. Nó có thể ghép những mảnh đó thành một tài liệu chưa từng tồn tại. Vì vậy tài liệu bịa luôn đúng định dạng.\nGiải phẫu trích dẫn trên slide — nói rõ đây là ví dụ giả định: có vẻ thật vì tên tác giả Việt phổ biến, chủ đề sát đề tài, đủ số tập, số trang. Nhưng tên tạp chí có thể không tồn tại, không có DOI, và không tìm thấy trên Google Scholar.\nHỏi lớp: “Trích dẫn nào trong báo cáo của các nhóm lúc nãy giống kiểu này?” Nối lại các ví dụ nhóm vừa kể.\nChuyển ý: “Vậy kiểm thế nào cho nhanh? Hai phút, ba bước.”"
+    },
+    {
+      "type": "steps",
+      "title": "Hai phút kiểm một trích dẫn: tìm tên bài → mở bản gốc → khớp nội dung",
+      "steps": [
+        {
+          "head": "Tìm tên bài",
+          "text": "Tên bài trong ngoặc kép, tìm trên Google Scholar"
+        },
+        {
+          "head": "Mở bản gốc",
+          "text": "Bài có thật? Tác giả, năm, tạp chí có khớp?"
+        },
+        {
+          "head": "Khớp nội dung",
+          "text": "Bài có nói đúng điều AI tóm tắt? Mở DOI nếu có"
+        }
+      ],
+      "callout": "Đừng hỏi lại chính AI “tài liệu này có thật không?”",
+      "notes": "Quy trình kiểm ba bước, dùng cho mọi tài liệu AI gợi ý. Bước 1: tìm đúng tên bài, đặt trong ngoặc kép, trên Google Scholar hoặc trang tạp chí. Bước 2: mở bản gốc, ít nhất trang tóm tắt — bài có thật không, tác giả, năm, tạp chí có khớp không. Bước 3: khớp nội dung — bài có thực sự nói điều AI tóm tắt không; nếu có DOI, mở DOI xem có dẫn đúng bài không. Không qua được bước nào thì không trích.\nHỏi lớp: “Ở Buổi 4, nhóm nào đã hỏi lại AI để kiểm tra và được AI khẳng định là có thật?” Thường có vài tay giơ lên. Dùng để nhấn mạnh: AI có thể trả lời “có” một cách tự tin; kiểm chứng phải đi ra ngoài công cụ.\nLỗi hiểu thường gặp: “Công cụ có trích dẫn nguồn thì không cần kiểm.” Công cụ có dẫn nguồn giúp kiểm dễ hơn, không thay việc kiểm: nguồn có thể có thật nhưng không nói điều công cụ tóm tắt, hoặc là một trang web không đáng tin.\nChuyển ý sang hạn chế thứ hai: thiên lệch."
+    },
+    {
+      "type": "steps",
+      "title": "Dữ liệu thiên lệch thì kết quả thiên lệch: ví dụ AI phân tích tuyển dụng",
+      "steps": [
+        {
+          "head": "Dữ liệu cũ (lệch)",
+          "text": "Quá khứ chủ yếu tuyển một nhóm người"
+        },
+        {
+          "head": "Mô hình AI",
+          "text": "“Học” rằng nhóm đó là ứng viên tốt"
+        },
+        {
+          "head": "Gợi ý (lệch)",
+          "text": "Ưu ái nhóm đó, dẫn đến kết quả bất công"
+        }
+      ],
+      "callout": "AI không có ý phân biệt — nó lặp lại định kiến trong dữ liệu",
+      "notes": "Khoảng 4 phút cho thiên lệch. Bài trước đã học: AI học quy tắc từ dữ liệu (Russell & Norvig, 2021). Hệ quả: dữ liệu thiên lệch thì kết quả thiên lệch.\nVideo bài giảng đưa ví dụ: một công cụ AI dùng để phân tích xu hướng tuyển dụng, huấn luyện trên dữ liệu tuyển dụng trong quá khứ. Nếu trước đây công ty chủ yếu tuyển một nhóm người nhất định — một giới tính, một độ tuổi, một nhóm trường — thì AI sẽ “học” rằng nhóm đó là “ứng viên tốt” và ưu ái nhóm nhân khẩu học đó, dẫn đến kết quả bất công hoặc phân biệt đối xử. AI không “có ý” phân biệt; nó chỉ lặp lại — và khuếch đại — định kiến có sẵn trong dữ liệu.\nHỏi: “Một công ty dùng AI lọc CV, dữ liệu huấn luyện là CV của những người được tuyển 10 năm qua. Rủi ro là gì?” Chờ 1–2 câu trả lời.\nLưu ý cho giảng viên: video chỉ nêu nguyên tắc, không có tên doanh nghiệp hay số liệu — dạy như ví dụ minh họa. Nếu muốn dẫn một trường hợp thật được báo chí đưa tin, cần kiểm tra nguồn gốc."
+    },
+    {
+      "type": "cards",
+      "title": "Thiên lệch chạm cả dự án của bạn: AI biết thị trường Mỹ nhiều hơn thị trường Việt",
+      "cards": [
+        {
+          "head": "Nghiêng về phương Tây",
+          "text": "Dữ liệu phần lớn là nguồn tiếng Anh, thị trường phương Tây"
+        },
+        {
+          "head": "Hay đồng ý",
+          "text": "“Chứng minh rằng…” nhận về lập luận ủng hộ, không đánh giá khách quan"
+        },
+        {
+          "head": "Cách giảm",
+          "text": "Nêu bối cảnh Việt Nam; hỏi cả ủng hộ và phản bác; đối chiếu tài liệu trong nước"
+        }
+      ],
+      "notes": "Thiên lệch không chỉ là chuyện AI tuyển dụng — nó chạm đến dự án của chính các bạn.\nThứ nhất, trợ lý AI được huấn luyện phần lớn trên nguồn tiếng Anh và thị trường phương Tây. Hỏi “các yếu tố ảnh hưởng đến ý định mua trà sữa”, câu trả lời có thể nghiêng về nghiên cứu ở Mỹ, châu Âu, bỏ sót bối cảnh Việt Nam: giá, kênh bán qua ứng dụng giao đồ ăn, văn hóa uống cùng bạn bè.\nThứ hai, AI có xu hướng đồng ý với người hỏi: câu lệnh “Chứng minh rằng KOL làm tăng ý định mua” sẽ nhận về lập luận ủng hộ, không phải đánh giá khách quan. Nối Bài 1: đây chính là lỗi “khảo sát để chứng minh ý sếp” — chỉ là bây giờ thành “câu lệnh để chứng minh ý mình”, do chính mình gây ra.\nCách giảm: nêu rõ bối cảnh Việt Nam trong câu lệnh; yêu cầu AI nêu cả bằng chứng ủng hộ và phản bác; đối chiếu với tài liệu trong nước (Google Scholar với từ khóa tiếng Việt).\nChuyển ý: hạn chế thứ ba — quyền riêng tư."
+    },
+    {
+      "type": "bullets",
+      "title": "Câu trả lời của người tham gia không được lên chatbot khi chưa ẩn danh",
+      "bullets": [
+        {
+          "head": "Không tải lên",
+          "text": "tên, số điện thoại, email, MSSV, câu trả lời nhận diện được"
+        },
+        {
+          "head": "Ẩn danh trước",
+          "text": "thay tên bằng mã PV01, PV02… rồi mới nhờ AI"
+        },
+        {
+          "head": "Đọc điều khoản",
+          "text": "dữ liệu có được dùng để huấn luyện mô hình không?"
+        }
+      ],
+      "callout": "Người trả lời đồng ý tham gia nghiên cứu của nhóm, không đồng ý gửi dữ liệu cho công ty công nghệ",
+      "notes": "Khoảng 2 phút. Video bài giảng gọi chung ba rủi ro đạo đức của AI: quyền riêng tư dữ liệu, thiên lệch, và thiếu minh bạch. Riêng với dự án của các bạn, quyền riêng tư sẽ trở thành vấn đề thật từ Buổi 11–13, khi nhóm có dữ liệu khảo sát và phỏng vấn.\nBa việc cụ thể: không tải lên công cụ AI tên, số điện thoại, email, mã số sinh viên, hay câu trả lời có thể nhận ra người tham gia; ẩn danh trước — thay tên bằng mã “PV01, PV02…” — rồi mới nhờ AI gợi ý mã hóa chủ đề; đọc điều khoản của công cụ: dữ liệu có được dùng để huấn luyện mô hình không.\nNhắc lại nguyên tắc đạo đức ở Bài 1: người trả lời đồng ý tham gia nghiên cứu của nhóm, không đồng ý để câu trả lời của họ được gửi cho một công ty công nghệ. Khi nói căn cứ, chỉ nói chung “quy định pháp luật về bảo vệ dữ liệu cá nhân”.\nLưu ý cho giảng viên: nếu muốn nêu căn cứ pháp lý cụ thể, đối chiếu Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân và Luật Bảo vệ dữ liệu cá nhân 2025 — cần xác nhận số hiệu, ngày hiệu lực trước khi nêu."
+    },
+    {
+      "type": "table",
+      "title": "Ba cách giảm rủi ro — và quy tắc vàng: AI là trợ lý, không phải tác giả",
+      "header": [
+        "Doanh nghiệp (video)",
+        "Nhóm sinh viên"
+      ],
+      "rows": [
+        [
+          "Dữ liệu có trách nhiệm",
+          "Ẩn danh; không tải dữ liệu cá nhân"
+        ],
+        [
+          "Minh bạch quy trình AI",
+          "Khai báo công cụ, mục đích; nộp nhật ký AI"
+        ],
+        [
+          "Kiểm tra thuật toán định kỳ",
+          "Kiểm chứng từng kết quả AI với nguồn gốc"
+        ]
+      ],
+      "boldFirstCol": true,
+      "callout": "Bạn chịu trách nhiệm hoàn toàn về mọi nội dung nộp đi, kể cả phần AI gợi ý",
+      "notes": "Khoảng 2 phút. Video đề xuất ba bước giảm rủi ro đạo đức cho doanh nghiệp; dịch sang việc của sinh viên rất dễ. Quản lý và xử lý dữ liệu có trách nhiệm tương ứng với ẩn danh dữ liệu người trả lời và không tải dữ liệu cá nhân lên công cụ. Minh bạch trong quy trình AI tương ứng với khai báo công cụ, mục đích và nộp nhật ký AI. Kiểm tra (kiểm toán) thuật toán định kỳ tương ứng với kiểm chứng từng kết quả AI với nguồn gốc.\nGhi lên bảng quy tắc vàng: “AI là trợ lý, không phải tác giả. Bạn chịu trách nhiệm hoàn toàn về mọi nội dung nộp đi, kể cả phần do AI gợi ý.”\nHỏi một bạn: “Dự án của nhóm bạn có thể bị thiên lệch ở chỗ nào nếu dựa vào AI?” Một câu trả lời là đủ; câu trả lời mong đợi thường là bỏ sót bối cảnh Việt Nam, hoặc câu lệnh dẫn dắt AI xác nhận giả thuyết của nhóm.\nChuyển ý: “Biết hạn chế rồi, giờ xem AI được dùng vào đâu.”"
+    },
+    {
+      "type": "section",
+      "tag": "S3",
+      "kicker": "28–45 phút",
+      "title": "3.6 Ứng dụng của AI",
+      "notes": "Phần này khoảng 17 phút, đi từ rộng đến hẹp: bức tranh đa ngành (2 phút), sản xuất và kinh doanh (2 phút), nghiên cứu khoa học (4 phút — bảng quan trọng nhất của phần), nghiên cứu marketing và ví dụ 20.000 bình luận (6 phút), rồi câu hỏi nhanh giơ tay (3 phút).\nCâu dẫn: “Chúng ta vừa thấy AI có thể sai. Nhưng các ngành vẫn dùng AI rất nhiều. Vậy họ dùng ở đâu, và họ giữ lại phần nào cho con người?” Giữ câu hỏi đó trong suốt phần này: mỗi ứng dụng đều có một bước con người kiểm tra hoặc quyết định."
+    },
+    {
+      "type": "compare",
+      "title": "AI có mặt ở mọi ngành có nhiều dữ liệu và việc lặp lại",
+      "left": {
+        "head": "Vận hành, rủi ro",
+        "items": [
+          "**Giao thông**: xe tự lái",
+          "**Sản xuất**: kiểm lỗi",
+          "**Y tế**: hỗ trợ chẩn đoán",
+          "**Tài chính**: gian lận"
+        ]
+      },
+      "right": {
+        "head": "Con người, nội dung",
+        "items": [
+          "**Truyền thông**: cá nhân hóa",
+          "**Trợ lý ảo**",
+          "**Giáo dục**: lộ trình riêng"
+        ]
+      },
+      "notes": "Khoảng 2 phút, không đọc hết. Đề cương liệt kê ứng dụng của AI trong nhiều ngành: giao thông (xe tự lái, tối ưu tuyến đường), sản xuất, y tế (hỗ trợ chẩn đoán, phát triển thuốc), tài chính – ngân hàng (đánh giá rủi ro tín dụng, phát hiện gian lận), truyền thông (cá nhân hóa nội dung), trợ lý ảo, giáo dục (cá nhân hóa lộ trình học). Cách chia hai cột trên slide chỉ để dễ nhìn, không phải phân loại chính thức.\nHỏi lớp: “Bảy ngành này có điểm gì chung?” Chờ vài giây. Đáp án mong đợi: AI được dùng ở chỗ có nhiều dữ liệu và việc lặp lại cần nhận diện mẫu hình. Không cần nhớ hết danh sách.\nLưu ý cho giảng viên: slide UEF #8 thiếu ô “sản xuất” dù đề cương có (3.6.2) — slide này đã bổ sung. Ví dụ “IBM Watson chẩn đoán bệnh” trên UEF #8 nên bỏ tên riêng, nói “các hệ thống hỗ trợ chẩn đoán” — hiệu quả thực tế của Watson trong y tế từng gây tranh cãi; cần kiểm tra nếu giữ."
+    },
+    {
+      "type": "cards",
+      "title": "Trong sản xuất, AI nhìn lỗi, đoán hỏng máy và dự báo nhu cầu",
+      "cards": [
+        {
+          "head": "Thị giác máy",
+          "text": "Camera và AI phát hiện sản phẩm lỗi trên dây chuyền"
+        },
+        {
+          "head": "Bảo trì dự đoán",
+          "text": "Dự báo máy sắp hỏng từ dữ liệu cảm biến"
+        },
+        {
+          "head": "Dự báo nhu cầu",
+          "text": "Ước lượng lượng hàng cần sản xuất, nhập kho"
+        },
+        {
+          "head": "Chăm sóc khách hàng",
+          "text": "Chatbot trả lời câu hỏi thường gặp"
+        }
+      ],
+      "notes": "Khoảng 2 phút. Nếu trễ giờ, có thể bỏ slide này.\nBốn ứng dụng trong sản xuất và kinh doanh: kiểm tra chất lượng bằng thị giác máy — camera và AI phát hiện sản phẩm lỗi trên dây chuyền; bảo trì dự đoán — dự báo máy móc sắp hỏng từ dữ liệu cảm biến để sửa trước; dự báo nhu cầu — ước lượng lượng hàng cần sản xuất, nhập kho; chăm sóc khách hàng — chatbot trả lời câu hỏi thường gặp.\nNối với marketing: dự báo nhu cầu là chỗ sản xuất và nghiên cứu marketing gặp nhau — dữ liệu bán hàng và hành vi khách hàng đi vào cùng một mô hình dự báo. Hỏi nhanh: “Nếu bạn là nhãn trà sữa, dữ liệu nào giúp dự báo cần pha bao nhiêu ly vào cuối tuần?” Một hai câu trả lời là đủ (lịch sử bán, thời tiết, khuyến mãi…).\nChuyển ý: “Còn trong nghiên cứu khoa học — chính việc các bạn đang làm — AI giúp được gì?”"
+    },
+    {
+      "type": "table",
+      "title": "Trong nghiên cứu, AI hỗ trợ từng bước; trách nhiệm vẫn là của người nghiên cứu",
+      "header": [
+        "Giai đoạn",
+        "AI hỗ trợ",
+        "Người phải làm"
+      ],
+      "rows": [
+        [
+          "Ý tưởng",
+          "Câu hỏi phản biện",
+          "Chọn vấn đề"
+        ],
+        [
+          "Tài liệu",
+          "Tìm, tóm tắt",
+          "Mở, kiểm bài gốc"
+        ],
+        [
+          "Công cụ",
+          "Bắt câu hỏi kép",
+          "Thử người thật"
+        ],
+        [
+          "Định tính",
+          "Gợi ý mã hóa",
+          "Chốt chủ đề"
+        ],
+        [
+          "Báo cáo",
+          "Góp ý văn phong",
+          "Tự diễn giải"
+        ]
+      ],
+      "boldFirstCol": true,
+      "notes": "Khoảng 4 phút. Đây là bảng quan trọng nhất của phần ứng dụng — “bản đồ” các nhóm sẽ dùng AI trong dự án.\nĐọc cột phải trước. Hình thành ý tưởng: AI gợi ý hướng, đặt câu hỏi phản biện; nhóm chọn vấn đề có ý nghĩa với quyết định quản trị. Tìm và đọc tài liệu: AI tìm bài báo liên quan, tóm tắt, so sánh; nhóm mở từng bài gốc, kiểm tra bài có thật và nói đúng như tóm tắt. Thiết kế công cụ: AI gợi ý câu hỏi, phát hiện câu hỏi kép, câu hỏi dẫn dắt; nhóm dựa trên thang đo đã công bố và thử trên người thật. Phân tích định tính: AI gợi ý mã hóa, nhóm chủ đề ban đầu; nhóm đọc lại dữ liệu gốc, quyết định chủ đề cuối cùng. Viết báo cáo: AI góp ý văn phong, ngữ pháp, cấu trúc; nhóm tự viết lập luận và diễn giải kết quả.\nMỗi dòng cột phải là một việc không thể giao cho AI, vì nó đòi hỏi phán đoán và trách nhiệm. Báo trước: “Dòng đầu tiên — AI đặt câu hỏi phản biện, nhóm chọn nghe hay không — chính là phần thực hành hôm nay.”\nLưu ý cho giảng viên: bảng này thay UEF #9 (tiêu đề lặp chữ, ô “Phát hiện quy luật” lặp hai lần)."
+    },
+    {
+      "type": "cards",
+      "title": "Trong nghiên cứu marketing: AI đọc cảm xúc, dự báo và thu thập liên tục",
+      "cards": [
+        {
+          "head": "Phân tích cảm xúc",
+          "text": "Social listening: thái độ tích cực, tiêu cực về thương hiệu"
+        },
+        {
+          "head": "Phân tích dự báo",
+          "text": "Doanh số, khả năng rời bỏ, thành công của sản phẩm mới"
+        },
+        {
+          "head": "Tự động hóa",
+          "text": "Khảo sát tự động, chatbot; AI làm sạch, mã hóa, phân tích"
+        }
+      ],
+      "callout": "AI phân tích → đề xuất, mô phỏng → doanh nghiệp quyết định",
+      "notes": "Khoảng 4 phút. Video bài giảng nêu ba nhóm ứng dụng AI trong nghiên cứu thị trường. Một, phân tích cảm xúc người tiêu dùng (consumer sentiment analysis): AI xử lý bình luận, bài đăng mạng xã hội để nhận diện thái độ tích cực hoặc tiêu cực về thương hiệu — còn gọi là lắng nghe mạng xã hội (social listening). Hai, phân tích dự báo (predictive analytics): phân tích lịch sử mua hàng để dự báo doanh số, khả năng khách hàng rời bỏ, hoặc khả năng thành công của sản phẩm mới. Ba, tự động hóa thu thập và phân tích dữ liệu: chatbot, khảo sát tự động chạy liên tục, thu thập dữ liệu web; AI hỗ trợ làm sạch, mã hóa, phân tích chủ đề. Video nêu tình huống: hệ thống khảo sát tự động liên tục thu phản hồi, AI phân tích để nhận diện xu hướng mới nổi và điểm cần cải thiện.\nTài liệu học tập bổ sung: phân khúc khách hàng, phân tích câu trả lời mở số lượng lớn, thử nghiệm A/B, cá nhân hóa quảng cáo.\nChỉ vào hộp dưới: mũi tên cuối là doanh nghiệp ra quyết định — đúng như Bài 1, nghiên cứu (kể cả có AI) không quyết định thay nhà quản trị.\nLưu ý cho giảng viên: video không nêu tên doanh nghiệp hay số liệu — không thêm ví dụ thương hiệu thật có số liệu."
+    },
+    {
+      "type": "steps",
+      "title": "20.000 bình luận: AI phân loại, con người kiểm tra mẫu trước khi tin",
+      "steps": [
+        {
+          "head": "Bình luận",
+          "text": "20.000 bình luận trên sàn"
+        },
+        {
+          "head": "AI phân loại",
+          "text": "4 chủ đề × cảm xúc"
+        },
+        {
+          "head": "Kiểm tra mẫu",
+          "text": "Đọc vài trăm bình luận"
+        },
+        {
+          "head": "Giả thuyết",
+          "text": "Không dùng để kết luận"
+        }
+      ],
+      "callout": "Ví dụ giả định — con người kiểm tra trước khi tin",
+      "notes": "Khoảng 2 phút. Ví dụ giả định: một thương hiệu mỹ phẩm nội địa thu thập 20.000 bình luận trên sàn thương mại điện tử. AI phân loại bình luận theo chủ đề (bao bì, mùi hương, giao hàng, giá) và theo cảm xúc. Nhóm nghiên cứu đọc mẫu ngẫu nhiên vài trăm bình luận để kiểm tra AI phân loại có đúng không — ví dụ “thơm muốn xỉu” có bị xếp nhầm vào tiêu cực không, câu mỉa mai “giao nhanh ghê, 2 tuần mới tới” có bị xếp nhầm vào tích cực không. Chỉ khi tỷ lệ đúng chấp nhận được, nhóm mới dùng kết quả — và dùng để đặt giả thuyết cho khảo sát tiếp theo, không phải để kết luận.\nHỏi lớp: “Vì sao tiếng lóng và câu mỉa mai đặc biệt khó với AI khi phân tích bình luận tiếng Việt?” Chờ 1–2 câu trả lời, rồi nối lại hạn chế “thiếu hiểu biết bối cảnh địa phương” ở slide bảy hạn chế.\nChuyển ý: “Giờ kiểm tra nhanh xem cả lớp phân biệt được việc nào giao cho AI.”"
+    },
+    {
+      "type": "bullets",
+      "title": "Việc nào giao cho AI, việc nào nhóm tự làm?",
+      "numbered": true,
+      "bullets": [
+        "Gợi ý từ khóa tiếng Anh để tìm tài liệu trên Google Scholar",
+        "Quyết định nghiên cứu theo hướng định tính hay định lượng",
+        "Phát hiện câu hỏi kép trong bản nháp bảng hỏi",
+        "Viết đoạn diễn giải “kết quả cho thấy…” cho bảng thống kê"
+      ],
+      "callout": "1 ngón = giao cho AI (có kiểm tra) · 2 ngón = nhóm tự làm",
+      "notes": "Khoảng 3 phút. Đọc từng việc; đếm “3–2–1” rồi cả lớp giơ tay cùng lúc: 1 ngón là giao được cho AI (có kiểm tra), 2 ngón là nhóm phải tự làm. Giơ cùng lúc để tránh nhìn bạn bên cạnh.\nĐáp án 1–2–1–2. Việc 1, gợi ý từ khóa tiếng Anh: giao được, nhưng kiểm tra kết quả tìm. Việc 2, quyết định hướng định tính hay định lượng: nhóm tự làm — AI có thể nêu ý, nhóm quyết định. Việc 3, phát hiện câu hỏi kép trong bảng hỏi: giao được, rồi thử với người thật. Việc 4, viết đoạn diễn giải kết quả thống kê: nhóm tự làm — không dùng chatbot diễn giải kết quả thống kê.\nVới mỗi câu có nhiều bạn giơ sai, hỏi một bạn giải thích lý do trước khi công bố đáp án.\nNhấn câu 2: đây là cầu nối sang thực hành hôm nay — cuối buổi mỗi nhóm phải tự chốt hướng định tính hay định lượng. Sau đó thông báo giải lao 15 phút."
+    },
+    {
+      "type": "break",
+      "title": "Giải lao 15 phút",
+      "big": "15'",
+      "sub": "Quay lại lúc …\nMở sẵn một công cụ AI",
+      "notes": "Không giảng. Thông báo giờ quay lại (giảng viên điền giờ cụ thể vào chỗ “…” trên slide trước buổi học).\nNhắc các nhóm tranh thủ giờ giải lao kiểm tra máy: ít nhất một máy của nhóm đã đăng nhập và mở được một công cụ AI, vì sau phần câu lệnh sẽ là 45 phút thực hành nhóm “Xưởng câu lệnh” cần chạy trực tiếp trên công cụ. Nhóm nào chưa có tài khoản hoặc gặp giới hạn lượt dùng thì báo giảng viên ngay để ghép công cụ hoặc dùng chung máy.\nGiảng viên dùng giờ giải lao chuẩn bị phiếu nhóm và mẫu nhật ký AI để phát ở phần thực hành, và kiểm tra trình chiếu cho phần công cụ."
+    },
+    {
+      "type": "section",
+      "tag": "S4",
+      "kicker": "60–70 phút",
+      "title": "3.7 Công cụ AI hỗ trợ nghiên cứu",
+      "notes": "Phần này khoảng 10 phút: hai nhóm công cụ (4 phút), chọn công cụ theo việc cần làm (4 phút), và lưu ý chatbot không thay phần mềm thống kê (2 phút).\nCâu dẫn sau giải lao: “Trước giờ nghỉ, chúng ta đã thấy AI hữu ích ở đâu và nguy hiểm ở đâu. Giờ là câu hỏi thực tế: dùng công cụ nào cho việc nào?”\nNhấn từ đầu: tên công cụ đổi rất nhanh, nên học cách gọi tên theo chức năng — trợ lý đa năng hay công cụ cho tài liệu học thuật — để khi công cụ đổi tên các bạn vẫn chọn đúng."
+    },
+    {
+      "type": "cards",
+      "title": "Hai nhóm công cụ: trợ lý đa năng để hiểu, công cụ học thuật để tìm",
+      "cards": [
+        {
+          "head": "Trợ lý đa năng",
+          "text": "ChatGPT · Gemini · Claude · Copilot"
+        },
+        {
+          "head": "Công cụ học thuật",
+          "text": "Google Scholar · Semantic Scholar · Elicit · Consensus · Research Rabbit · NotebookLM"
+        }
+      ],
+      "callout": "Perplexity, iAsk: kèm nguồn — vẫn phải mở nguồn",
+      "notes": "Khoảng 4 phút cho hai slide về hai nhóm công cụ. Đề cương và slide UEF chia công cụ thành hai nhóm; tài liệu học tập giữ cách chia này nhưng gọi tên theo chức năng, vì tên công cụ đổi rất nhanh.\nNhóm 1, trợ lý đa năng (chatbot): ChatGPT, Gemini (tiền thân Google Bard), Claude, Copilot (tiền thân Bing Chat). Nhóm 2, công cụ chuyên cho tài liệu học thuật: Google Scholar, Semantic Scholar, Elicit, Consensus, Research Rabbit, NotebookLM.\nĐề cương (3.7.1–3.7.2) còn nêu Perplexity và iAsk — công cụ tìm kiếm – trả lời có kèm nguồn: tiện để định hướng, nhưng nguồn kèm theo có thể là trang web không học thuật — vẫn phải mở và đánh giá như đã học ở Buổi 2.\nHỏi lớp: “Ở Buổi 4, nhóm bạn dùng công cụ thuộc nhóm nào?”\nLưu ý cho giảng viên: cần xác nhận tên, tình trạng miễn phí/giới hạn và tính năng của từng công cụ tại thời điểm dạy; slide UEF #13 mô tả iAsk là “tối ưu hóa câu hỏi” và Elicit là “tìm đối thủ/xu hướng” — chưa chuẩn, không dùng nguyên văn. Slide UEF #11 được bổ sung Claude, Google Scholar, Semantic Scholar, Research Rabbit cho khớp tài liệu học tập."
+    },
+    {
+      "type": "table",
+      "title": "Mỗi nhóm công cụ mạnh một việc và có một rủi ro riêng",
+      "header": [
+        "",
+        "Trợ lý đa năng",
+        "Công cụ học thuật"
+      ],
+      "rows": [
+        [
+          "Mạnh ở",
+          "Giải thích, phản biện",
+          "Tìm bài có thật"
+        ],
+        [
+          "Rủi ro",
+          "Bịa nguồn, số liệu",
+          "Tóm tắt vẫn sai"
+        ],
+        [
+          "Không dùng để",
+          "Lấy danh mục tài liệu",
+          "Thay đọc bài gốc"
+        ]
+      ],
+      "boldFirstCol": true,
+      "callout": "NotebookLM chỉ tốt bằng bộ tài liệu đầu vào",
+      "notes": "Phần tiếp của slide hai nhóm công cụ. Đi theo từng dòng của bảng, so sánh hai cột.\nNhóm 1, trợ lý đa năng: mạnh ở giải thích khái niệm, gợi ý ý tưởng, góp ý văn phong, phản biện. Rủi ro chính là bịa nguồn, bịa số liệu. Vì vậy không dùng trợ lý đa năng để lấy danh mục tài liệu tham khảo — đúng điều các nhóm vừa gặp ở Buổi 4.\nNhóm 2, công cụ chuyên cho tài liệu học thuật: mạnh ở tìm bài báo có thật, liên kết đến nguồn gốc, tóm tắt từ tài liệu bạn cung cấp. Rủi ro là phạm vi cơ sở dữ liệu có hạn, và tóm tắt vẫn có thể sai. Không dùng để thay thế việc đọc bài gốc.\nNói riêng một câu về NotebookLM: nó trả lời dựa trên tài liệu bạn tải lên và chỉ ra đoạn trích — rất hợp để hỏi đáp trên bộ bài báo nhóm đã tải về và đã kiểm chứng. Nhưng nó chỉ tốt bằng bộ tài liệu đầu vào: tải bài chưa kiểm vào thì câu trả lời cũng chưa đáng tin.\nHỏi nhanh: “Nhóm bạn đang dùng công cụ nào, thuộc nhóm nào?”"
+    },
+    {
+      "type": "table",
+      "title": "Chọn công cụ theo việc, và luôn biết mình sẽ kiểm chứng bằng cách nào",
+      "header": [
+        "Việc cần làm",
+        "Công cụ phù hợp",
+        "Cách kiểm chứng"
+      ],
+      "rows": [
+        [
+          "Hiểu khái niệm mới",
+          "Trợ lý đa năng",
+          "Đối chiếu giáo trình"
+        ],
+        [
+          "Tìm bài tổng quan",
+          "Google Scholar, Elicit",
+          "Mở bài gốc, kiểm DOI"
+        ],
+        [
+          "Tìm bài liên quan",
+          "Research Rabbit",
+          "Đọc tóm tắt từng bài"
+        ],
+        [
+          "Hỏi đáp bộ tài liệu",
+          "NotebookLM",
+          "Xem đoạn trích"
+        ],
+        [
+          "Góp ý bảng hỏi",
+          "Trợ lý đa năng",
+          "Thử với 3–5 người"
+        ],
+        [
+          "Phân tích thống kê",
+          "Phần mềm thống kê",
+          "So bảng kết quả gốc"
+        ]
+      ],
+      "boldFirstCol": true,
+      "notes": "Khoảng 4 phút. Bảng này thay UEF #13 (mô tả iAsk là “tối ưu hóa câu hỏi” và Elicit là “tìm đối thủ/xu hướng” chưa chuẩn). Đi từng dòng, nhấn cột cuối: mỗi việc đều có cách kiểm chứng riêng.\nHiểu một khái niệm mới: trợ lý đa năng, đối chiếu giáo trình. Tìm bài báo cho tổng quan tài liệu: Google Scholar, Semantic Scholar, Elicit, Consensus — mở bài gốc, kiểm tra DOI. Tìm các bài liên quan đến một bài đã có: Research Rabbit hoặc “Cited by” trên Google Scholar — đọc tóm tắt từng bài. Tóm tắt, hỏi đáp trên bộ tài liệu nhóm đã tải về: NotebookLM — xem đoạn trích công cụ chỉ ra. Góp ý bảng hỏi: trợ lý đa năng — thử bảng hỏi với 3–5 người thật. Phân tích thống kê: phần mềm thống kê (SPSS, Jamovi, Excel, R…) — so sánh với bảng kết quả gốc của phần mềm.\nHỏi lớp: “Ở Buổi 4, nhóm nào đã dùng chatbot để lấy danh mục tài liệu? Nhìn lại bảng: lẽ ra nên dùng công cụ nào?” Đáp án mong đợi: công cụ học thuật như Google Scholar, Semantic Scholar, Elicit, Consensus."
+    },
+    {
+      "type": "compare",
+      "title": "Chatbot không thay phần mềm thống kê",
+      "left": {
+        "head": "Nên dùng chatbot để",
+        "items": [
+          "Tổng hợp bức tranh chung",
+          "Định tính, sau khi ẩn danh",
+          "Gợi ý, biên tập, dịch"
+        ]
+      },
+      "right": {
+        "head": "Không dùng chatbot để",
+        "items": [
+          "Phân tích định lượng",
+          "Diễn giải kết quả thống kê"
+        ]
+      },
+      "vs": true,
+      "callout": "Luôn kiểm chứng; phân tích chạy trên SPSS, Jamovi, Excel",
+      "notes": "Khoảng 2 phút. Hai lưu ý quan trọng, viết thành quy định của học phần. Thứ nhất: tên và tính năng công cụ thay đổi liên tục; có công cụ miễn phí giới hạn lượt dùng — kiểm tra điều khoản trước khi tải dữ liệu lên. Thứ hai: không dùng chatbot để tự chạy phân tích số liệu định lượng hay diễn giải kết quả thống kê thay bạn. Chatbot có thể tính sai hoặc bịa số mà trông vẫn hợp lý.\nUEF #12 tóm gọn: nên dùng mô hình ngôn ngữ lớn để tổng hợp bức tranh chung, hỗ trợ phân tích định tính (gợi ý chủ đề, tóm tắt phỏng vấn — sau khi ẩn danh), khơi gợi ý tưởng, biên tập, dịch; không dùng để phân tích dữ liệu định lượng hay diễn giải kết quả thống kê; luôn kiểm chứng.\nNhấn: phân tích phải chạy trên phần mềm thống kê như SPSS, Jamovi, Excel, và các bạn phải tự hiểu, tự giải thích được từng con số trong báo cáo — sẽ luyện ở Buổi 13.\nChuyển ý: “Dùng đúng công cụ rồi, giờ học cách ra lệnh cho đúng.”"
+    },
+    {
+      "type": "section",
+      "tag": "S5",
+      "kicker": "70–88 phút",
+      "title": "3.8 Cách đặt câu lệnh (prompt) hỗ trợ nghiên cứu",
+      "notes": "Phần này khoảng 18 phút: sáu nguyên tắc chung (3 phút), các “nút vặn” của câu lệnh (2 phút), bốn khung câu lệnh R-T-F, T-A-G, B-A-B, C-A-R-E (8 phút, mỗi khung một ví dụ gắn dự án), và hoạt động sửa câu lệnh theo cặp (5 phút).\nCâu dẫn: “Một câu lệnh (prompt) là yêu cầu bạn gửi cho công cụ AI. Buổi 4, nhiều nhóm nhận về tài liệu bịa — một phần vì câu lệnh. Hôm nay ta học cách viết câu lệnh để AI giúp được nhiều hơn và bịa ít hơn.”\nLưu ý cho giảng viên: ví dụ cho bốn khung lấy từ tài liệu học tập, không dùng ví dụ trên slide UEF #18–#21 vì các ví dụ đó yêu cầu AI liệt kê tài liệu — đúng kiểu câu lệnh sinh trích dẫn bịa."
+    },
+    {
+      "type": "steps",
+      "title": "Câu lệnh mơ hồ nhận về câu trả lời chung chung — nơi ảo giác dễ xảy ra nhất",
+      "direction": "v",
+      "steps": [
+        {
+          "head": "Cụ thể",
+          "text": "bạn là ai, cần gì, để làm gì"
+        },
+        {
+          "head": "Bối cảnh",
+          "text": "đề tài, đối tượng, thị trường Việt Nam"
+        },
+        {
+          "head": "Định dạng",
+          "text": "bảng, gạch đầu dòng, số từ"
+        },
+        {
+          "head": "Chia nhỏ",
+          "text": "nhiều bước, hỏi tiếp nhiều lượt"
+        },
+        {
+          "head": "Nói rõ khi không chắc",
+          "text": "và không bịa nguồn"
+        },
+        {
+          "head": "Luôn kiểm chứng",
+          "text": "trước khi dùng"
+        }
+      ],
+      "notes": "Khoảng 3 phút. Câu lệnh mơ hồ nhận về câu trả lời chung chung — và chung chung là nơi ảo giác dễ xảy ra nhất. Sáu nguyên tắc theo tài liệu học tập: (1) cụ thể — nói rõ bạn là ai, cần gì, để làm gì; (2) cung cấp bối cảnh — đề tài, đối tượng nghiên cứu, thị trường Việt Nam; (3) yêu cầu định dạng — bảng, gạch đầu dòng, số từ; (4) chia nhỏ việc lớn thành nhiều bước và hỏi tiếp — hội thoại nhiều lượt; (5) yêu cầu AI nói rõ khi không chắc và không bịa nguồn; (6) luôn kiểm chứng kết quả trước khi dùng.\nNếu sinh viên đã xem slide UEF: “chain prompting” chính là nguyên tắc 4 — hỏi tiếp nhiều lượt. Về “hàm System”, chỉ nói một câu: nhiều công cụ cho phép đặt hướng dẫn chung áp dụng cho mọi cuộc trò chuyện, ví dụ “luôn nói rõ khi không chắc chắn”. Không đi sâu.\nHỏi nhanh: “Câu lệnh Buổi 4 của nhóm bạn thiếu nguyên tắc nào?” Một hai câu trả lời là đủ."
+    },
+    {
+      "type": "cards",
+      "title": "Một câu lệnh có nhiều “nút vặn”: vai trò, người đọc, giọng, độ dài, cấu trúc",
+      "cards": [
+        {
+          "head": "Bốn nút vặn",
+          "text": "Vai trò · người đọc · giọng điệu · độ dài và nền tảng"
+        },
+        {
+          "head": "Năm cấu trúc",
+          "text": "Thời gian · so sánh – tương phản · nguyên nhân – kết quả · vấn đề – giải pháp · tường thuật"
+        }
+      ],
+      "callout": "Các khung câu lệnh chỉ là cách gom các nút này lại",
+      "notes": "Đi nhanh, khoảng 2 phút. Ngoài nội dung, một câu lệnh có thể điều chỉnh nhiều “nút vặn”: vai trò AI đóng (nhà nghiên cứu, người phản biện…), người đọc (sinh viên năm hai, giám đốc marketing), giọng điệu (học thuật, thân thiện), độ dài và nền tảng (100 từ, báo cáo, email). Và có thể yêu cầu cấu trúc câu trả lời: theo thời gian, so sánh – tương phản, nguyên nhân – kết quả, vấn đề – giải pháp, hoặc tường thuật.\nVí dụ nhanh để lớp thấy tác dụng: cùng câu hỏi “nghiên cứu khám phá là gì”, nếu người đọc là sinh viên năm hai và cấu trúc là so sánh – tương phản với nghiên cứu mô tả, câu trả lời sẽ rất khác so với khi để AI tự chọn.\nChuyển ý: “Các khung câu lệnh ở slide tiếp theo chỉ là cách gom những nút vặn này lại thành danh sách kiểm tra.”\nLưu ý cho giảng viên: slide này gộp UEF #16 và #17."
+    },
+    {
+      "type": "table",
+      "title": "Bốn khung câu lệnh, mỗi khung hợp với một kiểu việc",
+      "header": [
+        "Khung",
+        "Phù hợp khi"
+      ],
+      "rows": [
+        [
+          "**R-T-F**: Role – Task – Format",
+          "Việc đơn giản, cần nhanh"
+        ],
+        [
+          "**T-A-G**: Task – Action – Goal",
+          "AI cần biết mục tiêu"
+        ],
+        [
+          "**B-A-B**: Before – After – Bridge",
+          "Cải thiện cái đã có"
+        ],
+        [
+          "**C-A-R-E**: Context – Action – Result – Example",
+          "Việc phức tạp, cần đúng mẫu"
+        ]
+      ],
+      "callout": "Khung = danh sách kiểm tra điều AI cần biết",
+      "notes": "Bảng tổng quan, khoảng 1 phút; sau đó mỗi khung một slide, đọc to ví dụ và chỉ vào từng thành phần.\nR-T-F: Role (vai trò) – Task (nhiệm vụ) – Format (định dạng), cho việc đơn giản, cần kết quả nhanh. T-A-G: Task (nhiệm vụ) – Action (hành động) – Goal (mục tiêu), khi cần AI hiểu kết quả dùng để làm gì. B-A-B: Before (hiện trạng) – After (mong muốn) – Bridge (cách đi từ hiện trạng đến mong muốn), khi cần cải thiện một sản phẩm đã có như bảng hỏi, đoạn văn. C-A-R-E: Context (bối cảnh) – Action (hành động) – Result (kết quả mong đợi) – Example (ví dụ mẫu), cho việc phức tạp, muốn kết quả theo đúng mẫu.\nNhấn câu chốt: khung không phải công thức thần kỳ — nó là danh sách kiểm tra để không quên nói với AI điều nó cần biết. Bốn ví dụ tiếp theo lấy từ tài liệu học tập, đều gắn với dự án nghiên cứu."
+    },
+    {
+      "type": "case",
+      "title": "R-T-F: vai trò, nhiệm vụ, định dạng — cho việc cần nhanh",
+      "label": "Ví dụ R-T-F",
+      "scenario": [
+        "**(R)** Bạn là giảng viên nghiên cứu marketing.",
+        "**(T)** Giải thích khác nhau giữa nghiên cứu khám phá và mô tả cho SV năm hai.",
+        "**(F)** Bảng so sánh 4 tiêu chí, mỗi loại một ví dụ trà sữa Việt Nam."
+      ],
+      "question": "Dùng khi cần hiểu nhanh một khái niệm",
+      "notes": "Đọc to câu lệnh, chỉ vào từng phần. R — vai trò: “Bạn là giảng viên nghiên cứu marketing.” T — nhiệm vụ: giải thích sự khác nhau giữa nghiên cứu khám phá và nghiên cứu mô tả, cho sinh viên năm hai — để ý nhiệm vụ đã nói luôn người đọc. F — định dạng: bảng so sánh 4 tiêu chí, mỗi loại một ví dụ về ngành trà sữa tại Việt Nam — định dạng vừa giúp đọc nhanh, vừa kéo câu trả lời về bối cảnh Việt Nam.\nHỏi lớp: “Nếu bỏ phần F, câu trả lời sẽ khác thế nào?” Đáp án mong đợi: AI sẽ trả về một đoạn văn dài, ví dụ có thể ở thị trường nước ngoài, khó so sánh.\nLưu ý cho giảng viên: không dùng ví dụ gốc của UEF #18 — ví dụ đó yêu cầu AI “cung cấp cơ sở lý thuyết… dạng bảng gồm tác giả, năm, trích dẫn”, đúng kiểu câu lệnh sinh trích dẫn bịa mà lớp vừa phân tích ở phần khởi động. Nếu dư giờ, có thể chiếu ví dụ gốc đó như một “ví dụ cần sửa”."
+    },
+    {
+      "type": "steps",
+      "title": "T-A-G: nói cho AI biết kết quả để làm gì",
+      "steps": [
+        {
+          "head": "Nhiệm vụ",
+          "tag": "T",
+          "text": "Đề tài: ý định mua mỹ phẩm nội địa của sinh viên"
+        },
+        {
+          "head": "Hành động",
+          "tag": "A",
+          "text": "Liệt kê lý thuyết, biến; gợi ý từ khóa tiếng Anh"
+        },
+        {
+          "head": "Mục tiêu",
+          "tag": "G",
+          "text": "Định hướng tìm tài liệu; không nêu bài báo nếu không chắc"
+        }
+      ],
+      "callout": "Xin từ khóa để tự tìm — không xin danh mục tài liệu",
+      "notes": "Đọc to câu lệnh mẫu: “Nhóm tôi nghiên cứu các yếu tố ảnh hưởng đến ý định mua mỹ phẩm nội địa của sinh viên (T). Hãy liệt kê các lý thuyết và biến thường được dùng trong chủ đề này và gợi ý từ khóa tiếng Anh để tìm trên Google Scholar (A). Mục tiêu là định hướng việc tìm tài liệu; không liệt kê bài báo cụ thể nếu bạn không chắc chắn bài đó tồn tại (G).”\nChỉ vào câu cuối: đó là nguyên tắc 5 — yêu cầu AI nói rõ khi không chắc, không bịa nguồn — được viết thẳng vào câu lệnh. Và để ý: câu lệnh xin lý thuyết, biến, từ khóa — những thứ dùng để tự đi tìm — chứ không xin danh mục tài liệu.\nBáo trước: khung T-A-G sẽ dùng trong phần thực hành hôm nay.\nLưu ý cho giảng viên: không dùng ví dụ UEF #19 vì nó trộn “Đóng vai chuyên gia” (thuộc Role) vào phần Action."
+    },
+    {
+      "type": "case",
+      "title": "B-A-B: từ hiện trạng đến mong muốn — để sửa cái đã có",
+      "label": "Ví dụ B-A-B",
+      "scenario": [
+        "**(Before)** Đây là 5 câu hỏi khảo sát nhóm tôi đang có: [dán câu hỏi].",
+        "**(After)** Chúng tôi muốn các câu hỏi rõ ràng, trung lập, mỗi câu chỉ hỏi một ý.",
+        "**(Bridge)** Hãy chỉ ra câu kép, câu dẫn dắt, giải thích lý do và đề xuất cách sửa."
+      ],
+      "question": "Sẽ dùng lại ở Buổi 10–11 khi sửa bảng hỏi",
+      "notes": "Đọc to câu lệnh mẫu: “Đây là 5 câu hỏi khảo sát nhóm tôi đang có: [dán câu hỏi] (Before). Chúng tôi muốn các câu hỏi rõ ràng, trung lập, mỗi câu chỉ hỏi một ý (After). Hãy chỉ ra câu nào là câu hỏi kép, câu nào dẫn dắt, giải thích lý do và đề xuất cách sửa (Bridge).”\nGiải thích: B-A-B hợp khi đã có một sản phẩm — bảng hỏi, đoạn văn — và muốn cải thiện nó. Before mô tả cái đang có, After mô tả cái mình muốn, Bridge là việc AI phải làm để đi từ cái này sang cái kia.\nNhấn: AI chỉ ra và giải thích, nhóm vẫn là người quyết định sửa hay không, và vẫn phải thử bảng hỏi với người thật — đúng như bảng “AI hỗ trợ / người vẫn phải làm” ở phần ứng dụng.\nBáo trước: khung này sẽ dùng lại ở Buổi 10–11 khi các nhóm thiết kế và sửa bảng hỏi.\nLưu ý cho giảng viên: giữ khung và template của UEF #20, thay phần ví dụ."
+    },
+    {
+      "type": "steps",
+      "title": "C-A-R-E: bối cảnh, hành động, kết quả, ví dụ — cho việc phức tạp",
+      "steps": [
+        {
+          "head": "Bối cảnh",
+          "tag": "C",
+          "text": "Phỏng vấn sâu 8 SV về app giao đồ ăn"
+        },
+        {
+          "head": "Hành động",
+          "tag": "A",
+          "text": "8–10 câu hỏi mở, buổi 30 phút"
+        },
+        {
+          "head": "Kết quả",
+          "tag": "R",
+          "text": "3 phần; mỗi câu có câu gợi mở"
+        },
+        {
+          "head": "Ví dụ",
+          "tag": "E",
+          "text": "“Kể lần gần nhất bạn đặt đồ ăn?”"
+        }
+      ],
+      "callout": "“E” là ví dụ mẫu đầu ra để AI bắt chước",
+      "notes": "Đọc to câu lệnh mẫu: “Nhóm tôi làm nghiên cứu định tính về lý do sinh viên chọn ứng dụng giao đồ ăn, phỏng vấn sâu 8 sinh viên (C). Hãy gợi ý 8–10 câu hỏi mở cho buổi phỏng vấn 30 phút (A). Kết quả chia 3 phần: mở đầu, nội dung chính, kết thúc; mỗi câu chính có 1 câu hỏi gợi mở thêm (R). Ví dụ một câu: ‘Bạn kể lại lần gần nhất bạn đặt đồ ăn qua ứng dụng?’ (E).”\nNhấn: “E” là ví dụ mẫu đầu ra — đưa một câu mẫu để AI bắt chước đúng kiểu câu hỏi mở, kể chuyện, không dẫn dắt. Đây là điểm nhiều bạn hiểu nhầm: E không phải “ví dụ về đề tài” mà là mẫu của thứ mình muốn nhận về.\nBáo trước: khung C-A-R-E cũng dùng trong phần thực hành, để so sánh với T-A-G.\nLưu ý cho giảng viên: không dùng ví dụ UEF #21 — ví dụ đó yêu cầu AI “tổng hợp các nghiên cứu liên quan” (lại là xin danh mục tài liệu) và phần Example không phải ví dụ mẫu đầu ra."
+    },
+    {
+      "type": "activity",
+      "title": "Sửa câu lệnh: “Viết bảng hỏi về trà sữa” thiếu những gì?",
+      "stages": [
+        {
+          "time": "30\"",
+          "text": "Đọc câu lệnh gốc: “Viết bảng hỏi về trà sữa.” Làm theo cặp, không cần máy"
+        },
+        {
+          "time": "1'",
+          "text": "Liệt kê những điều câu lệnh không nói cho AI biết"
+        },
+        {
+          "time": "2'",
+          "text": "Viết lại theo R-T-F, đánh dấu (R), (T), (F) sau từng phần"
+        },
+        {
+          "time": "1'30\"",
+          "text": "2–3 cặp đọc to; cả lớp gọi tên từng phần R, T, F"
+        }
+      ],
+      "product": "câu lệnh R-T-F đã sửa — giữ lại cho Buổi 10",
+      "notes": "Khoảng 5 phút, theo cặp. Kịch bản mở đầu: “Đây là câu lệnh mà nhiều bạn gõ thật. Nó không sai, nhưng AI sẽ phải tự đoán gần như mọi thứ — và khi AI tự đoán, nó đoán theo những gì phổ biến nhất trong dữ liệu của nó, chứ không theo đề tài của bạn. Theo cặp, 1 phút liệt kê những gì câu lệnh không nói, 2 phút viết lại theo R-T-F. Không cần mở máy.”\nĐáp án mong đợi — câu lệnh thiếu: vai trò của AI; mục tiêu nghiên cứu (đo tần suất mua? yếu tố lựa chọn? mức độ hài lòng?); đối tượng trả lời; bối cảnh Việt Nam; số câu, loại câu hỏi; định dạng đầu ra; yêu cầu tránh câu hỏi kép, dẫn dắt.\nLỗi thường gặp và phản hồi: chỉ thêm vai trò — “vai trò không thay được mục tiêu: đo cái gì, hỏi ai?”; nhét mọi thứ vào Task, không có Format — “nhóm muốn nhận lại đoạn văn hay một bảng?”; yêu cầu AI “kèm nguồn thang đo” — rủi ro bịa nguồn, thang đo phải tự tìm (Buổi 9); câu lệnh quá dài — gợi ý chia hai lượt hỏi.\nLưu ý cho giảng viên: kịch bản đầy đủ trong phiếu hoạt động “Sửa câu lệnh” (W5_activity_sua_cau_lenh.md)."
+    },
+    {
+      "type": "section",
+      "tag": "S6",
+      "kicker": "88–98 phút",
+      "title": "Đạo đức, quy định dùng AI và trích dẫn AI",
+      "notes": "Phần này khoảng 10 phút: ranh giới giữa hỗ trợ và làm thay (2 phút), năm quy định dùng AI của học phần (3 phút), trích dẫn AI theo APA 7 (2 phút), nhật ký AI (1 phút) và hai câu kiểm tra nhanh (2 phút).\nCâu dẫn: “Các bạn đã biết AI sai ở đâu, dùng công cụ nào và ra lệnh thế nào. Phần cuối trước khi thực hành là luật chơi: dùng AI đến đâu thì được, đến đâu là vi phạm, và khai báo thế nào.”\nNhấn: các quy định này áp dụng cho M3, M4, bài giữa kỳ và cuối kỳ — các nhóm nên ghi lại."
+    },
+    {
+      "type": "table",
+      "title": "AI giúp bạn nghĩ, không nghĩ thay bạn",
+      "header": [
+        "Nên",
+        "Không nên"
+      ],
+      "rows": [
+        [
+          "Hiểu bài, gợi ý, góp ý văn phong",
+          "Nộp nguyên văn AI viết"
+        ],
+        [
+          "Kiểm chứng nguồn, số liệu",
+          "Trích tài liệu chỉ vì AI nói có"
+        ],
+        [
+          "Khai báo công cụ, cách dùng",
+          "**Tạo dữ liệu khảo sát, phỏng vấn giả**"
+        ],
+        [
+          "Ẩn danh trước khi đưa lên",
+          "Tải dữ liệu nhận diện được"
+        ],
+        [
+          "Tự lập luận, diễn giải",
+          "Để AI quyết định kết luận"
+        ]
+      ],
+      "notes": "Khoảng 2 phút. Đi từng dòng, đọc cột “Nên” rồi đối chiếu cột “Không nên”. Nên dùng AI để hiểu bài, gợi ý ý tưởng, góp ý văn phong — không nộp nguyên văn nội dung AI viết như bài của mình. Nên kiểm chứng mọi nguồn, số liệu, khái niệm — không trích dẫn tài liệu chỉ vì AI nói nó tồn tại. Nên khai báo rõ công cụ và cách đã dùng — không dùng AI tạo dữ liệu khảo sát, phỏng vấn giả. Nên ẩn danh dữ liệu trước khi đưa lên công cụ — không tải tên, số điện thoại, câu trả lời có thể nhận diện người tham gia lên công cụ AI. Nên tự viết lập luận và diễn giải kết quả — không để AI quyết định kết luận nghiên cứu thay mình.\nNhấn dòng thứ ba: dùng AI tạo câu trả lời khảo sát giả là bịa dữ liệu — vi phạm nặng nhất trong nghiên cứu, dù “chỉ để cho đủ mẫu”. Dừng một nhịp để lớp ghi nhận.\nLưu ý cho giảng viên: bảng này bổ sung UEF #15 theo tài liệu học tập."
+    },
+    {
+      "type": "bullets",
+      "title": "Năm quy định dùng AI của học phần",
+      "numbered": true,
+      "bullets": [
+        {
+          "head": "Được dùng",
+          "text": "gợi ý, giải thích, góp ý"
+        },
+        {
+          "head": "Khai báo",
+          "text": "công cụ, mục đích, phần có AI"
+        },
+        {
+          "head": "Nhật ký AI",
+          "text": "nộp từ M3"
+        },
+        {
+          "head": "Tự kiểm chứng",
+          "text": "nguồn bịa là vi phạm"
+        },
+        {
+          "head": "Đánh giá quá trình",
+          "text": "không dùng phần mềm “phát hiện AI”"
+        }
+      ],
+      "notes": "Khoảng 3 phút. Đọc chậm — đây là quy định áp dụng cho M3, M4, giữa kỳ, cuối kỳ. (1) Được phép dùng AI để hỗ trợ học tập và làm dự án, trong phạm vi gợi ý, giải thích, góp ý. (2) Khai báo: mỗi bài nộp có dùng AI phải ghi rõ công cụ, mục đích, phần nào có hỗ trợ của AI. (3) Nhật ký AI: lưu các câu lệnh chính và cách nhóm đã kiểm chứng, chỉnh sửa kết quả — bắt đầu nộp từ M3. (4) Tự kiểm chứng: nhóm chịu trách nhiệm về tính chính xác của mọi nội dung; nguồn bịa hoặc số liệu bịa là vi phạm liêm chính học thuật dù do AI tạo ra. (5) Đánh giá dựa trên quá trình: giảng viên đánh giá qua nhật ký AI, các bản nháp theo mốc và khả năng nhóm giải thích bài làm — không dùng phần mềm “phát hiện AI”.\nNếu sinh viên hỏi vì sao không dùng phần mềm phát hiện AI: các công cụ này cho kết quả không đáng tin, có thể “bắt nhầm” bài người viết thật, và thiên lệch với người viết không phải bản ngữ (Liang et al., 2023). Cách công bằng hơn là xem quá trình.\nLưu ý cho giảng viên: cần bổ sung một câu đối chiếu nếu khoa/trường có quy định chung về AI trong học tập."
+    },
+    {
+      "type": "statement",
+      "title": "Trích dẫn AI theo APA 7 để minh bạch — AI không phải nguồn học thuật",
+      "mark": "“",
+      "big": "OpenAI. (2023). *ChatGPT* (phiên bản ngày 14/3) [Mô hình ngôn ngữ lớn]. https://chat.openai.com/chat",
+      "sub": "Trong bài: (OpenAI, 2023) · ghi kèm câu lệnh đã dùng (McAdoo, 2023)",
+      "notes": "Khoảng 2 phút. Khi dùng nguyên văn hoặc diễn giải nội dung do AI tạo ra, ghi rõ trong bài câu lệnh đã dùng và trích dẫn công cụ theo APA 7 (American Psychological Association, 2020; McAdoo, 2023). Cấu trúc chung: Tác giả (nhà phát triển). (Năm phiên bản). Tên công cụ (Phiên bản) [Mô tả]. URL. Ví dụ trên slide; trong bài viết là (OpenAI, 2023).\nHai điểm cần nhớ. Một: ghi đúng năm và phiên bản của công cụ nhóm thực dùng, không chép nguyên ví dụ. Hai: AI không phải nguồn học thuật — trích dẫn AI để minh bạch, còn lập luận khoa học vẫn phải dựa trên tài liệu gốc đã kiểm chứng.\nHỏi nhanh: “Nếu nhóm dùng Gemini hôm nay, mục danh mục sẽ khác ví dụ ở những chỗ nào?” Đáp án: nhà phát triển, tên công cụ, năm, phiên bản, URL.\nLưu ý cho giảng viên: UEF #15 chỉ ghi “(OpenAI, 2023)” — thiếu mục danh mục đầy đủ. Mẫu trên theo McAdoo (2023), APA Style Blog; cần kiểm tra APA có cập nhật hướng dẫn mới hơn không."
+    },
+    {
+      "type": "steps",
+      "title": "Nhật ký AI là bằng chứng quá trình của nhóm",
+      "steps": [
+        {
+          "head": "Ngày"
+        },
+        {
+          "head": "Công cụ"
+        },
+        {
+          "head": "Câu lệnh chính"
+        },
+        {
+          "head": "AI trả về"
+        },
+        {
+          "head": "Nhóm kiểm chứng, giữ, sửa, bỏ"
+        }
+      ],
+      "callout": "Cột cuối quan trọng nhất: phần đóng góp của nhóm",
+      "notes": "Khoảng 1 phút cho nhật ký, 2 phút cho kiểm tra nhanh. Nhật ký AI có 5 cột: Ngày · Công cụ · Câu lệnh chính · AI trả về gì (tóm tắt) · Nhóm đã kiểm chứng, giữ, sửa, bỏ gì và vì sao. Cột cuối quan trọng nhất — nó cho thấy phần đóng góp của nhóm. Nhật ký Buổi 4 và phần thực hành hôm nay đi thẳng vào M3.\nKiểm tra nhanh — chỉ định phát biểu, mỗi câu một bạn.\nCâu 1: “Nhóm muốn nhờ AI gợi ý chủ đề từ 8 bản ghi phỏng vấn. Phải làm gì trước?” Mong đợi: ẩn danh — xóa tên, số điện thoại, chi tiết nhận diện; kiểm tra điều khoản công cụ; sau đó tự đọc lại dữ liệu gốc để quyết định chủ đề cuối cùng.\nCâu 2: “AI gợi ý một bài báo rất sát đề tài. Trước khi đưa vào M3, nhóm làm gì?” Mong đợi: tìm tên bài trên Google Scholar → mở bản gốc → khớp tác giả, năm, nội dung, DOI; không qua được thì không trích; ghi vào nhật ký AI.\nChuyển ý sang thực hành nhóm."
+    },
+    {
+      "type": "section",
+      "tag": "S7",
+      "kicker": "98–143 phút",
+      "title": "Thực hành nhóm: Xưởng câu lệnh",
+      "notes": "Chuyển sang 45 phút thực hành nhóm. Phát phiếu nhóm và mẫu nhật ký AI. Các nhóm ngồi theo nhóm dự án (2–3 bạn), cần ít nhất một máy truy cập được một công cụ AI, và bản M1/M2 của nhóm.\nKịch bản mở đầu: “45 phút tới là của nhóm. Hôm nay mỗi nhóm dùng AI cho chính dự án của mình, theo 5 chặng trên phiếu. Ba điều quan trọng. Một: cùng một yêu cầu, viết theo hai khung T-A-G và C-A-R-E, chạy trên cùng một công cụ, mỗi câu lệnh một cuộc trò chuyện mới — rồi so sánh. Hai: khi AI phản biện vấn đề nghiên cứu, nhóm quyết định nhận hay bác từng ý — tôi muốn nghe lý do. Ba: cuối giờ, mọi nhóm phải chốt định tính hay định lượng. Không đưa thông tin cá nhân lên công cụ. Ghi nhật ký AI suốt buổi.”"
+    },
+    {
+      "type": "activity",
+      "title": "Xưởng câu lệnh (45'): cùng một yêu cầu, hai khung, một quyết định của nhóm",
+      "stages": [
+        {
+          "time": "5'",
+          "text": "Chọn một yêu cầu chung và một công cụ AI"
+        },
+        {
+          "time": "12'",
+          "text": "Viết T-A-G và C-A-R-E, chạy, so sánh 4 tiêu chí"
+        },
+        {
+          "time": "10'",
+          "text": "AI phản biện vấn đề; nhóm nhận hay bác"
+        },
+        {
+          "time": "8'",
+          "text": "Chốt định tính hay định lượng"
+        },
+        {
+          "time": "10'",
+          "text": "3–4 nhóm chia sẻ, mỗi nhóm 1 phút"
+        }
+      ],
+      "notes": "Để slide này trên màn hình suốt 45 phút. Chặng 1 (5'): viết lại vấn đề nghiên cứu thành một câu; dùng chung yêu cầu “Xác định các khái niệm (biến) chính và các hướng lý thuyết thường dùng cho đề tài, kèm từ khóa tiếng Anh và tiếng Việt”; chọn một công cụ, ghi tên và phiên bản. Chặng 2 (12'): viết theo T-A-G và C-A-R-E, chạy mỗi câu lệnh trong một cuộc trò chuyện mới, chấm 1–3 điểm theo 4 tiêu chí; kiểm ngẫu nhiên một mục theo 3 bước. Chặng 3 (10'): dùng câu lệnh mẫu để AI chỉ ra tối đa 5 điểm yếu của vấn đề nghiên cứu; nhóm nhận hay bác từng điểm, có lý do. Chặng 4 (8'): trả lời 5 câu hỏi trên phiếu, nhóm tự quyết định, viết 2–3 câu lý do đưa vào M3. Chặng 5 (10'): mỗi nhóm 1 phút — khung nào tốt hơn, một phản biện nhóm bác và vì sao, hướng đã chọn.\nGiảng viên đi từng nhóm.\nLưu ý cho giảng viên: kịch bản đầy đủ trong phiếu “Xưởng câu lệnh” (W5_activity_xuong_cau_lenh.md).\nSản phẩm của hoạt động: phiếu nhóm và nhật ký AI (ghi suốt 45 phút), đưa vào M3. Nhắc lại hai quy tắc: không đưa dữ liệu cá nhân lên công cụ AI; mọi tài liệu, số liệu AI nêu đều là chưa kiểm chứng."
+    },
+    {
+      "type": "section",
+      "tag": "S8",
+      "kicker": "143–148 phút",
+      "title": "Kết buổi",
+      "notes": "Khoảng 5 phút cuối. Cảm ơn các nhóm đã chia sẻ, tóm một câu: “Hôm nay các bạn đã dùng AI cho chính dự án — và tự quyết định những gì AI không được quyết định thay.”\nPhát phiếu ra về (giấy nhỏ), rồi nhắc bài tập M3 và nối sang Buổi 6. Giữ 2 phút dự phòng cuối buổi cho câu hỏi của các nhóm về M3.\nNếu phần thực hành kết thúc sớm, dùng thời gian dư để hỏi một câu thảo luận chung: “Có nhóm nào để AI quyết định thay hướng định tính/định lượng không? Điều đó có vấn đề gì?” Nếu thực hành bị trễ, rút phiếu ra về còn một câu (câu 2) nhưng vẫn giữ phần nhắc M3."
+    },
+    {
+      "type": "statement",
+      "title": "Trước khi về: một khung câu lệnh, một lần AI trả lời sai",
+      "mark": "?",
+      "big": "Khung câu lệnh nhóm mình sẽ dùng tiếp là khung nào, vì sao?",
+      "sub": "Và: một điều AI trả lời sai hoặc không dùng được hôm nay",
+      "notes": "Phiếu ra về, khoảng 2 phút. Mỗi bạn viết hai dòng trên giấy nhỏ: (1) khung câu lệnh nhóm mình sẽ dùng tiếp cho dự án là khung nào, vì sao; (2) một điều AI trả lời sai hoặc không dùng được trong buổi hôm nay.\nNói: “Không cần dài, mỗi câu một dòng. Câu thứ hai rất quan trọng — tôi muốn biết AI đã sai ở đâu với đề tài thật của các bạn.”\nThu phiếu lại khi sinh viên ra về. Sau buổi học, đọc nhanh câu 2 và chọn một ví dụ hay để mở đầu Buổi 6; đọc câu 1 để biết khung nào các nhóm thấy hữu ích nhất, điều chỉnh ví dụ cho các buổi sau."
+    },
+    {
+      "type": "cards",
+      "title": "M3 và buổi sau",
+      "cards": [
+        {
+          "head": "M3",
+          "text": "Tổng quan tài liệu 2–3 trang + nhật ký AI · nhóm · 5% · nộp LMS, hạn …"
+        },
+        {
+          "head": "Checklist",
+          "text": "Theo chủ đề · đọc bản gốc · APA 7 · nhật ký AI · khai báo · hướng dự kiến"
+        },
+        {
+          "head": "Buổi 6",
+          "text": "Thiết kế nghiên cứu, viết đề cương — mang theo bản M3"
+        }
+      ],
+      "notes": "Bài tập: hoàn thành M3 — Tổng quan tài liệu và nhật ký AI (nhóm, 5%, đã giao ở Buổi 4), nộp trên LMS sau Buổi 5. Không có đề mới; nhắc checklist 6 mục ở cuối tài liệu học tập Bài 3: phần tổng quan dài 2–3 trang, tổng hợp theo chủ đề, không liệt kê từng bài; mọi tài liệu trích dẫn đều đã được nhóm mở và đọc bản gốc, có DOI hoặc đường dẫn kiểm tra được; trích dẫn và danh mục đúng APA 7 (Bài 2); nhật ký AI gồm công cụ, câu lệnh chính, kết quả AI trả về, cách nhóm kiểm chứng và chỉnh sửa; khai báo phần nào có hỗ trợ của AI; nêu hướng dự kiến định tính (báo cáo 3 chương) hay định lượng (báo cáo 5 chương), kèm lý do ngắn.\nCâu nối: “Buổi 6 chúng ta học thiết kế nghiên cứu và bắt đầu viết đề cương — vấn đề, mục tiêu, câu hỏi nghiên cứu. Hướng định tính/định lượng các bạn vừa chốt sẽ quyết định đề cương trông như thế nào. Mang theo bản M3.”\nLưu ý cho giảng viên: điền hạn nộp cụ thể vào chỗ “…”, mục nộp trên LMS và quy định nộp trễ."
+    },
+    {
+      "type": "references",
+      "title": "Tài liệu tham khảo",
+      "refs": [
+        "American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). https://doi.org/10.1037/0000165-000",
+        "Liang, W., Yuksekgonul, M., Mao, Y., Wu, E., & Zou, J. (2023). GPT detectors are biased against non-native English writers. *Patterns, 4*(7), Article 100779. https://doi.org/10.1016/j.patter.2023.100779",
+        "McAdoo, T. (2023, April 7). *How to cite ChatGPT*. APA Style Blog. https://apastyle.apa.org/blog/how-to-cite-chatgpt",
+        "Russell, S., & Norvig, P. (2021). *Artificial intelligence: A modern approach* (4th ed.). Pearson."
+      ],
+      "notes": "Không giảng slide này. Nhắc nhanh: danh mục được sắp xếp theo thứ tự chữ cái họ tác giả, theo APA 7 — đây cũng là mẫu cho danh mục tài liệu tham khảo của M3. Để ý cách ghi một bài blog có ngày cụ thể (McAdoo, 2023), một bài báo có số Article và DOI (Liang et al., 2023), và một sách có lần xuất bản (Russell & Norvig, 2021).\nNhắc lại: tài liệu học tập Bài 3 (mục 3.5–3.8) là nguồn chính cho buổi học; video “Unlock AI's Potential in Market Research” là nguồn cho các ví dụ thiên lệch tuyển dụng, phân tích cảm xúc, dự báo và khảo sát tự động. Các ví dụ trích dẫn bịa và 20.000 bình luận mỹ phẩm là tình huống giả định."
+    }
+  ]
+}
