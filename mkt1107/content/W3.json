@@ -14,9 +14,8 @@
     {
       "type": "section",
       "tag": "S1",
-      "kicker": "0–10 phút",
       "title": "Khởi động — kiểm tra bài tập Buổi 2",
-      "notes": "Mười phút đầu là kiểm tra bài tập Buổi 2: danh mục từ 8 tài liệu trở lên và bảng tóm tắt (tác giả, năm, mục tiêu, phương pháp, kết quả). Bài tập này không chấm điểm riêng, nhưng là nguyên liệu trực tiếp cho M2 và cho phần thực hành 45 phút cuối buổi.\nCấu trúc phần khởi động: ba câu hỏi giơ tay (khoảng 3 phút), hai nhóm báo cáo mỗi nhóm một phút (khoảng 5 phút), rồi nối vào bài bằng một danh mục giả định (khoảng 2 phút).\nNói với lớp: “Mình bắt đầu bằng việc nhìn lại xem các nhóm đang ở đâu. Không ai bị trừ điểm vì câu trả lời — mình cần số liệu thật để biết hôm nay nên nhấn vào chỗ nào.”\nChuẩn bị: góc bảng để ghi số nhóm trả lời “có” cho từng câu hỏi; danh sách nhóm để chỉ định báo cáo."
+      "notes": "Thời gian: phút 0–10 của buổi học.\nMười phút đầu là kiểm tra bài tập Buổi 2: danh mục từ 8 tài liệu trở lên và bảng tóm tắt (tác giả, năm, mục tiêu, phương pháp, kết quả). Bài tập này không chấm điểm riêng, nhưng là nguyên liệu trực tiếp cho M2 và cho phần thực hành 45 phút cuối buổi.\nCấu trúc phần khởi động: ba câu hỏi giơ tay (khoảng 3 phút), hai nhóm báo cáo mỗi nhóm một phút (khoảng 5 phút), rồi nối vào bài bằng một danh mục giả định (khoảng 2 phút).\nNói với lớp: “Mình bắt đầu bằng việc nhìn lại xem các nhóm đang ở đâu. Không ai bị trừ điểm vì câu trả lời — mình cần số liệu thật để biết hôm nay nên nhấn vào chỗ nào.”\nChuẩn bị: góc bảng để ghi số nhóm trả lời “có” cho từng câu hỏi; danh sách nhóm để chỉ định báo cáo."
     },
     {
       "type": "cards",
@@ -40,7 +39,7 @@
     },
     {
       "type": "steps",
-      "title": "Hai nhóm, mỗi nhóm một phút",
+      "title": "Hai nhóm chia sẻ: đề tài, tài liệu tốt nhất, một khó khăn",
       "steps": [
         {
           "head": "Đề tài",
@@ -55,8 +54,8 @@
           "text": "Khó khăn lớn nhất khi tìm tài liệu"
         }
       ],
-      "callout": "Mỗi nhóm đúng một phút — giảng viên phản hồi một câu",
-      "notes": "Chỉ định hai nhóm báo cáo, ưu tiên một nhóm đang làm tốt và một nhóm đang gặp khó, để lớp thấy cả hai phía. Mỗi nhóm một phút, nói theo đúng khung ba ý trên slide: đề tài là gì; một tài liệu tốt nhất nhóm đã tìm được và vì sao nhóm tin tài liệu đó; một khó khăn khi tìm tài liệu.\nSau mỗi nhóm, giảng viên phản hồi đúng một câu — ví dụ khen tiêu chí đánh giá nguồn mà nhóm dùng, hoặc gợi ý một từ khóa tiếng Anh để tìm trên Google Scholar. Không giảng lại nội dung Buổi 2; nếu khó khăn của nhóm là “không tìm được bài báo khoa học”, chỉ nói: “Lát nữa ở phần thực hành, tôi sẽ đến bàn nhóm để tìm cùng.”\nGiữ đồng hồ chặt: tổng phần này khoảng 5 phút. Chuyển ý sang slide tiếp theo: “Giả sử một nhóm đã tìm đủ tài liệu. Bây giờ nhìn thử danh mục của họ.”"
+      "callout": "Mỗi nhóm trình bày ngắn — giảng viên phản hồi một câu",
+      "notes": "Thời gian: mỗi nhóm đúng 1 phút.\nChỉ định hai nhóm báo cáo, ưu tiên một nhóm đang làm tốt và một nhóm đang gặp khó, để lớp thấy cả hai phía. Mỗi nhóm một phút, nói theo đúng khung ba ý trên slide: đề tài là gì; một tài liệu tốt nhất nhóm đã tìm được và vì sao nhóm tin tài liệu đó; một khó khăn khi tìm tài liệu.\nSau mỗi nhóm, giảng viên phản hồi đúng một câu — ví dụ khen tiêu chí đánh giá nguồn mà nhóm dùng, hoặc gợi ý một từ khóa tiếng Anh để tìm trên Google Scholar. Không giảng lại nội dung Buổi 2; nếu khó khăn của nhóm là “không tìm được bài báo khoa học”, chỉ nói: “Lát nữa ở phần thực hành, tôi sẽ đến bàn nhóm để tìm cùng.”\nGiữ đồng hồ chặt: tổng phần này khoảng 5 phút. Chuyển ý sang slide tiếp theo: “Giả sử một nhóm đã tìm đủ tài liệu. Bây giờ nhìn thử danh mục của họ.”"
     },
     {
       "type": "case",
@@ -74,9 +73,8 @@
     {
       "type": "section",
       "tag": "S2",
-      "kicker": "10–35 phút",
       "title": "2.2 Trích dẫn trong bài",
-      "notes": "Phần 2.2 kéo dài khoảng 25 phút: nguyên tắc tác giả – năm; số lượng tác giả; tên người Việt; tác giả là tổ chức; trích nguyên văn và diễn giải; trích qua tác giả trung gian; các trường hợp đặc biệt; và một vòng kiểm tra nhanh 3 phút ở cuối.\nNói với lớp: “Phần này các bạn nên ghi chép theo bảng — các quy tắc sẽ dùng ngay trong 45 phút thực hành cuối buổi.”\nLưu ý cho giảng viên: phần này dựa trên slide UEF Bài 2 #3, #6, #8, #9 nhưng các slide #3, #6, #8 đã được tạo lại theo tài liệu học tập vì có lỗi (đưa ba lựa chọn trích tên người Việt, thiếu năm của tài liệu gốc khi trích qua trung gian, dùng “nnk.” thay cho “và cộng sự”). Nếu bị thiếu giờ, các trường hợp “cùng tác giả cùng năm”, “trùng họ”, “công cụ AI” chỉ chiếu bảng và chuyển sang tài liệu đọc thêm."
+      "notes": "Thời gian: phút 10–35 của buổi học.\nPhần 2.2 kéo dài khoảng 25 phút: nguyên tắc tác giả – năm; số lượng tác giả; tên người Việt; tác giả là tổ chức; trích nguyên văn và diễn giải; trích qua tác giả trung gian; các trường hợp đặc biệt; và một vòng kiểm tra nhanh 3 phút ở cuối.\nNói với lớp: “Phần này các bạn nên ghi chép theo bảng — các quy tắc sẽ dùng ngay trong 45 phút thực hành cuối buổi.”\nLưu ý cho giảng viên: phần này dựa trên slide UEF Bài 2 #3, #6, #8, #9 nhưng các slide #3, #6, #8 đã được tạo lại theo tài liệu học tập vì có lỗi (đưa ba lựa chọn trích tên người Việt, thiếu năm của tài liệu gốc khi trích qua trung gian, dùng “nnk.” thay cho “và cộng sự”). Nếu bị thiếu giờ, các trường hợp “cùng tác giả cùng năm”, “trùng họ”, “công cụ AI” chỉ chiếu bảng và chuyển sang tài liệu đọc thêm."
     },
     {
       "type": "compare",
@@ -303,8 +301,8 @@
         "(Trần và cộng sự, 2022)",
         "(Trần, Lê & Phạm, 2022)"
       ],
-      "callout": "20 giây suy nghĩ — đếm 3–2–1, cả lớp giơ 1, 2 hoặc 3 ngón",
-      "notes": "Ba câu kiểm tra nhanh, tổng khoảng 3 phút. Mỗi câu: đọc to câu hỏi, cho 20 giây suy nghĩ, rồi đếm 3–2–1 để cả lớp cùng giơ 1, 2 hoặc 3 ngón theo phương án đúng. Giơ cùng lúc để không ai nhìn bạn bên cạnh.\nCâu 1: một bài báo tiếng Việt của ba tác giả Trần Thị Mai, Lê Văn Nam, Phạm Minh Tuấn, năm 2022. Trích trong ngoặc thế nào?\nĐáp án: 2 — (Trần và cộng sự, 2022). Ba lý do: trích bằng họ, không bằng tên (loại phương án 1); từ ba tác giả trở lên thì ngay từ lần đầu chỉ ghi tác giả đầu (loại phương án 3); tài liệu tiếng Việt dùng “và cộng sự”.\nĐây là câu ôn tập số 1 trong tài liệu học tập. Nếu nhiều bạn chọn sai, quay lại slide “Người Việt được trích bằng họ, không bằng tên” và nhắc quy tắc thêm một lần: danh mục xếp theo họ, nên người đọc tìm theo họ.\nLưu ý cho giảng viên: outline gốc gộp ba câu vào một slide; ở đây tách thành ba slide để chữ đủ lớn."
+      "callout": "Suy nghĩ nhanh — đếm 3–2–1, cả lớp giơ 1, 2 hoặc 3 ngón",
+      "notes": "Thời gian: 20 giây suy nghĩ.\nBa câu kiểm tra nhanh, tổng khoảng 3 phút. Mỗi câu: đọc to câu hỏi, cho 20 giây suy nghĩ, rồi đếm 3–2–1 để cả lớp cùng giơ 1, 2 hoặc 3 ngón theo phương án đúng. Giơ cùng lúc để không ai nhìn bạn bên cạnh.\nCâu 1: một bài báo tiếng Việt của ba tác giả Trần Thị Mai, Lê Văn Nam, Phạm Minh Tuấn, năm 2022. Trích trong ngoặc thế nào?\nĐáp án: 2 — (Trần và cộng sự, 2022). Ba lý do: trích bằng họ, không bằng tên (loại phương án 1); từ ba tác giả trở lên thì ngay từ lần đầu chỉ ghi tác giả đầu (loại phương án 3); tài liệu tiếng Việt dùng “và cộng sự”.\nĐây là câu ôn tập số 1 trong tài liệu học tập. Nếu nhiều bạn chọn sai, quay lại slide “Người Việt được trích bằng họ, không bằng tên” và nhắc quy tắc thêm một lần: danh mục xếp theo họ, nên người đọc tìm theo họ.\nLưu ý cho giảng viên: outline gốc gộp ba câu vào một slide; ở đây tách thành ba slide để chữ đủ lớn."
     },
     {
       "type": "bullets",
@@ -333,9 +331,8 @@
     {
       "type": "section",
       "tag": "S3",
-      "kicker": "35–48 phút",
       "title": "2.3 Danh mục (1)",
-      "notes": "Phần 2.3 Danh mục tài liệu tham khảo, phần 1, khoảng 13 phút trước giải lao: một cấu trúc chung cho mọi loại tài liệu, chín nguyên tắc chung, rồi công thức và ví dụ cho sách, chương sách và bài báo khoa học có DOI.\nGợi ý cho sinh viên: mở danh mục của nhóm bên cạnh slide, vừa nghe vừa đánh dấu chỗ nghi sai — không cần sửa ngay, phần sửa có 12 phút riêng trong thực hành.\nLưu ý cho giảng viên: phần này dựa trên slide UEF #7 (chỉ ô cuối), #10, #11, #12 — các slide #10, #11 đã sửa gạch nối số trang và in nghiêng số tập; slide #12 đánh số mục là “2.4” trong khi tài liệu học tập đánh số 2.3.1. Không chiếu slide UEF #4 (bài báo khoa học) vì ghi sai tên tác giả và DOI kiểu cũ."
+      "notes": "Thời gian: phút 35–48 của buổi học.\nPhần 2.3 Danh mục tài liệu tham khảo, phần 1, khoảng 13 phút trước giải lao: một cấu trúc chung cho mọi loại tài liệu, chín nguyên tắc chung, rồi công thức và ví dụ cho sách, chương sách và bài báo khoa học có DOI.\nGợi ý cho sinh viên: mở danh mục của nhóm bên cạnh slide, vừa nghe vừa đánh dấu chỗ nghi sai — không cần sửa ngay, phần sửa có 12 phút riêng trong thực hành.\nLưu ý cho giảng viên: phần này dựa trên slide UEF #7 (chỉ ô cuối), #10, #11, #12 — các slide #10, #11 đã sửa gạch nối số trang và in nghiêng số tập; slide #12 đánh số mục là “2.4” trong khi tài liệu học tập đánh số 2.3.1. Không chiếu slide UEF #4 (bài báo khoa học) vì ghi sai tên tác giả và DOI kiểu cũ."
     },
     {
       "type": "steps",
@@ -453,17 +450,16 @@
     },
     {
       "type": "break",
-      "title": "Giải lao 15 phút",
-      "big": "15'",
+      "title": "Giải lao",
+      "big": "Nghỉ",
       "sub": "Quay lại lúc …",
-      "notes": "Giải lao 15 phút (phút 48–63). Điền giờ quay lại trước khi chiếu.\nBáo trước nội dung sau giải lao: trang web, báo cáo, luận văn — và 10 lỗi APA hay gặp nhất.\nNói trước khi nghỉ: “Trong giờ giải lao, nhóm nào muốn thì soát trước tên tác giả trong danh mục của mình — sau giải lao sẽ có bảng lỗi để đối chiếu.”\nTrong giờ nghỉ, giảng viên có thể đi qua vài bàn để xem nhanh danh mục, ghi chú các lỗi gặp nhiều để nêu ở phần bảng lỗi (không nêu tên nhóm).\nLưu ý cho giảng viên: giờ quay lại để trống “…” — điền theo giờ thực tế của lớp."
+      "notes": "Thời gian: giải lao 15 phút.\nGiải lao 15 phút (phút 48–63). Điền giờ quay lại trước khi chiếu.\nBáo trước nội dung sau giải lao: trang web, báo cáo, luận văn — và 10 lỗi APA hay gặp nhất.\nNói trước khi nghỉ: “Trong giờ giải lao, nhóm nào muốn thì soát trước tên tác giả trong danh mục của mình — sau giải lao sẽ có bảng lỗi để đối chiếu.”\nTrong giờ nghỉ, giảng viên có thể đi qua vài bàn để xem nhanh danh mục, ghi chú các lỗi gặp nhiều để nêu ở phần bảng lỗi (không nêu tên nhóm).\nLưu ý cho giảng viên: giờ quay lại để trống “…” — điền theo giờ thực tế của lớp."
     },
     {
       "type": "section",
       "tag": "S4",
-      "kicker": "63–78 phút",
       "title": "2.3 Danh mục (2)",
-      "notes": "Phần 2.3 Danh mục, phần 2, khoảng 15 phút: nguồn trực tuyến (trang web, báo điện tử), báo cáo tổ chức, luận văn, bài kỷ yếu, công cụ AI; tổng kết tên tác giả Việt Nam; bảng mười lỗi thường gặp; và một câu chốt về việc slide Bài 2 có một số cách ghi đã lỗi thời.\nNói với lớp: “Nửa này là phần các bạn sai nhiều nhất trong bài nộp — đặc biệt là tên tác giả Việt. Mình đi chậm hơn.”\nNếu bị thiếu giờ: bài kỷ yếu và công cụ AI chỉ nêu công thức (đã có trong tài liệu học tập 2.3.2), dành thời gian cho tên tác giả Việt và bảng lỗi.\nLưu ý cho giảng viên: phần này dựa trên slide UEF #5 (đã sửa: luận văn không ghi khoa và địa điểm; trang web không bắt buộc ngày truy cập)."
+      "notes": "Thời gian: phút 63–78 của buổi học.\nPhần 2.3 Danh mục, phần 2, khoảng 15 phút: nguồn trực tuyến (trang web, báo điện tử), báo cáo tổ chức, luận văn, bài kỷ yếu, công cụ AI; tổng kết tên tác giả Việt Nam; bảng mười lỗi thường gặp; và một câu chốt về việc slide Bài 2 có một số cách ghi đã lỗi thời.\nNói với lớp: “Nửa này là phần các bạn sai nhiều nhất trong bài nộp — đặc biệt là tên tác giả Việt. Mình đi chậm hơn.”\nNếu bị thiếu giờ: bài kỷ yếu và công cụ AI chỉ nêu công thức (đã có trong tài liệu học tập 2.3.2), dành thời gian cho tên tác giả Việt và bảng lỗi.\nLưu ý cho giảng viên: phần này dựa trên slide UEF #5 (đã sửa: luận văn không ghi khoa và địa điểm; trang web không bắt buộc ngày truy cập)."
     },
     {
       "type": "bullets",
@@ -636,9 +632,8 @@
     {
       "type": "section",
       "tag": "S5",
-      "kicker": "78–93 phút",
       "title": "Từ danh mục đến tổng quan tài liệu",
-      "notes": "Phần này khoảng 15 phút và là phần quyết định chất lượng M2 — không cắt phần này dù bị thiếu giờ.\nNội dung: tổng quan tài liệu là gì; tóm tắt khác tổng hợp (cùng ba nguồn, hai cách viết); ma trận tổng hợp từ bảng tóm tắt Buổi 2; cấu trúc ba phần của một bài tổng quan; văn phong học thuật; và từ mâu thuẫn, khoảng trống đến câu hỏi nghiên cứu.\nNói với lớp: “Đến đây các bạn đã có danh mục đúng. Bây giờ mình biến danh mục và bảng tóm tắt đó thành một đoạn văn.”\nLưu ý cho giảng viên: định nghĩa và quy trình trong phần này diễn giải từ video “Academic Writing for 2026: How to Link Literature to Research Questions” (qua NotebookLM); các nguồn “Nguồn A/B/C” và tình huống chuỗi trà sữa là giả định để minh họa, cần nói rõ với lớp."
+      "notes": "Thời gian: phút 78–93 của buổi học.\nPhần này khoảng 15 phút và là phần quyết định chất lượng M2 — không cắt phần này dù bị thiếu giờ.\nNội dung: tổng quan tài liệu là gì; tóm tắt khác tổng hợp (cùng ba nguồn, hai cách viết); ma trận tổng hợp từ bảng tóm tắt Buổi 2; cấu trúc ba phần của một bài tổng quan; văn phong học thuật; và từ mâu thuẫn, khoảng trống đến câu hỏi nghiên cứu.\nNói với lớp: “Đến đây các bạn đã có danh mục đúng. Bây giờ mình biến danh mục và bảng tóm tắt đó thành một đoạn văn.”\nLưu ý cho giảng viên: định nghĩa và quy trình trong phần này diễn giải từ video “Academic Writing for 2026: How to Link Literature to Research Questions” (qua NotebookLM); các nguồn “Nguồn A/B/C” và tình huống chuỗi trà sữa là giả định để minh họa, cần nói rõ với lớp."
     },
     {
       "type": "cards",
@@ -776,11 +771,11 @@
     },
     {
       "type": "statement",
-      "title": "Một phút: viết lại câu này thành câu học thuật",
+      "title": "Thử: viết lại câu này thành câu học thuật",
       "big": "“Mình nghĩ giới trẻ bây giờ thích mua mỹ phẩm nội địa hơn.”",
       "sub": "Chưa cần nguồn thật: ghi “(Nguồn ?, năm)” vào chỗ cần trích dẫn",
       "mark": "?",
-      "notes": "Hoạt động cá nhân 1 phút. Mỗi bạn viết lại câu trên slide thành một câu học thuật — chưa cần nguồn thật, ghi “(Nguồn ?, năm)” vào chỗ cần trích dẫn.\nHết 1 phút, chỉ định 2 bạn đọc to câu của mình. Điểm cần khen: bỏ “mình nghĩ”; bỏ “bây giờ” mơ hồ, thay bằng mốc thời gian hoặc bối cảnh cụ thể; có chỗ trích dẫn; dùng từ thận trọng như “ghi nhận”, “cho thấy” thay vì “chứng minh”. Một câu mẫu có thể gợi ý: “Một số nghiên cứu ghi nhận xu hướng ưa chuộng mỹ phẩm nội địa ở người tiêu dùng trẻ (Nguồn ?, năm).”\nLỗi hiểu thường gặp cần nói sau khi nghe hai bạn: “Trích dẫn càng nhiều thì càng học thuật.” Không — trích dẫn cho mỗi khẳng định, không phải cho mỗi câu. Và tương quan không phải nhân quả: nghiên cứu khảo sát thường chỉ cho thấy hai yếu tố có liên hệ; không viết “TikTok làm sinh viên mua bốc đồng” nếu nguồn chỉ đo mối liên hệ.\nThời gian cho văn phong học thuật cả hai slide: khoảng 3 phút."
+      "notes": "Thời gian: 1 phút.\nHoạt động cá nhân 1 phút. Mỗi bạn viết lại câu trên slide thành một câu học thuật — chưa cần nguồn thật, ghi “(Nguồn ?, năm)” vào chỗ cần trích dẫn.\nHết 1 phút, chỉ định 2 bạn đọc to câu của mình. Điểm cần khen: bỏ “mình nghĩ”; bỏ “bây giờ” mơ hồ, thay bằng mốc thời gian hoặc bối cảnh cụ thể; có chỗ trích dẫn; dùng từ thận trọng như “ghi nhận”, “cho thấy” thay vì “chứng minh”. Một câu mẫu có thể gợi ý: “Một số nghiên cứu ghi nhận xu hướng ưa chuộng mỹ phẩm nội địa ở người tiêu dùng trẻ (Nguồn ?, năm).”\nLỗi hiểu thường gặp cần nói sau khi nghe hai bạn: “Trích dẫn càng nhiều thì càng học thuật.” Không — trích dẫn cho mỗi khẳng định, không phải cho mỗi câu. Và tương quan không phải nhân quả: nghiên cứu khảo sát thường chỉ cho thấy hai yếu tố có liên hệ; không viết “TikTok làm sinh viên mua bốc đồng” nếu nguồn chỉ đo mối liên hệ.\nThời gian cho văn phong học thuật cả hai slide: khoảng 3 phút."
     },
     {
       "type": "steps",
@@ -805,33 +800,28 @@
     {
       "type": "section",
       "tag": "S6",
-      "kicker": "93–138 phút",
       "title": "Thực hành nhóm",
-      "notes": "Thực hành nhóm “Xưởng tổng quan”, 45 phút. Sinh viên làm bản nháp của cả hai phần M2 — có giảng viên đi kèm và có một nhóm bạn kiểm tra giúp.\nKịch bản mở đầu: “45 phút cuối các bạn làm đúng bài M2 — có tôi đi kèm. Bốn chặng trên màn hình: săn lỗi APA, sửa danh mục của nhóm, viết một đoạn tổng hợp từ ít nhất ba nguồn, rồi đổi bài cho nhóm bên cạnh kiểm tra. Mỗi chặng tôi sẽ báo giờ. Đoạn tổng hợp hôm nay chỉ cần một đoạn — nhưng là một đoạn tổng hợp, không phải ba câu tóm tắt nối nhau. Bắt đầu với phiếu săn lỗi.”\nChuẩn bị: phiếu “Săn lỗi APA” (1 tờ/nhóm), phiếu nhóm và phiếu kiểm tra chéo đã in sẵn.\nLưu ý cho giảng viên: kịch bản chi tiết trong phiếu hoạt động “Săn lỗi APA” và “Xưởng tổng quan”."
+      "notes": "Thời gian: phút 93–138 của buổi học.\nThực hành nhóm “Xưởng tổng quan”, 45 phút. Sinh viên làm bản nháp của cả hai phần M2 — có giảng viên đi kèm và có một nhóm bạn kiểm tra giúp.\nKịch bản mở đầu: “45 phút cuối các bạn làm đúng bài M2 — có tôi đi kèm. Bốn chặng trên màn hình: săn lỗi APA, sửa danh mục của nhóm, viết một đoạn tổng hợp từ ít nhất ba nguồn, rồi đổi bài cho nhóm bên cạnh kiểm tra. Mỗi chặng tôi sẽ báo giờ. Đoạn tổng hợp hôm nay chỉ cần một đoạn — nhưng là một đoạn tổng hợp, không phải ba câu tóm tắt nối nhau. Bắt đầu với phiếu săn lỗi.”\nChuẩn bị: phiếu “Săn lỗi APA” (1 tờ/nhóm), phiếu nhóm và phiếu kiểm tra chéo đã in sẵn.\nLưu ý cho giảng viên: kịch bản chi tiết trong phiếu hoạt động “Săn lỗi APA” và “Xưởng tổng quan”."
     },
     {
       "type": "activity",
-      "title": "Xưởng tổng quan (45'): sửa danh mục, viết một đoạn tổng hợp, để nhóm bạn kiểm tra",
+      "title": "Xưởng tổng quan: sửa danh mục, viết một đoạn tổng hợp, để nhóm bạn kiểm tra",
       "stages": [
         {
-          "time": "10'",
           "text": "**Săn lỗi APA** — phiếu 10 mục, chữa nhanh"
         },
         {
-          "time": "12'",
           "text": "**Sửa danh mục của nhóm** theo APA 7"
         },
         {
-          "time": "15'",
           "text": "**Viết đoạn tổng hợp** ≥ 3 nguồn, 150–250 từ"
         },
         {
-          "time": "8'",
           "text": "**Nhóm chéo kiểm tra** theo phiếu 8 câu"
         }
       ],
       "product": "bản nháp danh mục + đoạn tổng hợp cho M2",
-      "notes": "Để slide này trên màn hình suốt 45 phút; báo giờ ở cuối mỗi chặng.\nChặng 1 (phút 93–103): săn lỗi APA theo phiếu 10 mục, chữa nhanh 3 mục sai nhiều nhất.\nChặng 2 (103–115): báo chuyển, nhắc “soát tên tác giả trước tiên”. Đi các bàn, ưu tiên tên tác giả Việt và DOI; hỏi “tài liệu nào chưa đọc?”. Mục thiếu thông tin thì đánh dấu “cần tra lại”, không tự đoán.\nChặng 3 (115–130): chiếu lại slide bốn dấu hiệu tổng hợp trong 30 giây. Đi các bàn đọc câu đầu của từng nhóm — câu bắt đầu bằng tên tác giả thì gợi ý viết lại; ghi chú 2 đoạn tốt để khen cuối giờ. Nhóm không tìm ra khoảng trống: gợi ý bốn kiểu (đối tượng, bối cảnh, thời điểm, kết quả mâu thuẫn).\nPhút 129: báo còn 1 phút, công bố cặp nhóm kiểm tra chéo (nhóm 1–2, 3–4…; số lẻ thì 3 nhóm xoay vòng).\nChặng 4 (130–138): đổi bài 1 phút, chấm 5 phút, trả bài và đọc góp ý 2 phút. Giảng viên đọc to một câu chủ đề tốt, không nêu tên nhóm nếu nhóm không muốn.\nCâu chốt: “Danh mục đúng cho thấy các bạn cẩn thận; đoạn tổng hợp tốt cho thấy các bạn hiểu tài liệu. M2 chấm cả hai.”"
+      "notes": "Thời gian: 45 phút.\nPhân bổ thời gian — chặng 1: 10 phút; chặng 2: 12 phút; chặng 3: 15 phút; chặng 4: 8 phút.\nĐể slide này trên màn hình suốt 45 phút; báo giờ ở cuối mỗi chặng.\nChặng 1 (phút 93–103): săn lỗi APA theo phiếu 10 mục, chữa nhanh 3 mục sai nhiều nhất.\nChặng 2 (103–115): báo chuyển, nhắc “soát tên tác giả trước tiên”. Đi các bàn, ưu tiên tên tác giả Việt và DOI; hỏi “tài liệu nào chưa đọc?”. Mục thiếu thông tin thì đánh dấu “cần tra lại”, không tự đoán.\nChặng 3 (115–130): chiếu lại slide bốn dấu hiệu tổng hợp trong 30 giây. Đi các bàn đọc câu đầu của từng nhóm — câu bắt đầu bằng tên tác giả thì gợi ý viết lại; ghi chú 2 đoạn tốt để khen cuối giờ. Nhóm không tìm ra khoảng trống: gợi ý bốn kiểu (đối tượng, bối cảnh, thời điểm, kết quả mâu thuẫn).\nPhút 129: báo còn 1 phút, công bố cặp nhóm kiểm tra chéo (nhóm 1–2, 3–4…; số lẻ thì 3 nhóm xoay vòng).\nChặng 4 (130–138): đổi bài 1 phút, chấm 5 phút, trả bài và đọc góp ý 2 phút. Giảng viên đọc to một câu chủ đề tốt, không nêu tên nhóm nếu nhóm không muốn.\nCâu chốt: “Danh mục đúng cho thấy các bạn cẩn thận; đoạn tổng hợp tốt cho thấy các bạn hiểu tài liệu. M2 chấm cả hai.”"
     },
     {
       "type": "compare",
@@ -859,9 +849,8 @@
     {
       "type": "section",
       "tag": "S7",
-      "kicker": "138–146 phút",
       "title": "Kết buổi",
-      "notes": "Kết buổi khoảng 8 phút: phiếu ra về 3 phút, nhắc M2 và danh sách tự kiểm tra 4 phút, nối sang Buổi 4 một phút.\nNói: “Các nhóm lưu lại danh mục đã sửa, đoạn tổng hợp và phiếu kiểm tra chéo nhóm bạn đã chấm cho mình — đó là bản nháp của M2.”\nPhát giấy nhỏ cho phiếu ra về trong lúc chuyển slide. Còn khoảng 4 phút dự phòng cuối buổi (146–150).\nNếu phần thực hành kéo dài, giữ nguyên phiếu ra về và lời nhắc M2 — đây là phần không cắt; có thể rút ngắn phần đọc danh sách tự kiểm tra vì danh sách đã có trong tài liệu đọc thêm."
+      "notes": "Thời gian: phút 138–146 của buổi học.\nKết buổi khoảng 8 phút: phiếu ra về 3 phút, nhắc M2 và danh sách tự kiểm tra 4 phút, nối sang Buổi 4 một phút.\nNói: “Các nhóm lưu lại danh mục đã sửa, đoạn tổng hợp và phiếu kiểm tra chéo nhóm bạn đã chấm cho mình — đó là bản nháp của M2.”\nPhát giấy nhỏ cho phiếu ra về trong lúc chuyển slide. Còn khoảng 4 phút dự phòng cuối buổi (146–150).\nNếu phần thực hành kéo dài, giữ nguyên phiếu ra về và lời nhắc M2 — đây là phần không cắt; có thể rút ngắn phần đọc danh sách tự kiểm tra vì danh sách đã có trong tài liệu đọc thêm."
     },
     {
       "type": "cards",

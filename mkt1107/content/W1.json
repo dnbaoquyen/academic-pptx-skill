@@ -45,9 +45,8 @@
     {
       "type": "section",
       "tag": "S2",
-      "kicker": "5–15 phút",
       "title": "Giới thiệu học phần",
-      "notes": "Chuyển sang phần giới thiệu học phần, khoảng 10 phút (phút 5–15). Phần này nói nhanh, gọn: mục tiêu, cách học bằng dự án nhóm, lộ trình, cách đánh giá và hai quy ước dùng suốt học phần (dùng AI và trích dẫn APA 7).\nNhắc sinh viên rằng mọi chi tiết đều có trong đề cương trên LMS — trên lớp chỉ nêu những điều cần nhớ nhất. Không đọc nguyên văn chuẩn đầu ra hay bảng đánh giá trong đề cương.\nNếu lớp vào muộn hoặc phần khởi động kéo dài, có thể rút phần này còn 7–8 phút bằng cách nói nhanh slide mục tiêu và slide quy ước AI."
+      "notes": "Thời gian: phút 5–15 của buổi học.\nChuyển sang phần giới thiệu học phần, khoảng 10 phút (phút 5–15). Phần này nói nhanh, gọn: mục tiêu, cách học bằng dự án nhóm, lộ trình, cách đánh giá và hai quy ước dùng suốt học phần (dùng AI và trích dẫn APA 7).\nNhắc sinh viên rằng mọi chi tiết đều có trong đề cương trên LMS — trên lớp chỉ nêu những điều cần nhớ nhất. Không đọc nguyên văn chuẩn đầu ra hay bảng đánh giá trong đề cương.\nNếu lớp vào muộn hoặc phần khởi động kéo dài, có thể rút phần này còn 7–8 phút bằng cách nói nhanh slide mục tiêu và slide quy ước AI."
     },
     {
       "type": "compare",
@@ -210,9 +209,8 @@
     {
       "type": "section",
       "tag": "S3",
-      "kicker": "15–40 phút",
       "title": "Nghiên cứu marketing là gì, để làm gì, có những loại nào",
-      "notes": "Phân đoạn dày nhất buổi — 25 phút (phút 15–40): định nghĩa, bốn thành tố, vai trò và giới hạn, mục đích và phạm vi, rồi phân loại theo ba tiêu chí.\nPhần quan trọng nhất là tiêu chí 2 (khám phá, mô tả, tương quan, nhân quả) — đi chậm ở đó, vì ngay sau phần này lớp sẽ làm hoạt động Phân loại nhanh.\nLưu ý cho giảng viên: nếu chậm giờ, phần mục đích và phạm vi chỉ nêu tên 6 phạm vi; phần so sánh nghiên cứu marketing với nghiên cứu thị trường chuyển sang tài liệu đọc thêm."
+      "notes": "Thời gian: phút 15–40 của buổi học.\nPhân đoạn dày nhất buổi — 25 phút (phút 15–40): định nghĩa, bốn thành tố, vai trò và giới hạn, mục đích và phạm vi, rồi phân loại theo ba tiêu chí.\nPhần quan trọng nhất là tiêu chí 2 (khám phá, mô tả, tương quan, nhân quả) — đi chậm ở đó, vì ngay sau phần này lớp sẽ làm hoạt động Phân loại nhanh.\nLưu ý cho giảng viên: nếu chậm giờ, phần mục đích và phạm vi chỉ nêu tên 6 phạm vi; phần so sánh nghiên cứu marketing với nghiên cứu thị trường chuyển sang tài liệu đọc thêm."
     },
     {
       "type": "statement",
@@ -521,7 +519,7 @@
     },
     {
       "type": "cards",
-      "title": "Phân loại nhanh: 30 giây bàn với bạn, rồi giơ tay",
+      "title": "Phân loại nhanh: bàn với bạn, rồi giơ tay",
       "cards": [
         {
           "head": "Khám phá",
@@ -545,7 +543,7 @@
         }
       ],
       "callout": "Đếm 3–2–1, cả lớp giơ cùng lúc, không nhìn bạn khác.",
-      "notes": "Hoạt động S4 (phút 40–48), làm theo cặp với bạn ngồi cạnh, không nộp, không chấm điểm.\nĐọc kịch bản mở đầu: “Bây giờ mình thử dùng ngay ba tiêu chí vừa học. Tôi sẽ đọc 6 tình huống. Mỗi tình huống, các bạn có 30 giây bàn với bạn bên cạnh, rồi khi tôi đếm 3–2–1 thì giơ tay: 1 ngón là khám phá, 2 ngón là mô tả, 3 ngón là tương quan, 4 ngón là nhân quả. Cả lớp giơ cùng lúc, không nhìn bạn khác. Bắt đầu nhé.”\nMỗi tình huống khoảng 45 giây: đọc → 30 giây thảo luận → 3–2–1 giơ tay → nhìn lớp, nói đáp án trong một câu. Với một số tình huống, hỏi thêm: định tính hay định lượng? hàn lâm hay ứng dụng?\nNếu ít bạn giơ tay: nhắc “sai cũng không sao — đây là luyện tập”, giảng viên giơ tay làm mẫu. Ai không muốn giơ tay có thể ghi đáp án ra giấy.\nLưu ý cho giảng viên: kịch bản đầy đủ trong phiếu hoạt động Phân loại nhanh."
+      "notes": "Thời gian: mỗi tình huống 30 giây bàn với bạn rồi giơ tay.\nHoạt động S4 (phút 40–48), làm theo cặp với bạn ngồi cạnh, không nộp, không chấm điểm.\nĐọc kịch bản mở đầu: “Bây giờ mình thử dùng ngay ba tiêu chí vừa học. Tôi sẽ đọc 6 tình huống. Mỗi tình huống, các bạn có 30 giây bàn với bạn bên cạnh, rồi khi tôi đếm 3–2–1 thì giơ tay: 1 ngón là khám phá, 2 ngón là mô tả, 3 ngón là tương quan, 4 ngón là nhân quả. Cả lớp giơ cùng lúc, không nhìn bạn khác. Bắt đầu nhé.”\nMỗi tình huống khoảng 45 giây: đọc → 30 giây thảo luận → 3–2–1 giơ tay → nhìn lớp, nói đáp án trong một câu. Với một số tình huống, hỏi thêm: định tính hay định lượng? hàn lâm hay ứng dụng?\nNếu ít bạn giơ tay: nhắc “sai cũng không sao — đây là luyện tập”, giảng viên giơ tay làm mẫu. Ai không muốn giơ tay có thể ghi đáp án ra giấy.\nLưu ý cho giảng viên: kịch bản đầy đủ trong phiếu hoạt động Phân loại nhanh."
     },
     {
       "type": "case",
@@ -646,17 +644,16 @@
     },
     {
       "type": "break",
-      "title": "Giải lao 15 phút",
-      "big": "15'",
+      "title": "Giải lao",
+      "big": "Nghỉ",
       "sub": "Quay lại lúc …",
-      "notes": "Giải lao 15 phút (phút 48–63). Điền giờ quay lại lên slide hoặc nói to trước khi lớp ra ngoài.\nTrong giờ giải lao: vẽ sẵn 6 ô trống lên bảng cho phần tiến trình 6 bước — sau giải lao sẽ điền dần theo ví dụ chuỗi trà sữa.\nNếu có sinh viên hỏi riêng về cách đánh giá hoặc hạn nộp M1, trả lời theo lịch trên LMS.\nLưu ý cho giảng viên: giờ quay lại trên slide đang để “…” — điền trước buổi học."
+      "notes": "Thời gian: giải lao 15 phút.\nGiải lao 15 phút (phút 48–63). Điền giờ quay lại lên slide hoặc nói to trước khi lớp ra ngoài.\nTrong giờ giải lao: vẽ sẵn 6 ô trống lên bảng cho phần tiến trình 6 bước — sau giải lao sẽ điền dần theo ví dụ chuỗi trà sữa.\nNếu có sinh viên hỏi riêng về cách đánh giá hoặc hạn nộp M1, trả lời theo lịch trên LMS.\nLưu ý cho giảng viên: giờ quay lại trên slide đang để “…” — điền trước buổi học."
     },
     {
       "type": "section",
       "tag": "S5",
-      "kicker": "63–90 phút",
       "title": "Tiến trình, đạo đức, hệ thống thông tin, người làm và người dùng",
-      "notes": "Phân đoạn S5, khoảng 27 phút (phút 63–90). Bốn phần: tiến trình 6 bước với một ví dụ chạy xuyên suốt (khoảng 13 phút); đặc điểm và đạo đức của hoạt động nghiên cứu (khoảng 4 phút); hệ thống thông tin marketing (khoảng 6 phút); ai làm, ai dùng nghiên cứu (khoảng 4 phút).\nChào lớp trở lại, kiểm tra nhanh mọi người đã vào chỗ.\nLưu ý cho giảng viên: nếu trễ giờ, rút phần người thực hiện và người sử dụng còn 2 phút với một slide tóm tắt; không cắt phần thực hành S7 và phần kết buổi S8."
+      "notes": "Thời gian: phút 63–90 của buổi học.\nPhân đoạn S5, khoảng 27 phút (phút 63–90). Bốn phần: tiến trình 6 bước với một ví dụ chạy xuyên suốt (khoảng 13 phút); đặc điểm và đạo đức của hoạt động nghiên cứu (khoảng 4 phút); hệ thống thông tin marketing (khoảng 6 phút); ai làm, ai dùng nghiên cứu (khoảng 4 phút).\nChào lớp trở lại, kiểm tra nhanh mọi người đã vào chỗ.\nLưu ý cho giảng viên: nếu trễ giờ, rút phần người thực hiện và người sử dụng còn 2 phút với một slide tóm tắt; không cắt phần thực hành S7 và phần kết buổi S8."
     },
     {
       "type": "steps",
@@ -877,40 +874,34 @@
     {
       "type": "section",
       "tag": "S7",
-      "kicker": "94–139 phút",
       "title": "Thực hành nhóm",
-      "notes": "Phân đoạn S7 — thực hành nhóm 45 phút (phút 94–139), hoạt động Xưởng đề tài. Đây là phần không được cắt kể cả khi trễ giờ.\nTrước khi chiếu slide nhiệm vụ, nhắc sinh viên mở máy tính và chuẩn bị phiếu nhóm.\nLưu ý cho giảng viên: kịch bản, phiếu nhóm và cách phản hồi nằm trong phiếu hoạt động Xưởng đề tài; nhớ mang danh sách 10 lĩnh vực gợi ý phòng khi nhóm bí đề tài.\nKhi các nhóm bắt đầu, đi một vòng nhanh để chắc chắn mọi sinh viên đã có nhóm; ai còn lẻ thì ghép ngay trong 3 phút đầu và ghi danh sách nhóm."
+      "notes": "Thời gian: phút 94–139 của buổi học.\nPhân đoạn S7 — thực hành nhóm 45 phút (phút 94–139), hoạt động Xưởng đề tài. Đây là phần không được cắt kể cả khi trễ giờ.\nTrước khi chiếu slide nhiệm vụ, nhắc sinh viên mở máy tính và chuẩn bị phiếu nhóm.\nLưu ý cho giảng viên: kịch bản, phiếu nhóm và cách phản hồi nằm trong phiếu hoạt động Xưởng đề tài; nhớ mang danh sách 10 lĩnh vực gợi ý phòng khi nhóm bí đề tài.\nKhi các nhóm bắt đầu, đi một vòng nhanh để chắc chắn mọi sinh viên đã có nhóm; ai còn lẻ thì ghép ngay trong 3 phút đầu và ghi danh sách nhóm."
     },
     {
       "type": "activity",
-      "title": "Xưởng đề tài (45'): từ quyết định kinh doanh đến vấn đề nghiên cứu",
+      "title": "Xưởng đề tài: từ quyết định kinh doanh đến vấn đề nghiên cứu",
       "stages": [
         {
-          "time": "10'",
           "text": "Lập nhóm 2–3 bạn, chọn lĩnh vực và một hiện tượng"
         },
         {
-          "time": "10'",
           "text": "Viết 3 câu hỏi quyết định: “Có nên…?”"
         },
         {
-          "time": "15'",
           "text": "1 câu → vấn đề nghiên cứu; phân loại; phác 6 bước"
         },
         {
-          "time": "10'",
-          "text": "4–5 nhóm chia sẻ, mỗi nhóm 1 phút"
+          "text": "4–5 nhóm chia sẻ"
         }
       ],
       "product": "phiếu nhóm → hoàn thiện thành M1.",
-      "notes": "Để slide này trên màn hình suốt 45 phút. Kịch bản mở đầu: “45 phút tới là thời gian của nhóm. Ai chưa có nhóm thì có 3 phút để tìm nhóm 2–3 người — ai còn lẻ thì giơ tay, tôi ghép. Lưu ý quan trọng nhất: chọn lĩnh vực mà các bạn hỏi được người thật, vì cuối kỳ các bạn phải thu dữ liệu. Tôi sẽ đi từng nhóm.”\nChặng 1: chọn một lĩnh vực hoặc thương hiệu nhóm hiểu và tiếp cận được người trả lời, ghi một hiện tượng tích cực (cơ hội) hoặc tiêu cực (vấn đề). Chặng 2: đặt mình vào vị trí giám đốc marketing, viết 3 quyết định — ví dụ “Có nên mở thêm cửa hàng gần khu ký túc xá không?”. Chặng 3: viết lại thành điều cần biết, bắt đầu bằng “Xác định…”, “Đo lường…”, “Tìm hiểu…”, “So sánh…”; ghi ai sẽ trả lời.\nKhi đi các bàn: nếu câu hỏi là chủ đề, hỏi lại “Giám đốc sẽ làm gì khác đi sau khi biết điều này?”; nếu quá rộng, thu hẹp một sản phẩm, một nhóm khách, một khu vực; nếu đối tượng khó tiếp cận, khuyên đổi ngay.\nCâu chốt khi chia sẻ: “Một vấn đề nghiên cứu tốt trả lời được câu hỏi: giám đốc sẽ dùng kết quả này để quyết định điều gì?”"
+      "notes": "Thời gian: 45 phút.\nPhân bổ thời gian — chặng 1: 10 phút; chặng 2: 10 phút; chặng 3: 15 phút; chặng 4: 10 phút; (chặng 4 gốc: “4–5 nhóm chia sẻ, mỗi nhóm 1 phút”).\nĐể slide này trên màn hình suốt 45 phút. Kịch bản mở đầu: “45 phút tới là thời gian của nhóm. Ai chưa có nhóm thì có 3 phút để tìm nhóm 2–3 người — ai còn lẻ thì giơ tay, tôi ghép. Lưu ý quan trọng nhất: chọn lĩnh vực mà các bạn hỏi được người thật, vì cuối kỳ các bạn phải thu dữ liệu. Tôi sẽ đi từng nhóm.”\nChặng 1: chọn một lĩnh vực hoặc thương hiệu nhóm hiểu và tiếp cận được người trả lời, ghi một hiện tượng tích cực (cơ hội) hoặc tiêu cực (vấn đề). Chặng 2: đặt mình vào vị trí giám đốc marketing, viết 3 quyết định — ví dụ “Có nên mở thêm cửa hàng gần khu ký túc xá không?”. Chặng 3: viết lại thành điều cần biết, bắt đầu bằng “Xác định…”, “Đo lường…”, “Tìm hiểu…”, “So sánh…”; ghi ai sẽ trả lời.\nKhi đi các bàn: nếu câu hỏi là chủ đề, hỏi lại “Giám đốc sẽ làm gì khác đi sau khi biết điều này?”; nếu quá rộng, thu hẹp một sản phẩm, một nhóm khách, một khu vực; nếu đối tượng khó tiếp cận, khuyên đổi ngay.\nCâu chốt khi chia sẻ: “Một vấn đề nghiên cứu tốt trả lời được câu hỏi: giám đốc sẽ dùng kết quả này để quyết định điều gì?”"
     },
     {
       "type": "section",
       "tag": "S8",
-      "kicker": "139–146 phút",
       "title": "Kết buổi",
-      "notes": "Phân đoạn S8 — kết buổi, khoảng 7 phút (phút 139–146), còn 4 phút dự phòng đến hết buổi.\nYêu cầu các nhóm dừng làm, chụp hoặc lưu phiếu nhóm để hoàn thiện thành M1 ở nhà.\nPhát phiếu ra về (giấy nhỏ hoặc trang cuối phiếu hoạt động). Phần này không được cắt kể cả khi trễ giờ — phiếu ra về là cách giảng viên biết lớp đã hiểu đến đâu."
+      "notes": "Thời gian: phút 139–146 của buổi học.\nPhân đoạn S8 — kết buổi, khoảng 7 phút (phút 139–146), còn 4 phút dự phòng đến hết buổi.\nYêu cầu các nhóm dừng làm, chụp hoặc lưu phiếu nhóm để hoàn thiện thành M1 ở nhà.\nPhát phiếu ra về (giấy nhỏ hoặc trang cuối phiếu hoạt động). Phần này không được cắt kể cả khi trễ giờ — phiếu ra về là cách giảng viên biết lớp đã hiểu đến đâu."
     },
     {
       "type": "cards",

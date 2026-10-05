@@ -14,9 +14,8 @@
     {
       "type": "section",
       "tag": "S1",
-      "kicker": "0–8 phút",
       "title": "Khởi động — chữa nhanh đề cương M4",
-      "notes": "Phần khởi động 8 phút: chữa nhanh đề cương M4 mà các nhóm đã nộp sau Buổi 6. Mục tiêu không phải chấm điểm lại mà là cho cả lớp thấy hai lỗi phổ biến nhất, vì cả hai đều liên quan trực tiếp đến bài hôm nay.\nNói: \"Tuần trước các nhóm đã nộp đề cương. Trước khi vào bài mới, tôi chữa nhanh hai lỗi lặp lại ở nhiều nhóm. Các bạn mở bản đề cương của nhóm mình ra và tự kiểm tra trong lúc tôi nói.\"\nĐảm bảo mỗi nhóm có ít nhất một máy mở đề cương. Nếu nhóm nào không mang, cho phép xem chung với nhóm bên cạnh. Chuyển sang slide hai lỗi."
+      "notes": "Thời gian: phút 0–8 của buổi học.\nPhần khởi động 8 phút: chữa nhanh đề cương M4 mà các nhóm đã nộp sau Buổi 6. Mục tiêu không phải chấm điểm lại mà là cho cả lớp thấy hai lỗi phổ biến nhất, vì cả hai đều liên quan trực tiếp đến bài hôm nay.\nNói: \"Tuần trước các nhóm đã nộp đề cương. Trước khi vào bài mới, tôi chữa nhanh hai lỗi lặp lại ở nhiều nhóm. Các bạn mở bản đề cương của nhóm mình ra và tự kiểm tra trong lúc tôi nói.\"\nĐảm bảo mỗi nhóm có ít nhất một máy mở đề cương. Nếu nhóm nào không mang, cho phép xem chung với nhóm bên cạnh. Chuyển sang slide hai lỗi."
     },
     {
       "type": "compare",
@@ -65,9 +64,8 @@
     {
       "type": "section",
       "tag": "S2",
-      "kicker": "8–27 phút",
       "title": "5.1 Dữ liệu thứ cấp",
-      "notes": "Phần S2 kéo dài khoảng 19 phút: khái niệm dữ liệu thứ cấp và sơ cấp, giá trị và hạn chế, vai trò, phân loại bên trong và bên ngoài, nguồn dùng được cho dự án sinh viên, và quan trọng nhất là bốn tiêu chuẩn đánh giá dữ liệu thứ cấp.\nNói: \"Phần này các nhóm sẽ dùng ngay trong thực hành cuối buổi, nên chú ý nhất ở bốn tiêu chuẩn.\" Nếu trễ giờ, có thể gộp thời sự và phù hợp, và bỏ slide nguồn Việt Nam vì nội dung đã có trong tài liệu đọc thêm."
+      "notes": "Thời gian: phút 8–27 của buổi học.\nPhần S2 kéo dài khoảng 19 phút: khái niệm dữ liệu thứ cấp và sơ cấp, giá trị và hạn chế, vai trò, phân loại bên trong và bên ngoài, nguồn dùng được cho dự án sinh viên, và quan trọng nhất là bốn tiêu chuẩn đánh giá dữ liệu thứ cấp.\nNói: \"Phần này các nhóm sẽ dùng ngay trong thực hành cuối buổi, nên chú ý nhất ở bốn tiêu chuẩn.\" Nếu trễ giờ, có thể gộp thời sự và phù hợp, và bỏ slide nguồn Việt Nam vì nội dung đã có trong tài liệu đọc thêm."
     },
     {
       "type": "compare",
@@ -321,15 +319,14 @@
     {
       "type": "section",
       "tag": "S3",
-      "kicker": "27–31 phút",
       "title": "Kiểm tra nhanh: soi một con số",
-      "notes": "Kiểm tra nhanh 4 phút, theo cặp với bạn ngồi cạnh. Đọc kịch bản: \"Một nhóm nghiên cứu ý định mua mỹ phẩm nội địa của sinh viên TP.HCM. Họ tìm được ba con số cho phần bối cảnh. Mỗi mẩu, các bạn có 30 giây bàn với bạn bên cạnh; tôi đếm 3–2–1 thì giơ tay: 1 ngón là dùng được, 2 ngón là dùng có điều kiện, 3 ngón là bỏ. Nhớ: phải nói được tiêu chuẩn nào.\"\nKhông chấm điểm; bạn nào không muốn giơ tay có thể ghi đáp án ra giấy."
+      "notes": "Thời gian: phút 27–31 của buổi học.\nKiểm tra nhanh 4 phút, theo cặp với bạn ngồi cạnh. Đọc kịch bản: \"Một nhóm nghiên cứu ý định mua mỹ phẩm nội địa của sinh viên TP.HCM. Họ tìm được ba con số cho phần bối cảnh. Mỗi mẩu, các bạn có 30 giây bàn với bạn bên cạnh; tôi đếm 3–2–1 thì giơ tay: 1 ngón là dùng được, 2 ngón là dùng có điều kiện, 3 ngón là bỏ. Nhớ: phải nói được tiêu chuẩn nào.\"\nKhông chấm điểm; bạn nào không muốn giơ tay có thể ghi đáp án ra giấy."
     },
     {
       "type": "stat",
       "title": "Soi một con số: dùng được, dùng có điều kiện, hay bỏ?",
-      "callout": "Bàn 30 giây → đếm 3–2–1 → nêu tên tiêu chuẩn",
-      "notes": "Giới thiệu quy ước trả lời. Đề tài giả định: \"Các yếu tố ảnh hưởng đến ý định mua mỹ phẩm nội địa của sinh viên tại TP.HCM.\" Nhóm tìm được ba mẩu số liệu cho phần bối cảnh, sẽ hiện lần lượt.\nVới mỗi mẩu: đọc to → cho 30 giây thảo luận theo cặp → đếm 3–2–1 → cả lớp giơ tay cùng lúc → gọi một bạn nói mẩu đó đạt hoặc không đạt tiêu chuẩn nào. Yêu cầu trả lời bằng tên tiêu chuẩn: \"mẩu này không đạt tiêu chuẩn … vì …\".\nThời gian: khoảng 1 phút mỗi mẩu, cộng 1 phút chốt. Nếu chạy quá giờ, bỏ phần thảo luận chung, chỉ chốt câu về mẩu 2.\nNhắc lớp nhìn lại bốn tiêu chuẩn: cụ thể, chính xác, thời sự, phù hợp.",
+      "callout": "Bàn với bạn → đếm 3–2–1 → nêu tên tiêu chuẩn",
+      "notes": "Thời gian: 30 giây bàn với bạn.\nGiới thiệu quy ước trả lời. Đề tài giả định: \"Các yếu tố ảnh hưởng đến ý định mua mỹ phẩm nội địa của sinh viên tại TP.HCM.\" Nhóm tìm được ba mẩu số liệu cho phần bối cảnh, sẽ hiện lần lượt.\nVới mỗi mẩu: đọc to → cho 30 giây thảo luận theo cặp → đếm 3–2–1 → cả lớp giơ tay cùng lúc → gọi một bạn nói mẩu đó đạt hoặc không đạt tiêu chuẩn nào. Yêu cầu trả lời bằng tên tiêu chuẩn: \"mẩu này không đạt tiêu chuẩn … vì …\".\nThời gian: khoảng 1 phút mỗi mẩu, cộng 1 phút chốt. Nếu chạy quá giờ, bỏ phần thảo luận chung, chỉ chốt câu về mẩu 2.\nNhắc lớp nhìn lại bốn tiêu chuẩn: cụ thể, chính xác, thời sự, phù hợp.",
       "stats": [
         {
           "value": "1",
@@ -381,9 +378,8 @@
     {
       "type": "section",
       "tag": "S4",
-      "kicker": "31–48 phút",
       "title": "Dữ liệu sơ cấp — quan sát và dân tộc học",
-      "notes": "Phần S4 khoảng 17 phút: phân biệt định tính và định lượng, rồi đi sâu vào quan sát — định nghĩa, bốn chiều phân loại, giới hạn đạo đức — và dân tộc học với hai ví dụ minh họa.\nNói: \"Khi dữ liệu thứ cấp không đủ, nhóm phải tự thu. Hôm nay đi lần lượt từng phương pháp, bắt đầu từ phương pháp không cần hỏi ai câu nào: quan sát.\" Phần đạo đức của quan sát cần đi chậm, không cắt khi trễ giờ."
+      "notes": "Thời gian: phút 31–48 của buổi học.\nPhần S4 khoảng 17 phút: phân biệt định tính và định lượng, rồi đi sâu vào quan sát — định nghĩa, bốn chiều phân loại, giới hạn đạo đức — và dân tộc học với hai ví dụ minh họa.\nNói: \"Khi dữ liệu thứ cấp không đủ, nhóm phải tự thu. Hôm nay đi lần lượt từng phương pháp, bắt đầu từ phương pháp không cần hỏi ai câu nào: quan sát.\" Phần đạo đức của quan sát cần đi chậm, không cắt khi trễ giờ."
     },
     {
       "type": "compare",
@@ -576,17 +572,16 @@
     },
     {
       "type": "break",
-      "title": "Giải lao 15 phút",
-      "big": "15'",
+      "title": "Giải lao",
+      "big": "Nghỉ",
       "sub": "Quay lại lúc …",
-      "notes": "Giải lao 15 phút, từ phút 48 đến phút 63. Điền giờ quay lại cụ thể vào chỗ \"…\" trước buổi học, hoặc viết lên bảng.\nNói: \"Nghỉ 15 phút. Trong giờ nghỉ, thử nghĩ: chuyện mua mỹ phẩm, bạn sẽ kể thật hơn khi ngồi với 8 người lạ hay với 1 người? Sau giải lao chúng ta bắt đầu bằng câu hỏi này.\"\nTrong giờ nghỉ, giảng viên có thể đi một vòng xem các nhóm đã mở đề cương M4 và đã nghĩ đến nguồn thứ cấp nào chưa — chuẩn bị cho phần thực hành. Chuẩn bị sẵn slide tiếp theo trên màn hình khi lớp quay lại."
+      "notes": "Thời gian: giải lao 15 phút.\nGiải lao 15 phút, từ phút 48 đến phút 63. Điền giờ quay lại cụ thể vào chỗ \"…\" trước buổi học, hoặc viết lên bảng.\nNói: \"Nghỉ 15 phút. Trong giờ nghỉ, thử nghĩ: chuyện mua mỹ phẩm, bạn sẽ kể thật hơn khi ngồi với 8 người lạ hay với 1 người? Sau giải lao chúng ta bắt đầu bằng câu hỏi này.\"\nTrong giờ nghỉ, giảng viên có thể đi một vòng xem các nhóm đã mở đề cương M4 và đã nghĩ đến nguồn thứ cấp nào chưa — chuẩn bị cho phần thực hành. Chuẩn bị sẵn slide tiếp theo trên màn hình khi lớp quay lại."
     },
     {
       "type": "section",
       "tag": "S5",
-      "kicker": "63–80 phút",
       "title": "Thảo luận nhóm và phỏng vấn sâu",
-      "notes": "Phần S5 khoảng 17 phút: thảo luận nhóm tập trung (định nghĩa, vai trò người điều phối, hiệu ứng tuân thủ đám đông), phỏng vấn sâu (điểm mạnh, điểm yếu, ba kỹ năng), một hoạt động nhỏ 3 phút sửa ba câu hỏi lỗi, và khi nào chọn phương pháp nào.\nSlide UEF dừng ở phần quan sát — toàn bộ phần này dùng slide bổ sung. Mở phần bằng câu hỏi đã gợi trong giờ giải lao.\nNhắc lớp: phần này nối trực tiếp với thực hành cuối buổi — mỗi bạn sẽ đóng vai phỏng vấn sâu 5 phút, nên chú ý ba kỹ năng và ba loại câu hỏi cần tránh."
+      "notes": "Thời gian: phút 63–80 của buổi học.\nPhần S5 khoảng 17 phút: thảo luận nhóm tập trung (định nghĩa, vai trò người điều phối, hiệu ứng tuân thủ đám đông), phỏng vấn sâu (điểm mạnh, điểm yếu, ba kỹ năng), một hoạt động nhỏ 3 phút sửa ba câu hỏi lỗi, và khi nào chọn phương pháp nào.\nSlide UEF dừng ở phần quan sát — toàn bộ phần này dùng slide bổ sung. Mở phần bằng câu hỏi đã gợi trong giờ giải lao.\nNhắc lớp: phần này nối trực tiếp với thực hành cuối buổi — mỗi bạn sẽ đóng vai phỏng vấn sâu 5 phút, nên chú ý ba kỹ năng và ba loại câu hỏi cần tránh."
     },
     {
       "type": "compare",
@@ -728,8 +723,8 @@
         "“Bạn thấy giá và chất lượng sản phẩm này thế nào?”",
         "“Sau này bạn có mua sản phẩm này không?”"
       ],
-      "callout": "Cặp đôi: 1 phút sửa cả ba câu",
-      "notes": "Hoạt động nhỏ 3 phút. Ba câu hỏi lỗi đều là giả định. Yêu cầu: theo cặp, sửa cả ba câu trong 1 phút. Sau đó gọi 2–3 bạn đọc câu đã sửa, rồi hiện đáp án gợi ý ở slide sau.\nTrong lúc lớp làm, đi quanh lớp nghe. Gợi ý nếu cặp nào bí: câu 1 lỗi gì — nó đã gợi sẵn rằng bao bì xanh là quan trọng; câu 2 có mấy ý; câu 3 hỏi về lúc nào — tương lai hay quá khứ?\nKhi gọi bạn đọc câu sửa, hỏi lớp: \"Câu sửa này còn dẫn dắt không? Còn hai ý không?\" Để lớp tự đánh giá trước khi hiện đáp án.\nNếu lớp nhanh và còn thời gian, có thể mở rộng thành 6 câu theo phương án kéo dài của lesson plan."
+      "callout": "Cặp đôi: sửa cả ba câu",
+      "notes": "Thời gian: 1 phút.\nHoạt động nhỏ 3 phút. Ba câu hỏi lỗi đều là giả định. Yêu cầu: theo cặp, sửa cả ba câu trong 1 phút. Sau đó gọi 2–3 bạn đọc câu đã sửa, rồi hiện đáp án gợi ý ở slide sau.\nTrong lúc lớp làm, đi quanh lớp nghe. Gợi ý nếu cặp nào bí: câu 1 lỗi gì — nó đã gợi sẵn rằng bao bì xanh là quan trọng; câu 2 có mấy ý; câu 3 hỏi về lúc nào — tương lai hay quá khứ?\nKhi gọi bạn đọc câu sửa, hỏi lớp: \"Câu sửa này còn dẫn dắt không? Còn hai ý không?\" Để lớp tự đánh giá trước khi hiện đáp án.\nNếu lớp nhanh và còn thời gian, có thể mở rộng thành 6 câu theo phương án kéo dài của lesson plan."
     },
     {
       "type": "bullets",
@@ -783,9 +778,8 @@
     {
       "type": "section",
       "tag": "S6",
-      "kicker": "80–92 phút",
       "title": "Nghiên cứu định lượng",
-      "notes": "Phần S6 khoảng 12 phút: khảo sát với bốn hình thức và cách khắc phục nhược điểm của khảo sát online; nhóm cố định; thử nghiệm với nhóm thử nghiệm, nhóm đối chứng, phân nhóm ngẫu nhiên và tình huống \"biến thứ ba\".\nNói: \"Định tính trả lời 'vì sao'. Giờ sang các phương pháp trả lời 'bao nhiêu' và 'có gây ra không'.\" Nếu trễ giờ, phần nhóm cố định chỉ nêu định nghĩa một câu.\nNhắc lớp: phần lớn các nhóm định lượng sẽ làm khảo sát trực tuyến, nên slide về bốn việc cần ghi rõ trong phần phương pháp là phần các nhóm dùng ngay."
+      "notes": "Thời gian: phút 80–92 của buổi học.\nPhần S6 khoảng 12 phút: khảo sát với bốn hình thức và cách khắc phục nhược điểm của khảo sát online; nhóm cố định; thử nghiệm với nhóm thử nghiệm, nhóm đối chứng, phân nhóm ngẫu nhiên và tình huống \"biến thứ ba\".\nNói: \"Định tính trả lời 'vì sao'. Giờ sang các phương pháp trả lời 'bao nhiêu' và 'có gây ra không'.\" Nếu trễ giờ, phần nhóm cố định chỉ nêu định nghĩa một câu.\nNhắc lớp: phần lớn các nhóm định lượng sẽ làm khảo sát trực tuyến, nên slide về bốn việc cần ghi rõ trong phần phương pháp là phần các nhóm dùng ngay."
     },
     {
       "type": "table",
@@ -913,9 +907,8 @@
     {
       "type": "section",
       "tag": "S7",
-      "kicker": "92–100 phút",
       "title": "Hỗn hợp, chọn phương pháp, đạo đức",
-      "notes": "Phần S7 khoảng 8 phút: phương pháp hỗn hợp (2 phút), chọn phương pháp theo câu hỏi kèm kiểm tra nhanh giơ tay (3 phút), và năm nguyên tắc đạo đức khi thu dữ liệu sơ cấp (3 phút).\nĐây là phần nối kiến thức với dự án: sau phần này các nhóm phải tự chọn và biện luận phương pháp trong thực hành. Phần đạo đức không cắt khi trễ giờ.\nChuẩn bị sẵn quy ước giơ tay 1–5 ngón cho phần kiểm tra nhanh; quy ước này trùng với thứ tự các dòng trong bảng chọn phương pháp."
+      "notes": "Thời gian: phút 92–100 của buổi học.\nPhần S7 khoảng 8 phút: phương pháp hỗn hợp (2 phút), chọn phương pháp theo câu hỏi kèm kiểm tra nhanh giơ tay (3 phút), và năm nguyên tắc đạo đức khi thu dữ liệu sơ cấp (3 phút).\nĐây là phần nối kiến thức với dự án: sau phần này các nhóm phải tự chọn và biện luận phương pháp trong thực hành. Phần đạo đức không cắt khi trễ giờ.\nChuẩn bị sẵn quy ước giơ tay 1–5 ngón cho phần kiểm tra nhanh; quy ước này trùng với thứ tự các dòng trong bảng chọn phương pháp."
     },
     {
       "type": "steps",
@@ -1015,40 +1008,34 @@
     {
       "type": "section",
       "tag": "S8",
-      "kicker": "100–145 phút",
       "title": "Thực hành nhóm: Xưởng phương pháp",
-      "notes": "Chuyển ý: \"Đủ lý thuyết. 45 phút tới, mỗi nhóm viết lại mục 4.3.2 — lần này cho thật đầy đủ.\"\nPhát phiếu nhóm Xưởng phương pháp (bảng A dữ liệu thứ cấp, bảng B nhóm định lượng, bảng C nhóm định tính, bảng kiểm D cho người quan sát khi đóng vai). Nhóm cần máy tính và đề cương M4. Không cắt phần thực hành khi trễ giờ; nếu thiếu giờ, chặng đóng vai chuyển thành bài tập phỏng vấn thử một người ngoài lớp trước Buổi 8."
+      "notes": "Thời gian: phút 100–145 của buổi học.\nChuyển ý: \"Đủ lý thuyết. 45 phút tới, mỗi nhóm viết lại mục 4.3.2 — lần này cho thật đầy đủ.\"\nPhát phiếu nhóm Xưởng phương pháp (bảng A dữ liệu thứ cấp, bảng B nhóm định lượng, bảng C nhóm định tính, bảng kiểm D cho người quan sát khi đóng vai). Nhóm cần máy tính và đề cương M4. Không cắt phần thực hành khi trễ giờ; nếu thiếu giờ, chặng đóng vai chuyển thành bài tập phỏng vấn thử một người ngoài lớp trước Buổi 8."
     },
     {
       "type": "activity",
-      "title": "Xưởng phương pháp (45'): viết lại mục 4.3.2 cho đầy đủ",
+      "title": "Xưởng phương pháp: viết lại mục 4.3.2 cho đầy đủ",
       "stages": [
         {
-          "time": "12'",
           "text": "Tìm 2–3 nguồn thứ cấp, đánh giá theo 4 tiêu chuẩn"
         },
         {
-          "time": "18'",
           "text": "Chọn phương pháp, viết mô tả và cam kết đạo đức"
         },
         {
-          "time": "7'",
-          "text": "Đóng vai phỏng vấn sâu 5' theo cặp + rút kinh nghiệm"
+          "text": "Đóng vai phỏng vấn sâu theo cặp + rút kinh nghiệm"
         },
         {
-          "time": "8'",
-          "text": "3 nhóm chia sẻ, mỗi nhóm 1,5 phút"
+          "text": "3 nhóm chia sẻ"
         }
       ],
       "product": "bản nháp mục 4.3.2 cho bài tập về nhà",
-      "notes": "Để slide này trên màn hình suốt 45 phút. Chặng 1 (12'): tìm 2–3 nguồn có số liệu cho phần bối cảnh theo thứ tự gợi ý — bài báo khoa học đã có, số liệu cơ quan nhà nước và hiệp hội, báo cáo miễn phí của công ty nghiên cứu; ghi con số định dùng và đánh giá theo bốn tiêu chuẩn ở bảng A. Con số tìm qua bài báo mạng phải truy về nguồn gốc.\nChặng 2 (18'): viết lại câu hỏi nghiên cứu chính, chọn phương pháp xuất phát từ câu hỏi, viết mô tả theo bảng B (định lượng: kênh phát hành, câu gạn lọc, câu kiểm tra chú ý, phỏng vấn sơ bộ) hoặc bảng C (định tính: số người, tiêu chí chọn, 5–6 câu hỏi chính), cộng 2–3 câu cam kết đạo đức.\nChặng 3 (7'): ghép cặp phỏng vấn 5 phút, mở đầu bằng giới thiệu mục đích và xin phép ghi âm, dùng ít nhất 2 câu hỏi gợi mở; người thứ ba cầm bảng kiểm D; 2 phút rút kinh nghiệm. Người được phỏng vấn có thể nhập vai khách hàng giả định.\nChặng 4 (8'): 3 nhóm trình bày câu hỏi nghiên cứu, phương pháp và lý do, một phát hiện khi đóng vai.\nGiảng viên đi từng nhóm, hỏi: \"Nhóm chọn phương pháp vì câu hỏi hay vì dễ làm?\""
+      "notes": "Thời gian: 45 phút.\nPhân bổ thời gian — chặng 1: 12 phút; chặng 2: 18 phút; chặng 3: 7 phút; (chặng 3 gốc: “Đóng vai phỏng vấn sâu 5' theo cặp + rút kinh nghiệm”); chặng 4: 8 phút; (chặng 4 gốc: “3 nhóm chia sẻ, mỗi nhóm 1,5 phút”).\nĐể slide này trên màn hình suốt 45 phút. Chặng 1 (12'): tìm 2–3 nguồn có số liệu cho phần bối cảnh theo thứ tự gợi ý — bài báo khoa học đã có, số liệu cơ quan nhà nước và hiệp hội, báo cáo miễn phí của công ty nghiên cứu; ghi con số định dùng và đánh giá theo bốn tiêu chuẩn ở bảng A. Con số tìm qua bài báo mạng phải truy về nguồn gốc.\nChặng 2 (18'): viết lại câu hỏi nghiên cứu chính, chọn phương pháp xuất phát từ câu hỏi, viết mô tả theo bảng B (định lượng: kênh phát hành, câu gạn lọc, câu kiểm tra chú ý, phỏng vấn sơ bộ) hoặc bảng C (định tính: số người, tiêu chí chọn, 5–6 câu hỏi chính), cộng 2–3 câu cam kết đạo đức.\nChặng 3 (7'): ghép cặp phỏng vấn 5 phút, mở đầu bằng giới thiệu mục đích và xin phép ghi âm, dùng ít nhất 2 câu hỏi gợi mở; người thứ ba cầm bảng kiểm D; 2 phút rút kinh nghiệm. Người được phỏng vấn có thể nhập vai khách hàng giả định.\nChặng 4 (8'): 3 nhóm trình bày câu hỏi nghiên cứu, phương pháp và lý do, một phát hiện khi đóng vai.\nGiảng viên đi từng nhóm, hỏi: \"Nhóm chọn phương pháp vì câu hỏi hay vì dễ làm?\""
     },
     {
       "type": "section",
       "tag": "S9",
-      "kicker": "145–150 phút",
       "title": "Kết buổi",
-      "notes": "Năm phút cuối: phiếu ra về, giao bài tập về nhà theo lộ trình dự án và nối sang Buổi 8. Phát phiếu giấy nhỏ cho từng bạn ngay khi chặng chia sẻ kết thúc để tiết kiệm thời gian.\nKhông cắt phần này khi trễ giờ: phiếu ra về là cách giảng viên kiểm tra mục tiêu cốt lõi của buổi — nhóm có chọn phương pháp xuất phát từ câu hỏi nghiên cứu hay không.\nNếu còn thời gian, nhắc lại một câu: dữ liệu thứ cấp trước, sơ cấp sau, và câu hỏi quyết định phương pháp."
+      "notes": "Thời gian: phút 145–150 của buổi học.\nNăm phút cuối: phiếu ra về, giao bài tập về nhà theo lộ trình dự án và nối sang Buổi 8. Phát phiếu giấy nhỏ cho từng bạn ngay khi chặng chia sẻ kết thúc để tiết kiệm thời gian.\nKhông cắt phần này khi trễ giờ: phiếu ra về là cách giảng viên kiểm tra mục tiêu cốt lõi của buổi — nhóm có chọn phương pháp xuất phát từ câu hỏi nghiên cứu hay không.\nNếu còn thời gian, nhắc lại một câu: dữ liệu thứ cấp trước, sơ cấp sau, và câu hỏi quyết định phương pháp."
     },
     {
       "type": "bullets",

@@ -14,9 +14,8 @@
     {
       "type": "section",
       "tag": "S1",
-      "kicker": "0–8 phút",
       "title": "Khởi động — hai nhóm trình bày phương pháp",
-      "notes": "Phần khởi động 8 phút. Mời hai nhóm, ưu tiên một nhóm định lượng và một nhóm định tính để cả lớp thấy hai hướng. Mỗi nhóm 3 phút, không cần slide, đọc từ bài tập Buổi 7.\nMục tiêu của phần này không phải chấm điểm mà là tạo cầu nối: sau mỗi nhóm, giảng viên hỏi lại đúng một câu về người trả lời — câu đó dẫn thẳng vào bài hôm nay.\nNếu không nhóm nào xung phong, gọi nhóm có đề cương M4 rõ nhất mà giảng viên đã đọc. Giữ đúng 3 phút mỗi nhóm; dùng đồng hồ trên điện thoại để báo khi còn 30 giây."
+      "notes": "Thời gian: phút 0–8 của buổi học.\nPhần khởi động 8 phút. Mời hai nhóm, ưu tiên một nhóm định lượng và một nhóm định tính để cả lớp thấy hai hướng. Mỗi nhóm 3 phút, không cần slide, đọc từ bài tập Buổi 7.\nMục tiêu của phần này không phải chấm điểm mà là tạo cầu nối: sau mỗi nhóm, giảng viên hỏi lại đúng một câu về người trả lời — câu đó dẫn thẳng vào bài hôm nay.\nNếu không nhóm nào xung phong, gọi nhóm có đề cương M4 rõ nhất mà giảng viên đã đọc. Giữ đúng 3 phút mỗi nhóm; dùng đồng hồ trên điện thoại để báo khi còn 30 giây."
     },
     {
       "type": "cards",
@@ -41,9 +40,8 @@
     {
       "type": "section",
       "tag": "S2",
-      "kicker": "8–12 phút",
       "title": "Mở bài — hỏi 5.000 người giàu thì sao?",
-      "notes": "Phần mở bài 4 phút. Quay lại tình huống mở đầu học phần ở Buổi 1 để đặt vấn đề cho chọn mẫu: cỡ mẫu lớn không cứu được một mẫu hỏi sai người.\nChuẩn bị chỉ định 2 bạn trả lời câu hỏi trên slide tiếp theo; sau đó giới thiệu ba câu hỏi của chọn mẫu sẽ đi suốt buổi.\nGiữ phần này ngắn — mục tiêu chỉ là tạo một hình ảnh dễ nhớ: mẫu lớn mà sai người thì vẫn sai. Hình ảnh này sẽ được nhắc lại khi học lưu ý \"công thức chỉ đúng với mẫu xác suất\" và khi nói về sai lệch chọn mẫu."
+      "notes": "Thời gian: phút 8–12 của buổi học.\nPhần mở bài 4 phút. Quay lại tình huống mở đầu học phần ở Buổi 1 để đặt vấn đề cho chọn mẫu: cỡ mẫu lớn không cứu được một mẫu hỏi sai người.\nChuẩn bị chỉ định 2 bạn trả lời câu hỏi trên slide tiếp theo; sau đó giới thiệu ba câu hỏi của chọn mẫu sẽ đi suốt buổi.\nGiữ phần này ngắn — mục tiêu chỉ là tạo một hình ảnh dễ nhớ: mẫu lớn mà sai người thì vẫn sai. Hình ảnh này sẽ được nhắc lại khi học lưu ý \"công thức chỉ đúng với mẫu xác suất\" và khi nói về sai lệch chọn mẫu."
     },
     {
       "type": "case",
@@ -80,9 +78,8 @@
     {
       "type": "section",
       "tag": "S3",
-      "kicker": "12–30 phút",
       "title": "Lý do chọn mẫu và các khái niệm",
-      "notes": "Phần S3 khoảng 18 phút: vì sao chọn mẫu thay vì tổng điều tra, nghịch lý về sai số, các khái niệm cơ bản (đám đông, đám đông nghiên cứu, phần tử, đơn vị, khung mẫu, hiệu quả chọn mẫu) và một kiểm tra nhanh.\nDùng một ví dụ chạy suốt phần khái niệm — thói quen mua trà sữa của sinh viên (giả định) — giống tài liệu học tập để sinh viên ôn lại dễ.\nNhắc lớp: các khái niệm này là ngôn ngữ chung cho phần còn lại của buổi và cho mục 4.3.3 của đề cương."
+      "notes": "Thời gian: phút 12–30 của buổi học.\nPhần S3 khoảng 18 phút: vì sao chọn mẫu thay vì tổng điều tra, nghịch lý về sai số, các khái niệm cơ bản (đám đông, đám đông nghiên cứu, phần tử, đơn vị, khung mẫu, hiệu quả chọn mẫu) và một kiểm tra nhanh.\nDùng một ví dụ chạy suốt phần khái niệm — thói quen mua trà sữa của sinh viên (giả định) — giống tài liệu học tập để sinh viên ôn lại dễ.\nNhắc lớp: các khái niệm này là ngôn ngữ chung cho phần còn lại của buổi và cho mục 4.3.3 của đề cương."
     },
     {
       "type": "cards",
@@ -230,9 +227,8 @@
     {
       "type": "section",
       "tag": "S4",
-      "kicker": "30–48 phút",
       "title": "Quy trình và kích thước mẫu",
-      "notes": "Phần S4 khoảng 18 phút: quy trình chọn mẫu 5 bước, năm yếu tố quyết định cỡ mẫu, hai công thức (trung bình và tỷ lệ) với ví dụ bằng số, thử tay, quy tắc kinh nghiệm theo kỹ thuật phân tích, và lưu ý quan trọng nhất: công thức chỉ đúng với mẫu xác suất.\nNhắc lớp chuẩn bị máy tính bỏ túi hoặc Excel. Công thức và ví dụ theo tài liệu học tập — video bài giảng không có công thức."
+      "notes": "Thời gian: phút 30–48 của buổi học.\nPhần S4 khoảng 18 phút: quy trình chọn mẫu 5 bước, năm yếu tố quyết định cỡ mẫu, hai công thức (trung bình và tỷ lệ) với ví dụ bằng số, thử tay, quy tắc kinh nghiệm theo kỹ thuật phân tích, và lưu ý quan trọng nhất: công thức chỉ đúng với mẫu xác suất.\nNhắc lớp chuẩn bị máy tính bỏ túi hoặc Excel. Công thức và ví dụ theo tài liệu học tập — video bài giảng không có công thức."
     },
     {
       "type": "steps",
@@ -319,8 +315,8 @@
           "label": "Sai số ±3%"
         }
       ],
-      "callout": "Tin cậy 95%, p = 0,5 — 1 phút tự tính",
-      "notes": "Cho cả lớp 1 phút tự tính bằng máy tính cá nhân hoặc Excel, dùng đúng công thức tỷ lệ vừa học, chỉ thay e. Trong lúc lớp tính, đi quanh xem có bạn nào nhập e = 10 thay vì 0,10 — lỗi rất phổ biến.\nSau 1 phút, chỉ định 2 bạn đọc kết quả, mỗi bạn một ô. Chưa xác nhận đúng sai ngay; hỏi lớp: \"Ai ra số khác?\" Nếu có bạn ra 96 hoặc 1.067, hỏi: \"Bạn làm tròn thế nào?\" — nhắc lại quy tắc luôn làm tròn lên.\nTrước khi chuyển sang slide đáp án, hỏi lớp đoán: \"Từ ±10% xuống ±3%, cỡ mẫu tăng khoảng mấy lần?\" Để lớp đoán con số trước khi thấy."
+      "callout": "Tin cậy 95%, p = 0,5 — tự tính",
+      "notes": "Thời gian: 1 phút tự tính.\nCho cả lớp 1 phút tự tính bằng máy tính cá nhân hoặc Excel, dùng đúng công thức tỷ lệ vừa học, chỉ thay e. Trong lúc lớp tính, đi quanh xem có bạn nào nhập e = 10 thay vì 0,10 — lỗi rất phổ biến.\nSau 1 phút, chỉ định 2 bạn đọc kết quả, mỗi bạn một ô. Chưa xác nhận đúng sai ngay; hỏi lớp: \"Ai ra số khác?\" Nếu có bạn ra 96 hoặc 1.067, hỏi: \"Bạn làm tròn thế nào?\" — nhắc lại quy tắc luôn làm tròn lên.\nTrước khi chuyển sang slide đáp án, hỏi lớp đoán: \"Từ ±10% xuống ±3%, cỡ mẫu tăng khoảng mấy lần?\" Để lớp đoán con số trước khi thấy."
     },
     {
       "type": "stat",
@@ -372,17 +368,16 @@
     },
     {
       "type": "break",
-      "title": "Giải lao 15 phút",
-      "big": "15'",
+      "title": "Giải lao",
+      "big": "Nghỉ",
       "sub": "Quay lại lúc … · Nghĩ: nhóm mình có danh sách người trả lời không?",
-      "notes": "Giải lao 15 phút, từ phút 48 đến phút 63. Điền giờ quay lại cụ thể vào chỗ \"…\" trước buổi học, hoặc viết lên bảng.\nGiao câu hỏi để nghĩ trong giờ nghỉ: \"Nhóm mình có danh sách người trả lời không?\" — tức là nhóm có khung mẫu không. Câu trả lời sẽ quyết định nhóm dùng được phương pháp chọn mẫu nào ở phần sau giải lao.\nTrong giờ nghỉ, giảng viên có thể xem nhanh câu đám đông nghiên cứu của một vài nhóm để chuẩn bị phản hồi cho phần thực hành."
+      "notes": "Thời gian: giải lao 15 phút.\nGiải lao 15 phút, từ phút 48 đến phút 63. Điền giờ quay lại cụ thể vào chỗ \"…\" trước buổi học, hoặc viết lên bảng.\nGiao câu hỏi để nghĩ trong giờ nghỉ: \"Nhóm mình có danh sách người trả lời không?\" — tức là nhóm có khung mẫu không. Câu trả lời sẽ quyết định nhóm dùng được phương pháp chọn mẫu nào ở phần sau giải lao.\nTrong giờ nghỉ, giảng viên có thể xem nhanh câu đám đông nghiên cứu của một vài nhóm để chuẩn bị phản hồi cho phần thực hành."
     },
     {
       "type": "section",
       "tag": "S5",
-      "kicker": "63–80 phút",
       "title": "Xác suất và phi xác suất; bốn phương pháp xác suất",
-      "notes": "Phần S5 khoảng 17 phút: so sánh hai họ phương pháp, bản đồ tám phương pháp, rồi đi lần lượt bốn phương pháp xác suất — ngẫu nhiên đơn giản, hệ thống, phân tầng, theo nhóm — và so sánh phân tầng với theo nhóm.\nMở phần bằng câu hỏi giờ giải lao: \"Nhóm nào có danh sách người trả lời? Giơ tay.\" Thường rất ít tay — giữ kết quả này để nối với phần dự án.\nGiới thiệu cách đi: trước hết là bảng so sánh hai họ, rồi bản đồ tám phương pháp, sau đó từng phương pháp xác suất kèm một ví dụ gần với sinh viên."
+      "notes": "Thời gian: phút 63–80 của buổi học.\nPhần S5 khoảng 17 phút: so sánh hai họ phương pháp, bản đồ tám phương pháp, rồi đi lần lượt bốn phương pháp xác suất — ngẫu nhiên đơn giản, hệ thống, phân tầng, theo nhóm — và so sánh phân tầng với theo nhóm.\nMở phần bằng câu hỏi giờ giải lao: \"Nhóm nào có danh sách người trả lời? Giơ tay.\" Thường rất ít tay — giữ kết quả này để nối với phần dự án.\nGiới thiệu cách đi: trước hết là bảng so sánh hai họ, rồi bản đồ tám phương pháp, sau đó từng phương pháp xác suất kèm một ví dụ gần với sinh viên."
     },
     {
       "type": "table",
@@ -616,9 +611,8 @@
     {
       "type": "section",
       "tag": "S6",
-      "kicker": "80–95 phút",
       "title": "Phi xác suất; sai lệch; giới hạn khái quát hóa",
-      "notes": "Phần S6 khoảng 15 phút: bốn phương pháp phi xác suất (thuận tiện, phán đoán, phát triển mầm, định mức) kèm hoạt động nhỏ tìm lỗi bảng định mức; hai nguồn sai lệch dự án hay gặp; và thông điệp quan trọng nhất cho dự án: mẫu của nhóm gần như chắc là phi xác suất — chấp nhận được, nếu nói thật.\nNói trước với lớp: \"Phần này nói về đúng loại mẫu mà các nhóm sẽ dùng.\" Hoạt động tìm lỗi bảng định mức chỉ 1 phút — chuẩn bị sẵn slide bảng sai và bảng đúng liền nhau."
+      "notes": "Thời gian: phút 80–95 của buổi học.\nPhần S6 khoảng 15 phút: bốn phương pháp phi xác suất (thuận tiện, phán đoán, phát triển mầm, định mức) kèm hoạt động nhỏ tìm lỗi bảng định mức; hai nguồn sai lệch dự án hay gặp; và thông điệp quan trọng nhất cho dự án: mẫu của nhóm gần như chắc là phi xác suất — chấp nhận được, nếu nói thật.\nNói trước với lớp: \"Phần này nói về đúng loại mẫu mà các nhóm sẽ dùng.\" Hoạt động tìm lỗi bảng định mức chỉ 1 phút — chuẩn bị sẵn slide bảng sai và bảng đúng liền nhau."
     },
     {
       "type": "statement",
@@ -760,8 +754,8 @@
         ]
       ],
       "boldFirstCol": true,
-      "callout": "Bảng có lỗi — tìm lỗi trong 1 phút",
-      "notes": "Hoạt động nhỏ 1 phút. Đây là bảng định mức hai thuộc tính — tuổi × giới tính, giả định nam/nữ 50/50 trong mỗi nhóm tuổi — lấy từ slide gốc của bộ slide môn học, nhãn tuổi đã sửa thành 18–30. Bảng có lỗi.\nNói: \"Bảng này có gì sai? Một phút, tìm với bạn bên cạnh.\" Để lớp tìm.\nGợi ý nếu lớp im: \"Cộng cột thì đúng — tổng nam 50, tổng nữ 50, tổng chung 100. Thử so tổng từng dòng với tỷ lệ của nhóm.\"\nĐáp án: dòng 31–40 chiếm 40% thì phải là 40 người, nhưng bảng ghi 30; dòng 41–50 chiếm 30% thì phải là 30, nhưng bảng ghi 40 — hai dòng bị đảo.\nCó thể nói với lớp sau khi chữa: \"Tài liệu giảng dạy cũng có thể sai — kiểm tra là thói quen của người làm nghiên cứu.\""
+      "callout": "Bảng có lỗi — hãy tìm lỗi",
+      "notes": "Thời gian: 1 phút tìm lỗi.\nHoạt động nhỏ 1 phút. Đây là bảng định mức hai thuộc tính — tuổi × giới tính, giả định nam/nữ 50/50 trong mỗi nhóm tuổi — lấy từ slide gốc của bộ slide môn học, nhãn tuổi đã sửa thành 18–30. Bảng có lỗi.\nNói: \"Bảng này có gì sai? Một phút, tìm với bạn bên cạnh.\" Để lớp tìm.\nGợi ý nếu lớp im: \"Cộng cột thì đúng — tổng nam 50, tổng nữ 50, tổng chung 100. Thử so tổng từng dòng với tỷ lệ của nhóm.\"\nĐáp án: dòng 31–40 chiếm 40% thì phải là 40 người, nhưng bảng ghi 30; dòng 41–50 chiếm 30% thì phải là 30, nhưng bảng ghi 40 — hai dòng bị đảo.\nCó thể nói với lớp sau khi chữa: \"Tài liệu giảng dạy cũng có thể sai — kiểm tra là thói quen của người làm nghiên cứu.\""
     },
     {
       "type": "table",
@@ -908,9 +902,8 @@
     {
       "type": "section",
       "tag": "S7",
-      "kicker": "95–100 phút",
       "title": "Kiểm tra nhanh",
-      "notes": "Kiểm tra nhanh 5 phút: ba câu hỏi, chỉ định phát biểu, mỗi câu 1–2 bạn. Không chấm điểm.\nNếu câu 1 nhiều bạn trả lời sai, dừng 1 phút nhắc lại thông điệp \"mẫu của nhóm gần như chắc là thuận tiện — ổn, nếu nói thật\" — đây là lỗi sẽ xuất hiện trong bài giữa kỳ.\nCâu 3 có thể cho lớp 30 giây bấm máy. Câu 2 là câu khó nhất — nếu lớp im, gợi ý: \"Trong mỗi tầng hoặc mỗi ô, người trả lời được chọn bằng cách nào?\""
+      "notes": "Thời gian: phút 95–100 của buổi học.\nKiểm tra nhanh 5 phút: ba câu hỏi, chỉ định phát biểu, mỗi câu 1–2 bạn. Không chấm điểm.\nNếu câu 1 nhiều bạn trả lời sai, dừng 1 phút nhắc lại thông điệp \"mẫu của nhóm gần như chắc là thuận tiện — ổn, nếu nói thật\" — đây là lỗi sẽ xuất hiện trong bài giữa kỳ.\nCâu 3 có thể cho lớp 30 giây bấm máy. Câu 2 là câu khó nhất — nếu lớp im, gợi ý: \"Trong mỗi tầng hoặc mỗi ô, người trả lời được chọn bằng cách nào?\""
     },
     {
       "type": "bullets",
@@ -926,13 +919,12 @@
     {
       "type": "section",
       "tag": "S8",
-      "kicker": "100–145 phút",
       "title": "Thực hành nhóm: tính toán và kế hoạch chọn mẫu",
-      "notes": "Phát hai phiếu: phiếu bài tập tính toán Phần A (không kèm đáp án) và phiếu kế hoạch chọn mẫu Phần B. Phần A 20 phút (15 làm + 5 chữa); Phần B 25 phút (22 làm + 3 chia sẻ).\nNếu chạy quá giờ: rút gọn Phần A, chuyển A2 và A3(d) thành bài tự làm. Không cắt Phần B và phần kết buổi.\nNói kịch bản mở đầu Phần A ngay khi phát phiếu để không mất thời gian. Giảng viên đi các bàn suốt 45 phút; ghi lại lỗi phổ biến để chữa chung ở phút 115–120."
+      "notes": "Thời gian: phút 100–145 của buổi học.\nPhát hai phiếu: phiếu bài tập tính toán Phần A (không kèm đáp án) và phiếu kế hoạch chọn mẫu Phần B. Phần A 20 phút (15 làm + 5 chữa); Phần B 25 phút (22 làm + 3 chia sẻ).\nNếu chạy quá giờ: rút gọn Phần A, chuyển A2 và A3(d) thành bài tự làm. Không cắt Phần B và phần kết buổi.\nNói kịch bản mở đầu Phần A ngay khi phát phiếu để không mất thời gian. Giảng viên đi các bàn suốt 45 phút; ghi lại lỗi phổ biến để chữa chung ở phút 115–120."
     },
     {
       "type": "cards",
-      "title": "Thực hành Phần A (20'): phiếu bài tập tính toán",
+      "title": "Thực hành Phần A: phiếu bài tập tính toán",
       "cards": [
         {
           "head": "Cỡ mẫu",
@@ -961,11 +953,11 @@
         },
         {
           "head": "Ưu tiên",
-          "text": "A1, A4, A5 · 15' làm + 5' chữa",
+          "text": "Làm A1, A4, A5 trước, rồi chữa",
           "tag": "!"
         }
       ],
-      "notes": "Kịch bản mở đầu: \"20 phút đầu, các nhóm làm phiếu bài tập tính toán — làm theo nhóm, mỗi người tự bấm máy rồi so kết quả với nhau. Dùng máy tính bỏ túi, Excel hay Google Sheets đều được. Không cần làm hết; ưu tiên bài A1, A4, A5. Phút thứ 15 tôi chữa bài.\"\nNăm bài: A1 cỡ mẫu khi ước lượng tỷ lệ với e = 5% và 4%; A2 bước nhảy k của mẫu hệ thống; A3 phân bổ tầng theo tỷ lệ và chia đều; A4 bảng định mức hai thuộc tính; A5 phát hiện lỗi trong bảng định mức. Tất cả là tình huống giả định.\nMốc thời gian: phút 100 đọc kịch bản, phát phiếu; phút 100–115 đi các bàn, kiểm tra A1 (có làm tròn lên không?) và A4 (có cộng kiểm tra không?); phút 115–120 chữa nhanh bằng slide đáp án.\nNhắc ghi cả cách tính, không chỉ kết quả, và dùng e = 0,05 chứ không phải 5."
+      "notes": "Thời gian: 20 phút.\nThời gian: Phần A 20 phút: 15 phút làm + 5 phút chữa.\nKịch bản mở đầu: \"20 phút đầu, các nhóm làm phiếu bài tập tính toán — làm theo nhóm, mỗi người tự bấm máy rồi so kết quả với nhau. Dùng máy tính bỏ túi, Excel hay Google Sheets đều được. Không cần làm hết; ưu tiên bài A1, A4, A5. Phút thứ 15 tôi chữa bài.\"\nNăm bài: A1 cỡ mẫu khi ước lượng tỷ lệ với e = 5% và 4%; A2 bước nhảy k của mẫu hệ thống; A3 phân bổ tầng theo tỷ lệ và chia đều; A4 bảng định mức hai thuộc tính; A5 phát hiện lỗi trong bảng định mức. Tất cả là tình huống giả định.\nMốc thời gian: phút 100 đọc kịch bản, phát phiếu; phút 100–115 đi các bàn, kiểm tra A1 (có làm tròn lên không?) và A4 (có cộng kiểm tra không?); phút 115–120 chữa nhanh bằng slide đáp án.\nNhắc ghi cả cách tính, không chỉ kết quả, và dùng e = 0,05 chứ không phải 5."
     },
     {
       "type": "bullets",
@@ -996,37 +988,31 @@
     },
     {
       "type": "activity",
-      "title": "Thực hành Phần B (25'): kế hoạch chọn mẫu cho dự án của nhóm",
+      "title": "Thực hành Phần B: kế hoạch chọn mẫu cho dự án của nhóm",
       "stages": [
         {
-          "time": "5'",
           "text": "Đám đông nghiên cứu đủ 4 yếu tố"
         },
         {
-          "time": "2'",
           "text": "Khung mẫu: có danh sách không? Thiếu ai, thừa ai?"
         },
         {
-          "time": "5'",
           "text": "Cỡ mẫu có căn cứ + dự trù phiếu hỏng"
         },
         {
-          "time": "5'",
           "text": "Phương pháp đúng tên, cách tiếp cận, bảng định mức"
         },
         {
-          "time": "5'",
           "text": "Câu gạn lọc, rủi ro sai lệch, câu hạn chế"
         }
       ],
-      "notes": "Để slide này trên màn hình suốt Phần B. 22 phút làm theo 5 bước, 3 phút cuối mời 2 nhóm đọc đám đông nghiên cứu và câu hạn chế của nhóm.\nBước 1 (5'): viết đám đông nghiên cứu đủ 4 yếu tố; kiểm tra có khớp với vấn đề nghiên cứu không. Bước 2 (2'): nhóm có danh sách nào không, có được phép dùng không; nếu không, ghi \"không có khung mẫu\"; nếu dùng một nhóm mạng xã hội làm nguồn, nguồn đó thiếu ai, thừa ai. Bước 3 (5'): định lượng — cỡ mẫu mục tiêu và căn cứ (công thức ghi rõ Z, e, p, hoặc quy tắc kinh nghiệm có nguồn), cộng dự trù 10–20% → số phiếu cần thu; định tính — số người phỏng vấn sâu (thường 6–10) và lý do; kiểm tra tính khả thi trong khoảng 2 tuần thu dữ liệu. Bước 4 (5'): đúng tên phương pháp, xác suất hay phi xác suất, cách tiếp cận; nếu định mức thì lập bảng và cộng kiểm tra. Bước 5 (5'): 1–3 câu gạn lọc khớp với 4 yếu tố, rủi ro sai lệch và cách giảm, câu hạn chế cho mục 4.3.6.\nGiảng viên đi từng nhóm. Nếu nhóm bí: dùng ví dụ trà sữa trong phần giảng làm khuôn mẫu."
+      "notes": "Thời gian: 25 phút.\nPhân bổ thời gian — chặng 1: 5 phút; chặng 2: 2 phút; chặng 3: 5 phút; chặng 4: 5 phút; chặng 5: 5 phút.\nĐể slide này trên màn hình suốt Phần B. 22 phút làm theo 5 bước, 3 phút cuối mời 2 nhóm đọc đám đông nghiên cứu và câu hạn chế của nhóm.\nBước 1 (5'): viết đám đông nghiên cứu đủ 4 yếu tố; kiểm tra có khớp với vấn đề nghiên cứu không. Bước 2 (2'): nhóm có danh sách nào không, có được phép dùng không; nếu không, ghi \"không có khung mẫu\"; nếu dùng một nhóm mạng xã hội làm nguồn, nguồn đó thiếu ai, thừa ai. Bước 3 (5'): định lượng — cỡ mẫu mục tiêu và căn cứ (công thức ghi rõ Z, e, p, hoặc quy tắc kinh nghiệm có nguồn), cộng dự trù 10–20% → số phiếu cần thu; định tính — số người phỏng vấn sâu (thường 6–10) và lý do; kiểm tra tính khả thi trong khoảng 2 tuần thu dữ liệu. Bước 4 (5'): đúng tên phương pháp, xác suất hay phi xác suất, cách tiếp cận; nếu định mức thì lập bảng và cộng kiểm tra. Bước 5 (5'): 1–3 câu gạn lọc khớp với 4 yếu tố, rủi ro sai lệch và cách giảm, câu hạn chế cho mục 4.3.6.\nGiảng viên đi từng nhóm. Nếu nhóm bí: dùng ví dụ trà sữa trong phần giảng làm khuôn mẫu."
     },
     {
       "type": "section",
       "tag": "S9",
-      "kicker": "145–149 phút",
       "title": "Kết buổi",
-      "notes": "Bốn phút cuối: phiếu ra về, giao bài tập kế hoạch chọn mẫu, nhắc mốc bài giữa kỳ và nối sang Buổi 9. Còn 1 phút dự phòng.\nPhát phiếu giấy nhỏ ngay khi phần chia sẻ của Phần B kết thúc.\nNói câu nối sang Buổi 9: \"Hôm nay biết hỏi ai, hỏi bao nhiêu. Buổi 9: đo điều mình muốn biết bằng cách nào.\" Nhắc nhóm mang theo mô hình nghiên cứu và danh sách tài liệu. Thu phiếu ra về ở cửa lớp."
+      "notes": "Thời gian: phút 145–149 của buổi học.\nBốn phút cuối: phiếu ra về, giao bài tập kế hoạch chọn mẫu, nhắc mốc bài giữa kỳ và nối sang Buổi 9. Còn 1 phút dự phòng.\nPhát phiếu giấy nhỏ ngay khi phần chia sẻ của Phần B kết thúc.\nNói câu nối sang Buổi 9: \"Hôm nay biết hỏi ai, hỏi bao nhiêu. Buổi 9: đo điều mình muốn biết bằng cách nào.\" Nhắc nhóm mang theo mô hình nghiên cứu và danh sách tài liệu. Thu phiếu ra về ở cửa lớp."
     },
     {
       "type": "bullets",

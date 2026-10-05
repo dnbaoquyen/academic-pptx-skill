@@ -14,9 +14,8 @@
     {
       "type": "section",
       "tag": "S1",
-      "kicker": "0–10 phút",
       "title": "Khởi động: AI đã bịa bao nhiêu trích dẫn?",
-      "notes": "Phần khởi động 10 phút, bắt đầu bằng kết quả của chính các nhóm. Buổi trước, mỗi nhóm đã dùng công cụ AI để tìm và tóm tắt tài liệu cho đề tài, rồi kiểm chứng từng trích dẫn AI đưa ra. Hôm nay chúng ta nhìn lại kết quả đó trước khi học tiếp.\nNói ngắn: “Mười phút đầu là của các bạn. Tôi muốn nghe AI đã làm đúng và làm sai những gì với đề tài của nhóm.”\nChuẩn bị bảng lớp: kẻ sẵn ba cột “Đúng · Có thật nhưng sai · Không tồn tại” để điền số khi các nhóm báo cáo. Giữ nhịp nhanh, không để phần báo cáo vượt quá 8 phút, vì còn cần 30 giây giới thiệu mạch buổi và chốt câu “Trôi chảy không có nghĩa là đúng”."
+      "notes": "Thời gian: phút 0–10 của buổi học.\nPhần khởi động 10 phút, bắt đầu bằng kết quả của chính các nhóm. Buổi trước, mỗi nhóm đã dùng công cụ AI để tìm và tóm tắt tài liệu cho đề tài, rồi kiểm chứng từng trích dẫn AI đưa ra. Hôm nay chúng ta nhìn lại kết quả đó trước khi học tiếp.\nNói ngắn: “Mười phút đầu là của các bạn. Tôi muốn nghe AI đã làm đúng và làm sai những gì với đề tài của nhóm.”\nChuẩn bị bảng lớp: kẻ sẵn ba cột “Đúng · Có thật nhưng sai · Không tồn tại” để điền số khi các nhóm báo cáo. Giữ nhịp nhanh, không để phần báo cáo vượt quá 8 phút, vì còn cần 30 giây giới thiệu mạch buổi và chốt câu “Trôi chảy không có nghĩa là đúng”."
     },
     {
       "type": "cards",
@@ -69,9 +68,8 @@
     {
       "type": "section",
       "tag": "S2",
-      "kicker": "10–28 phút",
       "title": "3.5 Ưu điểm và hạn chế của AI",
-      "notes": "Phần này khoảng 18 phút. Đi nhanh qua ưu điểm (khoảng 3 phút) vì sinh viên đã cảm nhận được qua Buổi 4, rồi dành phần lớn thời gian cho hạn chế — đặc biệt ba hạn chế nguy hiểm nhất với người làm nghiên cứu: ảo giác, thiên lệch và quyền riêng tư.\nCâu dẫn: “Các bạn vừa thấy AI có thể sai rất tự tin. Nhưng nó cũng có những điểm mạnh thật. Hiểu đúng cả hai mặt thì mới biết giao việc gì cho AI và giữ lại việc gì cho mình.”\nPhân bổ gợi ý: ưu điểm 3 phút, bảy hạn chế 2 phút, ảo giác và cách kiểm 5 phút, thiên lệch 4 phút, quyền riêng tư 2 phút, ba cách giảm rủi ro và quy tắc vàng 2 phút."
+      "notes": "Thời gian: phút 10–28 của buổi học.\nPhần này khoảng 18 phút. Đi nhanh qua ưu điểm (khoảng 3 phút) vì sinh viên đã cảm nhận được qua Buổi 4, rồi dành phần lớn thời gian cho hạn chế — đặc biệt ba hạn chế nguy hiểm nhất với người làm nghiên cứu: ảo giác, thiên lệch và quyền riêng tư.\nCâu dẫn: “Các bạn vừa thấy AI có thể sai rất tự tin. Nhưng nó cũng có những điểm mạnh thật. Hiểu đúng cả hai mặt thì mới biết giao việc gì cho AI và giữ lại việc gì cho mình.”\nPhân bổ gợi ý: ưu điểm 3 phút, bảy hạn chế 2 phút, ảo giác và cách kiểm 5 phút, thiên lệch 4 phút, quyền riêng tư 2 phút, ba cách giảm rủi ro và quy tắc vàng 2 phút."
     },
     {
       "type": "cards",
@@ -139,7 +137,7 @@
     },
     {
       "type": "steps",
-      "title": "Hai phút kiểm một trích dẫn: tìm tên bài → mở bản gốc → khớp nội dung",
+      "title": "Kiểm một trích dẫn: tìm tên bài → mở bản gốc → khớp nội dung",
       "steps": [
         {
           "head": "Tìm tên bài",
@@ -155,7 +153,7 @@
         }
       ],
       "callout": "Đừng hỏi lại chính AI “tài liệu này có thật không?”",
-      "notes": "Quy trình kiểm ba bước, dùng cho mọi tài liệu AI gợi ý. Bước 1: tìm đúng tên bài, đặt trong ngoặc kép, trên Google Scholar hoặc trang tạp chí. Bước 2: mở bản gốc, ít nhất trang tóm tắt — bài có thật không, tác giả, năm, tạp chí có khớp không. Bước 3: khớp nội dung — bài có thực sự nói điều AI tóm tắt không; nếu có DOI, mở DOI xem có dẫn đúng bài không. Không qua được bước nào thì không trích.\nHỏi lớp: “Ở Buổi 4, nhóm nào đã hỏi lại AI để kiểm tra và được AI khẳng định là có thật?” Thường có vài tay giơ lên. Dùng để nhấn mạnh: AI có thể trả lời “có” một cách tự tin; kiểm chứng phải đi ra ngoài công cụ.\nLỗi hiểu thường gặp: “Công cụ có trích dẫn nguồn thì không cần kiểm.” Công cụ có dẫn nguồn giúp kiểm dễ hơn, không thay việc kiểm: nguồn có thể có thật nhưng không nói điều công cụ tóm tắt, hoặc là một trang web không đáng tin.\nChuyển ý sang hạn chế thứ hai: thiên lệch."
+      "notes": "Thời gian: khoảng 2 phút cho mỗi trích dẫn.\nQuy trình kiểm ba bước, dùng cho mọi tài liệu AI gợi ý. Bước 1: tìm đúng tên bài, đặt trong ngoặc kép, trên Google Scholar hoặc trang tạp chí. Bước 2: mở bản gốc, ít nhất trang tóm tắt — bài có thật không, tác giả, năm, tạp chí có khớp không. Bước 3: khớp nội dung — bài có thực sự nói điều AI tóm tắt không; nếu có DOI, mở DOI xem có dẫn đúng bài không. Không qua được bước nào thì không trích.\nHỏi lớp: “Ở Buổi 4, nhóm nào đã hỏi lại AI để kiểm tra và được AI khẳng định là có thật?” Thường có vài tay giơ lên. Dùng để nhấn mạnh: AI có thể trả lời “có” một cách tự tin; kiểm chứng phải đi ra ngoài công cụ.\nLỗi hiểu thường gặp: “Công cụ có trích dẫn nguồn thì không cần kiểm.” Công cụ có dẫn nguồn giúp kiểm dễ hơn, không thay việc kiểm: nguồn có thể có thật nhưng không nói điều công cụ tóm tắt, hoặc là một trang web không đáng tin.\nChuyển ý sang hạn chế thứ hai: thiên lệch."
     },
     {
       "type": "steps",
@@ -244,9 +242,8 @@
     {
       "type": "section",
       "tag": "S3",
-      "kicker": "28–45 phút",
       "title": "3.6 Ứng dụng của AI",
-      "notes": "Phần này khoảng 17 phút, đi từ rộng đến hẹp: bức tranh đa ngành (2 phút), sản xuất và kinh doanh (2 phút), nghiên cứu khoa học (4 phút — bảng quan trọng nhất của phần), nghiên cứu marketing và ví dụ 20.000 bình luận (6 phút), rồi câu hỏi nhanh giơ tay (3 phút).\nCâu dẫn: “Chúng ta vừa thấy AI có thể sai. Nhưng các ngành vẫn dùng AI rất nhiều. Vậy họ dùng ở đâu, và họ giữ lại phần nào cho con người?” Giữ câu hỏi đó trong suốt phần này: mỗi ứng dụng đều có một bước con người kiểm tra hoặc quyết định."
+      "notes": "Thời gian: phút 28–45 của buổi học.\nPhần này khoảng 17 phút, đi từ rộng đến hẹp: bức tranh đa ngành (2 phút), sản xuất và kinh doanh (2 phút), nghiên cứu khoa học (4 phút — bảng quan trọng nhất của phần), nghiên cứu marketing và ví dụ 20.000 bình luận (6 phút), rồi câu hỏi nhanh giơ tay (3 phút).\nCâu dẫn: “Chúng ta vừa thấy AI có thể sai. Nhưng các ngành vẫn dùng AI rất nhiều. Vậy họ dùng ở đâu, và họ giữ lại phần nào cho con người?” Giữ câu hỏi đó trong suốt phần này: mỗi ứng dụng đều có một bước con người kiểm tra hoặc quyết định."
     },
     {
       "type": "compare",
@@ -390,17 +387,16 @@
     },
     {
       "type": "break",
-      "title": "Giải lao 15 phút",
-      "big": "15'",
+      "title": "Giải lao",
+      "big": "Nghỉ",
       "sub": "Quay lại lúc …\nMở sẵn một công cụ AI",
-      "notes": "Không giảng. Thông báo giờ quay lại (giảng viên điền giờ cụ thể vào chỗ “…” trên slide trước buổi học).\nNhắc các nhóm tranh thủ giờ giải lao kiểm tra máy: ít nhất một máy của nhóm đã đăng nhập và mở được một công cụ AI, vì sau phần câu lệnh sẽ là 45 phút thực hành nhóm “Xưởng câu lệnh” cần chạy trực tiếp trên công cụ. Nhóm nào chưa có tài khoản hoặc gặp giới hạn lượt dùng thì báo giảng viên ngay để ghép công cụ hoặc dùng chung máy.\nGiảng viên dùng giờ giải lao chuẩn bị phiếu nhóm và mẫu nhật ký AI để phát ở phần thực hành, và kiểm tra trình chiếu cho phần công cụ."
+      "notes": "Thời gian: giải lao 15 phút.\nKhông giảng. Thông báo giờ quay lại (giảng viên điền giờ cụ thể vào chỗ “…” trên slide trước buổi học).\nNhắc các nhóm tranh thủ giờ giải lao kiểm tra máy: ít nhất một máy của nhóm đã đăng nhập và mở được một công cụ AI, vì sau phần câu lệnh sẽ là 45 phút thực hành nhóm “Xưởng câu lệnh” cần chạy trực tiếp trên công cụ. Nhóm nào chưa có tài khoản hoặc gặp giới hạn lượt dùng thì báo giảng viên ngay để ghép công cụ hoặc dùng chung máy.\nGiảng viên dùng giờ giải lao chuẩn bị phiếu nhóm và mẫu nhật ký AI để phát ở phần thực hành, và kiểm tra trình chiếu cho phần công cụ."
     },
     {
       "type": "section",
       "tag": "S4",
-      "kicker": "60–70 phút",
       "title": "3.7 Công cụ AI hỗ trợ nghiên cứu",
-      "notes": "Phần này khoảng 10 phút: hai nhóm công cụ (4 phút), chọn công cụ theo việc cần làm (4 phút), và lưu ý chatbot không thay phần mềm thống kê (2 phút).\nCâu dẫn sau giải lao: “Trước giờ nghỉ, chúng ta đã thấy AI hữu ích ở đâu và nguy hiểm ở đâu. Giờ là câu hỏi thực tế: dùng công cụ nào cho việc nào?”\nNhấn từ đầu: tên công cụ đổi rất nhanh, nên học cách gọi tên theo chức năng — trợ lý đa năng hay công cụ cho tài liệu học thuật — để khi công cụ đổi tên các bạn vẫn chọn đúng."
+      "notes": "Thời gian: phút 60–70 của buổi học.\nPhần này khoảng 10 phút: hai nhóm công cụ (4 phút), chọn công cụ theo việc cần làm (4 phút), và lưu ý chatbot không thay phần mềm thống kê (2 phút).\nCâu dẫn sau giải lao: “Trước giờ nghỉ, chúng ta đã thấy AI hữu ích ở đâu và nguy hiểm ở đâu. Giờ là câu hỏi thực tế: dùng công cụ nào cho việc nào?”\nNhấn từ đầu: tên công cụ đổi rất nhanh, nên học cách gọi tên theo chức năng — trợ lý đa năng hay công cụ cho tài liệu học thuật — để khi công cụ đổi tên các bạn vẫn chọn đúng."
     },
     {
       "type": "cards",
@@ -515,9 +511,8 @@
     {
       "type": "section",
       "tag": "S5",
-      "kicker": "70–88 phút",
       "title": "3.8 Cách đặt câu lệnh (prompt) hỗ trợ nghiên cứu",
-      "notes": "Phần này khoảng 18 phút: sáu nguyên tắc chung (3 phút), các “nút vặn” của câu lệnh (2 phút), bốn khung câu lệnh R-T-F, T-A-G, B-A-B, C-A-R-E (8 phút, mỗi khung một ví dụ gắn dự án), và hoạt động sửa câu lệnh theo cặp (5 phút).\nCâu dẫn: “Một câu lệnh (prompt) là yêu cầu bạn gửi cho công cụ AI. Buổi 4, nhiều nhóm nhận về tài liệu bịa — một phần vì câu lệnh. Hôm nay ta học cách viết câu lệnh để AI giúp được nhiều hơn và bịa ít hơn.”\nLưu ý cho giảng viên: ví dụ cho bốn khung lấy từ tài liệu học tập, không dùng ví dụ trên slide UEF #18–#21 vì các ví dụ đó yêu cầu AI liệt kê tài liệu — đúng kiểu câu lệnh sinh trích dẫn bịa."
+      "notes": "Thời gian: phút 70–88 của buổi học.\nPhần này khoảng 18 phút: sáu nguyên tắc chung (3 phút), các “nút vặn” của câu lệnh (2 phút), bốn khung câu lệnh R-T-F, T-A-G, B-A-B, C-A-R-E (8 phút, mỗi khung một ví dụ gắn dự án), và hoạt động sửa câu lệnh theo cặp (5 phút).\nCâu dẫn: “Một câu lệnh (prompt) là yêu cầu bạn gửi cho công cụ AI. Buổi 4, nhiều nhóm nhận về tài liệu bịa — một phần vì câu lệnh. Hôm nay ta học cách viết câu lệnh để AI giúp được nhiều hơn và bịa ít hơn.”\nLưu ý cho giảng viên: ví dụ cho bốn khung lấy từ tài liệu học tập, không dùng ví dụ trên slide UEF #18–#21 vì các ví dụ đó yêu cầu AI liệt kê tài liệu — đúng kiểu câu lệnh sinh trích dẫn bịa."
     },
     {
       "type": "steps",
@@ -675,31 +670,26 @@
       "title": "Sửa câu lệnh: “Viết bảng hỏi về trà sữa” thiếu những gì?",
       "stages": [
         {
-          "time": "30\"",
           "text": "Đọc câu lệnh gốc: “Viết bảng hỏi về trà sữa.” Làm theo cặp, không cần máy"
         },
         {
-          "time": "1'",
           "text": "Liệt kê những điều câu lệnh không nói cho AI biết"
         },
         {
-          "time": "2'",
           "text": "Viết lại theo R-T-F, đánh dấu (R), (T), (F) sau từng phần"
         },
         {
-          "time": "1'30\"",
           "text": "2–3 cặp đọc to; cả lớp gọi tên từng phần R, T, F"
         }
       ],
       "product": "câu lệnh R-T-F đã sửa — giữ lại cho Buổi 10",
-      "notes": "Khoảng 5 phút, theo cặp. Kịch bản mở đầu: “Đây là câu lệnh mà nhiều bạn gõ thật. Nó không sai, nhưng AI sẽ phải tự đoán gần như mọi thứ — và khi AI tự đoán, nó đoán theo những gì phổ biến nhất trong dữ liệu của nó, chứ không theo đề tài của bạn. Theo cặp, 1 phút liệt kê những gì câu lệnh không nói, 2 phút viết lại theo R-T-F. Không cần mở máy.”\nĐáp án mong đợi — câu lệnh thiếu: vai trò của AI; mục tiêu nghiên cứu (đo tần suất mua? yếu tố lựa chọn? mức độ hài lòng?); đối tượng trả lời; bối cảnh Việt Nam; số câu, loại câu hỏi; định dạng đầu ra; yêu cầu tránh câu hỏi kép, dẫn dắt.\nLỗi thường gặp và phản hồi: chỉ thêm vai trò — “vai trò không thay được mục tiêu: đo cái gì, hỏi ai?”; nhét mọi thứ vào Task, không có Format — “nhóm muốn nhận lại đoạn văn hay một bảng?”; yêu cầu AI “kèm nguồn thang đo” — rủi ro bịa nguồn, thang đo phải tự tìm (Buổi 9); câu lệnh quá dài — gợi ý chia hai lượt hỏi.\nLưu ý cho giảng viên: kịch bản đầy đủ trong phiếu hoạt động “Sửa câu lệnh” (W5_activity_sua_cau_lenh.md)."
+      "notes": "Phân bổ thời gian — chặng 1: 30 giây; chặng 2: 1 phút; chặng 3: 2 phút; chặng 4: 1 phút 30 giây.\nKhoảng 5 phút, theo cặp. Kịch bản mở đầu: “Đây là câu lệnh mà nhiều bạn gõ thật. Nó không sai, nhưng AI sẽ phải tự đoán gần như mọi thứ — và khi AI tự đoán, nó đoán theo những gì phổ biến nhất trong dữ liệu của nó, chứ không theo đề tài của bạn. Theo cặp, 1 phút liệt kê những gì câu lệnh không nói, 2 phút viết lại theo R-T-F. Không cần mở máy.”\nĐáp án mong đợi — câu lệnh thiếu: vai trò của AI; mục tiêu nghiên cứu (đo tần suất mua? yếu tố lựa chọn? mức độ hài lòng?); đối tượng trả lời; bối cảnh Việt Nam; số câu, loại câu hỏi; định dạng đầu ra; yêu cầu tránh câu hỏi kép, dẫn dắt.\nLỗi thường gặp và phản hồi: chỉ thêm vai trò — “vai trò không thay được mục tiêu: đo cái gì, hỏi ai?”; nhét mọi thứ vào Task, không có Format — “nhóm muốn nhận lại đoạn văn hay một bảng?”; yêu cầu AI “kèm nguồn thang đo” — rủi ro bịa nguồn, thang đo phải tự tìm (Buổi 9); câu lệnh quá dài — gợi ý chia hai lượt hỏi.\nLưu ý cho giảng viên: kịch bản đầy đủ trong phiếu hoạt động “Sửa câu lệnh” (W5_activity_sua_cau_lenh.md)."
     },
     {
       "type": "section",
       "tag": "S6",
-      "kicker": "88–98 phút",
       "title": "Đạo đức, quy định dùng AI và trích dẫn AI",
-      "notes": "Phần này khoảng 10 phút: ranh giới giữa hỗ trợ và làm thay (2 phút), năm quy định dùng AI của học phần (3 phút), trích dẫn AI theo APA 7 (2 phút), nhật ký AI (1 phút) và hai câu kiểm tra nhanh (2 phút).\nCâu dẫn: “Các bạn đã biết AI sai ở đâu, dùng công cụ nào và ra lệnh thế nào. Phần cuối trước khi thực hành là luật chơi: dùng AI đến đâu thì được, đến đâu là vi phạm, và khai báo thế nào.”\nNhấn: các quy định này áp dụng cho M3, M4, bài giữa kỳ và cuối kỳ — các nhóm nên ghi lại."
+      "notes": "Thời gian: phút 88–98 của buổi học.\nPhần này khoảng 10 phút: ranh giới giữa hỗ trợ và làm thay (2 phút), năm quy định dùng AI của học phần (3 phút), trích dẫn AI theo APA 7 (2 phút), nhật ký AI (1 phút) và hai câu kiểm tra nhanh (2 phút).\nCâu dẫn: “Các bạn đã biết AI sai ở đâu, dùng công cụ nào và ra lệnh thế nào. Phần cuối trước khi thực hành là luật chơi: dùng AI đến đâu thì được, đến đâu là vi phạm, và khai báo thế nào.”\nNhấn: các quy định này áp dụng cho M3, M4, bài giữa kỳ và cuối kỳ — các nhóm nên ghi lại."
     },
     {
       "type": "table",
@@ -794,43 +784,36 @@
     {
       "type": "section",
       "tag": "S7",
-      "kicker": "98–143 phút",
       "title": "Thực hành nhóm: Xưởng câu lệnh",
-      "notes": "Chuyển sang 45 phút thực hành nhóm. Phát phiếu nhóm và mẫu nhật ký AI. Các nhóm ngồi theo nhóm dự án (2–3 bạn), cần ít nhất một máy truy cập được một công cụ AI, và bản M1/M2 của nhóm.\nKịch bản mở đầu: “45 phút tới là của nhóm. Hôm nay mỗi nhóm dùng AI cho chính dự án của mình, theo 5 chặng trên phiếu. Ba điều quan trọng. Một: cùng một yêu cầu, viết theo hai khung T-A-G và C-A-R-E, chạy trên cùng một công cụ, mỗi câu lệnh một cuộc trò chuyện mới — rồi so sánh. Hai: khi AI phản biện vấn đề nghiên cứu, nhóm quyết định nhận hay bác từng ý — tôi muốn nghe lý do. Ba: cuối giờ, mọi nhóm phải chốt định tính hay định lượng. Không đưa thông tin cá nhân lên công cụ. Ghi nhật ký AI suốt buổi.”"
+      "notes": "Thời gian: phút 98–143 của buổi học.\nChuyển sang 45 phút thực hành nhóm. Phát phiếu nhóm và mẫu nhật ký AI. Các nhóm ngồi theo nhóm dự án (2–3 bạn), cần ít nhất một máy truy cập được một công cụ AI, và bản M1/M2 của nhóm.\nKịch bản mở đầu: “45 phút tới là của nhóm. Hôm nay mỗi nhóm dùng AI cho chính dự án của mình, theo 5 chặng trên phiếu. Ba điều quan trọng. Một: cùng một yêu cầu, viết theo hai khung T-A-G và C-A-R-E, chạy trên cùng một công cụ, mỗi câu lệnh một cuộc trò chuyện mới — rồi so sánh. Hai: khi AI phản biện vấn đề nghiên cứu, nhóm quyết định nhận hay bác từng ý — tôi muốn nghe lý do. Ba: cuối giờ, mọi nhóm phải chốt định tính hay định lượng. Không đưa thông tin cá nhân lên công cụ. Ghi nhật ký AI suốt buổi.”"
     },
     {
       "type": "activity",
-      "title": "Xưởng câu lệnh (45'): cùng một yêu cầu, hai khung, một quyết định của nhóm",
+      "title": "Xưởng câu lệnh: cùng một yêu cầu, hai khung, một quyết định của nhóm",
       "stages": [
         {
-          "time": "5'",
           "text": "Chọn một yêu cầu chung và một công cụ AI"
         },
         {
-          "time": "12'",
           "text": "Viết T-A-G và C-A-R-E, chạy, so sánh 4 tiêu chí"
         },
         {
-          "time": "10'",
           "text": "AI phản biện vấn đề; nhóm nhận hay bác"
         },
         {
-          "time": "8'",
           "text": "Chốt định tính hay định lượng"
         },
         {
-          "time": "10'",
-          "text": "3–4 nhóm chia sẻ, mỗi nhóm 1 phút"
+          "text": "3–4 nhóm chia sẻ"
         }
       ],
-      "notes": "Để slide này trên màn hình suốt 45 phút. Chặng 1 (5'): viết lại vấn đề nghiên cứu thành một câu; dùng chung yêu cầu “Xác định các khái niệm (biến) chính và các hướng lý thuyết thường dùng cho đề tài, kèm từ khóa tiếng Anh và tiếng Việt”; chọn một công cụ, ghi tên và phiên bản. Chặng 2 (12'): viết theo T-A-G và C-A-R-E, chạy mỗi câu lệnh trong một cuộc trò chuyện mới, chấm 1–3 điểm theo 4 tiêu chí; kiểm ngẫu nhiên một mục theo 3 bước. Chặng 3 (10'): dùng câu lệnh mẫu để AI chỉ ra tối đa 5 điểm yếu của vấn đề nghiên cứu; nhóm nhận hay bác từng điểm, có lý do. Chặng 4 (8'): trả lời 5 câu hỏi trên phiếu, nhóm tự quyết định, viết 2–3 câu lý do đưa vào M3. Chặng 5 (10'): mỗi nhóm 1 phút — khung nào tốt hơn, một phản biện nhóm bác và vì sao, hướng đã chọn.\nGiảng viên đi từng nhóm.\nLưu ý cho giảng viên: kịch bản đầy đủ trong phiếu “Xưởng câu lệnh” (W5_activity_xuong_cau_lenh.md).\nSản phẩm của hoạt động: phiếu nhóm và nhật ký AI (ghi suốt 45 phút), đưa vào M3. Nhắc lại hai quy tắc: không đưa dữ liệu cá nhân lên công cụ AI; mọi tài liệu, số liệu AI nêu đều là chưa kiểm chứng."
+      "notes": "Thời gian: 45 phút.\nPhân bổ thời gian — chặng 1: 5 phút; chặng 2: 12 phút; chặng 3: 10 phút; chặng 4: 8 phút; chặng 5: 10 phút; (chặng 5 gốc: “3–4 nhóm chia sẻ, mỗi nhóm 1 phút”).\nĐể slide này trên màn hình suốt 45 phút. Chặng 1 (5'): viết lại vấn đề nghiên cứu thành một câu; dùng chung yêu cầu “Xác định các khái niệm (biến) chính và các hướng lý thuyết thường dùng cho đề tài, kèm từ khóa tiếng Anh và tiếng Việt”; chọn một công cụ, ghi tên và phiên bản. Chặng 2 (12'): viết theo T-A-G và C-A-R-E, chạy mỗi câu lệnh trong một cuộc trò chuyện mới, chấm 1–3 điểm theo 4 tiêu chí; kiểm ngẫu nhiên một mục theo 3 bước. Chặng 3 (10'): dùng câu lệnh mẫu để AI chỉ ra tối đa 5 điểm yếu của vấn đề nghiên cứu; nhóm nhận hay bác từng điểm, có lý do. Chặng 4 (8'): trả lời 5 câu hỏi trên phiếu, nhóm tự quyết định, viết 2–3 câu lý do đưa vào M3. Chặng 5 (10'): mỗi nhóm 1 phút — khung nào tốt hơn, một phản biện nhóm bác và vì sao, hướng đã chọn.\nGiảng viên đi từng nhóm.\nLưu ý cho giảng viên: kịch bản đầy đủ trong phiếu “Xưởng câu lệnh” (W5_activity_xuong_cau_lenh.md).\nSản phẩm của hoạt động: phiếu nhóm và nhật ký AI (ghi suốt 45 phút), đưa vào M3. Nhắc lại hai quy tắc: không đưa dữ liệu cá nhân lên công cụ AI; mọi tài liệu, số liệu AI nêu đều là chưa kiểm chứng."
     },
     {
       "type": "section",
       "tag": "S8",
-      "kicker": "143–148 phút",
       "title": "Kết buổi",
-      "notes": "Khoảng 5 phút cuối. Cảm ơn các nhóm đã chia sẻ, tóm một câu: “Hôm nay các bạn đã dùng AI cho chính dự án — và tự quyết định những gì AI không được quyết định thay.”\nPhát phiếu ra về (giấy nhỏ), rồi nhắc bài tập M3 và nối sang Buổi 6. Giữ 2 phút dự phòng cuối buổi cho câu hỏi của các nhóm về M3.\nNếu phần thực hành kết thúc sớm, dùng thời gian dư để hỏi một câu thảo luận chung: “Có nhóm nào để AI quyết định thay hướng định tính/định lượng không? Điều đó có vấn đề gì?” Nếu thực hành bị trễ, rút phiếu ra về còn một câu (câu 2) nhưng vẫn giữ phần nhắc M3."
+      "notes": "Thời gian: phút 143–148 của buổi học.\nKhoảng 5 phút cuối. Cảm ơn các nhóm đã chia sẻ, tóm một câu: “Hôm nay các bạn đã dùng AI cho chính dự án — và tự quyết định những gì AI không được quyết định thay.”\nPhát phiếu ra về (giấy nhỏ), rồi nhắc bài tập M3 và nối sang Buổi 6. Giữ 2 phút dự phòng cuối buổi cho câu hỏi của các nhóm về M3.\nNếu phần thực hành kết thúc sớm, dùng thời gian dư để hỏi một câu thảo luận chung: “Có nhóm nào để AI quyết định thay hướng định tính/định lượng không? Điều đó có vấn đề gì?” Nếu thực hành bị trễ, rút phiếu ra về còn một câu (câu 2) nhưng vẫn giữ phần nhắc M3."
     },
     {
       "type": "statement",

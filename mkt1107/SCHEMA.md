@@ -47,6 +47,9 @@ Trường chung cho mọi slide:
 
 ## Quy tắc nội dung
 - Một thông điệp mỗi slide; chữ trên slide chỉ là điểm tựa, phần giải thích nằm trong `notes`.
+- Không ghi thời lượng dạy (số phút, khung giờ, "30 giây bàn với bạn"…) trên slide — chỉ ghi trong
+  `notes`, mở đầu bằng "Thời gian: …". Slide `section` không dùng `kicker` cho khung giờ; chặng
+  `activity` để trống `time` thì builder hiện số thứ tự.
 - Không để thẻ biên tập như `[UEF #3]`, `[VERIFY: …]`, `[BOARD: …]`, tên file `.md` trên slide —
   chuyển các lưu ý này vào `notes` (vd: "Lưu ý cho giảng viên: cần xác nhận …").
 - Chỗ giảng viên cần điền (giờ, hạn nộp) viết là "…".

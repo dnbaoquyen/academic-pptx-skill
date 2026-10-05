@@ -569,7 +569,7 @@ L.activity = (ctx, pres, s) => {
   const prod = s.product ? `**Sản phẩm:** ${s.product}` : null;
   const bottom = reserve(ctx, prod);
   const stages = s.stages || [];
-  const pw = 1.5;
+  const pw = stages.some((st) => st.time) ? 1.5 : 0.9;
   const tw = CW - pw - 0.35;
   const gap = 0.15;
   let sz = null;
@@ -584,7 +584,7 @@ L.activity = (ctx, pres, s) => {
     const c = ROT[(ctx.n + i) % 6];
     rrect(slide, X0, y, CW, h, tint(c, 0.16), "Chặng " + (i + 1));
     rrect(slide, X0 + 0.1, y + h / 2 - 0.3, pw - 0.1, 0.6, c, "Thời gian", 0.3);
-    txt(slide, st.time || "", { x: X0 + 0.1, y: y + h / 2 - 0.3, w: pw - 0.1, h: 0.6, fontSize: 24, bold: true, color: onColor(c), align: "center", valign: "middle" });
+    txt(slide, st.time || String(i + 1), { x: X0 + 0.1, y: y + h / 2 - 0.3, w: pw - 0.1, h: 0.6, fontSize: 24, bold: true, color: onColor(c), align: "center", valign: "middle" });
     txt(slide, st.text, { x: X0 + pw + 0.2, y, w: tw, h, fontSize: sz, valign: "middle" });
     y += h + gap;
   });
@@ -698,7 +698,7 @@ function defineLayouts(pres) {
   pres.defineSlideMaster({ title: "COVER", background: { color: BG }, objects: [] });
   pres.defineSlideMaster({
     title: "SECTION", background: { color: BG }, slideNumber: { ...sn },
-    objects: [{ placeholder: { options: { name: "title", type: "title", x: 4.2, y: 2.3, w: 7.4, h: 2.4, fontFace: FONT, color: INK, bold: true, valign: "top", align: "left", margin: INSET }, text: "" } }],
+    objects: [{ placeholder: { options: { name: "title", type: "title", x: 4.2, y: 2.45, w: 7.4, h: 2.6, fontFace: FONT, color: INK, bold: true, valign: "middle", align: "left", margin: INSET }, text: "" } }],
   });
   pres.defineSlideMaster({
     title: "CONTENT", background: { color: BG }, slideNumber: { ...sn },

@@ -15,9 +15,8 @@
     {
       "type": "section",
       "tag": "S1",
-      "kicker": "0–8 phút",
       "title": "Khởi động: in 1.000 phiếu rồi mới thấy câu hỏi sai",
-      "notes": "Phần khởi động 8 phút gồm hai việc: một tình huống mở đầu (khoảng 3 phút) và kiểm tra nhanh M3 cùng hướng dự án của các nhóm (không quá 4 phút).\nMục đích: để lớp tự thấy hậu quả của việc làm nghiên cứu mà không có “bản vẽ”, trước khi nghe khái niệm thiết kế nghiên cứu. Chưa nói tên bài; để câu trả lời của sinh viên dẫn tới khái niệm.\nGiữ nhịp nhanh: phần này chỉ là cửa vào. Câu cần ghi lên bảng sau tình huống là “thiếu bản vẽ” — sẽ quay lại câu này nhiều lần trong buổi."
+      "notes": "Thời gian: phút 0–8 của buổi học.\nPhần khởi động 8 phút gồm hai việc: một tình huống mở đầu (khoảng 3 phút) và kiểm tra nhanh M3 cùng hướng dự án của các nhóm (không quá 4 phút).\nMục đích: để lớp tự thấy hậu quả của việc làm nghiên cứu mà không có “bản vẽ”, trước khi nghe khái niệm thiết kế nghiên cứu. Chưa nói tên bài; để câu trả lời của sinh viên dẫn tới khái niệm.\nGiữ nhịp nhanh: phần này chỉ là cửa vào. Câu cần ghi lên bảng sau tình huống là “thiếu bản vẽ” — sẽ quay lại câu này nhiều lần trong buổi."
     },
     {
       "type": "case",
@@ -54,9 +53,8 @@
     {
       "type": "section",
       "tag": "S2",
-      "kicker": "8–40 phút",
       "title": "4.1 Một số khái niệm trong nghiên cứu",
-      "notes": "Phần dài nhất của buổi, khoảng 32 phút. Thứ tự: cấu trúc Bài 4 (1 phút) → thiết kế nghiên cứu là bản vẽ (4 phút) → ý tưởng và khoảng trống (4 phút) → mục tiêu, câu hỏi, giả thuyết (6 phút) → định tính và định lượng dùng lý thuyết thế nào (5 phút) → khám phá, mô tả, nhân quả (5 phút) → ví dụ quan sát (3 phút) → ba điều kiện nhân quả và biến thứ ba (khoảng 7 phút).\nNếu chậm giờ, rút gọn slide ví dụ quan sát (Harley-Davidson, Paco Underhill) còn một câu; giữ nguyên phần ba điều kiện nhân quả vì hoạt động “Chọn thiết kế” ngay sau đó dựa vào phần này."
+      "notes": "Thời gian: phút 8–40 của buổi học.\nPhần dài nhất của buổi, khoảng 32 phút. Thứ tự: cấu trúc Bài 4 (1 phút) → thiết kế nghiên cứu là bản vẽ (4 phút) → ý tưởng và khoảng trống (4 phút) → mục tiêu, câu hỏi, giả thuyết (6 phút) → định tính và định lượng dùng lý thuyết thế nào (5 phút) → khám phá, mô tả, nhân quả (5 phút) → ví dụ quan sát (3 phút) → ba điều kiện nhân quả và biến thứ ba (khoảng 7 phút).\nNếu chậm giờ, rút gọn slide ví dụ quan sát (Harley-Davidson, Paco Underhill) còn một câu; giữ nguyên phần ba điều kiện nhân quả vì hoạt động “Chọn thiết kế” ngay sau đó dựa vào phần này."
     },
     {
       "type": "steps",
@@ -360,13 +358,12 @@
     {
       "type": "section",
       "tag": "S3",
-      "kicker": "40–48 phút",
       "title": "Chọn thiết kế: khám phá, mô tả hay nhân quả?",
-      "notes": "Hoạt động 8 phút, làm theo cặp với bạn ngồi cạnh, không cần chuẩn bị gì. Mục đích: luyện hai việc nhóm sẽ phải làm trong đề cương — ghi đúng loại thiết kế ở mục 4.3.2, và biết dữ liệu của mình được phép nói đến đâu (“có liên hệ” hay “gây ra”).\nMốc thời gian: phút 40 đọc kịch bản mở đầu và chiếu tình huống 1; phút 41–46 sáu tình huống (đọc → 30 giây thảo luận → 3–2–1 giơ tay → nói đáp án một câu); phút 46–48 chữa kỹ tình huống 4 và 6. Nếu chạy quá giờ, bỏ tình huống 5; giữ 3, 4, 6."
+      "notes": "Thời gian: phút 40–48 của buổi học.\nHoạt động 8 phút, làm theo cặp với bạn ngồi cạnh, không cần chuẩn bị gì. Mục đích: luyện hai việc nhóm sẽ phải làm trong đề cương — ghi đúng loại thiết kế ở mục 4.3.2, và biết dữ liệu của mình được phép nói đến đâu (“có liên hệ” hay “gây ra”).\nMốc thời gian: phút 40 đọc kịch bản mở đầu và chiếu tình huống 1; phút 41–46 sáu tình huống (đọc → 30 giây thảo luận → 3–2–1 giơ tay → nói đáp án một câu); phút 46–48 chữa kỹ tình huống 4 và 6. Nếu chạy quá giờ, bỏ tình huống 5; giữ 3, 4, 6."
     },
     {
       "type": "cards",
-      "title": "Chọn thiết kế: 30 giây bàn với bạn, rồi giơ tay",
+      "title": "Chọn thiết kế: bàn với bạn, rồi giơ tay",
       "cards": [
         {
           "head": "Khám phá",
@@ -390,7 +387,7 @@
         }
       ],
       "callout": "Đếm 3–2–1, cả lớp giơ cùng lúc",
-      "notes": "Kịch bản mở đầu: “Mình thử dùng ngay những gì vừa học. Có 6 tình huống. Mỗi tình huống, 30 giây bàn với bạn bên cạnh, rồi khi tôi đếm 3–2–1 thì giơ tay: 1 ngón là khám phá, 2 ngón là mô tả, 3 ngón là nhân quả. Có một ký hiệu mới: nếu tình huống đưa ra một kết luận ‘A gây ra B’ mà các bạn thấy chưa đủ ba điều kiện, thì nắm tay. Cả lớp giơ cùng lúc. Bắt đầu.”\nNếu ít bạn giơ tay: nhắc “giơ cùng lúc, sai cũng không sao — đây là luyện tập”; giảng viên làm mẫu đếm 3–2–1. Không chấm điểm, không bắt buộc; bạn nào không muốn giơ tay có thể ghi đáp án ra giấy.\nCác tình huống đều là giả định. Hiện lần lượt từng tình huống ở các slide sau; mỗi tình huống khoảng 45 giây."
+      "notes": "Thời gian: mỗi tình huống 30 giây bàn với bạn.\nKịch bản mở đầu: “Mình thử dùng ngay những gì vừa học. Có 6 tình huống. Mỗi tình huống, 30 giây bàn với bạn bên cạnh, rồi khi tôi đếm 3–2–1 thì giơ tay: 1 ngón là khám phá, 2 ngón là mô tả, 3 ngón là nhân quả. Có một ký hiệu mới: nếu tình huống đưa ra một kết luận ‘A gây ra B’ mà các bạn thấy chưa đủ ba điều kiện, thì nắm tay. Cả lớp giơ cùng lúc. Bắt đầu.”\nNếu ít bạn giơ tay: nhắc “giơ cùng lúc, sai cũng không sao — đây là luyện tập”; giảng viên làm mẫu đếm 3–2–1. Không chấm điểm, không bắt buộc; bạn nào không muốn giơ tay có thể ghi đáp án ra giấy.\nCác tình huống đều là giả định. Hiện lần lượt từng tình huống ở các slide sau; mỗi tình huống khoảng 45 giây."
     },
     {
       "type": "case",
@@ -496,17 +493,16 @@
     },
     {
       "type": "break",
-      "title": "Giải lao 15 phút",
-      "big": "15'",
+      "title": "Giải lao",
+      "big": "Nghỉ",
       "sub": "Quay lại lúc …",
-      "notes": "Không giảng. Thông báo giờ quay lại — giảng viên điền giờ cụ thể vào chỗ “…” trên slide trước buổi học.\nGợi ý cho các nhóm tranh thủ giờ nghỉ: mở lại M1 (quyết định marketing nhóm đã chọn) để chuẩn bị cho phần vấn đề quản trị và vấn đề nghiên cứu ngay sau giải lao.\nGiảng viên dùng giờ giải lao chuẩn bị phiếu nhóm “Từ vấn đề đến đề cương” để phát ở phần thực hành, và ghi lại trên góc bảng số nhóm định lượng / định tính đã đếm ở đầu buổi."
+      "notes": "Thời gian: giải lao 15 phút.\nKhông giảng. Thông báo giờ quay lại — giảng viên điền giờ cụ thể vào chỗ “…” trên slide trước buổi học.\nGợi ý cho các nhóm tranh thủ giờ nghỉ: mở lại M1 (quyết định marketing nhóm đã chọn) để chuẩn bị cho phần vấn đề quản trị và vấn đề nghiên cứu ngay sau giải lao.\nGiảng viên dùng giờ giải lao chuẩn bị phiếu nhóm “Từ vấn đề đến đề cương” để phát ở phần thực hành, và ghi lại trên góc bảng số nhóm định lượng / định tính đã đếm ở đầu buổi."
     },
     {
       "type": "section",
       "tag": "S4",
-      "kicker": "63–82 phút",
       "title": "4.2 Vấn đề nghiên cứu",
-      "notes": "Phần này khoảng 19 phút: vì sao xác định vấn đề là bước quan trọng nhất (1 phút); vấn đề quản trị và vấn đề nghiên cứu, năm cặp ví dụ (6 phút); mục tiêu SMART (4 phút); bốn bước xác định vấn đề và bốn điều cần hỏi người ra quyết định (4 phút); năm yếu tố môi trường và nguồn lực của dự án sinh viên (4 phút).\nCâu dẫn sau giải lao: “Trước giờ nghỉ, chúng ta học cách chọn thiết kế. Nhưng thiết kế nào cũng vô ích nếu nhóm trả lời sai câu hỏi. Phần này học cách đặt đúng câu hỏi.”"
+      "notes": "Thời gian: phút 63–82 của buổi học.\nPhần này khoảng 19 phút: vì sao xác định vấn đề là bước quan trọng nhất (1 phút); vấn đề quản trị và vấn đề nghiên cứu, năm cặp ví dụ (6 phút); mục tiêu SMART (4 phút); bốn bước xác định vấn đề và bốn điều cần hỏi người ra quyết định (4 phút); năm yếu tố môi trường và nguồn lực của dự án sinh viên (4 phút).\nCâu dẫn sau giải lao: “Trước giờ nghỉ, chúng ta học cách chọn thiết kế. Nhưng thiết kế nào cũng vô ích nếu nhóm trả lời sai câu hỏi. Phần này học cách đặt đúng câu hỏi.”"
     },
     {
       "type": "statement",
@@ -716,9 +712,8 @@
     {
       "type": "section",
       "tag": "S5",
-      "kicker": "82–100 phút",
       "title": "4.3 Đề cương nghiên cứu marketing",
-      "notes": "Phần này khoảng 18 phút: đề cương là hợp đồng và 9 nội dung (2 phút); 4.3.1–4.3.4 — những gì nhóm đã có và sẽ học tiếp (5 phút); 4.3.5 kế hoạch phân tích (4 phút); 4.3.6 giới hạn (2 phút); 4.3.7 thời biểu (2 phút); 4.3.8 kinh phí (1 phút); 4.3.9 báo cáo (1 phút); năm lỗi thường gặp (1 phút) làm cầu nối sang thực hành.\nLưu ý cho giảng viên: slide UEF Bài 4 dừng ở 4.3.4; các slide 4.3.5–4.3.9 soạn mới từ tài liệu học tập Bài 4. Slide UEF #20–#21 (lỗi người trả lời, từ ngữ trong bảng hỏi) không dùng hôm nay — để dành Buổi 10–12."
+      "notes": "Thời gian: phút 82–100 của buổi học.\nPhần này khoảng 18 phút: đề cương là hợp đồng và 9 nội dung (2 phút); 4.3.1–4.3.4 — những gì nhóm đã có và sẽ học tiếp (5 phút); 4.3.5 kế hoạch phân tích (4 phút); 4.3.6 giới hạn (2 phút); 4.3.7 thời biểu (2 phút); 4.3.8 kinh phí (1 phút); 4.3.9 báo cáo (1 phút); năm lỗi thường gặp (1 phút) làm cầu nối sang thực hành.\nLưu ý cho giảng viên: slide UEF Bài 4 dừng ở 4.3.4; các slide 4.3.5–4.3.9 soạn mới từ tài liệu học tập Bài 4. Slide UEF #20–#21 (lỗi người trả lời, từ ngữ trong bảng hỏi) không dùng hôm nay — để dành Buổi 10–12."
     },
     {
       "type": "timeline",
@@ -989,43 +984,36 @@
     {
       "type": "section",
       "tag": "S6",
-      "kicker": "100–145 phút",
       "title": "Thực hành nhóm: từ vấn đề đến đề cương",
-      "notes": "Chuyển sang 45 phút thực hành nhóm. Phát phiếu nhóm. Các nhóm ngồi theo nhóm dự án (2–3 bạn), mang theo M1 (quyết định marketing), M3 (tổng quan tài liệu), hướng dự án đã chọn và máy tính.\nNói: “Phần khó nhất của đề cương không phải là viết cho dài, mà là làm cho vấn đề – mục tiêu – câu hỏi – kế hoạch phân tích khớp với nhau. Hôm nay nhóm làm đúng phần khó đó, có tôi đi kèm. Phiếu nhóm hôm nay là bản nháp các mục 4.3.1, 4.3.5 và 4.3.7 của M4.”\nGiảng viên đi từng bàn, tìm năm lỗi vừa nêu."
+      "notes": "Thời gian: phút 100–145 của buổi học.\nChuyển sang 45 phút thực hành nhóm. Phát phiếu nhóm. Các nhóm ngồi theo nhóm dự án (2–3 bạn), mang theo M1 (quyết định marketing), M3 (tổng quan tài liệu), hướng dự án đã chọn và máy tính.\nNói: “Phần khó nhất của đề cương không phải là viết cho dài, mà là làm cho vấn đề – mục tiêu – câu hỏi – kế hoạch phân tích khớp với nhau. Hôm nay nhóm làm đúng phần khó đó, có tôi đi kèm. Phiếu nhóm hôm nay là bản nháp các mục 4.3.1, 4.3.5 và 4.3.7 của M4.”\nGiảng viên đi từng bàn, tìm năm lỗi vừa nêu."
     },
     {
       "type": "activity",
-      "title": "Từ vấn đề đến đề cương (45'): mỗi nhóm viết bản nháp 4.3.1, 4.3.5, 4.3.7",
+      "title": "Từ vấn đề đến đề cương: mỗi nhóm viết bản nháp 4.3.1, 4.3.5, 4.3.7",
       "stages": [
         {
-          "time": "8'",
           "text": "Vấn đề quản trị → vấn đề nghiên cứu"
         },
         {
-          "time": "12'",
           "text": "Mục tiêu SMART → câu hỏi (→ giả thuyết)"
         },
         {
-          "time": "5'",
           "text": "Đối tượng nghiên cứu, đối tượng khảo sát, phạm vi"
         },
         {
-          "time": "13'",
           "text": "Bảng kế hoạch phân tích + thời biểu theo buổi"
         },
         {
-          "time": "7'",
-          "text": "3–4 nhóm chia sẻ, mỗi nhóm 1 phút"
+          "text": "3–4 nhóm chia sẻ"
         }
       ],
-      "notes": "Để slide này trên màn hình suốt 45 phút. Chặng 1 (8'): viết vấn đề quản trị (“Có nên…?”, “Nên chọn… hay…?”) và vấn đề nghiên cứu (“Xác định…”, “Đo lường…”, “So sánh…”); tự kiểm tra vấn đề nghiên cứu có phải là giải pháp không. Chặng 2 (12'): 1 mục tiêu tổng quát, 2–4 mục tiêu cụ thể, kiểm tra SMART; mỗi mục tiêu một câu hỏi; nhóm định lượng viết giả thuyết dựa trên M3 (ghi tác giả, năm), nhóm định tính thay bằng “các khía cạnh cần tìm hiểu”. Chặng 3 (5'): đối tượng nghiên cứu, đối tượng khảo sát; phạm vi không gian, thời gian, nội dung. Chặng 4 (13'): bảng kế hoạch phân tích — mỗi câu hỏi một dòng (biến, cách phân tích viết bằng lời, công cụ); phác thời biểu từ Buổi 7 đến sau Buổi 13, mỗi việc một người phụ trách. Chặng 5 (7'): 3–4 nhóm đọc vấn đề nghiên cứu + 1 mục tiêu cụ thể + dòng phân tích tương ứng; các nhóm khác tự hỏi mục tiêu của mình đủ SMART chưa.\nSản phẩm: phiếu nhóm — bản nháp 4.3.1, 4.3.5, 4.3.7; hôm nay không nộp, lưu lại để hoàn thiện M4.\nLưu ý cho giảng viên: kịch bản đầy đủ trong phiếu “Từ vấn đề đến đề cương” (W6_activity_tu_van_de_den_de_cuong.md)."
+      "notes": "Thời gian: 45 phút.\nPhân bổ thời gian — chặng 1: 8 phút; chặng 2: 12 phút; chặng 3: 5 phút; chặng 4: 13 phút; chặng 5: 7 phút; (chặng 5 gốc: “3–4 nhóm chia sẻ, mỗi nhóm 1 phút”).\nĐể slide này trên màn hình suốt 45 phút. Chặng 1 (8'): viết vấn đề quản trị (“Có nên…?”, “Nên chọn… hay…?”) và vấn đề nghiên cứu (“Xác định…”, “Đo lường…”, “So sánh…”); tự kiểm tra vấn đề nghiên cứu có phải là giải pháp không. Chặng 2 (12'): 1 mục tiêu tổng quát, 2–4 mục tiêu cụ thể, kiểm tra SMART; mỗi mục tiêu một câu hỏi; nhóm định lượng viết giả thuyết dựa trên M3 (ghi tác giả, năm), nhóm định tính thay bằng “các khía cạnh cần tìm hiểu”. Chặng 3 (5'): đối tượng nghiên cứu, đối tượng khảo sát; phạm vi không gian, thời gian, nội dung. Chặng 4 (13'): bảng kế hoạch phân tích — mỗi câu hỏi một dòng (biến, cách phân tích viết bằng lời, công cụ); phác thời biểu từ Buổi 7 đến sau Buổi 13, mỗi việc một người phụ trách. Chặng 5 (7'): 3–4 nhóm đọc vấn đề nghiên cứu + 1 mục tiêu cụ thể + dòng phân tích tương ứng; các nhóm khác tự hỏi mục tiêu của mình đủ SMART chưa.\nSản phẩm: phiếu nhóm — bản nháp 4.3.1, 4.3.5, 4.3.7; hôm nay không nộp, lưu lại để hoàn thiện M4.\nLưu ý cho giảng viên: kịch bản đầy đủ trong phiếu “Từ vấn đề đến đề cương” (W6_activity_tu_van_de_den_de_cuong.md)."
     },
     {
       "type": "section",
       "tag": "S7",
-      "kicker": "145–150 phút",
       "title": "Kết buổi",
-      "notes": "5 phút cuối. Cảm ơn các nhóm đã chia sẻ, tóm một câu: “Hôm nay các nhóm đã có bản nháp phần khó nhất của đề cương: vấn đề, mục tiêu, câu hỏi và kế hoạch phân tích khớp với nhau.”\nPhát phiếu ra về (giấy nhỏ), rồi giao bài tập M4 và nối sang Buổi 7.\nNếu phần thực hành bị trễ, rút phiếu ra về còn câu 1 (vấn đề nghiên cứu trong một câu) nhưng vẫn giữ phần giao M4 và hạn nộp. Nhắc nhóm nào chưa nộp M3 ở lại gặp giảng viên sau giờ học."
+      "notes": "Thời gian: phút 145–150 của buổi học.\n5 phút cuối. Cảm ơn các nhóm đã chia sẻ, tóm một câu: “Hôm nay các nhóm đã có bản nháp phần khó nhất của đề cương: vấn đề, mục tiêu, câu hỏi và kế hoạch phân tích khớp với nhau.”\nPhát phiếu ra về (giấy nhỏ), rồi giao bài tập M4 và nối sang Buổi 7.\nNếu phần thực hành bị trễ, rút phiếu ra về còn câu 1 (vấn đề nghiên cứu trong một câu) nhưng vẫn giữ phần giao M4 và hạn nộp. Nhắc nhóm nào chưa nộp M3 ở lại gặp giảng viên sau giờ học."
     },
     {
       "type": "statement",
