@@ -1,0 +1,1099 @@
+{
+  "deckTitle": "MKT1107 · Buổi 7 · Bài 5 Các phương pháp thu thập dữ liệu",
+  "fileName": "MKT1107_W07_slides.pptx",
+  "slides": [
+    {
+      "type": "cover",
+      "lessonTag": "Buổi",
+      "number": 7,
+      "title": "Bài 5: Các phương pháp thu thập dữ liệu",
+      "subtitle": "MKT1107 · Nghiên cứu Marketing",
+      "presenter": "GV: Đoàn Nguyễn Bảo Quyên",
+      "notes": "Không giảng slide này. Trong lúc lớp ổn định, yêu cầu các nhóm mở bản đề cương M4 đã nộp tuần trước trên máy tính, vì ngay slide sau chúng ta sẽ chữa nhanh hai lỗi lặp lại ở nhiều nhóm.\nGiới thiệu một câu: \"Hôm nay là Bài 5 — các phương pháp thu thập dữ liệu. Cuối buổi, mỗi nhóm sẽ có một mục 4.3.2 mới trong đề cương: dữ liệu nào đã có sẵn, dữ liệu nào phải tự thu, thu bằng cách nào và vì sao.\"\nNhắc lớp: buổi học dài 150 phút, gồm phần giảng xen kẽ hai lần kiểm tra nhanh, 15 phút giải lao và 45 phút thực hành nhóm \"Xưởng phương pháp\" ở cuối buổi. Không cần ghi chép slide này. Chuyển ngay sang phần khởi động."
+    },
+    {
+      "type": "section",
+      "tag": "S1",
+      "kicker": "0–8 phút",
+      "title": "Khởi động — chữa nhanh đề cương M4",
+      "notes": "Phần khởi động 8 phút: chữa nhanh đề cương M4 mà các nhóm đã nộp sau Buổi 6. Mục tiêu không phải chấm điểm lại mà là cho cả lớp thấy hai lỗi phổ biến nhất, vì cả hai đều liên quan trực tiếp đến bài hôm nay.\nNói: \"Tuần trước các nhóm đã nộp đề cương. Trước khi vào bài mới, tôi chữa nhanh hai lỗi lặp lại ở nhiều nhóm. Các bạn mở bản đề cương của nhóm mình ra và tự kiểm tra trong lúc tôi nói.\"\nĐảm bảo mỗi nhóm có ít nhất một máy mở đề cương. Nếu nhóm nào không mang, cho phép xem chung với nhóm bên cạnh. Chuyển sang slide hai lỗi."
+    },
+    {
+      "type": "compare",
+      "title": "Đề cương M4: hai lỗi lặp lại ở nhiều nhóm",
+      "left": {
+        "head": "Trước (giả định)",
+        "items": [
+          "“Đối tượng nghiên cứu: sinh viên…”",
+          "Mục 4.3.2 chỉ có “khảo sát online”"
+        ]
+      },
+      "right": {
+        "head": "Sau khi sửa",
+        "items": [
+          "Tách vấn đề nghiên cứu và người trả lời",
+          "Thêm thứ cấp, lý do, kênh, gạn lọc"
+        ]
+      },
+      "vs": true,
+      "callout": "“Đã mua trong 6 tháng qua” chính là câu gạn lọc",
+      "notes": "Lỗi 1 — lẫn \"đối tượng nghiên cứu\" với \"đối tượng khảo sát\". Bản nộp ghi: \"Đối tượng nghiên cứu: sinh viên các trường đại học tại TP.HCM.\" Bản sửa: đối tượng nghiên cứu là các yếu tố ảnh hưởng đến ý định mua mỹ phẩm nội địa của sinh viên; đối tượng khảo sát là sinh viên đại học đang học tại TP.HCM, đã từng mua mỹ phẩm trong 6 tháng qua. Nhắc lại Bài 4: đối tượng nghiên cứu là vấn đề; đối tượng khảo sát là những người trả lời.\nLỗi 2 — mục 4.3.2 chỉ có một dòng \"khảo sát online bằng Google Forms\". Thiếu: dữ liệu thứ cấp nào? Vì sao khảo sát mà không phải phỏng vấn sâu? Phát hành qua kênh nào? Làm sao biết người trả lời đúng đối tượng? Có phỏng vấn sơ bộ để điều chỉnh thang đo không?\nHỏi: \"Nhóm nào thấy mình mắc lỗi 1? Giơ tay. Lỗi 2?\" — không gọi tên nhóm. Thường lỗi 2 rất nhiều tay. Trấn an: \"Không sao — đó đúng là việc của hôm nay.\" Nhấn: tiêu chí \"đã mua trong 6 tháng qua\" chính là câu gạn lọc sẽ học trong phần khảo sát.\nLưu ý cho giảng viên: hai lỗi trên là lỗi dự kiến; thay bằng lỗi thực tế khi chấm M4 nếu khác."
+    },
+    {
+      "type": "cards",
+      "title": "Hôm nay lấp đầy mục 4.3.2: dữ liệu nào có sẵn, dữ liệu nào phải tự thu",
+      "cards": [
+        {
+          "head": "Dữ liệu thứ cấp",
+          "text": "Phân biệt và đánh giá dữ liệu có sẵn"
+        },
+        {
+          "head": "Phương pháp định tính",
+          "text": "Quan sát, thảo luận nhóm, phỏng vấn sâu"
+        },
+        {
+          "head": "Phương pháp định lượng",
+          "text": "Khảo sát, nhóm cố định, thử nghiệm"
+        },
+        {
+          "head": "Chọn phương pháp",
+          "text": "Chọn và biện luận cho dự án, tuân thủ đạo đức"
+        }
+      ],
+      "notes": "Giới thiệu bốn mục tiêu của buổi, theo đúng tài liệu học tập Bài 5. Đọc lướt từng thẻ, không giải thích sâu: thứ nhất, phân biệt và đánh giá dữ liệu thứ cấp; thứ hai, mô tả các phương pháp định tính — quan sát, thảo luận nhóm, phỏng vấn sâu; thứ ba, mô tả các phương pháp định lượng — khảo sát, nhóm cố định, thử nghiệm; thứ tư, chọn và biện luận phương pháp cho dự án của nhóm, có tuân thủ đạo đức nghiên cứu.\nNói: \"Cuối buổi, mỗi nhóm có một mục 4.3.2 mới — đủ để giảng viên đọc là biết nhóm sẽ thu dữ liệu thế nào. Ba mục tiêu đầu là kiến thức; mục tiêu thứ tư là thứ các bạn mang về dự án.\"\nNối với Buổi 1: ba câu hỏi của mọi nghiên cứu là vì sao hỏi, hỏi thế nào, hỏi ai. Hôm nay trả lời câu thứ hai — hỏi thế nào. Tuần sau trả lời câu thứ ba — hỏi ai, hỏi bao nhiêu người."
+    },
+    {
+      "type": "section",
+      "tag": "S2",
+      "kicker": "8–27 phút",
+      "title": "5.1 Dữ liệu thứ cấp",
+      "notes": "Phần S2 kéo dài khoảng 19 phút: khái niệm dữ liệu thứ cấp và sơ cấp, giá trị và hạn chế, vai trò, phân loại bên trong và bên ngoài, nguồn dùng được cho dự án sinh viên, và quan trọng nhất là bốn tiêu chuẩn đánh giá dữ liệu thứ cấp.\nNói: \"Phần này các nhóm sẽ dùng ngay trong thực hành cuối buổi, nên chú ý nhất ở bốn tiêu chuẩn.\" Nếu trễ giờ, có thể gộp thời sự và phù hợp, và bỏ slide nguồn Việt Nam vì nội dung đã có trong tài liệu đọc thêm."
+    },
+    {
+      "type": "compare",
+      "title": "Luôn tìm dữ liệu có sẵn trước, chỉ tự thu phần còn thiếu",
+      "left": {
+        "head": "Thứ cấp — đã có sẵn",
+        "items": [
+          "Bên trong doanh nghiệp",
+          "Bên ngoài doanh nghiệp"
+        ]
+      },
+      "right": {
+        "head": "Sơ cấp — tự thu thập",
+        "items": [
+          "Định tính: quan sát, thảo luận nhóm, phỏng vấn sâu",
+          "Định lượng: khảo sát, nhóm cố định, thử nghiệm"
+        ]
+      },
+      "notes": "Đây là bản đồ cả buổi. Mọi dữ liệu dùng trong nghiên cứu marketing thuộc một trong hai loại. Dữ liệu thứ cấp đã có sẵn, nằm bên trong hoặc bên ngoài doanh nghiệp. Dữ liệu sơ cấp do mình tự thu: định tính gồm quan sát, thảo luận nhóm, phỏng vấn sâu; định lượng gồm khảo sát, nhóm cố định, thử nghiệm.\nNguyên tắc nhớ cả đời: luôn tìm dữ liệu thứ cấp trước, chỉ thu thập dữ liệu sơ cấp cho phần thông tin mà dữ liệu thứ cấp không trả lời được. Tự thu dữ liệu tốn thời gian, tiền bạc và công sức của người trả lời.\nNói: \"Không ai nên đi hỏi lại 300 người điều mà cơ quan thống kê đã công bố.\"\nNhắc lớp: mỗi khi chuyển phần trong buổi hôm nay, chúng ta sẽ quay lại sơ đồ này để biết mình đang ở đâu — trước giải lao là thứ cấp và quan sát; sau giải lao là thảo luận nhóm, phỏng vấn sâu và các phương pháp định lượng."
+    },
+    {
+      "type": "cards",
+      "title": "Thứ cấp là dữ liệu người khác đã thu cho mục đích của họ; sơ cấp là dữ liệu mình tự thu",
+      "cards": [
+        {
+          "head": "Dữ liệu thứ cấp",
+          "text": "Đã thu trước đó cho mục đích khác, nay dùng lại. Ví dụ: số liệu dân số, doanh số năm trước, bài báo khoa học"
+        },
+        {
+          "head": "Dữ liệu sơ cấp",
+          "text": "Do chính nhà nghiên cứu thu lần đầu cho vấn đề hiện tại. Ví dụ: phiếu khảo sát nhóm tự phát hành"
+        }
+      ],
+      "notes": "Đọc hai định nghĩa theo tài liệu học tập. Dữ liệu thứ cấp là dữ liệu đã được thu thập trước đó cho một mục đích khác, nay được dùng lại cho nghiên cứu của mình. Dữ liệu sơ cấp là dữ liệu do chính nhà nghiên cứu thu thập lần đầu để giải quyết vấn đề nghiên cứu hiện tại.\nVí dụ: số liệu dân số của cơ quan thống kê quốc gia, doanh số các năm trước của công ty, một bài báo khoa học — đều là thứ cấp với nhóm bạn. Phiếu khảo sát nhóm bạn tự phát hành là sơ cấp.\nHỏi nhanh: \"Bảng tổng quan tài liệu nhóm làm ở M2–M3 là dữ liệu gì?\" Chờ vài giây. Mong đợi: thứ cấp. Chốt: \"Vậy các bạn đã làm việc với dữ liệu thứ cấp từ Buổi 2 rồi.\"\nNhấn chữ \"mục đích\": điểm phân biệt không phải dữ liệu cũ hay mới, mà là ai thu và thu để trả lời câu hỏi của ai. Chính điều này sinh ra hạn chế lớn nhất ở slide sau."
+    },
+    {
+      "type": "compare",
+      "title": "Dữ liệu thứ cấp rẻ và nhanh, nhưng được thu cho câu hỏi của người khác",
+      "left": {
+        "head": "Giá trị",
+        "items": [
+          "Có sẵn, nhanh, rẻ",
+          "Hiểu bối cảnh, vấn đề",
+          "Gợi ý giả thuyết, thang đo",
+          "Có khi là nguồn duy nhất"
+        ]
+      },
+      "right": {
+        "head": "Hạn chế",
+        "items": [
+          "Lệch câu hỏi của mình",
+          "Định nghĩa, phân nhóm khác",
+          "Có thể đã cũ",
+          "Chính xác tùy người thu"
+        ]
+      },
+      "notes": "Đi qua hai cột theo bảng của tài liệu học tập. Giá trị: có sẵn, thu thập nhanh; chi phí thấp hoặc miễn phí; giúp hiểu bối cảnh và xác định vấn đề; gợi ý giả thuyết, thang đo, cách chọn mẫu; có khi là nguồn duy nhất, ví dụ số liệu dân số hay quy mô ngành.\nHạn chế: thu thập cho mục đích khác nên có thể không khớp với câu hỏi của bạn; định nghĩa, đơn vị đo, cách phân nhóm có thể khác; có thể đã cũ; độ chính xác phụ thuộc vào người thu thập ban đầu.\nNhấn: hạn chế lớn nhất nằm ở dòng đầu — dữ liệu được thu cho câu hỏi của người khác. Ví dụ: một báo cáo chia nhóm tuổi \"18–35\" trong khi nhóm bạn nghiên cứu sinh viên 18–22. Số liệu đúng, nhưng không khớp.\nHỏi lớp: \"Nhóm nào đã từng gặp tình huống số liệu đúng chủ đề nhưng chia nhóm không khớp?\" Gọi một bạn nếu có. Chuyển ý: vậy dữ liệu thứ cấp dùng vào việc gì trong một dự án?"
+    },
+    {
+      "type": "cards",
+      "title": "Dữ liệu thứ cấp giúp xác định vấn đề, gợi ý giả thuyết và làm nền cho phần bối cảnh",
+      "cards": [
+        {
+          "head": "Hỗ trợ nghiên cứu",
+          "text": "Khám phá và mô tả: hiểu bối cảnh, xác định vấn đề"
+        },
+        {
+          "head": "Định hình nghiên cứu",
+          "text": "Hình thành giả thuyết, xác định biến số và tổng thể cần nghiên cứu"
+        }
+      ],
+      "callout": "Với dự án: nền cho Chương 1 — bối cảnh, tổng quan",
+      "notes": "Vai trò của dữ liệu thứ cấp. Thứ nhất, hỗ trợ nghiên cứu khám phá và mô tả: giúp hiểu bối cảnh, xác định vấn đề. Thứ hai, giúp hình thành giả thuyết, xác định các biến số quan trọng và tổng thể cần nghiên cứu.\nNối với Buổi 1: nghiên cứu khám phá thường bắt đầu bằng dữ liệu thứ cấp — đọc báo cáo, đọc bài báo, xem số liệu ngành trước khi quyết định có cần tự thu hay không.\nLiên hệ dự án: dữ liệu thứ cấp là nền cho phần tổng quan tài liệu và bối cảnh nghiên cứu, tức Chương 1 của dự án nhóm. Bài tập về nhà hôm nay yêu cầu phần bối cảnh có ít nhất hai số liệu thứ cấp, nên các nhóm sẽ phải tìm và đánh giá nguồn ngay trong buổi.\nNói ngắn, khoảng một phút, rồi chuyển sang phân loại nguồn: bên trong và bên ngoài doanh nghiệp."
+    },
+    {
+      "type": "model",
+      "title": "Bên trong doanh nghiệp: dữ liệu khách hàng, bán hàng, tài chính",
+      "inputsLabel": "Nguồn bên trong",
+      "inputs": [
+        "Dữ liệu khách hàng (CRM)",
+        "Báo cáo bán hàng",
+        "Báo cáo tài chính",
+        "Phản hồi, khiếu nại",
+        "Số liệu truy cập website"
+      ],
+      "outputLabel": "Đổ về",
+      "output": "Cơ sở dữ liệu marketing",
+      "notes": "Dữ liệu thứ cấp bên trong doanh nghiệp gồm: dữ liệu khách hàng trong hệ thống CRM, báo cáo bán hàng, báo cáo tài chính, phản hồi và khiếu nại của khách hàng, số liệu truy cập website. Tất cả cùng đổ về cơ sở dữ liệu marketing của doanh nghiệp.\nVới doanh nghiệp, đây thường là nguồn rẻ nhất và nên được khai thác đầu tiên trước khi thuê nghiên cứu mới.\nNhưng với nhóm sinh viên: \"Nhóm sinh viên thường không tiếp cận được — trừ khi làm cho cửa hàng của người quen và được cho phép bằng văn bản.\" Nhắc về đạo đức: dữ liệu khách hàng là dữ liệu cá nhân, chỉ dùng khi doanh nghiệp đồng ý và đã ẩn danh.\nVì vậy dự án của các bạn chủ yếu sẽ dùng dữ liệu bên ngoài — slide tiếp theo. Đi nhanh, khoảng một phút."
+    },
+    {
+      "type": "cards",
+      "title": "Bên ngoài: từ cơ quan thống kê đến bài báo khoa học",
+      "cards": [
+        {
+          "head": "Nhà nước",
+          "text": "Cơ quan thống kê quốc gia, bộ ngành"
+        },
+        {
+          "head": "Quốc tế",
+          "text": "Tổ chức quốc tế, phi chính phủ"
+        },
+        {
+          "head": "Hiệp hội",
+          "text": "Hiệp hội ngành hàng"
+        },
+        {
+          "head": "Học thuật",
+          "text": "Bài báo khoa học, sách, luận văn"
+        },
+        {
+          "head": "Thị trường",
+          "text": "Công ty nghiên cứu, báo chí, internet"
+        }
+      ],
+      "notes": "Đọc nhanh năm nhóm nguồn bên ngoài, không giải thích từng ô. Cơ quan nhà nước: niên giám thống kê và số liệu của cơ quan thống kê quốc gia, báo cáo của các bộ, ngành. Tổ chức quốc tế, phi chính phủ: ví dụ báo cáo của Ngân hàng Thế giới. Hiệp hội ngành hàng. Ấn phẩm học thuật: bài báo khoa học, sách, luận văn. Công ty nghiên cứu, báo chí, internet: báo cáo ngành của các công ty nghiên cứu thị trường, báo kinh tế, dữ liệu mạng xã hội.\nNói: \"Năm ô này các bạn không cần thuộc. Điều cần nhớ là mỗi nguồn có một mục đích công bố khác nhau — và mục đích đó sẽ quay lại khi ta đánh giá độ chính xác.\"\nLưu ý cho giảng viên: slide UEF gốc ghi \"Tổng cục thống kê\" — đã đổi thành \"cơ quan thống kê quốc gia\"; cần xác nhận tên cơ quan thống kê hiện hành (từ 2025 là Cục Thống kê thuộc Bộ Tài chính) nếu muốn nêu tên cụ thể."
+    },
+    {
+      "type": "steps",
+      "title": "Với dự án sinh viên: ba nguồn dùng được ngay",
+      "steps": [
+        {
+          "head": "Bài báo khoa học",
+          "text": "Nhóm đã có từ M2 và M3"
+        },
+        {
+          "head": "Nhà nước",
+          "text": "Niên giám, báo cáo bộ ngành"
+        },
+        {
+          "head": "Công ty",
+          "text": "Báo cáo miễn phí — **đọc phương pháp**"
+        }
+      ],
+      "callout": "Nguồn rẻ nhất là nguồn nhóm đã có",
+      "notes": "Ba nguồn theo thứ tự ưu tiên. Một: bài báo khoa học trong tổng quan tài liệu của nhóm — phần mở đầu của chúng thường có số liệu bối cảnh kèm nguồn gốc; đây là nguồn rẻ nhất vì nhóm đã có. Hai: số liệu của cơ quan nhà nước, hiệp hội — ví dụ niên giám thống kê, báo cáo thương mại điện tử hằng năm của bộ ngành và hiệp hội. Ba: báo cáo công bố miễn phí của công ty nghiên cứu thị trường — nhiều công ty công bố báo cáo ngắn về hành vi người tiêu dùng Việt Nam. Cẩn thận: đây là nguồn có mục đích thương mại, phải đọc phần phương pháp.\nVí dụ có thể kể: một nhóm sinh viên dùng thông tin báo chí về các chương trình ưu đãi sinh viên của ứng dụng giao đồ ăn làm dữ liệu thứ cấp cho dự án.\nNếu trễ giờ: bỏ slide này, nội dung có trong tài liệu đọc thêm và nhóm vẫn dùng trong thực hành.\nLưu ý cho giảng viên: cần xác nhận tên gọi hiện hành của các báo cáo gợi ý — Sách trắng Thương mại điện tử Việt Nam, Chỉ số EBI của VECOM, Q&Me, Decision Lab, DataReportal — và tình trạng công bố miễn phí."
+    },
+    {
+      "type": "cards",
+      "title": "Bốn câu hỏi trước khi tin một con số",
+      "cards": [
+        {
+          "head": "Cụ thể",
+          "text": "Định nghĩa, đơn vị, cách phân nhóm có khớp không?"
+        },
+        {
+          "head": "Chính xác",
+          "text": "Ai thu, vì mục đích gì, phương pháp có công bố không?"
+        },
+        {
+          "head": "Thời sự",
+          "text": "Thu khi nào? Còn phản ánh đúng hiện tại không?"
+        },
+        {
+          "head": "Phù hợp",
+          "text": "Có thật sự giúp trả lời câu hỏi nghiên cứu không?"
+        }
+      ],
+      "notes": "Đây là phần quan trọng nhất của S2 — nhóm dùng ngay trong thực hành. Nói: \"Chụp lại slide này.\"\nBốn tiêu chuẩn theo tài liệu học tập. Cụ thể (specificity): định nghĩa, đơn vị đo, cách phân nhóm có khớp với nhu cầu của mình không? Chính xác (accuracy): ai thu thập, vì mục đích gì; phương pháp — mẫu, cách hỏi — có được công bố không; có nguồn khác đối chiếu được không? Thời sự (timeliness): dữ liệu thu khi nào, còn phản ánh đúng hiện tại không? Phù hợp (relevance): dữ liệu có thật sự giúp trả lời câu hỏi nghiên cứu không?\nNói: \"Trước khi đưa một con số vào bài, hỏi bốn câu này. Chỉ cần trượt một câu là phải cân nhắc lại.\" Bốn slide tiếp theo đi qua từng tiêu chuẩn, mỗi tiêu chuẩn một ví dụ.\nLưu ý cho giảng viên: slide UEF gốc mô tả \"cụ thể\" chồng lấn với \"phù hợp\" và \"chính xác\"; dùng cách hiểu của tài liệu học tập như trên."
+    },
+    {
+      "type": "bullets",
+      "title": "Cụ thể: định nghĩa, đơn vị đo, cách phân nhóm có khớp với nhu cầu của mình không?",
+      "bullets": [
+        "“Người dùng mạng xã hội” tính từ 13 tuổi hay 18 tuổi?",
+        "Doanh thu tính theo năm hay theo quý?",
+        "Nhóm tuổi “18–35” có tách được sinh viên không?"
+      ],
+      "callout": "Số đúng, nhưng đo một thứ khác với thứ mình cần",
+      "notes": "Tiêu chuẩn thứ nhất: cụ thể. Đọc lần lượt ba ví dụ, sau mỗi ví dụ dừng một nhịp để lớp nghĩ.\nVí dụ 1: một báo cáo nói số người dùng mạng xã hội ở Việt Nam — nhưng tính từ 13 tuổi hay từ 18 tuổi? Hai định nghĩa cho hai con số rất khác nhau. Ví dụ 2: doanh thu tính theo năm hay theo quý — nếu nhóm so sánh hai nguồn có đơn vị thời gian khác nhau thì kết luận sai. Ví dụ 3: báo cáo chia nhóm tuổi \"18–35\" — nhóm nghiên cứu sinh viên 18–22 không tách được phần của mình ra.\nHỏi lớp: \"Đề tài của nhóm bạn cần định nghĩa nào? Nhóm bạn nghiên cứu 'sinh viên' là sinh viên chính quy, hay cả liên thông, văn bằng hai?\"\nCâu chốt: \"Số đúng, nhưng đo một thứ khác với thứ mình cần.\" Khi gặp trường hợp này, nhóm vẫn có thể dùng nhưng phải ghi rõ định nghĩa và phạm vi của nguồn khi trích, và nói rõ giới hạn."
+    },
+    {
+      "type": "steps",
+      "title": "Chính xác: ai công bố, vì sao, đo thế nào, có nguồn nào khác xác nhận",
+      "steps": [
+        {
+          "head": "Ai công bố",
+          "text": "Tổ chức nào?"
+        },
+        {
+          "head": "Vì sao",
+          "text": "Lợi ích thương mại?"
+        },
+        {
+          "head": "Đo thế nào",
+          "text": "Mẫu, cách hỏi, năm"
+        },
+        {
+          "head": "Đối chiếu",
+          "text": "Nguồn độc lập"
+        }
+      ],
+      "callout": "Con số có quá đẹp, quá lạ không?",
+      "notes": "Kiểm tra độ chính xác theo bốn bước của tài liệu học tập. Bước 1: xác định người hoặc tổ chức công bố. Bước 2: tìm mục đích công bố — có lợi ích thương mại không? Bước 3: đọc phần phương pháp — mẫu bao nhiêu người, hỏi ai, hỏi thế nào, năm nào. Bước 4: đối chiếu với ít nhất một nguồn độc lập.\nVí dụ: một hãng sữa công bố \"9/10 mẹ tin dùng\" — chính hãng công bố về sản phẩm của mình, tức có xung đột lợi ích. Đọc với dấu hỏi lớn.\nThêm một bước phụ: kiểm tra tính hợp lý — con số có quá đẹp, quá lạ so với hiểu biết chung không?\nHỏi lớp: \"Nếu một báo cáo không công bố phương pháp thì sao?\" Mong đợi: không kiểm tra được, dùng hết sức thận trọng hoặc tìm nguồn khác.\nLưu ý cho giảng viên: slide UEF gốc dùng bốn bước khác tên (kiểm tra chéo, kiểm tra tính hợp lý, truy vết nguồn gốc, ý kiến chuyên gia); bước 1–3 ở đây tương ứng \"truy vết nguồn gốc\", bước 4 tương ứng \"kiểm tra chéo\"."
+    },
+    {
+      "type": "compare",
+      "title": "Thời sự và phù hợp: số liệu cũ hoặc lệch câu hỏi thì đúng cũng vô dụng",
+      "left": {
+        "head": "Thời sự: giá trị giảm dần",
+        "items": [
+          "Nhanh hay chậm tùy loại dữ liệu",
+          "Dân số: thay đổi chậm",
+          "Xu hướng mạng xã hội: rất nhanh"
+        ]
+      },
+      "right": {
+        "head": "Phù hợp: vùng giao",
+        "items": [
+          "Dữ liệu sẵn có × mục tiêu nghiên cứu",
+          "Biến số, phạm vi, đối tượng phải khớp"
+        ]
+      },
+      "notes": "Thời sự: môi trường kinh doanh và hành vi tiêu dùng thay đổi liên tục. Ví dụ: số liệu thói quen mua sắm trực tuyến trước và sau đại dịch có thể khác hẳn nhau. Giá trị của dữ liệu thường giảm dần theo thời gian, nhanh hay chậm tùy loại dữ liệu: dân số thay đổi chậm, số liệu dân số vài năm trước vẫn dùng được; xu hướng mạng xã hội thay đổi rất nhanh, số liệu hai năm trước có thể đã lỗi thời.\nPhù hợp: hình dung hai vòng tròn — nội dung dữ liệu có sẵn và mục tiêu nghiên cứu hiện tại. Dữ liệu chỉ dùng được ở vùng giao: biến số, phạm vi, nhóm đối tượng phải khớp với câu hỏi đang đặt ra.\nHỏi lớp: \"Đề tài của nhóm bạn thuộc loại dữ liệu thay đổi nhanh hay chậm?\" Gọi một hai nhóm.\nLưu ý cho giảng viên: slide UEF gốc ghi \"tỷ lệ nghịch với thời gian\" — nói là \"giảm dần\", không phải một quan hệ toán học."
+    },
+    {
+      "type": "bullets",
+      "title": "Dữ liệu cũ: tìm bản mới, tìm nguồn khác, ước lượng có ghi chú, hoặc tự thu",
+      "callout": "Doanh nghiệp tránh dữ liệu cũ: thu liên tục, khảo sát định kỳ, theo dõi thời gian thực",
+      "notes": "Khi dữ liệu đã cũ, người nghiên cứu có bốn cách theo tài liệu học tập. Một: tìm bản công bố mới hơn của cùng nguồn. Hai: tìm nguồn khác có số liệu mới hơn. Ba: dùng xu hướng từ chuỗi số liệu nhiều năm để ước lượng — và nói rõ là ước lượng. Bốn: bổ sung bằng dữ liệu sơ cấp.\nNhấn cách 3: \"Ước lượng thì phải nói là ước lượng.\" Không được trình bày một con số tự suy ra như thể đó là số liệu công bố.\nHộp dưới nói về phía doanh nghiệp: để dữ liệu không bị cũ, doanh nghiệp thu thập liên tục, khảo sát định kỳ, theo dõi số liệu công bố, theo dõi thời gian thực. Chỉ nêu một câu.\nLưu ý cho giảng viên: slide UEF gốc chỉ có bốn cách của doanh nghiệp với nhãn \"Q1–Q4\" dễ hiểu nhầm là quý — đã bỏ nhãn và thêm khối của người nghiên cứu.\nChuyển ý: \"Bốn tiêu chuẩn nghe thì dễ. Thử dùng ngay với một con số trên mạng.\"",
+      "numbered": true,
+      "bullets": [
+        {
+          "head": "Bản mới hơn",
+          "text": "tìm bản công bố mới hơn của cùng nguồn"
+        },
+        {
+          "head": "Nguồn khác",
+          "text": "tìm nguồn khác có số liệu mới hơn"
+        },
+        {
+          "head": "Ước lượng",
+          "text": "dùng xu hướng nhiều năm — **nói rõ là ước lượng**"
+        },
+        {
+          "head": "Tự thu",
+          "text": "bổ sung bằng dữ liệu sơ cấp"
+        }
+      ]
+    },
+    {
+      "type": "case",
+      "title": "“80% Gen Z mua mỹ phẩm online”: không tìm được nguồn gốc thì không dùng",
+      "label": "Ví dụ giả định",
+      "scenario": [
+        "Một bài báo mạng viết: “80% Gen Z mua mỹ phẩm online”.",
+        "Trước khi dùng, cần biết: khảo sát nào? Ai làm? Mẫu bao nhiêu? Hỏi ở đâu? Năm nào?"
+      ],
+      "question": "Tìm ra nguồn gốc rồi: trích bài báo hay trích nguồn gốc?",
+      "notes": "Ví dụ giả định từ tài liệu học tập. Một bài báo mạng viết \"80% Gen Z mua mỹ phẩm online\". Con số rất hấp dẫn để đưa vào phần bối cảnh. Nhưng trước khi dùng, nhóm cần tìm năm câu trả lời: số liệu đến từ khảo sát nào, ai thực hiện, mẫu bao nhiêu người, hỏi ở đâu, năm nào.\nHỏi lớp: \"Nếu không tìm ra được nguồn gốc thì sao?\" Mong đợi: không dùng. Nhắc nguyên tắc: không tìm ra nguồn gốc thì không dùng.\nRồi hỏi câu trên slide: \"Tìm ra nguồn gốc rồi — trích bài báo hay trích nguồn gốc?\" Chờ một hai câu trả lời. Chốt: \"Tìm ra nguồn gốc thì trích nguồn gốc — không trích bài báo đưa lại.\" Bài báo chỉ là người kể lại; con số có thể đã bị làm tròn, cắt bớt điều kiện hoặc hiểu sai.\nNối sang hoạt động: \"Giờ các bạn tự soi ba con số.\""
+    },
+    {
+      "type": "section",
+      "tag": "S3",
+      "kicker": "27–31 phút",
+      "title": "Kiểm tra nhanh: soi một con số",
+      "notes": "Kiểm tra nhanh 4 phút, theo cặp với bạn ngồi cạnh. Đọc kịch bản: \"Một nhóm nghiên cứu ý định mua mỹ phẩm nội địa của sinh viên TP.HCM. Họ tìm được ba con số cho phần bối cảnh. Mỗi mẩu, các bạn có 30 giây bàn với bạn bên cạnh; tôi đếm 3–2–1 thì giơ tay: 1 ngón là dùng được, 2 ngón là dùng có điều kiện, 3 ngón là bỏ. Nhớ: phải nói được tiêu chuẩn nào.\"\nKhông chấm điểm; bạn nào không muốn giơ tay có thể ghi đáp án ra giấy."
+    },
+    {
+      "type": "stat",
+      "title": "Soi một con số: dùng được, dùng có điều kiện, hay bỏ?",
+      "callout": "Bàn 30 giây → đếm 3–2–1 → nêu tên tiêu chuẩn",
+      "notes": "Giới thiệu quy ước trả lời. Đề tài giả định: \"Các yếu tố ảnh hưởng đến ý định mua mỹ phẩm nội địa của sinh viên tại TP.HCM.\" Nhóm tìm được ba mẩu số liệu cho phần bối cảnh, sẽ hiện lần lượt.\nVới mỗi mẩu: đọc to → cho 30 giây thảo luận theo cặp → đếm 3–2–1 → cả lớp giơ tay cùng lúc → gọi một bạn nói mẩu đó đạt hoặc không đạt tiêu chuẩn nào. Yêu cầu trả lời bằng tên tiêu chuẩn: \"mẩu này không đạt tiêu chuẩn … vì …\".\nThời gian: khoảng 1 phút mỗi mẩu, cộng 1 phút chốt. Nếu chạy quá giờ, bỏ phần thảo luận chung, chỉ chốt câu về mẩu 2.\nNhắc lớp nhìn lại bốn tiêu chuẩn: cụ thể, chính xác, thời sự, phù hợp.",
+      "stats": [
+        {
+          "value": "1",
+          "label": "ngón: **dùng được**"
+        },
+        {
+          "value": "2",
+          "label": "ngón: **dùng có điều kiện**"
+        },
+        {
+          "value": "3",
+          "label": "ngón: **bỏ**"
+        }
+      ]
+    },
+    {
+      "type": "case",
+      "title": "Mẩu 1: thương hiệu tự công bố mức hài lòng của khách hàng",
+      "label": "Mẩu 1",
+      "scenario": [
+        "Bài đăng trên trang mạng xã hội của thương hiệu mỹ phẩm X: “9/10 khách hàng hài lòng với sản phẩm của chúng tôi.”",
+        "Không nói khảo sát ai, bao nhiêu người, khi nào."
+      ],
+      "question": "Dùng được, có điều kiện, hay bỏ? Tiêu chuẩn nào?",
+      "notes": "Đọc to mẩu 1, cho 30 giây, đếm 3–2–1.\nĐáp án: Bỏ (3 ngón). Không đạt tiêu chuẩn chính xác: không có phương pháp, không biết mẫu; người công bố có lợi ích thương mại, tức xung đột lợi ích — giống ví dụ \"9/10 mẹ tin dùng\". Có thể còn không phù hợp: mức hài lòng với sản phẩm của một thương hiệu khác với ý định mua mỹ phẩm nội địa nói chung.\nGọi một bạn giơ 3 ngón giải thích. Nếu có bạn giơ 2 ngón, hỏi: \"Điều kiện gì có thể làm con số này dùng được?\" — Gần như không có, trừ khi tìm được khảo sát gốc có phương pháp công bố.\nCâu hỏi thảo luận chung (nếu còn giờ): \"Nếu nhóm bạn chỉ tìm được số liệu kiểu mẩu 1 thì làm gì?\" Mong đợi: truy nguồn gốc; tìm nguồn khác như cơ quan nhà nước, hiệp hội, bài báo khoa học; nếu không có thì không dùng — và đó có thể chính là lý do nhóm cần thu dữ liệu sơ cấp."
+    },
+    {
+      "type": "case",
+      "title": "Mẩu 2: báo cáo của công ty nghiên cứu, có mô tả phương pháp",
+      "label": "Mẩu 2",
+      "scenario": [
+        "Báo cáo của một công ty nghiên cứu thị trường, công bố cách đây khoảng 7 năm.",
+        "Khảo sát 1.000 người 18–35 tuổi tại Hà Nội và TP.HCM về thói quen mua mỹ phẩm trực tuyến; có mô tả cách chọn mẫu, cách hỏi."
+      ],
+      "question": "Số liệu thật, phương pháp rõ — vậy dùng ngay được chưa?",
+      "notes": "Đọc to mẩu 2, cho 30 giây, đếm 3–2–1. Mẩu này hay bị chọn \"dùng được\" vì có phương pháp, có mẫu 1.000 người.\nĐáp án: Dùng có điều kiện (2 ngón). Không đạt thời sự: đã cũ — thói quen mua online thay đổi nhanh, nhất là trước và sau đại dịch. Không đạt cụ thể: nhóm 18–35 rộng hơn \"sinh viên\", lại gồm cả Hà Nội. Điều kiện để dùng: ghi rõ năm và phạm vi khảo sát khi trích; tìm bản công bố mới hơn của cùng nguồn hoặc nguồn khác; nếu không có, nói rõ giới hạn.\nNếu lớp chia rẽ: cho hai bạn ở hai phía tranh luận 30 giây, rồi chốt \"dùng có điều kiện\".\nCâu chốt: \"Chính xác chưa đủ — còn phải thời sự và cụ thể. Số đúng của bảy năm trước, đo một nhóm rộng hơn, chưa chắc đúng với sinh viên hôm nay.\""
+    },
+    {
+      "type": "case",
+      "title": "Mẩu 3: bài báo khoa học gần đây về đúng đối tượng của nhóm",
+      "label": "Mẩu 3",
+      "scenario": [
+        "Bài báo khoa học công bố gần đây trên tạp chí có phản biện.",
+        "Khảo sát sinh viên tại TP.HCM về ý định mua mỹ phẩm nội địa; mô tả rõ mẫu, thang đo và phương pháp."
+      ],
+      "question": "Dùng được, có điều kiện, hay bỏ? Còn cần làm gì?",
+      "notes": "Đọc to mẩu 3, cho 30 giây, đếm 3–2–1.\nĐáp án: Dùng được (1 ngón). Đạt cả bốn tiêu chuẩn: đúng đối tượng, đúng địa bàn (cụ thể, phù hợp); có phản biện và phương pháp rõ (chính xác); công bố gần đây (thời sự). Vẫn nên đối chiếu nếu dùng một con số quan trọng, và trích chính bài báo này theo APA 7.\nNếu lớp đúng hết cả ba mẩu, hỏi thêm: \"Mẩu 3 có thể không phù hợp trong trường hợp nào?\" Ví dụ nhóm nghiên cứu riêng nam sinh viên, hoặc nghiên cứu mỹ phẩm ngoại.\nChốt hoạt động, khoảng 30 giây: \"Ba mẩu, ba kết luận khác nhau — và lý do luôn gọi được bằng tên một tiêu chuẩn. Trong thực hành cuối buổi, các nhóm làm đúng như vậy với nguồn của mình.\"\nChuyển ý: thứ cấp không đủ thì phải tự thu — sang dữ liệu sơ cấp."
+    },
+    {
+      "type": "section",
+      "tag": "S4",
+      "kicker": "31–48 phút",
+      "title": "Dữ liệu sơ cấp — quan sát và dân tộc học",
+      "notes": "Phần S4 khoảng 17 phút: phân biệt định tính và định lượng, rồi đi sâu vào quan sát — định nghĩa, bốn chiều phân loại, giới hạn đạo đức — và dân tộc học với hai ví dụ minh họa.\nNói: \"Khi dữ liệu thứ cấp không đủ, nhóm phải tự thu. Hôm nay đi lần lượt từng phương pháp, bắt đầu từ phương pháp không cần hỏi ai câu nào: quan sát.\" Phần đạo đức của quan sát cần đi chậm, không cắt khi trễ giờ."
+    },
+    {
+      "type": "compare",
+      "title": "Dữ liệu sơ cấp: may đo cho đúng câu hỏi",
+      "left": {
+        "head": "Định tính",
+        "items": [
+          "Quan sát",
+          "Thảo luận nhóm",
+          "Phỏng vấn sâu"
+        ]
+      },
+      "right": {
+        "head": "Định lượng",
+        "items": [
+          "Khảo sát (4 hình thức)",
+          "Nhóm cố định",
+          "Thử nghiệm"
+        ]
+      },
+      "callout": "Sơ cấp: tự thu lần đầu cho câu hỏi hiện tại",
+      "notes": "Định nghĩa một dòng: dữ liệu sơ cấp do chính nhà nghiên cứu thu thập lần đầu để giải quyết vấn đề hiện tại — được \"may đo\" cho đúng câu hỏi của mình, chưa từng được thu trước đó.\nHai nhánh. Định tính: quan sát, thảo luận nhóm, phỏng vấn sâu. Định lượng: khảo sát với bốn hình thức trực tiếp, điện thoại, thư, trực tuyến; nhóm cố định; thử nghiệm.\nNói: \"Hôm nay đi lần lượt từng phương pháp, từ trái sang phải.\" Trước giải lao: quan sát. Sau giải lao: thảo luận nhóm, phỏng vấn sâu, rồi ba phương pháp định lượng.\nLưu ý: quan sát được xếp vào nhánh định tính theo tài liệu, nhưng lát nữa sẽ thấy quan sát có cấu trúc hoặc bằng thiết bị cũng cho dữ liệu định lượng.\nLưu ý cho giảng viên: slide UEF gốc thiếu phỏng vấn sâu ở nhánh định tính và thiếu \"trực tuyến\" ở khảo sát — đã bổ sung."
+    },
+    {
+      "type": "table",
+      "title": "Định tính hỏi “vì sao”, định lượng hỏi “bao nhiêu”",
+      "header": [
+        "",
+        "Định tính",
+        "Định lượng"
+      ],
+      "rows": [
+        [
+          "Mục đích",
+          "Vì sao, thế nào",
+          "Bao nhiêu, mức nào"
+        ],
+        [
+          "Mẫu",
+          "Nhỏ, có chủ đích",
+          "Lớn, cố gắng đại diện"
+        ],
+        [
+          "Dữ liệu",
+          "Lời nói, hành vi",
+          "Con số"
+        ],
+        [
+          "Phân tích",
+          "Diễn giải, mã hóa",
+          "Thống kê"
+        ],
+        [
+          "Kết quả",
+          "Hiểu sâu, không ra %",
+          "Khái quát nếu mẫu tốt"
+        ]
+      ],
+      "boldFirstCol": true,
+      "notes": "Bảng này các bạn đã gặp ở Buổi 1 và Buổi 5 khi chọn hướng dự án. Nhắc lại khoảng 30 giây, không giảng lại.\nĐọc theo cột. Định tính: mục đích là hiểu sâu lý do, động cơ, cảm nhận — câu hỏi \"vì sao\", \"như thế nào\"; mẫu nhỏ, chọn có chủ đích; dữ liệu là lời nói, hành vi, hình ảnh; phân tích bằng diễn giải, mã hóa theo chủ đề; kết quả là hiểu biết sâu, không khái quát thành tỷ lệ.\nĐịnh lượng: mục đích là đo lường, đếm, kiểm định — \"bao nhiêu\", \"mức độ nào\"; mẫu lớn hơn, cố gắng đại diện; dữ liệu là con số; phân tích bằng thống kê; kết quả có thể khái quát nếu mẫu phù hợp.\nNói: \"Hướng dự án của nhóm đã chọn ở Buổi 5. Hôm nay đi vào từng phương pháp cụ thể trong mỗi hướng.\" Chuyển ngay sang quan sát."
+    },
+    {
+      "type": "statement",
+      "title": "Quan sát ghi lại điều người ta làm, không phải điều người ta nói",
+      "big": "Quan sát: ghi nhận có hệ thống hành vi của con người, sự vật, sự kiện — mà không hỏi trực tiếp",
+      "sub": "Không phải điều tra: không có câu hỏi, không có câu trả lời",
+      "mark": "“",
+      "notes": "Đọc định nghĩa: quan sát là ghi nhận có hệ thống hành vi của con người, sự vật, sự kiện mà không hỏi trực tiếp.\nNhấn hộp dưới: quan sát không phải là điều tra — không có câu hỏi, không có câu trả lời. Sức mạnh của quan sát là ghi được điều người ta làm, không phải điều người ta nói mình làm. Hai điều này thường khác nhau.\nVí dụ gần gũi: \"Hỏi bạn bên cạnh tuần này uống mấy ly trà sữa — rồi xem lịch sử đơn hàng trên ứng dụng. Hai con số thường khác nhau.\" Có thể mời một bạn thử ngay: hỏi trước, rồi để bạn tự mở ứng dụng kiểm tra. Lớp thường cười vì con số thật nhiều hơn.\nChốt: \"Đó là lý do người ta quan sát — vì trí nhớ và lời kể của chúng ta không đáng tin bằng hành vi.\" Chuyển sang cách phân loại quan sát."
+    },
+    {
+      "type": "cards",
+      "title": "Bốn chiều của quan sát: trực tiếp hay gián tiếp, công khai hay ngụy trang",
+      "cards": [
+        {
+          "head": "Trực tiếp",
+          "text": "Xem hành vi đang diễn ra: khách chọn hàng tại quầy"
+        },
+        {
+          "head": "Gián tiếp",
+          "text": "Xem dấu vết: hàng trống trên kệ cuối ngày, tồn kho"
+        },
+        {
+          "head": "Công khai",
+          "text": "Có xin phép, người ta biết"
+        },
+        {
+          "head": "Ngụy trang",
+          "text": "Người ta không biết mình bị quan sát"
+        }
+      ],
+      "notes": "Quan sát được phân loại theo bốn chiều; slide này đi hai chiều đầu, slide sau là hai chiều còn lại.\nChiều 1 — cách tiếp cận: trực tiếp là xem hành vi đang diễn ra, ví dụ đứng tại quầy xem khách chọn sản phẩm; gián tiếp là xem dấu vết của hành vi, ví dụ đếm hàng trống trên kệ cuối ngày, xem dữ liệu tồn kho.\nChiều 2 — mức công khai: công khai là người được quan sát biết, ví dụ xin phép quan sát cách bạn sử dụng ứng dụng; ngụy trang là người được quan sát không biết, ví dụ người mua bí ẩn.\nHỏi tình huống: \"Một nhóm ngồi ở quán cà phê gần trường, dùng phiếu đếm có bao nhiêu khách mang ly riêng trong 2 giờ, không ai biết họ đang đếm. Quan sát này thuộc dạng nào?\" Chờ 2 bạn trả lời. Mong đợi: trực tiếp, ngụy trang ở nơi công cộng — và sau slide tiếp sẽ thêm: có cấu trúc, bằng con người.\nChuyển ý: ngụy trang đặt ra câu hỏi đạo đức — slide sau."
+    },
+    {
+      "type": "compare",
+      "title": "Ngụy trang có giới hạn: không camera ẩn, không lục rác, không xâm phạm riêng tư",
+      "left": {
+        "head": "Được",
+        "items": [
+          "Nơi công cộng, không ghi danh tính",
+          "Người mua bí ẩn để tự đánh giá dịch vụ"
+        ]
+      },
+      "right": {
+        "head": "Không được",
+        "items": [
+          "Camera ẩn, lục rác thải",
+          "Xâm phạm riêng tư",
+          "Chụp, quay, ghi danh tính"
+        ]
+      },
+      "callout": "Dự án: chỉ quan sát công khai hoặc ở nơi công cộng",
+      "notes": "Đi chậm ở slide này — đây là nội dung đạo đức (CLO8), không cắt khi trễ giờ.\nNói: \"Slide UEF có ví dụ lục thùng rác của đối thủ, camera ẩn, đóng giả người mua — đó là những kỹ thuật có tồn tại trong thực tế thu thập thông tin cạnh tranh, nhưng vượt giới hạn đạo đức; có thể vi phạm pháp luật về quyền riêng tư, dữ liệu cá nhân.\"\nGiới hạn: quan sát ngụy trang chỉ chấp nhận được ở nơi công cộng, không ghi nhận danh tính. Không dùng camera ẩn, không lục tìm rác thải, không xâm phạm không gian riêng tư. Người mua bí ẩn là kỹ thuật hợp pháp phổ biến khi doanh nghiệp tự đánh giá dịch vụ của chính mình; dùng để \"đóng giả\" thu thông tin của đối thủ là vùng xám về đạo đức.\nĐọc to hộp dưới: trong dự án học phần, nhóm chỉ được quan sát công khai, hoặc tại nơi công cộng mà không chụp, quay, ghi lại danh tính người khác.\nLưu ý cho giảng viên: nếu muốn dẫn văn bản pháp lý cụ thể về bảo vệ dữ liệu cá nhân tại Việt Nam, cần chọn và kiểm tra văn bản hiện hành."
+    },
+    {
+      "type": "cards",
+      "title": "Có cấu trúc hay không, con người hay thiết bị — và quan sát cũng cho số liệu",
+      "cards": [
+        {
+          "head": "Có cấu trúc",
+          "text": "Phiếu ghi sẵn hạng mục"
+        },
+        {
+          "head": "Không cấu trúc",
+          "text": "Nhật ký quan sát tự do"
+        },
+        {
+          "head": "Con người",
+          "text": "Người quan sát ghi lại"
+        },
+        {
+          "head": "Thiết bị",
+          "text": "Máy đếm, số liệu truy cập web"
+        }
+      ],
+      "callout": "Đếm, đo bằng phiếu hay thiết bị → dữ liệu định lượng",
+      "notes": "Hai chiều còn lại. Chiều 3 — mức cấu trúc: có cấu trúc là dùng phiếu ghi sẵn hạng mục, ví dụ phiếu đếm số khách theo giờ; không cấu trúc là ghi mọi điều thấy, ví dụ nhật ký quan sát tự do. Chiều 4 — phương tiện: con người, ví dụ nhân viên quan sát; hoặc thiết bị, ví dụ máy đếm lượt người, máy quét mã vạch, số liệu truy cập website.\nQuay lại tình huống quán cà phê: trực tiếp, ngụy trang ở nơi công cộng, có cấu trúc, con người.\nSửa một hiểu lầm từ slide UEF: quan sát không chỉ thuộc định tính. Quan sát có cấu trúc hoặc bằng thiết bị — đếm lượt khách, đo thời gian khách đứng trước kệ, số liệu truy cập website — cho ra dữ liệu định lượng.\nHỏi: \"Số liệu Google Analytics của một trang bán hàng là quan sát loại gì?\" Mong đợi: gián tiếp hoặc trực tiếp tùy cách hiểu, có cấu trúc, bằng thiết bị — và là dữ liệu định lượng."
+    },
+    {
+      "type": "compare",
+      "title": "Siêu thị được sắp xếp dựa trên quan sát hành vi người mua",
+      "left": {
+        "head": "Quan sát cho thấy",
+        "items": [
+          "Hàng thiết yếu ở cuối cửa hàng",
+          "Ngũ cốc trẻ em ngang tầm mắt trẻ"
+        ]
+      },
+      "right": {
+        "head": "Nhược điểm của quan sát",
+        "items": [
+          "Biết “cái gì”, không biết “vì sao”",
+          "Người bị quan sát có thể đổi hành vi"
+        ]
+      },
+      "callout": "Underhill (2009), *Why We Buy* — ví dụ minh họa",
+      "notes": "Ví dụ minh họa: Paco Underhill, tác giả cuốn Why We Buy, nổi tiếng với các nghiên cứu quan sát hành vi người mua tại cửa hàng. Một số quan sát được kể lại: hàng thiết yếu như sữa, trứng, bánh mì thường đặt ở cuối cửa hàng để khách đi qua nhiều gian hàng khác; ngũ cốc cho trẻ em đặt ở kệ thấp, ngang tầm mắt trẻ.\nHỏi: \"Lần tới vào siêu thị gần nhà, các bạn để ý sữa tươi nằm ở đâu?\" — gợi ý một bài tập quan sát nhỏ, không bắt buộc.\nNhược điểm chính của quan sát: biết cái gì người ta làm, không biết vì sao; tốn thời gian; người quan sát có thể chủ quan. Và khi quan sát công khai, người được quan sát có thể thay đổi hành vi vì biết mình đang bị theo dõi — thường gọi là hiệu ứng Hawthorne.\nNếu trễ giờ: bỏ slide này, giữ ví dụ Harley-Davidson.\nLưu ý cho giảng viên: các chi tiết vị trí hàng hóa là lời kể của video, chưa đối chiếu với sách; năm và lần xuất bản của Underhill (2009) cần kiểm tra."
+    },
+    {
+      "type": "case",
+      "title": "Dân tộc học: sống cùng khách hàng để thấy điều họ không tự nói ra",
+      "label": "Minh họa",
+      "scenario": [
+        "Dân tộc học: hòa mình vào môi trường tự nhiên của khách hàng, quan sát và trò chuyện.",
+        "Nhà nghiên cứu đi đường dài nhiều ngày cùng người chạy xe Harley-Davidson.",
+        "Họ thấy: Harley không chỉ bán xe, mà bán một phong cách sống."
+      ],
+      "question": "Một bảng hỏi có phát hiện được điều này không?",
+      "notes": "Dân tộc học (ethnography) là phương pháp định tính trong đó nhà nghiên cứu hòa mình vào môi trường tự nhiên của khách hàng — nhà ở, nơi làm việc, cửa hàng — để quan sát hành vi trong đúng bối cảnh, thường kết hợp trò chuyện để hiểu động cơ. Có hai dạng: chỉ quan sát, hoặc quan sát kết hợp hỏi ngay trong lúc người tham gia đang làm việc đó.\nKể ngắn ví dụ minh họa: các nhà nghiên cứu đi đường dài nhiều ngày cùng những người chạy xe Harley-Davidson. Họ thấy người chạy xe chăm chút chiếc xe như vật thiêng liêng, không thích người lạ chạm vào xe. Kết luận: Harley không chỉ bán một chiếc xe máy — họ bán một phong cách sống, một bản sắc cộng đồng.\nHỏi câu trên slide. Mong đợi: rất khó — người trả lời không tự nói ra điều này. Với dự án sinh viên: không yêu cầu làm dân tộc học, nhưng nhóm định tính có thể kết hợp quan sát ngắn, miễn là công khai và được đồng ý.\nLưu ý cho giảng viên: đối chiếu chi tiết với Schouten và McAlexander (1995); các chi tiết khác là lời kể của video."
+    },
+    {
+      "type": "compare",
+      "title": "Khách nói muốn muỗng múc kem sắc hơn; quan sát tại nhà cho thấy điều ngược lại",
+      "left": {
+        "head": "Điều khách nói",
+        "items": [
+          "Trong khảo sát, thảo luận nhóm",
+          "“Muốn muỗng sắc hơn để múc kem cứng”"
+        ]
+      },
+      "right": {
+        "head": "Điều khách làm",
+        "items": [
+          "Khi được quan sát tại nhà",
+          "Nhiều người liếm muỗng trước khi rửa"
+        ]
+      },
+      "vs": true,
+      "callout": "Khách hàng không luôn nói được điều mình cần",
+      "notes": "Ví dụ minh họa thứ hai, từ video. Khảo sát và thảo luận nhóm cho thấy người dùng muốn muỗng múc kem sắc hơn để múc kem cứng dễ hơn. Nhưng khi quan sát tại nhà, nhà nghiên cứu thấy nhiều người liếm muỗng trước khi bỏ vào bồn rửa — chính họ không nhận ra mình làm vậy. Làm muỗng sắc hơn theo đúng \"điều khách nói\" có thể gây nguy hiểm.\nHỏi: \"Nếu chỉ làm khảo sát, công ty sẽ ra quyết định gì?\" Để lớp tự thấy rủi ro.\nBài học: khách hàng không phải lúc nào cũng nói được điều họ cần — dân tộc học phát hiện nhu cầu chưa được nói ra. Đổi lại: mẫu rất nhỏ, tốn kém, và người tham gia có thể thay đổi hành vi khi biết có người quan sát.\nCâu chuyển sang giải lao: \"Quan sát cho biết người ta làm gì. Muốn biết vì sao — phải hỏi. Sau giải lao: hỏi một nhóm, hay hỏi từng người?\"\nLưu ý cho giảng viên: video nói \">90% người dùng\" nhưng không có nguồn — không nêu tỷ lệ trên lớp."
+    },
+    {
+      "type": "break",
+      "title": "Giải lao 15 phút",
+      "big": "15'",
+      "sub": "Quay lại lúc …",
+      "notes": "Giải lao 15 phút, từ phút 48 đến phút 63. Điền giờ quay lại cụ thể vào chỗ \"…\" trước buổi học, hoặc viết lên bảng.\nNói: \"Nghỉ 15 phút. Trong giờ nghỉ, thử nghĩ: chuyện mua mỹ phẩm, bạn sẽ kể thật hơn khi ngồi với 8 người lạ hay với 1 người? Sau giải lao chúng ta bắt đầu bằng câu hỏi này.\"\nTrong giờ nghỉ, giảng viên có thể đi một vòng xem các nhóm đã mở đề cương M4 và đã nghĩ đến nguồn thứ cấp nào chưa — chuẩn bị cho phần thực hành. Chuẩn bị sẵn slide tiếp theo trên màn hình khi lớp quay lại."
+    },
+    {
+      "type": "section",
+      "tag": "S5",
+      "kicker": "63–80 phút",
+      "title": "Thảo luận nhóm và phỏng vấn sâu",
+      "notes": "Phần S5 khoảng 17 phút: thảo luận nhóm tập trung (định nghĩa, vai trò người điều phối, hiệu ứng tuân thủ đám đông), phỏng vấn sâu (điểm mạnh, điểm yếu, ba kỹ năng), một hoạt động nhỏ 3 phút sửa ba câu hỏi lỗi, và khi nào chọn phương pháp nào.\nSlide UEF dừng ở phần quan sát — toàn bộ phần này dùng slide bổ sung. Mở phần bằng câu hỏi đã gợi trong giờ giải lao."
+    },
+    {
+      "type": "compare",
+      "title": "Hỏi một nhóm hay hỏi từng người? Hai cách khác nhau, hai loại dữ liệu khác nhau",
+      "left": {
+        "head": "Thảo luận nhóm",
+        "items": [
+          "6–10 người",
+          "1 người điều phối",
+          "Khoảng 1–2 giờ"
+        ]
+      },
+      "right": {
+        "head": "Phỏng vấn sâu",
+        "items": [
+          "Một – một",
+          "Câu hỏi mở",
+          "Câu hỏi gợi mở thêm"
+        ]
+      },
+      "vs": true,
+      "notes": "Câu mở phần: \"Chuyện mua mỹ phẩm, bạn sẽ kể thật hơn khi ngồi với 8 người lạ hay với 1 người?\" Cho lớp giơ tay hai lựa chọn. Thường đa số chọn 1 người. Hỏi thêm một bạn chọn nhóm: \"Vì sao?\" — có thể vì nghe người khác kể giúp mình nhớ ra điều của mình.\nĐó chính là khác biệt giữa hai phương pháp. Thảo luận nhóm: khoảng 6–10 người, một người điều phối, kéo dài khoảng 1–2 giờ — dữ liệu sinh ra từ tương tác giữa người tham gia. Phỏng vấn sâu: trò chuyện một – một, dùng câu hỏi mở và câu hỏi gợi mở thêm — dữ liệu là câu chuyện sâu của từng cá nhân.\nNói: \"Hai cách hỏi khác nhau cho hai loại dữ liệu khác nhau. Không cách nào tốt hơn tuyệt đối — tùy câu hỏi nghiên cứu.\" Đi tiếp vào từng phương pháp, bắt đầu từ thảo luận nhóm."
+    },
+    {
+      "type": "bullets",
+      "title": "Thảo luận nhóm: 6–10 người tương đồng, một người điều phối, một dàn bài",
+      "bullets": [
+        {
+          "head": "Người tham gia",
+          "text": "6–10 người, đồng nhất về đặc điểm liên quan"
+        },
+        {
+          "head": "Điểm mạnh",
+          "text": "tương tác tạo ý tưởng mới, nhiều quan điểm"
+        },
+        {
+          "head": "Điểm yếu",
+          "text": "người nói nhiều lấn át; khó bàn chủ đề nhạy cảm"
+        }
+      ],
+      "callout": "Trực tuyến: nên khoảng 4–6 người để ai cũng có lượt nói",
+      "notes": "Định nghĩa: thảo luận nhóm (focus group) là buổi trao đổi giữa một nhóm nhỏ người tham gia có đặc điểm tương đồng, do một người điều phối (moderator) dẫn dắt theo dàn bài thảo luận. Thông thường khoảng 6–10 người mỗi nhóm, kéo dài khoảng 1–2 giờ.\nVì sao phải đồng nhất? Hỏi lớp trước. Ví dụ: nếu một nhóm vừa có sinh viên năm nhất vừa có người đi làm thu nhập cao, sinh viên sẽ ngại nói \"mình thấy đắt\".\nĐiểm mạnh: tương tác giữa người tham gia tạo ý tưởng mới; nhanh, thu nhiều quan điểm. Điểm yếu: ý kiến bị chi phối bởi người nói nhiều; khó bàn chủ đề nhạy cảm; kết quả phụ thuộc kỹ năng điều phối.\nHộp dưới: thảo luận nhóm trực tuyến nên giới hạn khoảng 4–6 người để mọi người đều có lượt nói — nêu như kinh nghiệm thực hành của người giảng video, không phải chuẩn.\nLưu ý cho giảng viên: quy tắc 4–6 người trực tuyến cần kiểm chứng nguồn."
+    },
+    {
+      "type": "cards",
+      "title": "Người điều phối giữ hướng, giữ cân bằng, giữ trung lập",
+      "cards": [
+        {
+          "head": "Đúng hướng",
+          "text": "Bám mục tiêu và dàn bài"
+        },
+        {
+          "head": "Cởi mở",
+          "text": "Để mọi người thoải mái nói thật"
+        },
+        {
+          "head": "Cân bằng",
+          "text": "Mời từng người, không ai lấn át"
+        },
+        {
+          "head": "Trung lập",
+          "text": "Không bênh doanh nghiệp, sản phẩm"
+        },
+        {
+          "head": "Năng lượng",
+          "text": "Giữ nhịp trao đổi sôi nổi"
+        }
+      ],
+      "notes": "Năm việc của người điều phối. Một: giữ đúng hướng — bám sát mục tiêu nghiên cứu và dàn bài. Hai: tạo không khí cởi mở — để mọi người thoải mái nói thật. Ba: giữ cân bằng — chủ động mời từng người, không để một vài người nói nhiều lấn át cả nhóm. Bốn: giữ trung lập — không giải thích, không bênh vực doanh nghiệp hay sản phẩm; chỉ hỏi và lắng nghe. Năm: giữ năng lượng — duy trì nhịp trao đổi sôi nổi.\nCâu chốt: \"Người điều phối giỏi nói ít nhất phòng.\"\nHỏi lớp: \"Trong năm việc này, việc nào khó nhất với sinh viên khi tự điều phối?\" Thường câu trả lời là trung lập — vì nhóm hay muốn bảo vệ ý tưởng của mình, hoặc giải thích khi người tham gia hiểu sai sản phẩm. Nhắc: khi người tham gia hiểu sai, đó chính là dữ liệu — ghi lại, đừng sửa.\nChuyển ý: vì sao phải giữ cân bằng? Vì trong nhóm, người ta dễ nói theo đám đông."
+    },
+    {
+      "type": "cards",
+      "title": "Trong nhóm, người ta dễ nói theo đám đông",
+      "cards": [
+        {
+          "head": "Thí nghiệm Asch",
+          "text": "Câu hỏi dễ, nhưng nhiều người theo đáp án sai của số đông (Asch, 1956)"
+        },
+        {
+          "head": "Trong thảo luận",
+          "text": "Người nói đầu tiên đặt “tông” cho cả nhóm"
+        },
+        {
+          "head": "Cách giảm",
+          "text": "Viết ý kiến ra giấy trước; mời người ít nói lên tiếng trước"
+        }
+      ],
+      "callout": "Dùng để phát sinh ý tưởng, không để ra quyết định",
+      "notes": "Mô tả ngắn, không chiếu số liệu. Thí nghiệm nổi tiếng của Solomon Asch: người tham gia được hỏi đoạn thẳng nào trong ba đoạn A, B, C dài bằng đoạn mẫu — một câu hỏi rất dễ. Nhưng khi những người khác trong phòng, thực ra là người đóng vai, đồng loạt chọn đáp án sai, nhiều người tham gia đã nói theo đám đông thay vì nói điều mắt mình thấy (Asch, 1956). Có thể vẽ nhanh lên bảng bốn đoạn thẳng.\nThảo luận nhóm có cùng nguy cơ: người phát biểu đầu tiên hoặc người cá tính mạnh đặt \"tông\" cho cả nhóm; người sau có xu hướng đồng tình, và có xu hướng trả lời chiều lòng người điều phối. Video kể một buổi thảo luận về đồ uống thể thao Gatorade, có người giơ tay theo những người xung quanh dù trước đó nói khác.\nCách giảm: cho mọi người viết ý kiến ra giấy trước rồi mới nói; mời người ít nói phát biểu trước.\nKết: \"Thảo luận nhóm rất tốt để phát sinh ý tưởng, không dùng một mình để ra quyết định kinh doanh.\"\nLưu ý cho giảng viên: tình huống Gatorade theo lời kể của video, chưa kiểm chứng."
+    },
+    {
+      "type": "compare",
+      "title": "Phỏng vấn sâu: một người, một câu chuyện, đến tận động cơ",
+      "left": {
+        "head": "Điểm mạnh",
+        "items": [
+          "Đi sâu vào từng người",
+          "Hợp chủ đề nhạy cảm",
+          "Tránh hiệu ứng đám đông",
+          "Thu từ ngữ của khách"
+        ]
+      },
+      "right": {
+        "head": "Điểm yếu",
+        "items": [
+          "Tốn thời gian mỗi người",
+          "Phụ thuộc người phỏng vấn",
+          "Gỡ băng, phân tích lâu"
+        ]
+      },
+      "notes": "Định nghĩa: phỏng vấn sâu (in-depth interview) là cuộc trò chuyện một – một giữa người phỏng vấn và người tham gia, dùng câu hỏi mở và câu hỏi gợi mở thêm (probing) để đi sâu vào suy nghĩ, động cơ.\nĐiểm mạnh: đi rất sâu vào từng cá nhân; phù hợp chủ đề nhạy cảm, riêng tư; không bị ảnh hưởng bởi ý kiến người khác; thu được chính từ ngữ của khách hàng — rất có giá trị khi viết thông điệp truyền thông và khi viết thang đo cho bảng hỏi; nhận ra tín hiệu phi ngôn ngữ như ngập ngừng, thở dài. Điểm yếu: tốn thời gian cho mỗi người; phụ thuộc kỹ năng người phỏng vấn; gỡ băng và phân tích mất nhiều công.\nKể ví dụ minh họa Marta từ video: nghiên cứu cho một công ty chăm sóc da, Marta được mời chụp ảnh và kể về thói quen buổi tối. Bức ảnh mặt bàn chật kín chai lọ nói lên điều cô không nói thẳng: quá nhiều bước, quá phiền. Đây cũng là ví dụ phỏng vấn dựa trên hình ảnh.\nLưu ý cho giảng viên: tình huống Marta lấy từ video; không đưa con số sản phẩm lên slide."
+    },
+    {
+      "type": "steps",
+      "title": "Ba kỹ năng: xây quan hệ, lắng nghe chủ động, hỏi gợi mở",
+      "steps": [
+        {
+          "head": "Xây quan hệ",
+          "text": "Chào hỏi, nêu mục đích, xin phép ghi âm"
+        },
+        {
+          "head": "Lắng nghe",
+          "text": "Không ngắt lời, không khuyên bảo"
+        },
+        {
+          "head": "Hỏi gợi mở",
+          "text": "“Kể thêm…?” “Vì sao…?” “Lần gần nhất…?”"
+        }
+      ],
+      "callout": "Khó nhất là im lặng chờ; luôn phỏng vấn thử",
+      "notes": "Ba kỹ năng của người phỏng vấn. Một — xây dựng quan hệ (rapport): vài phút đầu chào hỏi, trò chuyện nhẹ, giới thiệu mục đích, xin phép ghi âm. Người tham gia thấy an toàn thì mới nói thật. Video gợi ý khoảng 2–3 phút đầu — kinh nghiệm thực hành.\nHai — lắng nghe chủ động: tập trung vào người nói, phản hồi ngắn (\"ừ\", \"rồi sao nữa?\"), không ngắt lời, không đưa ý kiến của mình, không khuyên bảo.\nBa — hỏi gợi mở thêm: \"Bạn có thể kể thêm về điều đó không?\", \"Vì sao bạn cảm thấy như vậy?\", \"Lần gần nhất chuyện đó xảy ra là khi nào?\"\nNói: \"Phần khó nhất là im lặng chờ.\" Thử ngay: im lặng 5 giây trước lớp để mọi người cảm nhận 5 giây dài thế nào.\nPhỏng vấn thử: trước khi phỏng vấn chính thức, luôn phỏng vấn thử vài lần để kiểm tra từ ngữ, thứ tự câu hỏi, thời lượng (video gợi ý 1–5 lần). Trong thực hành cuối buổi, các bạn sẽ đóng vai phỏng vấn 5 phút.\nLưu ý cho giảng viên: các con số 2–3 phút và 1–5 lần là kinh nghiệm của người giảng video, chưa kiểm chứng."
+    },
+    {
+      "type": "bullets",
+      "title": "Sửa ba câu hỏi: dẫn dắt, kép, hỏi tương lai",
+      "numbered": true,
+      "bullets": [
+        "“Bao bì thân thiện môi trường quan trọng thế nào với bạn?”",
+        "“Bạn thấy giá và chất lượng sản phẩm này thế nào?”",
+        "“Sau này bạn có mua sản phẩm này không?”"
+      ],
+      "callout": "Cặp đôi: 1 phút sửa cả ba câu",
+      "notes": "Hoạt động nhỏ 3 phút. Ba câu hỏi lỗi đều là giả định. Yêu cầu: theo cặp, sửa cả ba câu trong 1 phút. Sau đó gọi 2–3 bạn đọc câu đã sửa, rồi hiện đáp án gợi ý ở slide sau.\nTrong lúc lớp làm, đi quanh lớp nghe. Gợi ý nếu cặp nào bí: câu 1 lỗi gì — nó đã gợi sẵn rằng bao bì xanh là quan trọng; câu 2 có mấy ý; câu 3 hỏi về lúc nào — tương lai hay quá khứ?\nKhi gọi bạn đọc câu sửa, hỏi lớp: \"Câu sửa này còn dẫn dắt không? Còn hai ý không?\" Để lớp tự đánh giá trước khi hiện đáp án.\nNếu lớp nhanh và còn thời gian, có thể mở rộng thành 6 câu theo phương án kéo dài của lesson plan."
+    },
+    {
+      "type": "bullets",
+      "title": "Gợi ý sửa: hỏi trung tính, mỗi câu một ý, hỏi điều đã xảy ra",
+      "callout": "Để họ kể khó khăn, đừng bắt họ nghĩ giải pháp",
+      "notes": "Đáp án gợi ý. Câu 1 — dẫn dắt: gợi sẵn rằng bao bì thân thiện môi trường là quan trọng. Sửa thành câu trung tính: \"Khi chọn mua một sản phẩm chăm sóc da, bạn để ý những điều gì?\" — nếu người tham gia tự nhắc đến bao bì, đó mới là dữ liệu có giá trị.\nCâu 2 — câu hỏi kép: hai ý trong một câu, người trả lời thường chỉ trả lời một. Tách thành hai câu.\nCâu 3 — hỏi tương lai, giả định: người ta thường đoán sai hành vi của chính mình. Hỏi hành vi đã xảy ra: \"Lần gần nhất bạn mua sản phẩm loại này là khi nào? Kể cho mình nghe.\"\nThêm một lưu ý từ video: đừng bắt người tham gia nghĩ ra giải pháp (\"Theo bạn công ty nên làm sản phẩm thế nào?\") — hãy để họ kể khó khăn, phiền toái họ gặp; tìm giải pháp là việc của nhà nghiên cứu. Nối lại ví dụ muỗng múc kem: khách đề xuất giải pháp \"muỗng sắc hơn\" — và giải pháp đó sai.",
+      "bullets": [
+        {
+          "head": "Dẫn dắt",
+          "text": "“Khi chọn đồ chăm sóc da, bạn để ý những gì?”"
+        },
+        {
+          "head": "Câu hỏi kép",
+          "text": "tách: “Giá thế nào?” · “Chất lượng thế nào?”"
+        },
+        {
+          "head": "Hỏi tương lai",
+          "text": "“Lần gần nhất bạn mua loại này là khi nào?”"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Thảo luận nhóm khi cần nhiều ý tưởng; phỏng vấn sâu khi cần hiểu sâu từng người",
+      "header": [
+        "",
+        "Thảo luận nhóm",
+        "Phỏng vấn sâu"
+      ],
+      "rows": [
+        [
+          "Mục đích",
+          "Nhiều ý tưởng nhanh",
+          "Hiểu sâu từng người"
+        ],
+        [
+          "Chủ đề nhạy cảm?",
+          "Không",
+          "Có: tài chính, sức khỏe"
+        ],
+        [
+          "Tập hợp người",
+          "Dễ tập hợp cùng lúc",
+          "Khó tập hợp cùng lúc"
+        ]
+      ],
+      "boldFirstCol": true,
+      "callout": "Dự án định tính: phỏng vấn sâu 6–10 người, xin phép ghi âm, ẩn danh N1, N2…",
+      "notes": "Khi nào chọn cái nào. Chọn thảo luận nhóm khi cần nhiều ý tưởng nhanh ở giai đoạn khám phá; chủ đề không nhạy cảm và tương tác giữa người tham gia có ích, ví dụ phản ứng với một mẫu quảng cáo; người tham gia dễ tập hợp cùng lúc. Chọn phỏng vấn sâu khi cần hiểu sâu câu chuyện, động cơ của từng người; chủ đề riêng tư, nhạy cảm như tài chính cá nhân, sức khỏe, ngoại hình; người tham gia khó tập hợp, lịch khác nhau, hoặc muốn tránh ảnh hưởng đám đông.\nHỏi nhanh: \"Đề tài 'chi tiêu cho mỹ phẩm của sinh viên' — chọn cái nào?\" Mong đợi: phỏng vấn sâu, vì là chủ đề tài chính cá nhân.\nĐọc hộp dưới: với dự án định tính của nhóm, phỏng vấn sâu 6–10 người là lựa chọn thực tế nhất; cần xin phép ghi âm trước và ẩn danh người tham gia trong báo cáo bằng mã N1, N2…\nNếu sinh viên hỏi: video có nhắc phỏng vấn cặp đôi, nhóm ba (dyads, triads), ví dụ phỏng vấn hai vợ chồng cùng quyết định mua nhà — chỉ nhắc một câu."
+    },
+    {
+      "type": "section",
+      "tag": "S6",
+      "kicker": "80–92 phút",
+      "title": "Nghiên cứu định lượng",
+      "notes": "Phần S6 khoảng 12 phút: khảo sát với bốn hình thức và cách khắc phục nhược điểm của khảo sát online; nhóm cố định; thử nghiệm với nhóm thử nghiệm, nhóm đối chứng, phân nhóm ngẫu nhiên và tình huống \"biến thứ ba\".\nNói: \"Định tính trả lời 'vì sao'. Giờ sang các phương pháp trả lời 'bao nhiêu' và 'có gây ra không'.\" Nếu trễ giờ, phần nhóm cố định chỉ nêu định nghĩa một câu."
+    },
+    {
+      "type": "table",
+      "title": "Khảo sát: bốn hình thức, càng rẻ thì người trả lời càng ít chú ý",
+      "header": [
+        "Hình thức",
+        "Ưu điểm",
+        "Nhược điểm"
+      ],
+      "rows": [
+        [
+          "Trực tiếp",
+          "Giải thích được",
+          "Tốn thời gian, chi phí"
+        ],
+        [
+          "Điện thoại",
+          "Nhanh, phạm vi rộng",
+          "Nhiều người từ chối"
+        ],
+        [
+          "Thư",
+          "Không có người hỏi",
+          "Hồi đáp thấp, chậm"
+        ],
+        [
+          "Trực tuyến",
+          "Rất rẻ, nhanh",
+          "Khó kiểm soát ai trả lời"
+        ]
+      ],
+      "boldFirstCol": true,
+      "notes": "Định nghĩa: điều tra (survey) là thu thập dữ liệu bằng cách hỏi một mẫu người trả lời theo bảng câu hỏi có cấu trúc — phương pháp phổ biến nhất trong nghiên cứu marketing.\nBốn hình thức. Trực tiếp: giải thích được câu hỏi, tỷ lệ trả lời cao, dùng được hình ảnh, mẫu sản phẩm; nhưng tốn thời gian, chi phí, người phỏng vấn có thể ảnh hưởng câu trả lời. Điện thoại: nhanh, phạm vi rộng; khó hỏi dài, nhiều người từ chối. Thư: không có ảnh hưởng của người phỏng vấn, người trả lời có thời gian suy nghĩ; tỷ lệ hồi đáp thấp, chậm, nay ít dùng. Trực tuyến (Google Forms, email, mạng xã hội): rất rẻ, nhanh, dữ liệu tự động vào bảng tính, dễ rẽ nhánh câu hỏi; nhưng chỉ tiếp cận người dùng internet, khó kiểm soát ai trả lời, dễ có câu trả lời qua loa.\nĐánh đổi dễ nhớ: đi từ trực tiếp đến trực tuyến, chi phí giảm dần nhưng mức chú ý của người trả lời cũng giảm dần. Nói: \"Làm khảo sát online, người ta vừa trả lời vừa xem video, nhắn tin.\" Hỏi lớp: \"Ai từng điền khảo sát online mà chọn bừa cho xong?\"",
+      "callout": "Dự án nhóm: khảo sát trực tuyến là thực tế nhất"
+    },
+    {
+      "type": "steps",
+      "title": "Khảo sát online của nhóm: gạn lọc, kiểm tra chú ý, một người một lần, rõ kênh phát hành",
+      "steps": [
+        {
+          "head": "Câu gạn lọc",
+          "text": "đúng đối tượng không? Trả lời “Không” → kết thúc"
+        },
+        {
+          "head": "Kiểm tra chú ý",
+          "text": "“Với câu này, vui lòng chọn Đồng ý”"
+        },
+        {
+          "head": "Một người, một lần",
+          "text": "cài giới hạn trên công cụ khảo sát"
+        },
+        {
+          "head": "Kênh phát hành",
+          "text": "nhóm mạng xã hội, lớp, trường cụ thể nào"
+        }
+      ],
+      "callout": "Ví dụ gạn lọc: “Trong 6 tháng qua, bạn có mua mỹ phẩm của thương hiệu nội địa không?”",
+      "notes": "Với dự án định lượng, khảo sát trực tuyến là lựa chọn thực tế nhất. Để hạn chế nhược điểm, phần phương pháp phải ghi rõ bốn việc.\nMột: câu hỏi gạn lọc ở đầu bảng hỏi — người trả lời có đúng đối tượng không? Ví dụ giả định: \"Trong 6 tháng qua, bạn có mua mỹ phẩm của thương hiệu nội địa không?\" — trả lời \"Không\" thì kết thúc khảo sát. Nhắc lại lỗi 1 của M4 ở đầu buổi: tiêu chí đối tượng khảo sát chính là câu gạn lọc.\nHai: câu kiểm tra sự chú ý — ví dụ \"Với câu này, vui lòng chọn 'Đồng ý'\". Phiếu chọn sai thì loại khi làm sạch dữ liệu.\nBa: mỗi người trả lời một lần — cài đặt giới hạn trên công cụ khảo sát.\nBốn: kênh phát hành cụ thể — nhóm Facebook, Zalo nào, lớp nào, trường nào.\nNói: \"Kênh phát hành quyết định ai trả lời — Buổi 8 sẽ nối nó với chọn mẫu.\" Nhắc: thiết kế chi tiết bảng hỏi ở Buổi 10–12; hôm nay chỉ cần chọn hình thức và mô tả cách phát hành.",
+      "direction": "v"
+    },
+    {
+      "type": "statement",
+      "title": "Nhóm cố định: hỏi cùng những người đó nhiều lần để thấy thay đổi",
+      "big": "Khảo sát là một bức ảnh; nhóm cố định là một đoạn phim",
+      "sub": "Ưu: theo dõi thay đổi theo thời gian. Nhược: tốn kém, thành viên bỏ ngang, đổi hành vi vì biết bị theo dõi",
+      "mark": "!",
+      "notes": "Định nghĩa: nhóm cố định (panel) là một mẫu người tham gia đồng ý cung cấp thông tin lặp lại nhiều lần theo thời gian, ví dụ ghi nhật ký mua sắm hằng tuần. Thường do các công ty nghiên cứu thị trường duy trì.\nƯu điểm: theo dõi được sự thay đổi hành vi theo thời gian; dữ liệu chi tiết, liên tục. Nhược điểm: chi phí duy trì cao; thành viên bỏ ngang; hành vi có thể thay đổi vì biết mình đang được theo dõi.\nHình ảnh dễ nhớ trên slide: khảo sát thông thường chụp một bức ảnh tại một thời điểm; nhóm cố định quay một đoạn phim trên cùng những người đó.\nLiên hệ dự án: dự án học phần không đủ thời gian làm nhóm cố định — nhưng nhóm có thể dùng số liệu từ nhóm cố định của công ty nghiên cứu làm dữ liệu thứ cấp. Nối lại phần thứ cấp: đó là lý do phải đọc phần phương pháp của báo cáo.\nNếu trễ giờ: chỉ nêu định nghĩa một câu và câu \"bức ảnh — đoạn phim\"."
+    },
+    {
+      "type": "steps",
+      "title": "Thử nghiệm: chủ động đổi một yếu tố, chia nhóm ngẫu nhiên, so với nhóm đối chứng",
+      "steps": [
+        {
+          "head": "Chia ngẫu nhiên",
+          "text": "Hai nhóm tương đương"
+        },
+        {
+          "head": "Nhóm thử nghiệm",
+          "text": "Xem quảng cáo mới"
+        },
+        {
+          "head": "Nhóm đối chứng",
+          "text": "Xem quảng cáo cũ"
+        },
+        {
+          "head": "So sánh",
+          "text": "Kết quả hai nhóm"
+        }
+      ],
+      "callout": "Ba loại: trong phòng · hiện trường · A/B trực tuyến",
+      "notes": "Định nghĩa: thử nghiệm (experiment) là phương pháp trong đó nhà nghiên cứu chủ động thay đổi một yếu tố — biến độc lập — và đo tác động lên một kết quả — biến phụ thuộc — trong khi kiểm soát các yếu tố khác. Đây là phương pháp chính của nghiên cứu nhân quả (Bài 1).\nĐi theo sơ đồ: người tham gia được phân ngẫu nhiên vào hai nhóm để hai nhóm tương đương nhau. Nhóm thử nghiệm nhận tác động, ví dụ xem quảng cáo mới. Nhóm đối chứng không nhận tác động, xem quảng cáo cũ. Cuối cùng so sánh kết quả.\nBa loại. Trong phòng: môi trường nhân tạo, kiểm soát cao — ví dụ cho hai nhóm sinh viên xem hai mẫu bao bì, đo mức ưa thích. Hiện trường: môi trường thực tế — hai cửa hàng tương tự, một cửa hàng thử trưng bày mới. A/B trực tuyến: hai phiên bản trang web hoặc quảng cáo hiển thị ngẫu nhiên — ví dụ so sánh tỷ lệ nhấp hai màu nút \"Mua ngay\". Các ví dụ là giả định.\nNối Bài 1: \"Đây là cách chuẩn để nói A gây ra B.\" Chuyển ý: vì sao phải có nhóm đối chứng? Tình huống sau."
+    },
+    {
+      "type": "case",
+      "title": "Giảm giá đúng mùa cao điểm: không có nhóm đối chứng thì không biết nguyên nhân",
+      "label": "Giả định",
+      "scenario": [
+        "Một chuỗi trà sữa giảm giá 20% trong tháng 6.",
+        "Doanh số tháng 6 tăng mạnh so với tháng 5.",
+        "Giám đốc kết luận: “Giảm giá hiệu quả!”"
+      ],
+      "question": "Kết luận đúng chưa? Còn điều gì có thể làm doanh số tăng?",
+      "notes": "Kể tình huống giả định, hỏi lớp trước khi giải thích. Một chuỗi trà sữa giảm giá 20% trong tháng 6, doanh số tháng 6 tăng mạnh so với tháng 5. Giám đốc kết luận: \"Giảm giá hiệu quả!\" — Đúng không?\nChờ 2–3 câu trả lời. Mong đợi: tháng 6 sinh viên nghỉ hè, thi xong; trời nóng; đối thủ đóng cửa sửa chữa… — có thể có biến thứ ba làm doanh số tăng.\nKể thêm trường hợp tương tự từ video: một hãng ô tô ở nước ngoài giảm giá đúng vào thời điểm có bão tuyết lớn trong vùng — doanh số tăng, nhưng không ai tách được bao nhiêu là do giảm giá, bao nhiêu là do bão. Không dùng con số cụ thể.\nNói: \"Vấn đề không phải giảm giá có hiệu quả hay không — mà là với dữ liệu này, ta không biết.\" Chuyển sang slide ba điều kiện nhân quả.\nLưu ý cho giảng viên: video nêu là Subaru và các nguồn đưa con số khác nhau — chỉ dùng logic \"biến thứ ba\", không nêu số."
+    },
+    {
+      "type": "cards",
+      "title": "Ba điều kiện để nói “giảm giá làm tăng doanh số”",
+      "cards": [
+        {
+          "head": "Đi cùng nhau",
+          "text": "Hai yếu tố có tương quan"
+        },
+        {
+          "head": "Nhân trước, quả sau",
+          "text": "Giảm giá xảy ra trước khi doanh số tăng"
+        },
+        {
+          "head": "Loại trừ cái khác",
+          "text": "Nghỉ hè, trời nóng, đối thủ đóng cửa?"
+        }
+      ],
+      "callout": "Cách loại trừ: phân nhóm ngẫu nhiên + nhóm đối chứng",
+      "notes": "Muốn kết luận \"giảm giá làm tăng doanh số\" phải thỏa ba điều kiện: một, hai yếu tố đi cùng nhau (tương quan); hai, nguyên nhân xảy ra trước kết quả; ba, loại trừ được các giải thích khác. Tình huống trà sữa thỏa điều kiện 1 và 2, nhưng trượt điều kiện 3.\nCách tốt nhất để loại trừ là phân nhóm ngẫu nhiên kết hợp nhóm đối chứng: ví dụ chọn ngẫu nhiên một nửa số cửa hàng tương tự để giảm giá, nửa còn lại giữ giá, cùng thời điểm. Khi đó mùa hè hay bão tuyết tác động lên cả hai nhóm như nhau, và khác biệt còn lại là do giảm giá.\nKết bằng lỗi hiểu thường gặp: \"Khảo sát thấy người xem quảng cáo nhiều thì mua nhiều, vậy quảng cáo làm tăng mua.\" Sai — khảo sát chỉ cho thấy hai điều đi cùng nhau. Có thể người vốn thích sản phẩm nên mới để ý quảng cáo. Chỉ thử nghiệm có phân nhóm ngẫu nhiên và nhóm đối chứng mới cho phép kết luận nhân quả.\nNhắc nhóm định lượng: trong bài, viết \"có mối quan hệ\", \"ảnh hưởng\" theo mô hình, không viết \"gây ra\" khi chỉ có dữ liệu khảo sát."
+    },
+    {
+      "type": "section",
+      "tag": "S7",
+      "kicker": "92–100 phút",
+      "title": "Hỗn hợp, chọn phương pháp, đạo đức",
+      "notes": "Phần S7 khoảng 8 phút: phương pháp hỗn hợp (2 phút), chọn phương pháp theo câu hỏi kèm kiểm tra nhanh giơ tay (3 phút), và năm nguyên tắc đạo đức khi thu dữ liệu sơ cấp (3 phút).\nĐây là phần nối kiến thức với dự án: sau phần này các nhóm phải tự chọn và biện luận phương pháp trong thực hành. Phần đạo đức không cắt khi trễ giờ."
+    },
+    {
+      "type": "steps",
+      "title": "Phương pháp hỗn hợp: định tính để hỏi đúng, định lượng để đo rộng, định tính để giải thích",
+      "steps": [
+        {
+          "head": "Định tính",
+          "text": "Khám phá: hành vi, từ ngữ của khách, giả thuyết",
+          "tag": "1"
+        },
+        {
+          "head": "Định lượng",
+          "text": "Khảo sát mẫu lớn, kiểm tra trên diện rộng",
+          "tag": "2"
+        },
+        {
+          "head": "Định tính",
+          "text": "Giải thích kết quả bất ngờ của khảo sát",
+          "tag": "3"
+        }
+      ],
+      "callout": "Phỏng vấn sơ bộ 3–5 người chính là lớp 1",
+      "notes": "Phương pháp hỗn hợp (mixed methods) kết hợp định tính và định lượng trong cùng một dự án để tận dụng ưu điểm và bù hạn chế của từng phương pháp. Cách phổ biến nhất: định tính trước để khám phá và điều chỉnh thang đo, định lượng sau để đo trên mẫu lớn.\nMô hình ba lớp định tính – định lượng – định tính, giống chiếc bánh kẹp. Lớp 1, định tính khám phá: phỏng vấn sâu hoặc thảo luận nhóm nhỏ để hiểu hành vi, ngôn ngữ của khách hàng, hình thành giả thuyết. Lớp 2, định lượng: khảo sát mẫu lớn để kiểm tra giả thuyết trên diện rộng. Lớp 3, định tính giải thích: thêm một vòng phỏng vấn ngắn để giải thích những kết quả bất ngờ.\nVí dụ minh họa không gắn thương hiệu: nghiên cứu dầu gội — vòng 1 thu từ ngữ người dùng mô tả tóc; vòng 2 đo mức phổ biến từng nhu cầu; vòng 3 hỏi vì sao người dùng ở một vùng phản hồi khác hẳn.\nLiên hệ dự án: nhóm định lượng thực chất đã đi lớp 1–2. Lớp 3 không bắt buộc.\nLưu ý cho giảng viên: video gán mô hình cho Sarah Weise — chưa kiểm chứng, không gán tác giả trên lớp."
+    },
+    {
+      "type": "table",
+      "title": "Câu hỏi nào, phương pháp nấy",
+      "header": [
+        "Nếu câu hỏi là…",
+        "Phương pháp"
+      ],
+      "rows": [
+        [
+          "1 · “Vì sao…?”, “Cảm nhận…?”",
+          "Phỏng vấn sâu, thảo luận nhóm"
+        ],
+        [
+          "2 · “Khách thực sự làm gì…?”",
+          "Quan sát"
+        ],
+        [
+          "3 · “Bao nhiêu %…?”, “Yếu tố nào…?”",
+          "Khảo sát"
+        ],
+        [
+          "4 · “Thay đổi theo thời gian?”",
+          "Nhóm cố định"
+        ],
+        [
+          "5 · “X có **làm** Y tăng không?”",
+          "Thử nghiệm"
+        ]
+      ],
+      "notes": "Chiếu bảng, đọc từng dòng. Câu hỏi \"vì sao khách hàng…\", \"họ cảm nhận thế nào…\" — phỏng vấn sâu, thảo luận nhóm. \"Khách hàng thực sự làm gì…\" — quan sát. \"Bao nhiêu phần trăm…\", \"yếu tố nào ảnh hưởng…\" — khảo sát. \"Hành vi thay đổi thế nào theo thời gian\" — nhóm cố định. \"Thay đổi X có làm Y tăng không\" — thử nghiệm.\nNói: \"Bảng này là công cụ các bạn dùng ngay trong Chặng 2 của thực hành. Đọc câu hỏi nghiên cứu của nhóm, tìm dòng khớp nhất.\"\nCâu chốt, nói chậm: \"Câu hỏi quyết định phương pháp — không phải phương pháp nào dễ làm.\" Nhắc lại lỗi 2 của M4: nhiều nhóm chọn khảo sát online vì dễ, chưa giải thích vì sao nó khớp câu hỏi.\nChuyển ngay sang kiểm tra nhanh ở slide sau.",
+      "callout": "Câu hỏi quyết định phương pháp, không phải cái dễ làm"
+    },
+    {
+      "type": "bullets",
+      "title": "Kiểm tra nhanh: giơ 1–5 ngón theo số dòng của bảng phương pháp",
+      "numbered": true,
+      "bullets": [
+        "Vì sao sinh viên chuyển từ ví điện tử này sang ví khác?",
+        "Bao nhiêu % sinh viên UEF đặt đồ ăn online ≥ 3 lần/tuần?",
+        "Đổi ảnh bìa sang ảnh người dùng có tăng lượt nhấp không?",
+        "Khách đứng chọn đồ uống ở quầy tự phục vụ bao lâu?",
+        "Thói quen mua online của một nhóm đổi ra sao qua 12 tháng?"
+      ],
+      "notes": "Giảng viên đọc từng câu hỏi nghiên cứu (giả định); lớp giơ tay theo quy ước: 1 ngón = phỏng vấn sâu hoặc thảo luận nhóm; 2 = quan sát; 3 = khảo sát; 4 = nhóm cố định; 5 = thử nghiệm. Mỗi câu khoảng 20 giây.\nĐáp án. Câu 1, vì sao sinh viên chuyển ví điện tử: 1 ngón — phỏng vấn sâu. Câu 2, bao nhiêu phần trăm sinh viên UEF đặt đồ ăn qua ứng dụng ít nhất 3 lần mỗi tuần: 3 ngón — khảo sát. Câu 3, đổi ảnh bìa bài đăng từ ảnh sản phẩm sang ảnh người dùng có làm tăng lượt nhấp: 5 ngón — thử nghiệm A/B. Câu 4, khách ở quầy tự phục vụ của cửa hàng tiện lợi đứng chọn đồ uống bao lâu, cầm lên đặt xuống mấy lần: 2 ngón — quan sát. Câu 5, thói quen mua sắm trực tuyến của một nhóm người tiêu dùng thay đổi thế nào qua 12 tháng: 4 ngón — nhóm cố định.\nNếu lớp chia rẽ ở câu 2 — có bạn chọn 1: chỉ ra \"bao nhiêu phần trăm\" là dấu hiệu định lượng. Chốt lại: câu hỏi quyết định phương pháp."
+    },
+    {
+      "type": "cards",
+      "title": "Năm nguyên tắc đạo đức khi thu dữ liệu sơ cấp",
+      "cards": [
+        {
+          "head": "Tự nguyện",
+          "text": "Biết mục đích, được dừng bất kỳ lúc nào"
+        },
+        {
+          "head": "Xin phép",
+          "text": "Trước khi ghi âm, ghi hình"
+        },
+        {
+          "head": "Ẩn danh",
+          "text": "Mã N1, N2…; không đưa lên AI"
+        },
+        {
+          "head": "Không gây hại",
+          "text": "Không giả danh, không lừa dối"
+        },
+        {
+          "head": "Trung thực",
+          "text": "Không tự điền, không nhờ AI bịa"
+        }
+      ],
+      "notes": "Năm nguyên tắc — nhắc lại bốn nguyên tắc đã nêu ở Buổi 1, thêm nguyên tắc về ghi âm, ghi hình (CLO8). Tự nguyện và được thông tin: giới thiệu mục đích, thời gian trả lời; người tham gia có quyền từ chối hoặc dừng bất kỳ lúc nào. Xin phép trước khi ghi âm, ghi hình: hỏi rõ, chỉ ghi khi được đồng ý. Ẩn danh và bảo mật: không thu tên, số điện thoại nếu không cần; trong báo cáo dùng mã N1, N2…; không đưa dữ liệu có thể nhận diện lên công cụ AI. Không gây hại, không lừa dối: không giả danh, không quan sát lén không gian riêng tư. Trung thực với dữ liệu: không tự điền phiếu, không dùng AI tạo câu trả lời giả, không sửa số liệu.\nNhấn hai điểm sát dự án. Một: đừng dán nguyên bản ghi phỏng vấn có tên, số điện thoại vào chatbot để \"tóm tắt giúp\" — ẩn danh trước rồi mới dùng. Hai: tự điền phiếu cho đủ cỡ mẫu hay nhờ AI \"tạo\" câu trả lời là bịa dữ liệu — vi phạm liêm chính học thuật nghiêm trọng.\nNói: \"Dữ liệu thật để lại dấu vết thật: nhật ký thu dữ liệu, dữ liệu thô, bản ghi đã ẩn danh.\"\nLưu ý cho giảng viên: bổ sung quy định của trường về phiếu đồng ý, ghi âm nếu có."
+    },
+    {
+      "type": "section",
+      "tag": "S8",
+      "kicker": "100–145 phút",
+      "title": "Thực hành nhóm: Xưởng phương pháp",
+      "notes": "Chuyển ý: \"Đủ lý thuyết. 45 phút tới, mỗi nhóm viết lại mục 4.3.2 — lần này cho thật đầy đủ.\"\nPhát phiếu nhóm Xưởng phương pháp (bảng A dữ liệu thứ cấp, bảng B nhóm định lượng, bảng C nhóm định tính, bảng kiểm D cho người quan sát khi đóng vai). Nhóm cần máy tính và đề cương M4. Không cắt phần thực hành khi trễ giờ; nếu thiếu giờ, chặng đóng vai chuyển thành bài tập phỏng vấn thử một người ngoài lớp trước Buổi 8."
+    },
+    {
+      "type": "activity",
+      "title": "Xưởng phương pháp (45'): viết lại mục 4.3.2 cho đầy đủ",
+      "stages": [
+        {
+          "time": "12'",
+          "text": "Tìm 2–3 nguồn thứ cấp, đánh giá theo 4 tiêu chuẩn"
+        },
+        {
+          "time": "18'",
+          "text": "Chọn phương pháp, viết mô tả và cam kết đạo đức"
+        },
+        {
+          "time": "7'",
+          "text": "Đóng vai phỏng vấn sâu 5' theo cặp + rút kinh nghiệm"
+        },
+        {
+          "time": "8'",
+          "text": "3 nhóm chia sẻ, mỗi nhóm 1,5 phút"
+        }
+      ],
+      "product": "bản nháp mục 4.3.2 cho bài tập về nhà",
+      "notes": "Để slide này trên màn hình suốt 45 phút. Chặng 1 (12'): tìm 2–3 nguồn có số liệu cho phần bối cảnh theo thứ tự gợi ý — bài báo khoa học đã có, số liệu cơ quan nhà nước và hiệp hội, báo cáo miễn phí của công ty nghiên cứu; ghi con số định dùng và đánh giá theo bốn tiêu chuẩn ở bảng A. Con số tìm qua bài báo mạng phải truy về nguồn gốc.\nChặng 2 (18'): viết lại câu hỏi nghiên cứu chính, chọn phương pháp xuất phát từ câu hỏi, viết mô tả theo bảng B (định lượng: kênh phát hành, câu gạn lọc, câu kiểm tra chú ý, phỏng vấn sơ bộ) hoặc bảng C (định tính: số người, tiêu chí chọn, 5–6 câu hỏi chính), cộng 2–3 câu cam kết đạo đức.\nChặng 3 (7'): ghép cặp phỏng vấn 5 phút, mở đầu bằng giới thiệu mục đích và xin phép ghi âm, dùng ít nhất 2 câu hỏi gợi mở; người thứ ba cầm bảng kiểm D; 2 phút rút kinh nghiệm. Người được phỏng vấn có thể nhập vai khách hàng giả định.\nChặng 4 (8'): 3 nhóm trình bày câu hỏi nghiên cứu, phương pháp và lý do, một phát hiện khi đóng vai.\nGiảng viên đi từng nhóm, hỏi: \"Nhóm chọn phương pháp vì câu hỏi hay vì dễ làm?\""
+    },
+    {
+      "type": "section",
+      "tag": "S9",
+      "kicker": "145–150 phút",
+      "title": "Kết buổi",
+      "notes": "Năm phút cuối: phiếu ra về, giao bài tập về nhà theo lộ trình dự án và nối sang Buổi 8. Phát phiếu giấy nhỏ cho từng bạn ngay khi chặng chia sẻ kết thúc để tiết kiệm thời gian.\nKhông cắt phần này khi trễ giờ: phiếu ra về là cách giảng viên kiểm tra mục tiêu cốt lõi của buổi — nhóm có chọn phương pháp xuất phát từ câu hỏi nghiên cứu hay không."
+    },
+    {
+      "type": "bullets",
+      "title": "Trước khi về: nhóm chọn phương pháp gì, vì câu hỏi nào?",
+      "numbered": true,
+      "bullets": [
+        "Nhóm mình chọn phương pháp … vì câu hỏi nghiên cứu của nhóm là …",
+        "Một điều mình vẫn còn mơ hồ về phương pháp thu thập dữ liệu"
+      ],
+      "callout": "Viết ra giấy, nộp lại trước khi rời lớp",
+      "notes": "Phát phiếu ra về — giấy nhỏ. Mỗi bạn viết hai dòng, làm cá nhân, khoảng 2 phút.\nDòng 1: \"Nhóm mình chọn phương pháp … vì câu hỏi nghiên cứu của nhóm là …\" Dòng 2: một điều mình vẫn còn mơ hồ về phương pháp thu thập dữ liệu.\nNói: \"Không chấm điểm. Viết thật — dòng 2 giúp tôi biết phần nào cần nhắc lại ở buổi sau.\"\nThu lại cuối buổi. Sau buổi học, giảng viên đọc dòng 1 để tìm nhóm nào chọn phương pháp vì \"dễ làm\" thay vì vì câu hỏi nghiên cứu — ghi chú để gặp nhóm đó ở đầu Buổi 8. Dòng 2 dùng để chọn nội dung nhắc lại ngắn khi mở đầu buổi sau."
+    },
+    {
+      "type": "cards",
+      "title": "Bài tập về nhà và buổi sau",
+      "cards": [
+        {
+          "head": "Bối cảnh",
+          "text": "≥ 2 số liệu thứ cấp, trích APA 7"
+        },
+        {
+          "head": "Mô tả",
+          "text": "Khoảng 1 trang: nguồn, phương pháp, lý do, đạo đức"
+        },
+        {
+          "head": "Hạn nộp",
+          "text": "Cùng bài giữa kỳ, trước Buổi 11"
+        }
+      ],
+      "callout": "Buổi 8: chọn mẫu — mang theo mô tả phương pháp",
+      "notes": "Bài tập về nhà theo lộ trình dự án, không chấm riêng; hoàn thiện vào đề cương và nộp cùng bài giữa kỳ trước Buổi 11.\nMột: phần bối cảnh có ít nhất 2 số liệu thứ cấp, trích dẫn APA 7, đã đánh giá theo 4 tiêu chuẩn. Hai: mô tả phương pháp thu thập khoảng 1 trang — dữ liệu thứ cấp dùng; phương pháp sơ cấp và lý do chọn gắn với câu hỏi nghiên cứu; nhóm định lượng ghi kênh phát hành, câu hỏi gạn lọc, câu kiểm tra chú ý, kế hoạch phỏng vấn sơ bộ 3–5 người; nhóm định tính ghi số người, tiêu chí chọn, 5–6 câu hỏi chính, cách xin đồng ý ghi âm; và đoạn cam kết đạo đức.\nTự học: tài liệu học tập Bài 5 và tài liệu đọc thêm của Buổi 7.\nCâu nối sang buổi sau: \"Hôm nay các nhóm đã quyết định hỏi bằng cách nào. Tuần sau là câu hỏi thứ ba từ Buổi 1: hỏi ai, và hỏi bao nhiêu người — tổng thể, khung mẫu, cỡ mẫu. Mang theo phần mô tả phương pháp vừa viết, vì kênh phát hành khảo sát quyết định cách chọn mẫu.\""
+    },
+    {
+      "type": "references",
+      "title": "Tài liệu tham khảo",
+      "refs": [
+        "Asch, S. E. (1956). Studies of independence and conformity: I. A minority of one against a unanimous majority. *Psychological Monographs: General and Applied, 70*(9), 1–70.",
+        "Bojei, J., Che Wel, C. A., & Oh, T. H. (2012). *Marketing research*. Open University Malaysia.",
+        "Brown, T. J., Suter, T. A., & Churchill, G. A. (2014). *Basic marketing research: Customer insights and managerial action* (8th ed.). Cengage Learning.",
+        "Malhotra, N. K. (2019). *Marketing research: An applied orientation* (7th ed.). Pearson.",
+        "Nguyễn, Đ. T. (2011). *Phương pháp nghiên cứu khoa học trong kinh doanh*. NXB Lao động – Xã hội.",
+        "Schouten, J. W., & McAlexander, J. H. (1995). Subcultures of consumption: An ethnography of the new bikers. *Journal of Consumer Research, 22*(1), 43–61.",
+        "Underhill, P. (2009). *Why we buy: The science of shopping* (Updated and revised ed.). Simon & Schuster."
+      ],
+      "notes": "Không giảng slide này. Nhắc sinh viên: khi đưa số liệu thứ cấp vào phần bối cảnh, phải trích nguồn gốc của số liệu theo đúng định dạng APA 7 như danh mục này — không trích bài báo mạng đưa lại con số. Danh mục được sắp xếp theo thứ tự chữ cái của tên tác giả.\nNếu sinh viên hỏi tài liệu nào nên đọc thêm: Malhotra (2019) và Brown và cộng sự (2014) cho phần phương pháp thu thập dữ liệu; Schouten và McAlexander (1995) là ví dụ kinh điển về nghiên cứu dân tộc học trong marketing.\nLưu ý cho giảng viên: cần kiểm tra năm và lần xuất bản của Underhill (2009)."
+    }
+  ]
+}

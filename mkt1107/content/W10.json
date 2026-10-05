@@ -1,0 +1,928 @@
+{
+  "deckTitle": "MKT1107 · Buổi 10 · Bài 8: Thiết kế bảng câu hỏi (phần 1)",
+  "fileName": "MKT1107_W10_slides.pptx",
+  "slides": [
+    {
+      "type": "cover",
+      "lessonTag": "Buổi",
+      "number": 10,
+      "title": "Bài 8: Thiết kế bảng câu hỏi (phần 1)",
+      "subtitle": "MKT1107 · Nghiên cứu Marketing",
+      "presenter": "GV: Đoàn Nguyễn Bảo Quyên",
+      "notes": "Chào lớp, không giảng slide này — chuyển ngay sang phần kiểm tra bài tập Buổi 9.\nNếu cần một câu mở đầu: “Hôm nay: vai trò của bảng hỏi và toàn bộ quy trình 8 bước thiết kế — để cuối buổi mỗi nhóm có một bản nháp đầy đủ.”\nBuổi học 150 phút: khoảng 75 phút giảng xen kẽ một bài kiểm tra nhanh trước giải lao và một hoạt động bắt lỗi 15 phút, rồi 45 phút xưởng bảng hỏi. Nhắc các nhóm mở sẵn bảng thang đo (định lượng) hoặc khung chủ đề (định tính) đã làm ở Buổi 9, và đề cương nhóm.\nPhạm vi: hôm nay đi cả 8 bước ở mức đủ để viết bản nháp; Buổi 11 đi sâu bước 1–4, Buổi 12 đi sâu bước 5–8. Khi sinh viên hỏi sâu về một bước, trả lời ngắn và hẹn buổi sau.\nLưu ý cho giảng viên: tương ứng UEF #1; xóa chữ “Lưu hành nội bộ 2024” và logo NotebookLM ở chân các slide UEF."
+    },
+    {
+      "type": "section",
+      "tag": "S1",
+      "kicker": "0–10 phút",
+      "title": "Khởi động: kiểm tra bài tập Buổi 9",
+      "notes": "Phân đoạn mở đầu 10 phút: kiểm tra bảng thang đo (định lượng) và khung chủ đề (định tính) — bài tập Buổi 9 — rồi mở bài bằng câu hỏi “hỏi sai thì sao?”.\nMời trước hai nhóm, một định lượng và một định tính, mỗi nhóm chiếu bảng của mình 1 phút. Các nhóm khác mở bảng của mình ra đối chiếu với ba câu kiểm ở slide sau.\nNếu nhiều nhóm chưa làm bài Buổi 9: ghi lại tên nhóm, sẽ dùng phương án dự phòng trong phần thực hành (lập bảng ánh xạ từ mô hình trong đề cương)."
+    },
+    {
+      "type": "cards",
+      "title": "Bảng thang đo của nhóm đã sẵn sàng thành câu hỏi chưa?",
+      "cards": [
+        {
+          "head": "Đủ biến?",
+          "text": "Mỗi khái niệm từ 3 biến, có mã và nguồn"
+        },
+        {
+          "head": "Khớp?",
+          "text": "Cấp thang đo khớp kỹ thuật phân tích"
+        },
+        {
+          "head": "Khía cạnh?",
+          "text": "ĐT: mỗi chủ đề có khía cạnh cụ thể"
+        }
+      ],
+      "callout": "Mỗi nhóm nhận một điểm cần sửa trước giờ thực hành",
+      "notes": "Tuần trước các bạn đã làm xong phần khó nhất về “đo cái gì”: nhóm định lượng có bảng thang đo — mỗi khái niệm có các biến quan sát, có mã, có nguồn kế thừa; nhóm định tính có khung chủ đề. Hôm nay bảng đó sẽ biến thành một bảng câu hỏi thật mà người ngoài trả lời được.\nBa câu kiểm: (1) Mỗi khái niệm có từ 3 biến quan sát trở lên, có mã biến (GIA1, GIA2…) và nguồn kế thừa không? (2) Cấp thang đo của mỗi biến có khớp kỹ thuật phân tích dự kiến không — muốn tính trung bình thì không thể đo bằng thang định danh. (3) Nhóm định tính: mỗi chủ đề đã có khía cạnh cụ thể chưa, hay mới là một từ chung chung như “trải nghiệm”?\nMời 2 nhóm chiếu bảng, mỗi nhóm 1 phút. Phản hồi mỗi nhóm một câu, chỉ ra một điểm cần sửa. Lỗi hay gặp: khái niệm chỉ có 1–2 biến; biến quan sát dịch sát chữ từ tiếng Anh nên khó hiểu; nhóm định tính viết sẵn câu Có/Không thay vì chủ đề."
+    },
+    {
+      "type": "statement",
+      "title": "Hỏi sai thì dữ liệu sai — mà người trả lời vẫn tích đủ mọi ô trong bảng",
+      "big": "Garbage in, garbage out",
+      "sub": "Không phần mềm thống kê nào cứu được một câu hỏi sai",
+      "mark": "!",
+      "notes": "Hỏi cả lớp: “Nếu câu hỏi trong bảng khảo sát bị đặt sai, người trả lời có bỏ trống không?” Chờ 2–3 câu trả lời.\nChốt: thường là không. Người ta vẫn tích vào một ô nào đó. Bảng tính vẫn đầy số, biểu đồ vẫn đẹp — nhưng con số đó không đo điều mình cần đo. Người giảng trong các video bài giảng hay nhắc câu “garbage in, garbage out” — đưa rác vào thì nhận rác ra. Và nguy hiểm nhất là rác trông giống hệt dữ liệu tốt.\nKhông có phần mềm thống kê nào “cứu” được một câu hỏi sai. Cho nên hôm nay là buổi quyết định chất lượng dữ liệu của cả dự án.\nCó thể gợi lại Buổi 9: “Tuần trước mình nói đo sai thì phân tích giỏi cũng sai — hôm nay là phần ‘hỏi’ của câu đó.”\nChuyển ý: “Vậy bảng hỏi là gì, và cần gì để tốt?”"
+    },
+    {
+      "type": "section",
+      "tag": "S2",
+      "kicker": "10–22 phút",
+      "title": "Bảng câu hỏi là gì, cần gì, đi qua mấy bước",
+      "notes": "Phân đoạn 12 phút: mục tiêu buổi học, vai trò bảng câu hỏi (8.1), hai yêu cầu cơ bản, “nguyên tắc 5 phút” và tổng quan quy trình 8 bước.\nNói nhanh ở mục tiêu và vai trò; dừng lâu hơn ở nguyên tắc 5 phút vì đây là chỗ sinh viên hay vi phạm nhất — bảng hỏi quá dài.\nTrước khi chuyển sang slide đầu tiên của phân đoạn, nói một câu nối với phần vừa học để lớp thấy mạch bài, và nhắc các nhóm đối chiếu ngay với bản nháp bảng hỏi hoặc dàn bài của mình."
+    },
+    {
+      "type": "steps",
+      "title": "Mục tiêu hôm nay: mỗi nhóm ra về với một bản nháp bảng hỏi đầy đủ",
+      "steps": [
+        {
+          "head": "Vai trò",
+          "text": "Bảng hỏi là gì, hai yêu cầu"
+        },
+        {
+          "head": "Tám bước",
+          "text": "Đi qua toàn bộ quy trình thiết kế"
+        },
+        {
+          "head": "Bản nháp",
+          "text": "ĐL: bảng hỏi 3 phần · ĐT: dàn bài phỏng vấn"
+        }
+      ],
+      "callout": "Buổi 11: sâu bước 1–4 · Buổi 12: sâu bước 5–8",
+      "notes": "Nói nhanh trong khoảng 30 giây. Cuối buổi hôm nay, mỗi nhóm ra về với một bản nháp đầy đủ — định lượng là bảng hỏi đủ ba phần, nếu kịp thì dựng luôn trên Google Forms; định tính là dàn bài phỏng vấn.\nĐể làm được, mình đi qua cả 8 bước thiết kế, nhưng chỉ dừng lâu ở những chỗ quyết định bản nháp: bảng ánh xạ, cấu trúc ba phần, và các lỗi đặt câu hỏi.\nPhân công ba buổi: hôm nay đủ 8 bước để có bản nháp; Buổi 11 quay lại đi sâu bước 1–4 và sửa theo kết quả phỏng vấn thử; Buổi 12 đi sâu bước 5–8 và chuẩn bị nhập liệu. Bản nháp hôm nay sẽ được sửa thành bản phát hành.\nLưu ý cho giảng viên: slide này viết lại UEF #2."
+    },
+    {
+      "type": "table",
+      "title": "Bảng hỏi là cầu nối giữa mục tiêu nghiên cứu và dữ liệu",
+      "header": [
+        "Tiêu chí",
+        "Bảng câu hỏi (ĐL)",
+        "Dàn bài thảo luận (ĐT)"
+      ],
+      "rows": [
+        [
+          "Câu hỏi",
+          "Cố định, chủ yếu đóng",
+          "Linh hoạt, chủ yếu mở"
+        ],
+        [
+          "Người dùng",
+          "Người trả lời tự điền",
+          "Người phỏng vấn làm khung"
+        ],
+        [
+          "Dữ liệu",
+          "Con số, dễ mã hóa",
+          "Lời nói, mã hóa chủ đề"
+        ]
+      ],
+      "boldFirstCol": true,
+      "callout": "Câu không phục vụ mục tiêu nào thì bỏ",
+      "notes": "Định nghĩa: bảng câu hỏi là tập hợp các câu hỏi được sắp xếp theo trình tự hợp lý, dùng để thu thập dữ liệu từ người trả lời một cách thống nhất — ai cũng được hỏi cùng một câu, cùng một cách, nên câu trả lời mới so sánh và cộng dồn được.\nCâu quan trọng nhất của 8.1: bảng hỏi là cầu nối giữa mục tiêu nghiên cứu và dữ liệu. Hai hệ quả mà cả buổi xoay quanh: câu hỏi nào không phục vụ mục tiêu nào thì không nên có; mục tiêu nào không có câu hỏi nào thì sẽ không có dữ liệu — và chương kết quả sẽ thiếu.\nĐọc nhanh bảng: bảng câu hỏi (định lượng) — câu cố định, chủ yếu đóng; người trả lời tự điền hoặc phỏng vấn viên đọc nguyên văn; dữ liệu là con số. Dàn bài thảo luận (định tính) — linh hoạt, chủ yếu câu mở; người phỏng vấn dùng làm khung, có thể hỏi thêm; dữ liệu là lời nói, cần gỡ băng và mã hóa theo chủ đề.\nHỏi nhanh: “Nhóm định tính có cần học bảng hỏi không?” → Có. Dàn bài vẫn đi qua gần đủ 8 bước: ánh xạ mục tiêu – câu hỏi, mở đầu – nội dung chính – kết thúc, tránh câu dẫn dắt và câu kép. Khác ở chỗ câu mở và câu gợi mở thêm (probing).\nLưu ý cho giảng viên: tương ứng UEF #3."
+    },
+    {
+      "type": "compare",
+      "title": "Bảng hỏi tốt phải vừa đầy đủ vừa dễ trả lời — và hai yêu cầu này kéo nhau",
+      "left": {
+        "head": "Đầy đủ",
+        "items": [
+          "Đủ cho mục tiêu",
+          "Đủ cho kế hoạch phân tích"
+        ]
+      },
+      "right": {
+        "head": "Thu hút, dễ trả lời",
+        "items": [
+          "Trả lời hết",
+          "Trả lời trung thực",
+          "Ngắn, rõ, không khó chịu"
+        ]
+      },
+      "vs": true,
+      "callout": "Giữ đúng câu cần, bỏ câu “hỏi cho biết”",
+      "notes": "Hai yêu cầu cơ bản của bảng hỏi.\nMột — đầy đủ: thu đủ thông tin cần cho mục tiêu nghiên cứu và cho kế hoạch phân tích. Thiếu thì không trả lời được câu hỏi nghiên cứu, hoặc kết luận sai.\nHai — thu hút, dễ trả lời: người trả lời sẵn lòng trả lời hết và trả lời trung thực — bảng hỏi ngắn gọn, rõ ràng, không gây khó chịu.\nNhấn: hai yêu cầu này kéo nhau theo hai hướng. “Muốn đầy đủ thì có xu hướng hỏi thêm; muốn dễ trả lời thì phải hỏi ít đi. Nghệ thuật thiết kế bảng hỏi là giữ đúng những câu cần, bỏ hết những câu ‘hỏi cho biết’.”\nHỏi lớp: “Trong bản nháp của nhóm bạn, có câu nào thêm vào chỉ vì ‘tiện thì hỏi luôn’ không?” Không cần trả lời to.\nLưu ý cho giảng viên: tương ứng UEF #4 (biểu đồ Venn hai vòng tròn)."
+    },
+    {
+      "type": "stat",
+      "title": "Không ai có nghĩa vụ trả lời khảo sát của bạn: nguyên tắc 5 phút",
+      "stats": [
+        {
+          "value": "5'",
+          "label": "Video: khoảng 2 trang giấy"
+        },
+        {
+          "value": "5–10'",
+          "label": "Tài liệu: khảo sát trực tuyến"
+        },
+        {
+          "value": "< 10'",
+          "label": "Nhóm: bấm giờ thật khi thử"
+        }
+      ],
+      "callout": "4–5 khái niệm × 3–5 biến = 15–25 câu Likert",
+      "notes": "Một người giảng trong video bài giảng nói thẳng: không ai có nghĩa vụ trả lời khảo sát của bạn. Người trả lời bận, mệt, đang lướt điện thoại. Ông đưa ra một quy tắc kinh nghiệm: một khảo sát chỉ có khoảng 5 phút sự chú ý của người trả lời — tương đương khoảng hai trang giấy câu hỏi. Quá mức đó, người trả lời bắt đầu “tích bừa” — chọn cùng một mức cho cả cột cho nhanh xong.\nNói rõ: đây là quy tắc kinh nghiệm của người giảng, không phải chuẩn cố định. Tài liệu học tập ghi độ dài hợp lý cho khảo sát trực tuyến là khoảng 5–10 phút. Mục tiêu cho nhóm: dưới 10 phút, càng gần 5 phút càng tốt — và phải bấm giờ thật khi phỏng vấn thử, không phải đoán.\nTính nhanh cùng lớp: mô hình 4–5 khái niệm × 3–5 biến là đã khoảng 15–25 câu Likert. Cộng thêm gạn lọc, hành vi và nhân khẩu học là chạm ngưỡng. Không còn chỗ cho câu “tiện thì hỏi luôn”.\nLưu ý cho giảng viên: [VERIFY] “5 phút ≈ 2 trang” là quy tắc kinh nghiệm trong video, chưa có nguồn học thuật."
+    },
+    {
+      "type": "timeline",
+      "title": "Tám bước, nhưng không đi một chiều: thử nghiệm phát hiện lỗi thì quay lại",
+      "items": [
+        {
+          "tag": "1",
+          "text": "Vấn đề cần thu thập"
+        },
+        {
+          "tag": "2",
+          "text": "Dạng phỏng vấn"
+        },
+        {
+          "tag": "3",
+          "text": "Nội dung câu hỏi"
+        },
+        {
+          "tag": "4",
+          "text": "Hình thức trả lời"
+        },
+        {
+          "tag": "5",
+          "text": "Thuật ngữ"
+        },
+        {
+          "tag": "6",
+          "text": "Cấu trúc"
+        },
+        {
+          "tag": "7",
+          "text": "Hình thức bảng hỏi"
+        },
+        {
+          "tag": "8",
+          "text": "Thử và sửa",
+          "highlight": true
+        }
+      ],
+      "callout": "Thử phát hiện lỗi → quay lại bước 3–5 để sửa",
+      "notes": "Tám bước thiết kế bảng hỏi: 8.2.1 xác định cụ thể vấn đề cần thu thập; 8.2.2 xác định dạng phỏng vấn; 8.2.3 đánh giá nội dung câu hỏi; 8.2.4 xác định hình thức trả lời; 8.2.5 xác định cách dùng thuật ngữ; 8.2.6 xác định cấu trúc bảng câu hỏi; 8.2.7 xác định hình thức bảng câu hỏi; 8.2.8 thử lần thứ nhất, sửa chữa, bản nháp cuối cùng.\nHai điều cần nói rõ. Thứ nhất, quy trình không hoàn toàn tuyến tính: khi thử nghiệm phát hiện lỗi, nhóm quay lại các bước trước — thường là bước 3–5 — để sửa. “Bản nháp hôm nay sẽ còn sửa ít nhất hai lần.”\nThứ hai, lịch của mình: hôm nay đi cả 8 bước; Buổi 11 đi sâu bước 1–4; Buổi 12 đi sâu bước 5–8. Mốc dự án: phát hành bảng hỏi sau Buổi 11, thu xong dữ liệu trước Buổi 13.\nChuyển ý: “Bước 1 là bước các nhóm hay bỏ qua nhất — và cũng là bước quyết định bảng hỏi có đầy đủ hay không.”\nLưu ý cho giảng viên: tương ứng UEF #5, bổ sung mũi tên quay lại có nhãn “phát hiện lỗi → sửa” và nhãn Buổi 11 (bước 1–4) / Buổi 12 (bước 5–8)."
+    },
+    {
+      "type": "section",
+      "tag": "S3",
+      "kicker": "22–45 phút",
+      "title": "Từ mục tiêu đến câu hỏi: bước 1–4",
+      "notes": "Phân đoạn 23 phút, phần nội dung dài nhất trước giải lao: bước 1 bảng ánh xạ (khoảng 9 phút), bước 2 dạng phỏng vấn (khoảng 4 phút), bước 3 đánh giá nội dung câu hỏi và câu nhạy cảm (khoảng 5 phút), bước 4 hình thức trả lời (khoảng 5 phút, lướt — Buổi 11 đi sâu).\nĐề nghị các nhóm mở bảng thang đo của mình để đối chiếu với ví dụ trong lúc nghe.\nTrước khi chuyển sang slide đầu tiên của phân đoạn, nói một câu nối với phần vừa học để lớp thấy mạch bài, và nhắc các nhóm đối chiếu ngay với bản nháp bảng hỏi hoặc dàn bài của mình."
+    },
+    {
+      "type": "steps",
+      "title": "Bước 1: đi ngược từ mục tiêu, đừng mở Google Forms rồi mới nghĩ câu hỏi",
+      "steps": [
+        {
+          "head": "Dự án nghiên cứu",
+          "text": "Thông tin cần có"
+        },
+        {
+          "head": "Bảng câu hỏi",
+          "text": "Cầu nối giữa hai bên"
+        },
+        {
+          "head": "Đối tượng",
+          "text": "Dữ liệu cần thu"
+        }
+      ],
+      "callout": "Viết câu trước, tìm mục tiêu sau = thừa và thiếu câu",
+      "notes": "Nhiều nhóm thiết kế bảng hỏi bằng cách mở Google Forms rồi nghĩ ra câu hỏi. Cách đó gần như chắc chắn sinh ra câu thừa và bỏ sót câu cần.\nCách làm đúng là đi ngược: từ mục tiêu, câu hỏi nghiên cứu và mô hình đã có trong đề cương, liệt kê chính xác từng thông tin cần thu, rồi mới viết câu hỏi. Bảng câu hỏi nằm giữa dự án nghiên cứu — nơi xác định thông tin cần có — và đối tượng nghiên cứu — nơi cung cấp dữ liệu.\nNói câu chốt: “Viết câu hỏi trước rồi tìm mục tiêu sau là cách chắc chắn nhất để có câu thừa và thiếu câu.”\nHỏi nhanh: “Nhóm nào đã dựng Google Forms trước khi lập danh sách thông tin cần thu?” — không phê bình, chỉ để lớp nhận ra.\nChuyển ý: “Công cụ để đi ngược là bảng ánh xạ bốn cột.”\nLưu ý cho giảng viên: tương ứng UEF #6 (ba ô nối mũi tên hai chiều)."
+    },
+    {
+      "type": "table",
+      "title": "Bảng ánh xạ: mục tiêu → thông tin → câu hỏi → kỹ thuật phân tích",
+      "header": [
+        "Mục tiêu",
+        "Thông tin",
+        "Câu",
+        "Phân tích"
+      ],
+      "rows": [
+        [
+          "Lọc đúng đối tượng",
+          "SV học tại TP.HCM",
+          "C1 gạn lọc",
+          "—"
+        ],
+        [
+          "Mô tả hành vi mua",
+          "Đã mua, số lần, nơi mua",
+          "C2–C4",
+          "Tần số, tỷ lệ"
+        ],
+        [
+          "Đánh giá giá, chất lượng",
+          "GIA1–3, CL1–3",
+          "C5–C10",
+          "Trung bình, độ lệch chuẩn"
+        ],
+        [
+          "Đo ý định mua",
+          "YD1–YD3",
+          "C11–C13",
+          "Trung bình, độ lệch chuẩn"
+        ]
+      ],
+      "boldFirstCol": true,
+      "notes": "Bảng ánh xạ có bốn cột: mục tiêu hoặc câu hỏi nghiên cứu → thông tin cần thu → câu hỏi trong bảng hỏi → kỹ thuật phân tích.\nVí dụ (giả định) — đề tài ý định mua mỹ phẩm nội địa của sinh viên TP.HCM, mô hình đã dùng ở Bài 4 và Bài 7. Đi từng dòng: lọc đúng đối tượng — có phải sinh viên đang học tại TP.HCM — câu C1 gạn lọc. Mô tả hành vi mua mỹ phẩm nội địa — đã từng mua chưa, số lần mua trong 3 tháng qua, nơi mua — C2 đến C4, phân tích tần số, tỷ lệ. Đo đánh giá về giá và chất lượng — nhận thức về giá GIA1–GIA3, chất lượng cảm nhận CL1–CL3 — C5 đến C10, trung bình, độ lệch chuẩn. Đo ý định mua — YD1–YD3 — C11 đến C13.\nNhấn: mỗi dòng nối một mục tiêu với đúng những câu hỏi cần có. Slide sau là phần còn lại của bảng — các giả thuyết và đặc điểm mẫu.\nLưu ý cho giảng viên: bảng đầy đủ 7 dòng nằm trong bài giảng mục S3.1; ở đây tách thành hai slide. Cột “kỹ thuật phân tích” nối với Bài 7 và Bài 9."
+    },
+    {
+      "type": "table",
+      "title": "Cột phân tích quyết định câu nào bắt buộc",
+      "header": [
+        "Mục tiêu",
+        "Thông tin",
+        "Câu",
+        "Phân tích"
+      ],
+      "rows": [
+        [
+          "Giá và ý định (H1)",
+          "GIA, YD",
+          "C5–C7, C11–C13",
+          "Tương quan"
+        ],
+        [
+          "Nam và nữ (H2)",
+          "YD, giới tính",
+          "C11–C13, C15",
+          "Kiểm định khác biệt"
+        ],
+        [
+          "Mô tả mẫu",
+          "Giới tính, năm học, chi tiêu",
+          "C15–C17",
+          "Tần số, tỷ lệ"
+        ]
+      ],
+      "boldFirstCol": true,
+      "callout": "So sánh theo giới tính → bắt buộc có câu giới tính",
+      "notes": "Ba dòng còn lại của bảng ánh xạ (giả định): xem xét mối liên hệ giữa nhận thức về giá và ý định mua (H1) — dùng GIA và YD, câu C5–C7 và C11–C13, phân tích tương quan nhị biến. So sánh ý định mua giữa nam và nữ (H2) — YD và giới tính, C11–C13 và C15, kiểm định khác biệt. Mô tả đặc điểm mẫu — giới tính, năm học, mức chi tiêu hằng tháng — C15–C17, tần số, tỷ lệ.\nChỉ vào cột cuối: đây là chỗ nối với Bài 7 (cấp thang đo) và Bài 9 (phân tích). Nếu cột này ghi “kiểm định khác biệt theo giới tính” thì bảng hỏi bắt buộc phải có câu giới tính. Nếu ghi “trung bình” thì biến đó phải đo bằng thang quãng (ví dụ Likert 5 điểm), không thể là câu định danh.\nNhắc phạm vi: phân tích trong học phần dừng ở mô tả, đơn biến và nhị biến; nhóm nào làm thêm hồi quy là điểm cộng — nhưng câu hỏi vẫn là những câu này.\nHỏi lớp: “Nếu bỏ câu C15, dòng nào của bảng bị hỏng?” — đáp án: H2 và mô tả mẫu."
+    },
+    {
+      "type": "compare",
+      "title": "Bảng ánh xạ bắt được hai lỗi: câu thừa và mục tiêu thiếu câu",
+      "left": {
+        "head": "Câu thừa → cắt",
+        "items": [
+          "“Bạn thích màu son nào?”",
+          "Không giúp quyết định thì đừng hỏi"
+        ]
+      },
+      "right": {
+        "head": "Thiếu câu → thêm ngay",
+        "items": [
+          "Bây giờ: sửa mất 1 phút",
+          "Sau 150 phiếu: không sửa được"
+        ]
+      },
+      "vs": true,
+      "callout": "ĐT: mục tiêu → chủ đề → câu hỏi chính + gợi mở",
+      "notes": "Bảng ánh xạ bắt được hai lỗi.\nCâu thừa — câu hỏi không nằm ở dòng nào. Ví dụ “Bạn thích màu son nào nhất?” nghe vui nhưng không phục vụ mục tiêu nào → cắt. Người giảng trong video có một quy tắc dễ nhớ: nếu câu hỏi không giúp ra quyết định thì đừng hỏi.\nMục tiêu thiếu câu — một mục tiêu có trong đề cương nhưng không có câu hỏi nào thu dữ liệu cho nó. “Phát hiện lúc này thì sửa mất 1 phút; phát hiện khi đã thu xong 150 phiếu thì không sửa được nữa.”\nNhóm định tính lập bảng ánh xạ ba cột: mục tiêu → chủ đề / khía cạnh (từ khung chủ đề Buổi 9) → câu hỏi chính + câu gợi mở. Cột phân tích là “mã hóa theo chủ đề” cho mọi dòng.\nHỏi lớp: “Mục tiêu nào trong đề cương nhóm bạn đang chưa có câu hỏi?” — các nhóm tự ghi chú, sẽ sửa ở phần thực hành."
+    },
+    {
+      "type": "table",
+      "title": "Bước 2: cách thu thập dữ liệu quyết định cách viết từng câu hỏi",
+      "header": [
+        "Dạng",
+        "Ưu điểm",
+        "Nhược điểm"
+      ],
+      "rows": [
+        [
+          "Trực diện",
+          "Giải thích được, hỏi lâu",
+          "Tốn kém, trả lời “đẹp”"
+        ],
+        [
+          "Điện thoại",
+          "Nhanh, chi phí vừa",
+          "Không dùng hình ảnh"
+        ],
+        [
+          "Thư",
+          "Không bị người hỏi tác động",
+          "Hồi đáp thấp, chậm"
+        ],
+        [
+          "Trực tuyến",
+          "Rẻ, nhanh, tự rẽ nhánh",
+          "Dễ trả lời qua loa"
+        ]
+      ],
+      "boldFirstCol": true,
+      "notes": "Không đọc hết bảng. Hỏi lớp hai câu: “Dạng nào rẻ nhất?” và “Dạng nào người trả lời chú ý ít nhất?” — chờ vài giây. Đáp án cho cả hai: trực tuyến.\nTóm tắt nhanh ảnh hưởng đến thiết kế: phỏng vấn trực diện giải thích được, dùng được hình ảnh, thẻ trả lời, hỏi được lâu, nhưng tốn kém và người trả lời dễ trả lời theo hướng “đẹp” — bảng hỏi có thể dài hơn, cần hướng dẫn cho phỏng vấn viên. Điện thoại nhanh, chi phí vừa, nhưng không dùng được hình ảnh, khó hỏi câu nhiều lựa chọn dài — câu phải ngắn, ít lựa chọn. Thư không có ảnh hưởng của người phỏng vấn nhưng tỷ lệ hồi đáp thấp, chậm — hướng dẫn phải thật rõ. Trực tuyến rẻ, nhanh, tự động rẽ nhánh, bắt buộc trả lời, dữ liệu vào thẳng bảng tính, nhưng khó kiểm soát người trả lời và dễ trả lời qua loa.\nChuyển ý: “Dự án của lớp gần như chắc chắn là khảo sát trực tuyến — nên ta xem kỹ dạng này.”\nLưu ý cho giảng viên: tương ứng UEF #7."
+    },
+    {
+      "type": "cards",
+      "title": "Dự án của lớp là khảo sát trực tuyến: rẻ, nhanh, nhưng người trả lời dễ lơ đãng",
+      "cards": [
+        {
+          "head": "Câu gạn lọc",
+          "text": "Lọc đúng người khi link lan qua mạng xã hội"
+        },
+        {
+          "head": "Hướng dẫn rõ",
+          "text": "Không ai đứng cạnh để giải thích"
+        },
+        {
+          "head": "Ngắn",
+          "text": "Người trả lời vừa làm vừa nhắn tin"
+        },
+        {
+          "head": "Hợp điện thoại",
+          "text": "Phần lớn trả lời trên điện thoại"
+        }
+      ],
+      "notes": "Với dự án định lượng của lớp, dạng gần như chắc chắn là khảo sát trực tuyến (Google Forms hoặc tương tự). Điểm cần nhớ: trực tuyến là dạng rẻ nhất nhưng người trả lời chú ý ít nhất — vừa trả lời vừa nhắn tin, xem video.\nNói: “Không ai đứng cạnh để giải thích câu khó hiểu — câu hỏi phải tự đứng được.”\nVì vậy với khảo sát trực tuyến, phải làm kỹ hơn: câu gạn lọc — để lọc đúng người khi phát link qua mạng xã hội; hướng dẫn trả lời rõ ràng; ngắn; và tối ưu cho điện thoại.\nNhóm định tính: phỏng vấn sâu trực tiếp hoặc trực tuyến qua gọi video; cả hai đều cần xin phép ghi âm ở phần mở đầu.\nHỏi nhanh: “Bạn gần nhất làm một khảo sát trực tuyến là trên thiết bị nào?” — hầu hết sẽ nói điện thoại. Đó là lý do phải xem thử form trên điện thoại trước khi phát hành."
+    },
+    {
+      "type": "cards",
+      "title": "Bước 3: bốn câu kiểm tra trước khi giữ lại một câu hỏi trong bảng",
+      "cards": [
+        {
+          "head": "Cần thiết?",
+          "text": "Phục vụ mục tiêu nào?"
+        },
+        {
+          "head": "Hiểu được?",
+          "text": "Từ ngữ đơn giản, rõ"
+        },
+        {
+          "head": "Có thông tin?",
+          "text": "Nhớ được, biết được"
+        },
+        {
+          "head": "Sẵn lòng?",
+          "text": "Không ngại trả lời"
+        }
+      ],
+      "callout": "“Có hay mua không?” → “3 tháng qua mua mấy lần?”",
+      "notes": "Với mỗi câu hỏi, tự hỏi bốn câu — và biết xử lý khi câu trả lời là “không”.\nMột: câu này có cần thiết không, phục vụ mục tiêu nào? Không → bỏ; bảng ánh xạ đã làm việc này. Hai: người trả lời có hiểu không? Không → viết lại đơn giản hơn, giải thích thuật ngữ. Ba: người trả lời có thông tin để trả lời không — nhớ được, biết được? Không → thêm câu gạn lọc (“Bạn đã từng dùng… chưa?”), rút ngắn khoảng thời gian hỏi lại, thêm “Không nhớ”. Bốn: người trả lời có sẵn lòng trả lời không? Không → câu nhạy cảm hỏi theo khoảng, đặt cuối, cam kết ẩn danh, cho phép “Không muốn trả lời”.\nThêm một yêu cầu: câu hỏi phải thu đúng dữ liệu cần. Cần biết tần suất mua thì đừng hỏi “Bạn có hay mua không?” mà hỏi “Trong 3 tháng qua, bạn mua bao nhiêu lần?”.\nLưu ý cho giảng viên: tương ứng UEF #8 — thêm ô “Cần thiết?” (UEF ghi “Có đúng dữ liệu cần không?”)."
+    },
+    {
+      "type": "compare",
+      "title": "Câu nhạy cảm: hỏi theo khoảng, để cuối, cho phép “không muốn trả lời”",
+      "left": {
+        "head": "SAI",
+        "items": [
+          "“Thu nhập hàng tháng của bạn là bao nhiêu?”"
+        ]
+      },
+      "right": {
+        "head": "SỬA: chi tiêu theo khoảng",
+        "items": [
+          "Dưới 3 triệu",
+          "Từ 3 đến dưới 5 triệu",
+          "Từ 5 đến dưới 7 triệu",
+          "Từ 7 triệu trở lên · Không muốn trả lời"
+        ]
+      },
+      "notes": "Câu nhạy cảm — với sinh viên, thường là tiền: thu nhập, chi tiêu, nợ. Thay vì hỏi thẳng “Thu nhập hàng tháng của bạn là bao nhiêu?”, hỏi theo khoảng và đặt ở cuối bảng hỏi: “Mức chi tiêu hàng tháng của bạn (không tính học phí)” với các khoảng: dưới 3 triệu đồng; từ 3 đến dưới 5 triệu; từ 5 đến dưới 7 triệu; từ 7 triệu trở lên; không muốn trả lời.\nChỉ vào dòng “Từ 3 đến dưới 5 triệu”: “Để ý cách viết khoảng — ‘từ… đến dưới…’. Lát nữa ở phần lỗi mình gặp lại chuyện này.”\nNối với Buổi 9: hỏi theo khoảng là chấp nhận hạ cấp thang đo từ tỷ lệ xuống thứ tự — đổi lại người trả lời sẵn lòng trả lời. Với câu nhạy cảm, đó là đánh đổi hợp lý; với câu không nhạy cảm thì hỏi số cụ thể.\nLưu ý cho giảng viên: UEF #9 dùng ví dụ “Bạn bao nhiêu tuổi?” và gọi là “xâm phạm quyền riêng tư”; với sinh viên tuổi ít nhạy cảm — slide đã đổi sang ví dụ chi tiêu như tài liệu học tập và bỏ chữ “xâm phạm quyền riêng tư”."
+    },
+    {
+      "type": "compare",
+      "title": "Bước 4: câu đóng cho dữ liệu dễ đếm, câu mở cho điều mình chưa nghĩ tới",
+      "left": {
+        "head": "Câu đóng",
+        "items": [
+          "Nhị phân, nhiều lựa chọn",
+          "Xếp hạng, thang đo",
+          "Dễ mã hóa, phân tích"
+        ]
+      },
+      "right": {
+        "head": "Câu mở",
+        "items": [
+          "Thu ý ngoài dự kiến",
+          "Khó mã hóa, dễ bỏ trống",
+          "ĐL: chỉ 1–2 câu mở"
+        ]
+      },
+      "vs": true,
+      "callout": "ĐT: câu mở + câu gợi mở thêm là công cụ chính",
+      "notes": "Lướt nhanh — Buổi 11 đi sâu.\nCâu hỏi đóng cho sẵn phương án: nhị phân; nhiều lựa chọn – một đáp án; nhiều lựa chọn – nhiều đáp án; xếp hạng; thang đo (Likert, đối nghĩa — Bài 7). Dễ trả lời, dễ mã hóa, dễ phân tích; nhưng có thể bỏ sót ý nằm ngoài danh sách.\nCâu hỏi mở để người trả lời tự diễn đạt. Thu được ý ngoài dự kiến; nhưng khó mã hóa và tốn công trả lời nên nhiều người bỏ trống. Trong bảng hỏi định lượng chỉ nên có 1–2 câu mở, ví dụ góp ý cuối bảng. Người giảng trong video cũng khuyên “tối đa hai câu mở” — quy tắc kinh nghiệm, khớp với tài liệu học tập.\nTrong phỏng vấn định tính thì ngược lại: câu mở kèm câu gợi mở thêm (“Bạn có thể kể thêm…?”, “Vì sao bạn nghĩ vậy?”) là công cụ chính.\nLưu ý cho giảng viên: tương ứng UEF #10 + #13; [VERIFY] “tối đa 2 câu mở” là quy tắc kinh nghiệm trong video."
+    },
+    {
+      "type": "cards",
+      "title": "Phương án phải đủ, không trùng; số bậc xếp hạng bằng số mục",
+      "cards": [
+        {
+          "head": "Xếp hạng 3 mục",
+          "text": "Giá · Mùi hương · Bao bì: 1 = quan trọng nhất, 3 = ít quan trọng nhất"
+        },
+        {
+          "head": "Nhiều lựa chọn",
+          "text": "Câu chọn dầu gội: liệt kê đủ và thêm “Khác: ____”"
+        }
+      ],
+      "callout": "Phương án phải đầy đủ và loại trừ nhau",
+      "notes": "Hai lưu ý cho câu đóng — sẽ gặp lại ở phần lỗi.\nMột: phương án phải đầy đủ — thêm “Khác: ____” khi cần — và loại trừ nhau, không chồng lên nhau.\nHai: với câu xếp hạng, số bậc phải bằng số mục. Ba mục — giá, mùi hương, bao bì — thì “1 = quan trọng nhất, 3 = ít quan trọng nhất”.\nHỏi lớp để tự phát hiện: “Slide gốc của bài này ghi ‘1 = Quan trọng nhất, 5 = Ít nhất’ cho một câu xếp hạng chỉ có 3 mục — lỗi gì?” Chờ vài giây. Đáp án: số bậc không bằng số mục; người trả lời không biết dùng hạng 4, 5 ở đâu.\nLiên hệ Buổi 9: xếp hạng là thang thứ tự — khi phân tích báo cáo tỷ lệ xếp hạng 1, không tính hạng trung bình.\nLưu ý cho giảng viên: tương ứng UEF #11 (đã sửa thang xếp hạng 1–3) + #12 (câu nhiều lựa chọn dầu gội có “Khác”)."
+    },
+    {
+      "type": "section",
+      "tag": "S4",
+      "kicker": "45–50 phút",
+      "title": "Kiểm tra nhanh",
+      "notes": "Phân đoạn 5 phút kiểm tra xem lớp đã dùng được bảng ánh xạ chưa, ngay trước giải lao.\nCách làm: chiếu bảng ánh xạ rút gọn ở slide sau; làm theo cặp 30 giây; chỉ định 2 bạn trả lời (không chờ xung phong) để kiểm tra đúng người chưa chắc.\nTrước khi chuyển sang slide đầu tiên của phân đoạn, nói một câu nối với phần vừa học để lớp thấy mạch bài, và nhắc các nhóm đối chiếu ngay với bản nháp bảng hỏi hoặc dàn bài của mình."
+    },
+    {
+      "type": "table",
+      "title": "Kiểm tra nhanh: trong bảng này, câu nào thừa và mục tiêu nào thiếu câu?",
+      "header": [
+        "Mục tiêu (trà sữa, giả định)",
+        "Câu hỏi"
+      ],
+      "rows": [
+        [
+          "M1 · Tần suất và mức chi",
+          "C1–C2"
+        ],
+        [
+          "M2 · Hài lòng với cửa hàng X",
+          "C3–C5 (Likert 5 điểm)"
+        ],
+        [
+          "M3 · So sánh năm 1 và năm khác",
+          "—"
+        ],
+        [
+          "(không thuộc mục tiêu nào)",
+          "C6 · Thích nghe nhạc gì khi uống?"
+        ]
+      ],
+      "callout": "Cặp 30 giây: câu nào thừa? mục tiêu nào thiếu?",
+      "notes": "Bảng ánh xạ rút gọn của đề tài giả định “trà sữa gần trường” — 3 mục tiêu, 6 câu hỏi. M1: mô tả tần suất và mức chi cho trà sữa — C1 số lần mua trong 7 ngày qua, C2 số tiền trung bình mỗi lần. M2: đo mức hài lòng với cửa hàng X — C3 đến C5 hài lòng về vị, giá, phục vụ (Likert 5 điểm). M3: so sánh mức hài lòng giữa sinh viên năm 1 và các năm khác — chưa có câu. Và C6 “Bạn thích nghe thể loại nhạc nào khi uống trà sữa?” không thuộc mục tiêu nào.\nCho cặp 30 giây, rồi chỉ định 2 bạn trả lời hai câu hỏi: (1) Câu nào thừa? (2) Mục tiêu nào thiếu câu — cần thêm câu gì?\nĐáp án mong đợi: (1) C6 thừa → cắt, trừ khi nhóm bổ sung một mục tiêu cần nó và có lý do. (2) M3 thiếu câu năm học — đặt ở phần thông tin cá nhân cuối bảng; kỹ thuật phân tích: kiểm định khác biệt.\nCâu chốt: “Bước 1 mất 10 phút, nhưng tiết kiệm cho nhóm một lần khảo sát lại.”"
+    },
+    {
+      "type": "break",
+      "title": "Giải lao 15 phút",
+      "big": "15'",
+      "sub": "Quay lại lúc …",
+      "notes": "Giải lao 15 phút (phút 50–65). Điền giờ quay lại cụ thể vào dấu “…” trước khi chiếu.\nNhắc lớp trong giờ nghỉ mở sẵn bảng thang đo (định lượng) hoặc khung chủ đề (định tính) của nhóm, và đề cương — sau giải lao là cấu trúc bảng hỏi rồi đến phần bắt lỗi, các nhóm sẽ cần đối chiếu ngay.\nNếu có thể, trong giờ nghỉ mở sẵn một Google Forms mẫu trên máy chiếu để dùng ở slide Google Forms."
+    },
+    {
+      "type": "section",
+      "tag": "S5",
+      "kicker": "65–78 phút",
+      "title": "Cấu trúc 3 phần và hình thức trực tuyến",
+      "notes": "Phân đoạn 13 phút: bước 6 — cấu trúc ba phần của bảng hỏi (khoảng 8 phút) và bước 7 — hình thức bảng hỏi trực tuyến trên Google Forms (khoảng 5 phút).\nNhóm định tính ghi lại cấu trúc dàn bài tương ứng: mở đầu – câu khởi động – câu hỏi chính theo chủ đề – kết thúc.\nTrước khi chuyển sang slide đầu tiên của phân đoạn, nói một câu nối với phần vừa học để lớp thấy mạch bài, và nhắc các nhóm đối chiếu ngay với bản nháp bảng hỏi hoặc dàn bài của mình."
+    },
+    {
+      "type": "steps",
+      "title": "Bước 6: bảng hỏi có ba phần — mở đầu, nội dung chính, thông tin cá nhân",
+      "steps": [
+        {
+          "head": "Mở đầu",
+          "text": "Thuyết phục + câu gạn lọc"
+        },
+        {
+          "head": "Nội dung chính",
+          "text": "Hành vi, các thang đo khái niệm"
+        },
+        {
+          "head": "Thông tin cá nhân",
+          "text": "Để cuối cùng + lời cảm ơn"
+        }
+      ],
+      "callout": "Như một cuộc trò chuyện: chuyện riêng để sau cùng",
+      "notes": "Hình dung bảng hỏi như một cuộc trò chuyện: chào hỏi, giới thiệu mình là ai, hỏi chuyện nhẹ trước, chuyện chính sau, chuyện riêng tư sau cùng — khi người ta đã thoải mái.\nBa phần. Phần 1 — mở đầu (giới thiệu + gạn lọc): lời chào, người thực hiện, mục đích nghiên cứu, thời gian trả lời dự kiến, cam kết ẩn danh và tự nguyện, câu hỏi gạn lọc. Nhiệm vụ: thuyết phục người trả lời tham gia và lọc đúng đối tượng.\nPhần 2 — nội dung chính: các câu hỏi phục vụ mục tiêu — hành vi, các thang đo khái niệm — sắp xếp theo phễu, dễ trước khó sau.\nPhần 3 — thông tin cá nhân: giới tính, năm học, mức chi tiêu… và lời cảm ơn. Để cuối; chỉ hỏi thông tin thực sự dùng trong phân tích.\nHỏi nhanh: “Bản nháp của nhóm bạn đang hỏi giới tính ở đâu?”\nLưu ý cho giảng viên: tương ứng UEF #20 (hình “giải phẫu” bảng hỏi)."
+    },
+    {
+      "type": "case",
+      "title": "Phần mở đầu phải thuyết phục người trả lời và lọc đúng người",
+      "label": "Mở đầu mẫu",
+      "scenario": [
+        "“Xin chào bạn! Chúng tôi là nhóm sinh viên học phần Nghiên cứu Marketing (UEF), đang tìm hiểu ý kiến sinh viên về mỹ phẩm nội địa.",
+        "Khảo sát mất khoảng 7 phút, ẩn danh và chỉ dùng cho học tập. Bạn có thể dừng bất kỳ lúc nào.”"
+      ],
+      "question": "Đã đủ: ai làm, để làm gì, bao lâu, ẩn danh?",
+      "notes": "Phần mở đầu có hai nhiệm vụ. Nhiệm vụ thuyết phục: nói rõ ai làm, làm để làm gì, mất bao lâu, dữ liệu được giữ thế nào — ẩn danh, tự nguyện. Nhiệm vụ sàng lọc: câu gạn lọc.\nĐọc đoạn mở đầu mẫu (giả định): “Xin chào bạn! Chúng tôi là nhóm sinh viên học phần Nghiên cứu Marketing, Trường Đại học Kinh tế – Tài chính TP.HCM. Chúng tôi đang tìm hiểu ý kiến của sinh viên về mỹ phẩm nội địa. Khảo sát mất khoảng 7 phút. Mọi câu trả lời được giữ ẩn danh và chỉ dùng cho mục đích học tập. Bạn có thể dừng bất kỳ lúc nào.” Tiếp theo là câu gạn lọc: “Hiện bạn có phải là sinh viên đang học tại TP.HCM không? Có (tiếp tục) / Không (cảm ơn và kết thúc).”\nHỏi lớp câu bên phải, cho lớp đối chiếu đoạn mẫu với bốn yếu tố.\nNhấn: “Ghi đúng thời gian. Ghi 3 phút mà thực tế 12 phút thì người ta bỏ giữa chừng — và mất lòng tin.”\nLưu ý cho giảng viên: tương ứng UEF #21 (hai ô Nhiệm vụ 1 / Nhiệm vụ 2), đoạn mở đầu mẫu đặt bên dưới."
+    },
+    {
+      "type": "compare",
+      "title": "Câu gạn lọc đứng đầu: người không thuộc đối tượng được cảm ơn và dừng",
+      "left": {
+        "head": "Đã từng → Phần 2",
+        "items": [
+          "Sang phần đánh giá"
+        ]
+      },
+      "right": {
+        "head": "Chưa từng → Cảm ơn",
+        "items": [
+          "Kết thúc, không hỏi tiếp"
+        ]
+      },
+      "vs": true,
+      "callout": "“3 tháng qua, bạn đã từng ăn tại cơm gà X chưa?”",
+      "notes": "Câu gạn lọc đứng đầu tiên. Lý do rất thực tế: link khảo sát sẽ được chia sẻ qua mạng xã hội và đến tay cả những người không thuộc đối tượng. Gạn lọc ở đầu thì người không phù hợp được cảm ơn và kết thúc ngay — không mất thời gian của họ, và không làm bẩn dữ liệu của mình.\nĐặt gạn lọc ở giữa hay cuối là phí thời gian của người trả lời — và nhiều nhóm sẽ phải tự tay lọc lại phiếu.\nVí dụ (giả định, chuyển từ ví dụ trong video): muốn đánh giá chất lượng một chuỗi cơm gà X, câu đầu tiên là “Trong 3 tháng qua, bạn đã từng ăn tại cơm gà X chưa?” Đã từng → sang phần đánh giá. Chưa từng → cảm ơn, kết thúc; không hỏi đánh giá chất lượng vì người đó không có thông tin để trả lời — nhớ lại câu kiểm tra thứ ba của bước 3.\nHỏi lớp: “Câu gạn lọc của nhóm bạn có khớp với định nghĩa đám đông nghiên cứu ở Buổi 8 không?”"
+    },
+    {
+      "type": "steps",
+      "title": "Phần chính đi theo hình phễu: chung trước, riêng sau, dễ trước, khó sau",
+      "steps": [
+        {
+          "head": "Phễu",
+          "text": "Hành vi chung trước, đánh giá cụ thể sau"
+        },
+        {
+          "head": "Dễ trước",
+          "text": "Câu khởi động nhẹ nhàng"
+        },
+        {
+          "head": "Theo chủ đề",
+          "text": "Biến cùng khái niệm đứng cạnh nhau"
+        },
+        {
+          "head": "Rẽ nhánh",
+          "text": "Bỏ qua câu không liên quan"
+        }
+      ],
+      "callout": "Số lần mua 3 tháng qua → thang GIA, CL, YD",
+      "notes": "Phần nội dung chính sắp xếp theo bốn nguyên tắc.\nMột — phễu, từ chung đến riêng: hỏi hành vi chung trước (“Trong 3 tháng qua bạn mua mỹ phẩm nội địa bao nhiêu lần?”), đánh giá cụ thể sau (các thang đo GIA, CL, YD). Lý do: câu trước có thể “mồi” cho câu sau — hỏi chi tiết trước rồi hỏi đánh giá chung thì người trả lời bị kéo theo những gì vừa nghĩ tới.\nHai — dễ trước, khó sau: câu đầu tiên sau gạn lọc phải dễ, nhẹ nhàng — câu “khởi động”.\nBa — nhóm theo chủ đề: các biến của cùng một khái niệm đặt cạnh nhau, có tiêu đề ngắn dẫn dắt. “Đừng nhảy từ đánh giá sản phẩm sang thông tin cá nhân rồi quay lại sản phẩm.”\nBốn — rẽ nhánh hợp lý: người “chưa từng mua” được chuyển sang phần khác, không phải trả lời câu không liên quan."
+    },
+    {
+      "type": "cards",
+      "title": "Câu nhân khẩu học và câu nhạy cảm luôn đặt ở cuối bảng hỏi",
+      "cards": [
+        {
+          "head": "Ít hấp dẫn",
+          "text": "Dễ gây phòng thủ, hỏi đầu thì người ta ngại, dễ bỏ"
+        },
+        {
+          "head": "Thứ tự",
+          "text": "Câu gây cảm xúc mạnh ở đầu làm lệch câu sau"
+        },
+        {
+          "head": "Chỉ hỏi cần",
+          "text": "Chỉ hỏi thông tin dùng trong phân tích"
+        }
+      ],
+      "callout": "Câu “quê quán” nằm ở dòng nào của bảng ánh xạ?",
+      "notes": "Câu nhân khẩu học và câu nhạy cảm để cuối cùng, vì hai lý do.\nThứ nhất, các câu này ít hấp dẫn và đôi khi gây phòng thủ — hỏi ngay đầu làm người ta ngại, dễ bỏ.\nThứ hai, hiệu ứng thứ tự (hiệu ứng mồi): một câu gây cảm xúc mạnh ở đầu có thể ảnh hưởng đến cách trả lời các câu sau. Video có ví dụ minh họa: hỏi quan điểm chính trị ngay đầu khảo sát làm lệch cả những đánh giá sản phẩm không liên quan phía sau. Chỉ kể như một ví dụ minh họa, không đưa số liệu.\nĐến cuối bảng, người trả lời đã đầu tư thời gian và thấy an toàn hơn; nhắc lại cam kết ẩn danh ngay trước phần này. Và chỉ hỏi thông tin thực sự dùng trong phân tích — hỏi lớp câu trong hộp: “Câu ‘quê quán’ có nằm ở dòng nào của bảng ánh xạ không?”\nNhóm định tính: dàn bài có cấu trúc tương tự — mở đầu (giới thiệu, mục đích, thời lượng, xin phép ghi âm, ẩn danh, xác nhận đúng đối tượng), câu khởi động, câu hỏi chính theo chủ đề kèm câu gợi mở, kết thúc (“Bạn còn điều gì muốn chia sẻ thêm không?”) và thông tin cơ bản ghi ở cuối."
+    },
+    {
+      "type": "cards",
+      "title": "Bước 7 trên Google Forms: chia phần, rẽ nhánh, lưới trắc nghiệm, xem trên điện thoại",
+      "cards": [
+        {
+          "head": "Lưới",
+          "text": "Lưới trắc nghiệm cho Likert"
+        },
+        {
+          "head": "Chia phần",
+          "text": "Section + rẽ nhánh"
+        },
+        {
+          "head": "Bắt buộc",
+          "text": "Trừ câu nhạy cảm"
+        },
+        {
+          "head": "Chú ý",
+          "text": "Một câu kiểm tra sự chú ý"
+        },
+        {
+          "head": "Điện thoại",
+          "text": "Kiểm tra hiển thị"
+        },
+        {
+          "head": "Tắt email",
+          "text": "Không thu email, giữ ẩn danh"
+        }
+      ],
+      "notes": "Nếu được, mở Google Forms trực tiếp trên máy chiếu khoảng 2 phút và chỉ nhanh từng chức năng.\nNguyên tắc chung: đánh số câu liên tục, có tiêu đề từng phần, hướng dẫn rõ ở đầu mỗi phần (chọn một hay nhiều đáp án; chiều của thang đo), không ngắt một câu sang hai trang, đủ khoảng trắng.\nSáu việc nên làm: dùng dạng lưới trắc nghiệm cho các câu Likert cùng thang đo — gọn, nhất quán. Chia phần (section) và dùng rẽ nhánh theo câu trả lời — gạn lọc “Không” chuyển tới phần cảm ơn. Bật bắt buộc trả lời cho các câu chính, trừ câu nhạy cảm — giảm dữ liệu thiếu. Thêm một câu kiểm tra sự chú ý (“Để chứng tỏ bạn đang đọc kỹ, hãy chọn mức 2 cho câu này”) — loại câu trả lời qua loa. Kiểm tra hiển thị trên điện thoại — lưới rộng dễ bị cắt.\nNhấn dòng cuối: tắt thu thập email (và tên) nếu không cần — đó là đạo đức nghiên cứu, bảo đảm ẩn danh (Bài 1). Mã hóa sẵn biến GIA1, GIA2… và mã số phương án sẽ học ở Buổi 12 cùng Bài 9.\nLưu ý cho giảng viên: slide bổ sung; nên chèn ảnh chụp màn hình Google Forms tự tạo từ một form mẫu (bảng hỏi giả định) có chú thích chữ chỉ vào các chức năng."
+    },
+    {
+      "type": "section",
+      "tag": "S6",
+      "kicker": "78–93 phút",
+      "title": "Năm lỗi đặt câu hỏi: bắt lỗi nhanh",
+      "notes": "Hoạt động 15 phút theo kiểu Think-Pair-Share rút gọn với chỉ định phát biểu. Sáu câu sai, mỗi câu khoảng 2 phút: chiếu câu sai → cặp 20 giây → chỉ định 1 cặp gọi tên lỗi và đề xuất sửa → chiếu câu sửa và nói một câu nguyên tắc. Phút 91–93 chốt.\nNếu chạy quá giờ: chỉ chữa câu 1, 2, 5, 6; câu 3–4 để sinh viên tự đọc đáp án trên slide.\nLưu ý cho giảng viên: kịch bản và đáp án đầy đủ trong phiếu hoạt động “Bắt lỗi nhanh” của Buổi 10."
+    },
+    {
+      "type": "cards",
+      "title": "Bước 5: năm lỗi đặt câu hỏi hay gặp nhất biến dữ liệu thành rác",
+      "cards": [
+        {
+          "head": "Dẫn dắt",
+          "text": "Đẩy về một đáp án"
+        },
+        {
+          "head": "Câu kép",
+          "text": "Hai ý một câu"
+        },
+        {
+          "head": "Mơ hồ",
+          "text": "Mỗi người hiểu một kiểu"
+        },
+        {
+          "head": "Ước đoán",
+          "text": "Nhớ quá xa, tự tính toán"
+        },
+        {
+          "head": "Thang lệch",
+          "text": "Lệch về một phía"
+        },
+        {
+          "head": "Phương án",
+          "text": "Chồng lấn, bỏ sót"
+        }
+      ],
+      "notes": "Cách đặt câu quyết định người trả lời hiểu gì và trả lời ra sao. Tài liệu học tập nêu 6 nguyên tắc: đơn giản – quen thuộc · rõ ràng – cụ thể · tránh câu hỏi kép · tránh dẫn dắt · thang đo cân bằng · tránh bắt ước đoán. Nguyên tắc thứ nhất (dùng từ đơn giản, tránh thuật ngữ như “omnichannel”) gần như ai cũng biết; hôm nay tập trung vào năm lỗi hay gặp nhất trong bài sinh viên, cộng một lỗi nằm ở phương án trả lời (thẻ số 6).\nĐọc kịch bản mở đầu: “Bây giờ mình đổi vai: các bạn là người kiểm duyệt bảng hỏi. Tôi chiếu 6 câu, câu nào cũng có lỗi. Mỗi câu, các bạn có 20 giây bàn với bạn bên cạnh: lỗi tên gì, và viết lại thế nào. Xong thì giơ tay — tôi sẽ mời một cặp. Sai cũng không sao, mình đang luyện mắt. Bắt đầu.”\nNếu ít cặp giơ tay: gọi theo danh sách, nhắc “chỉ cần gọi tên lỗi, chưa cần sửa hoàn hảo”.\nLưu ý cho giảng viên: tương ứng UEF #14 (6 ô biểu tượng) — sửa nhãn ô 5 “(Loaded)” thành “(Unbalanced scale)”. Buổi 12 sẽ đi kỹ đủ 6 nguyên tắc."
+    },
+    {
+      "type": "compare",
+      "title": "Lỗi 1 · Câu dẫn dắt đẩy người trả lời về đáp án nhà nghiên cứu muốn",
+      "left": {
+        "head": "SAI",
+        "items": [
+          "“Vì sao bạn thích bánh mì của tiệm X — làm từ thịt tươi mỗi ngày — hơn các tiệm khác?”"
+        ]
+      },
+      "right": {
+        "head": "SỬA",
+        "items": [
+          "“Bạn đánh giá bánh mì của các tiệm sau như thế nào?”",
+          "Danh sách xếp ngẫu nhiên, cùng một thang"
+        ]
+      },
+      "callout": "Ngôn ngữ trung lập, không cài sẵn giả định",
+      "notes": "Chiếu câu sai trước, cho cặp 20 giây, mời một cặp gọi tên lỗi và đề xuất sửa, rồi mới hiện cột SỬA.\nVấn đề: câu hỏi đã giả định người trả lời thích, và còn “quảng cáo” luôn ưu điểm (thịt tươi mỗi ngày). Người trả lời bị đẩy về một đáp án.\nCâu sửa: “Bạn đánh giá bánh mì của các tiệm sau như thế nào?” — danh sách các tiệm xếp ngẫu nhiên, cùng một thang đo.\nCác biến thể hay gặp trong bài sinh viên (chuyển từ ví dụ trong video): “Bạn có đồng ý rằng học trực tuyến rất nhàm chán không?” → “Bạn đánh giá thế nào về các buổi học trực tuyến của mình?”. “Bạn thích điểm gì ở sản phẩm mới của chúng tôi?” (giả định đã thích) → “Trải nghiệm của bạn với sản phẩm mới như thế nào?”. “Như phần lớn sinh viên có ý thức, bạn có ủng hộ việc dùng ống hút giấy không?” → bỏ cụm “như phần lớn sinh viên có ý thức” — cụm này tạo áp lực xã hội để trả lời “có”.\nLưu ý cho giảng viên: tương ứng UEF #17 — thay “Cô gái Hà Lan” bằng thương hiệu giả định; tài liệu học tập 8.2.5 dùng “sữa thương hiệu Y”, có thể dùng song song."
+    },
+    {
+      "type": "compare",
+      "title": "Lỗi 2 · Câu kép hỏi hai ý một lúc — phải tách thành hai câu",
+      "left": {
+        "head": "SAI",
+        "items": [
+          "“Bạn thấy kem thương hiệu X có ngon và bổ dưỡng không?”"
+        ]
+      },
+      "right": {
+        "head": "SỬA: hai câu Likert",
+        "items": [
+          "“Kem X có vị ngon.”",
+          "“Kem X bổ dưỡng.”"
+        ]
+      },
+      "callout": "Dấu hiệu: “và”, “hoặc” — tách thành hai câu",
+      "notes": "Vấn đề: hỏi hai ý trong một câu. Người thấy kem ngon nhưng không bổ dưỡng không biết trả lời thế nào; và dù họ trả lời gì, nhóm cũng không biết câu trả lời đó nói về vị ngon hay về dinh dưỡng.\nCách sửa: tách thành hai câu riêng, mỗi câu một thang Likert 1 = Hoàn toàn không đồng ý … 5 = Hoàn toàn đồng ý: “Kem X có vị ngon.” và “Kem X bổ dưỡng.”\nSlide gốc đưa “giải pháp” là gộp thành một câu với 4 phương án (ngon và bổ / ngon nhưng không bổ / không ngon nhưng bổ / không ngon cũng không bổ). Cách đó chưa đúng — vẫn là một câu đo hai khái niệm, không đưa vào thang Likert được, và rối khi phân tích. Nếu sinh viên đề xuất cách đó, ghi nhận là có suy nghĩ nhưng chốt: cách chuẩn là tách hai câu.\nHỏi lớp: “Bảng thang đo của nhóm có biến nào chứa chữ ‘và’?” — rất hay gặp khi dịch thang đo tiếng Anh, ví dụ “Sản phẩm có chất lượng tốt và bền”.\nLưu ý cho giảng viên: tương ứng UEF #16 đã sửa (“Tránh câu hỏi gp” → “Tránh câu hỏi kép”; “Kido's” → thương hiệu giả định X)."
+    },
+    {
+      "type": "compare",
+      "title": "Lỗi 3 · Từ mơ hồ thì mỗi người hiểu một kiểu",
+      "left": {
+        "head": "SAI",
+        "items": [
+          "“Bạn có thường xuyên đặt đồ ăn qua ứng dụng không?”",
+          "“Bạn có không đồng ý rằng X không hiệu quả?”"
+        ]
+      },
+      "right": {
+        "head": "SỬA",
+        "items": [
+          "“7 ngày qua, bạn đặt đồ ăn qua ứng dụng mấy lần?”",
+          "“Bạn đánh giá mức hiệu quả của X thế nào?”"
+        ]
+      },
+      "callout": "Dùng mốc thời gian và con số cụ thể",
+      "notes": "Câu thứ nhất: “Bạn có thường xuyên đặt đồ ăn qua ứng dụng không?” Vấn đề: “thường xuyên” mỗi người hiểu một khác — người này là mỗi ngày, người kia là mỗi tuần. Thêm nữa, đáp án Có/Không làm mất thông tin về tần suất — một câu có thể mắc nhiều lỗi; khen cặp nào phát hiện được lỗi thứ hai.\nCâu sửa: “Trong 7 ngày qua, bạn đặt đồ ăn qua ứng dụng bao nhiêu lần?” với các phương án 0 · 1–2 · 3–4 · 5 lần trở lên.\nCâu thứ hai là phủ định kép: “Bạn có không đồng ý rằng sản phẩm X không hiệu quả?” — người trả lời phải “gỡ” hai lần phủ định. Sửa: “Bạn đánh giá mức độ hiệu quả của sản phẩm X như thế nào?”\nThêm một ví dụ từ mơ hồ: “Gia đình bạn có bao nhiêu người?” — tính cả ông bà ở quê? anh chị đã ra ở riêng? → “Hiện có bao nhiêu người cùng sống trong nhà bạn (kể cả bạn)?”\nLưu ý cho giảng viên: tương ứng UEF #15, thêm ví dụ."
+    },
+    {
+      "type": "compare",
+      "title": "Lỗi 4 · Đừng bắt người trả lời nhớ quá xa hay tự tính toán",
+      "left": {
+        "head": "SAI",
+        "items": [
+          "“Trong năm qua, bạn đi xem phim ở rạp bao nhiêu lần?”",
+          "“Lần đầu bạn uống trà sữa là dịp nào?”"
+        ]
+      },
+      "right": {
+        "head": "SỬA",
+        "items": [
+          "“Trong 3 tháng vừa qua…” (theo khoảng)",
+          "“Lần gần đây nhất bạn uống trà sữa…”"
+        ]
+      },
+      "callout": "Nhà nghiên cứu tự quy đổi, không bắt người trả lời đoán",
+      "notes": "Câu sai: “Trong năm qua, bạn đã đi xem phim ở rạp bao nhiêu lần?” Vấn đề: không ai nhớ và cộng dồn chính xác cả năm — người trả lời phải đoán, tạo sai lệch lớn.\nCâu sửa: “Trong 3 tháng vừa qua, bạn đã đi xem phim ở rạp bao nhiêu lần?” với các phương án 0 · 1–2 · 3–5 · 6 lần trở lên — nếu cần con số cả năm, nhà nghiên cứu tự quy đổi.\nHai dạng khác của lỗi này (chuyển từ ví dụ trong video): hỏi chuyện quá xa — “Lần đầu tiên bạn uống trà sữa là vào dịp nào?” → “Lần gần đây nhất bạn uống trà sữa là khi nào?”; bắt tính toán — “Trong năm qua, bao nhiêu phần trăm quãng đường bạn đi xe máy là để đi học?” → “Quãng đường từ nơi ở đến trường của bạn khoảng bao nhiêu km?” (theo khoảng).\nLưu ý quan trọng nếu sinh viên hỏi: thang đo ý định mua đã được kiểm định không phải lỗi này. Lỗi là bắt người trả lời đoán một con số hoặc hành vi cụ thể mà họ không có cơ sở để biết.\nLưu ý cho giảng viên: tương ứng UEF #19 (giữ hình kính lúp, đổi ví dụ)."
+    },
+    {
+      "type": "table",
+      "title": "Lỗi 5 · Thang không cân bằng đẩy kết quả lên ngay từ thiết kế",
+      "notes": "Câu hỏi (thương hiệu giả định Z): “Bạn thích sữa đậu nành Z ở mức nào?”\nĐếm cùng lớp ở cột SAI: vô cùng thích, rất thích, thích — 3 mức tích cực; tạm được ở giữa; không thích — chỉ 1 mức tiêu cực. Kết quả bị đẩy về phía “thích” ngay từ thiết kế, trước khi ai trả lời.\nCột SỬA: rất thích · thích · bình thường · không thích · rất không thích — số mức tích cực bằng số mức tiêu cực, có mức trung lập ở giữa, đối xứng quanh “bình thường”.\nNối với Buổi 9: thang không cân bằng là một nguồn sai lệch hệ thống — cỡ mẫu lớn đến đâu cũng không sửa được.\nHỏi lớp: “Thang Likert trong bảng thang đo của nhóm có cân bằng không? Đếm thử.”\nLưu ý cho giảng viên: tương ứng UEF #18 đã sửa — chữ “đối tượng nghiêng” → “đối tượng nghiêng về một phía”; nhãn “(Loaded Question)” → “(Unbalanced scale)” vì loaded question là câu có cài sẵn giả định, gần với lỗi dẫn dắt; “Tribeco” → thương hiệu giả định Z.",
+      "header": [
+        "SAI: 3 tích cực, 1 tiêu cực",
+        "SỬA: cân bằng"
+      ],
+      "rows": [
+        [
+          "Vô cùng thích",
+          "Rất thích"
+        ],
+        [
+          "Rất thích",
+          "Thích"
+        ],
+        [
+          "Thích",
+          "Bình thường"
+        ],
+        [
+          "Tạm được",
+          "Không thích"
+        ],
+        [
+          "Không thích",
+          "Rất không thích"
+        ]
+      ],
+      "callout": "Số mức tích cực = số mức tiêu cực"
+    },
+    {
+      "type": "table",
+      "title": "Thêm một lỗi ở phương án: khoảng chồng lấn và thiếu lựa chọn",
+      "notes": "Câu hỏi: “Mức chi tiêu hàng tháng của bạn.” Hỏi lớp: “Người chi đúng 4 triệu chọn ô nào? Người chi 7 triệu chọn ô nào?”\nHai vấn đề: chồng lấn — 2 triệu và 4 triệu thuộc cả hai ô; không bao quát — người chi trên 6 triệu không có ô.\nSửa: dưới 2 triệu · từ 2 đến dưới 4 triệu · từ 4 đến dưới 6 triệu · từ 6 triệu trở lên · không muốn trả lời. Phương án loại trừ nhau và bao quát; câu nhạy cảm cho phép “Không muốn trả lời”, đặt cuối bảng — đúng cách viết đã gặp ở slide câu nhạy cảm.\nTương tự: “Bạn đang ở: nhà riêng / ký túc xá” → thiếu nhà trọ, căn hộ thuê, ở cùng người thân… → thêm phương án và luôn có “Khác: ____”.\nCâu chốt phân đoạn: “Người trả lời vẫn sẽ tích vào một ô — dù câu hỏi sai. Lỗi không tự lộ ra trong dữ liệu; nó chỉ lộ ra khi mình đọc lại câu hỏi bằng con mắt của người trả lời. Đó là việc của nhóm chéo trong phần thực hành, và của buổi phỏng vấn thử.”\nThảo luận nếu còn giờ: “Lỗi nào bạn thấy khó phát hiện nhất khi tự đọc câu hỏi của chính mình?”",
+      "header": [
+        "SAI: chồng lấn, thiếu ô",
+        "SỬA"
+      ],
+      "rows": [
+        [
+          "Dưới 2 triệu",
+          "Dưới 2 triệu"
+        ],
+        [
+          "2–4 triệu",
+          "Từ 2 đến dưới 4 triệu"
+        ],
+        [
+          "4–6 triệu",
+          "Từ 4 đến dưới 6 triệu"
+        ],
+        [
+          "(không có)",
+          "Từ 6 triệu trở lên"
+        ],
+        [
+          "(không có)",
+          "Không muốn trả lời"
+        ]
+      ],
+      "callout": "Người chi đúng 4 triệu chọn ô nào?"
+    },
+    {
+      "type": "steps",
+      "title": "Bước 8: thử trước khi phát hành — bảng hỏi đã gửi đi thì không sửa được",
+      "steps": [
+        {
+          "head": "Người thử",
+          "text": "3–5 người ngoài lớp, thuộc đối tượng"
+        },
+        {
+          "head": "Nói to suy nghĩ",
+          "text": "nhóm ngồi cạnh, không giải thích"
+        },
+        {
+          "head": "Bấm giờ",
+          "text": "đối chiếu nguyên tắc 5 phút"
+        },
+        {
+          "head": "Hỏi lại",
+          "text": "câu nào khó hiểu, thiếu phương án?"
+        },
+        {
+          "head": "Ghi bảng",
+          "text": "câu gốc – vấn đề – câu đã sửa"
+        }
+      ],
+      "callout": "Không ghi họ tên hay thông tin định danh",
+      "notes": "Phân đoạn S7 (93–98 phút), giới thiệu ngắn; Buổi 12 đi kỹ.\nThử nghiệm (pilot) là cho một nhóm nhỏ người giống đối tượng khảo sát trả lời trước khi phát hành chính thức. Bước này không được bỏ qua, vì bảng hỏi đã phát hành thì không sửa được nữa — phiếu thu theo câu cũ không gộp được với phiếu thu theo câu mới. Ví dụ quen thuộc trong video: in 1.000 phiếu rồi mới phát hiện câu hỏi sai — mất cả tiền in lẫn thời gian.\nBài tập tuần này chính là lần thử thứ nhất: phỏng vấn thử 3–5 người ngoài lớp. Người thử không phải thành viên nhóm, không phải bạn cùng lớp — vì các bạn đã biết câu hỏi “muốn hỏi gì”. Nhờ họ nói to suy nghĩ; một bạn ngồi cạnh, không giải thích, chỉ ghi. Bấm giờ từ đầu đến cuối. Sau đó hỏi câu nào khó hiểu, khó chịu, thiếu phương án. Ghi bảng “câu gốc – vấn đề – câu đã sửa” — bảng này đưa vào chương phương pháp. Nhóm định tính thử 1–2 người bằng dàn bài.\nPre-test và pilot: chỉ nói một câu, hẹn Buổi 12.\nLưu ý cho giảng viên: [NEEDS PROFESSOR INPUT] xác nhận cách diễn đạt 3–5 người (lộ trình) và 5–10 người (tài liệu học tập); [VERIFY] không nêu cỡ mẫu pilot của video."
+    },
+    {
+      "type": "section",
+      "tag": "S8",
+      "kicker": "98–143 phút",
+      "title": "Thực hành nhóm: Xưởng bảng hỏi",
+      "notes": "Phân đoạn thực hành 45 phút — kỹ thuật làm việc nhóm theo sản phẩm và đánh giá đồng đẳng có checklist. Ghép cặp nhóm cho chặng săn lỗi: định lượng với định lượng, định tính với định tính nếu được; công bố cặp ngay từ đầu.\nSinh viên cần máy tính, đề cương và bảng thang đo / khung chủ đề, tài khoản Google nếu dựng Forms.\nLưu ý cho giảng viên: kịch bản, Bảng 1–3, Khung A/B và checklist săn lỗi nằm trong phiếu hoạt động “Xưởng bảng hỏi” của Buổi 10."
+    },
+    {
+      "type": "activity",
+      "title": "Xưởng bảng hỏi (45'): ra về với một bản nháp đầy đủ",
+      "stages": [
+        {
+          "time": "8'",
+          "text": "Bảng ánh xạ: mục tiêu → câu hỏi → phân tích"
+        },
+        {
+          "time": "22'",
+          "text": "Bản nháp 3 phần / dàn bài; ĐL dựng Forms nếu kịp"
+        },
+        {
+          "time": "10'",
+          "text": "Nhóm chéo săn lỗi theo checklist"
+        },
+        {
+          "time": "5'",
+          "text": "Sửa nhanh, ghi 3 lỗi đã sửa"
+        }
+      ],
+      "product": "bản nháp bảng hỏi / dàn bài phỏng vấn",
+      "notes": "Để slide này trên màn hình trong chặng 1–2. Kịch bản mở đầu: “45 phút tới, mỗi nhóm sẽ ra về với một bản nháp đầy đủ. Bắt đầu bằng 8 phút lập bảng ánh xạ — đừng mở Google Forms trước. Sau đó 22 phút viết đủ ba phần; nhóm định lượng nào nhanh thì dựng luôn trên Google Forms. Phút thứ 30, tôi sẽ báo đổi bài: mỗi nhóm đọc bản nháp của nhóm bên cạnh như một người trả lời và ghi lỗi theo checklist — không sửa hộ. 5 phút cuối nhóm sửa lại.”\nMốc: 99–106 chặng 1, kiểm tra mỗi nhóm có ít nhất một dòng “kỹ thuật phân tích” đúng với cấp thang đo; phút 106 báo “bây giờ mới mở Google Forms”. 106–128 chặng 2: kiểm tra câu gạn lọc, vị trí nhân khẩu học, câu kép trong thang đo dịch từ tiếng Anh; phút 127 báo còn 1 phút. 128–138 chặng 3 (chiếu slide checklist). 138–143 chặng 4: sửa nhanh, chọn “lỗi đắt giá nhất”.\nXử lý: nhóm chưa có bảng thang đo → lập bảng ánh xạ từ mô hình, viết trước mở đầu, gạn lọc, thông tin cá nhân. Bảng hỏi quá dài (hơn 35 câu) → cắt câu “hỏi cho biết”. Nhóm hỏi email “để bốc thăm quà” → tách sang form riêng. Dàn bài ĐT toàn câu Có/Không → đổi thành “Bạn có thể kể về…?”."
+    },
+    {
+      "type": "cards",
+      "title": "Săn lỗi chéo (10'): đọc bảng hỏi của nhóm bạn bằng con mắt người trả lời",
+      "cards": [
+        {
+          "head": "Ánh xạ",
+          "text": "Không câu thừa, không thiếu"
+        },
+        {
+          "head": "Gạn lọc",
+          "text": "Đặt ở phần đầu"
+        },
+        {
+          "head": "Nhân khẩu",
+          "text": "Đặt ở phần cuối"
+        },
+        {
+          "head": "Câu chữ",
+          "text": "Không kép, dẫn dắt, mơ hồ, đoán"
+        },
+        {
+          "head": "Phương án",
+          "text": "Cân bằng, không chồng lấn"
+        },
+        {
+          "head": "Thời gian",
+          "text": "Dưới 10 phút"
+        }
+      ],
+      "notes": "Chiếu slide này trong chặng 3 (phút 128–138). Mỗi nhóm đổi bản nháp với nhóm bên cạnh theo cặp đã công bố.\nĐọc bản nháp của nhóm bạn như một người trả lời, đối chiếu checklist: mọi mục tiêu có câu hỏi, không câu thừa; câu gạn lọc ở đầu, người không đạt được cảm ơn và dừng; thông tin cá nhân và câu nhạy cảm ở cuối, có “Không muốn trả lời”; không có câu kép (soát chữ “và”, “hoặc”), câu dẫn dắt, từ mơ hồ, phủ định kép, bắt ước đoán; thang cân bằng, khoảng lựa chọn không chồng lấn, không bỏ sót, có “Khác: ____” khi cần; số bậc xếp hạng bằng số mục, câu mở không quá 1–2; ước tính dưới 10 phút; không thu email hay họ tên. Nhóm định tính: câu hỏi chính là câu mở, mỗi câu có câu gợi mở.\nGhi lỗi vào Bảng 2 của nhóm bạn — số câu, lỗi gì, gợi ý sửa. Không sửa hộ. Giảng viên đi xem Bảng 2 có ghi đủ cụ thể không."
+    },
+    {
+      "type": "section",
+      "tag": "S9",
+      "kicker": "143–148 phút",
+      "title": "Kết buổi",
+      "notes": "Phân đoạn kết buổi 5 phút, thêm 2 phút dự phòng.\nMời 2 nhóm, mỗi nhóm 30 giây: “Lỗi đắt giá nhất mà nhóm bạn tìm ra cho nhóm mình là gì?” Ghi lên bảng; gom thành 2–3 lỗi chung để mở đầu Buổi 11.\nSau đó giao bài tập ở slide sau.\nTrước khi chuyển sang slide đầu tiên của phân đoạn, nói một câu nối với phần vừa học để lớp thấy mạch bài, và nhắc các nhóm đối chiếu ngay với bản nháp bảng hỏi hoặc dàn bài của mình."
+    },
+    {
+      "type": "steps",
+      "title": "Trước Buổi 11: hoàn thiện nháp, phỏng vấn thử, nộp giữa kỳ trên LMS",
+      "steps": [
+        {
+          "head": "Hoàn thiện",
+          "text": "Sửa nháp theo checklist và góp ý"
+        },
+        {
+          "head": "Phỏng vấn thử",
+          "text": "3–5 người ngoài lớp, ghi bảng sửa"
+        },
+        {
+          "head": "Nộp giữa kỳ",
+          "text": "LMS trước Buổi 11 (hạn …)"
+        }
+      ],
+      "callout": "Buổi 11: mang bảng ghi phỏng vấn thử",
+      "notes": "Bài tập về nhà, trước Buổi 11. Một: hoàn thiện bản nháp theo checklist và góp ý của nhóm chéo. Hai: phỏng vấn thử 3–5 người ngoài lớp, ghi bảng “câu gốc – vấn đề – câu đã sửa”. Ba: nộp bài giữa kỳ trên LMS trước Buổi 11 — Chương 1–3 (định lượng) hoặc Chương 1–2 (định tính), kèm bản nháp bảng hỏi hoặc dàn bài phỏng vấn — nên là bản đã sửa sau phỏng vấn thử. Giảng viên góp ý trước khi nhóm phát hành. Bốn: đọc tài liệu học tập Bài 8 mục 8.2.1–8.2.4 và tài liệu đọc thêm Buổi 10.\nNhắc quy định AI một câu: nếu dùng AI để gợi ý hay rà câu hỏi, khai báo trong nhật ký AI; AI cũng hay viết câu kép và câu dẫn dắt — nhóm tự kiểm tra bằng checklist.\nCâu nối: “Buổi 11, mỗi nhóm mang bảng ghi phỏng vấn thử. Mình sẽ đi sâu bước 1–4, sửa bảng hỏi theo kết quả thử và góp ý giữa kỳ, rồi phát hành — từ đó các bạn có khoảng hai tuần để thu dữ liệu, xong trước Buổi 13.”\nLưu ý cho giảng viên: [NEEDS PROFESSOR INPUT] điền hạn nộp (ngày, giờ), tên mục nộp trên LMS, định dạng file, thang chấm, có yêu cầu đính kèm bảng ghi phỏng vấn thử không, quy định nộp trễ."
+    },
+    {
+      "type": "references",
+      "title": "Tài liệu tham khảo",
+      "refs": [
+        "Bojei, J., Che Wel, C. A., & Oh, T. H. (2012). *Marketing research*. Open University Malaysia.",
+        "Brown, T. J., Suter, T. A., & Churchill, G. A. (2014). *Basic marketing research: Customer insights and managerial action* (8th ed.). Cengage Learning.",
+        "Malhotra, N. K. (2019). *Marketing research: An applied orientation* (7th ed.). Pearson."
+      ],
+      "notes": "Không giảng slide này — để sinh viên tự tra cứu sau buổi học.\nNhắc các nhóm: khi viết chương phương pháp (Chương 3 với nhóm định lượng, Chương 2 với nhóm định tính), mọi thang đo kế thừa phải được trích nguồn theo APA 7, và mỗi nguồn trích trong bảng thang đo phải có mục tương ứng trong danh mục tài liệu tham khảo của tiểu luận, sắp xếp theo thứ tự chữ cái.\nBảng ghi phỏng vấn thử (“câu gốc – vấn đề – câu đã sửa”) cũng nên được đưa vào chương phương pháp như bằng chứng cho bước thử nghiệm bảng hỏi."
+    }
+  ]
+}

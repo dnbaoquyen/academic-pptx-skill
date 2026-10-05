@@ -1,0 +1,1121 @@
+{
+  "deckTitle": "MKT1107 · Buổi 9 · Bài 7: Đo lường",
+  "fileName": "MKT1107_W09_slides.pptx",
+  "slides": [
+    {
+      "type": "cover",
+      "lessonTag": "Buổi",
+      "number": 9,
+      "title": "Bài 7: Đo lường",
+      "subtitle": "MKT1107 · Nghiên cứu Marketing",
+      "presenter": "GV: Đoàn Nguyễn Bảo Quyên",
+      "notes": "Không giảng slide này — chiếu trong lúc lớp ổn định chỗ ngồi rồi chuyển ngay sang phần kiểm tra kế hoạch chọn mẫu.\nNếu cần một câu mở đầu: “Hôm nay là Buổi 9, Bài 7 — Đo lường. Tuần trước các bạn đã quyết định hỏi ai. Hôm nay mình trả lời câu tiếp theo: đo cái gì, và đo bằng gì.”\nBuổi học dài 150 phút: khoảng 60 phút giảng xen kẽ hai hoạt động, một hoạt động đố cấp thang đo 7 phút trước giải lao, và 45 phút cuối là xưởng thang đo cho đề tài của chính các nhóm. Nhắc lớp mở sẵn đề cương nhóm (M4) và bản tổng quan tài liệu (M3) trên máy tính vì sẽ dùng ở phần thực hành.\nLưu ý cho giảng viên: slide này thay cho UEF #1."
+    },
+    {
+      "type": "section",
+      "tag": "S1",
+      "kicker": "0–7 phút",
+      "title": "Kiểm tra kế hoạch chọn mẫu",
+      "notes": "Phân đoạn mở đầu 7 phút: kiểm tra nhanh bài tập Buổi 8 — kế hoạch chọn mẫu của các nhóm. Mục tiêu là để các nhóm tự phát hiện lỗ hổng trước khi đưa vào bài giữa kỳ, không phải chấm điểm.\nCách làm: chiếu checklist năm câu ở slide sau, mời trước hai nhóm — một nhóm định lượng, một nhóm định tính — đọc phần chọn mẫu, mỗi nhóm tối đa 1 phút. Các nhóm còn lại tự đánh dấu checklist trên bản của mình trong lúc nghe.\nGiữ đúng giờ: mỗi nhóm chỉ nhận đúng một câu phản hồi từ giảng viên, ưu tiên lỗi điển hình mà cả lớp cùng học được. Nếu lớp muốn hỏi thêm, hẹn trao đổi trong giờ thực hành cuối buổi."
+    },
+    {
+      "type": "steps",
+      "title": "Kế hoạch chọn mẫu tốt trả lời đủ năm câu: hỏi ai, ở đâu, chọn thế nào, bao nhiêu, giới hạn gì",
+      "callout": "Cỡ mẫu 200 “vì bài khác dùng 200” chưa là căn cứ",
+      "notes": "Mời hai nhóm (một định lượng, một định tính), mỗi nhóm 1 phút đọc phần chọn mẫu. Các nhóm khác tự đánh dấu năm ô này trên kế hoạch của mình.\nNăm câu kiểm tra: (1) Đám đông nghiên cứu đã đủ 4 yếu tố chưa — phần tử, đơn vị, không gian, thời gian? (2) Khung mẫu là gì, có bỏ sót ai trong đám đông không? (3) Phương pháp chọn mẫu gọi đúng tên chưa — thuận tiện, phán đoán, phát triển mầm, định mức… — và nhóm tiếp cận người trả lời bằng cách nào? (4) Cỡ mẫu có căn cứ không — công thức hay quy tắc kinh nghiệm, có trích dẫn — và đã dự trù phiếu không hợp lệ chưa? (5) Nếu dùng mẫu phi xác suất, đã ghi hạn chế về khả năng khái quát hóa chưa; câu gạn lọc đầu bảng hỏi có khớp định nghĩa đám đông không?\nPhản hồi mỗi nhóm đúng một câu, ưu tiên lỗi điển hình: đám đông thiếu yếu tố thời gian; cỡ mẫu “200 vì thấy nhiều bài dùng 200”; gọi mẫu thuận tiện là “ngẫu nhiên”. Với nhóm định tính: cỡ mẫu theo nguyên tắc bão hòa thông tin, chọn người tham gia theo phán đoán — đã có tiêu chí chọn chưa?\nCâu nối: “Biết hỏi ai rồi — hôm nay: đo cái gì, đo bằng gì.”",
+      "steps": [
+        {
+          "head": "Đám đông",
+          "text": "đủ phần tử, đơn vị, không gian, thời gian"
+        },
+        {
+          "head": "Khung mẫu",
+          "text": "danh sách nào, có bỏ sót ai không"
+        },
+        {
+          "head": "Phương pháp",
+          "text": "gọi đúng tên + cách tiếp cận người trả lời"
+        },
+        {
+          "head": "Cỡ mẫu",
+          "text": "có căn cứ, trích dẫn; dự trù phiếu hỏng"
+        },
+        {
+          "head": "Hạn chế",
+          "text": "giới hạn khái quát hóa; câu gạn lọc khớp đám đông"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "tag": "S2",
+      "kicker": "7–10 phút",
+      "title": "Khởi động: một ly trà sữa ngon bao nhiêu?",
+      "notes": "Phân đoạn khởi động 3 phút. Mục đích: để lớp tự nhận ra rằng mình đã quen “gán số” cho những thứ trừu tượng mà không gọi tên nó là đo lường.\nChiếu câu hỏi ở slide sau và không giải thích gì thêm. Để lớp trả lời tự do, giảng viên chỉ ghi lên bảng. Phần này chỉ 3 phút, nên dừng lại ngay khi đã có 3–4 cách khác nhau trên bảng.\nTrước khi chuyển sang slide đầu tiên của phân đoạn, nói một câu nối với phần vừa học để lớp thấy mạch bài, và nhắc lớp giữ đề tài của nhóm mình trong đầu khi nghe ví dụ."
+    },
+    {
+      "type": "statement",
+      "title": "Một ly trà sữa “ngon” bao nhiêu?",
+      "big": "Muốn biết trà sữa quán A có ngon hơn quán B không, theo 200 sinh viên — bạn hỏi thế nào?",
+      "mark": "?",
+      "notes": "Đọc câu hỏi chậm, nhấn chữ “bao nhiêu”: “Một ly trà sữa ngon… bao nhiêu? Nếu tôi muốn biết trà sữa quán A có ngon hơn quán B không, theo ý kiến của 200 sinh viên, thì tôi hỏi thế nào?”\nCho lớp trả lời tự do, ghi lên bảng 3–4 cách. Thường sẽ nghe: chấm sao 1–5 như trên ứng dụng giao đồ ăn; chấm điểm 1–10; hỏi “quán nào ngon hơn?” (xếp hạng); hỏi “có ngon không — có/không”.\nChốt: “Để ý: không ai đề xuất đo độ ngon bằng cân hay bằng thước. Độ ngon nằm trong đầu người uống. Muốn so sánh, phân tích được, ta phải biến nó thành con số — theo một quy tắc. Mỗi cách các bạn vừa nêu là một thang đo khác nhau, và như sẽ thấy hôm nay, mỗi thang cho phép tính những thứ khác nhau.”\nGiữ các cách trên bảng — lát nữa ở phần bốn cấp thang đo, quay lại hỏi lớp mỗi cách thuộc cấp nào (sao 1–5 là quãng theo quy ước, xếp hạng là thứ tự, có/không là định danh)."
+    },
+    {
+      "type": "steps",
+      "title": "Hôm nay: từ một khái niệm trừu tượng đến bảng thang đo của nhóm",
+      "steps": [
+        {
+          "head": "Đo lường",
+          "text": "Gán số cho thuộc tính theo quy tắc"
+        },
+        {
+          "head": "Bốn cấp thang đo",
+          "text": "Và phép tính được phép ở mỗi cấp"
+        },
+        {
+          "head": "Đánh giá",
+          "text": "Sai lệch, độ tin cậy, giá trị"
+        },
+        {
+          "head": "Sản phẩm",
+          "text": "Bảng thang đo (ĐL) / khung chủ đề (ĐT) + mô hình"
+        }
+      ],
+      "notes": "Giới thiệu lộ trình buổi học trong khoảng 30 giây. Ba phần lý thuyết: đo lường là gì; bốn cấp thang đo và những phép tính được phép ở từng cấp; sai lệch, độ tin cậy và giá trị — tức là làm sao biết thang đo của mình tốt.\nNhấn phần thứ tư: “45 phút cuối là xưởng thang đo cho đề tài của chính nhóm. Cuối buổi, nhóm định lượng có bản nháp bảng thang đo kế thừa từ nghiên cứu đã công bố, nhóm định tính có khung chủ đề phỏng vấn — và cả hai có mô hình hoặc khung nghiên cứu. Vì vậy khi nghe lý thuyết, hãy giữ trong đầu câu hỏi: đề tài mình đo cái này thế nào?”\nChuyển ý: “Bắt đầu từ định nghĩa.”\nLưu ý cho giảng viên: slide này thay cho UEF #2 (mục tiêu)."
+    },
+    {
+      "type": "section",
+      "tag": "S3",
+      "kicker": "10–20 phút",
+      "title": "7.1 Đo lường",
+      "notes": "Phân đoạn 10 phút về khái niệm đo lường: định nghĩa, thuộc tính so với đối tượng, ba thuật ngữ khái niệm – biến quan sát – thang đo, hai quy tắc duy nhất và nhất quán, và ý nghĩa của đo lường.\nGiữ nhịp nhanh: phần này nhiều định nghĩa nhưng sinh viên chỉ cần nắm chữ “thuộc tính” và chữ “quy tắc”. Thời gian dành cho bốn cấp thang đo ở phân đoạn sau quan trọng hơn.\nTrước khi chuyển sang slide đầu tiên của phân đoạn, nói một câu nối với phần vừa học để lớp thấy mạch bài, và nhắc lớp giữ đề tài của nhóm mình trong đầu khi nghe ví dụ."
+    },
+    {
+      "type": "steps",
+      "title": "Đo lường là gán số cho thuộc tính theo một quy tắc định trước",
+      "steps": [
+        {
+          "head": "Thuộc tính",
+          "text": "Ví dụ: độ ngon"
+        },
+        {
+          "head": "Quy tắc",
+          "text": "Định trước, ví dụ chấm sao 1–5"
+        },
+        {
+          "head": "Gán số / ký hiệu",
+          "text": "Ví dụ: 4 sao"
+        }
+      ],
+      "callout": "Chấm sao 1–5 cũng là một quy tắc định trước",
+      "notes": "Đọc định nghĩa một lần: “Đo lường là việc gán con số hoặc ký hiệu cho thuộc tính của đối tượng theo một quy tắc xác định.”\nNhấn chữ “quy tắc”: quy tắc phải có trước khi đo, và mọi người đo theo cùng một quy tắc. Nối lại slide trà sữa: “Chấm sao 1–5 mà các bạn vừa đề xuất chính là một quy tắc — 1 sao là rất dở, 5 sao là rất ngon. Có quy tắc thì 200 câu trả lời mới cộng lại, so sánh được.”\nHỏi nhanh: “Nếu mỗi bạn tự hiểu 5 sao theo một kiểu thì sao?” — chờ 1–2 câu trả lời, rồi chuyển: “Vậy cái ta gán số cho là gì — người, hay cái gì của người đó?”\nLưu ý cho giảng viên: tương ứng UEF #5 (giữ hình sơ đồ thuộc tính → quy tắc → gán số)."
+    },
+    {
+      "type": "compare",
+      "title": "Ta không đo người tiêu dùng — ta đo thuộc tính của họ",
+      "left": {
+        "head": "Không đo: đối tượng",
+        "items": [
+          "Người tiêu dùng",
+          "Nhãn hiệu",
+          "Doanh nghiệp"
+        ]
+      },
+      "right": {
+        "head": "Đo: thuộc tính",
+        "items": [
+          "Thu nhập, học vấn",
+          "Thái độ",
+          "Mức độ nhận biết"
+        ]
+      },
+      "vs": true,
+      "callout": "Mức hài lòng của sinh viên mới là 4 điểm",
+      "notes": "Chữ quan trọng nhất trong định nghĩa là “thuộc tính”. Ta không đo “người tiêu dùng”, không đo “nhãn hiệu”, không đo “doanh nghiệp”. Ta đo thuộc tính của họ: thu nhập, trình độ học vấn, thái độ, mức độ nhận biết thương hiệu, ý định mua.\nNói câu chốt: “Một sinh viên không phải là 4 điểm — mức hài lòng của sinh viên đó với quán mới là 4 điểm.”\nHỏi lớp một câu ngắn: “Trong đề tài nhóm bạn, đối tượng là ai, còn thuộc tính cần đo là gì?” Gọi 1–2 nhóm trả lời nhanh, mỗi nhóm một câu. Câu trả lời mong đợi kiểu: đối tượng là sinh viên, thuộc tính là ý định mua mỹ phẩm nội địa.\nChuyển ý: “Nhưng thuộc tính như ‘nhận thức về giá’ thì quá trừu tượng để hỏi bằng một câu. Ta cần ba thuật ngữ.”\nLưu ý cho giảng viên: tương ứng UEF #6; dấu sai/đúng của slide gốc được thay bằng chữ “Không đo” / “Đo”."
+    },
+    {
+      "type": "table",
+      "title": "Một khái niệm trừu tượng được đo qua nhiều biến quan sát, trên cùng một thang đo",
+      "header": [
+        "Thuật ngữ",
+        "Ý nghĩa",
+        "Ví dụ (giả định)"
+      ],
+      "rows": [
+        [
+          "Khái niệm (construct)",
+          "Đặc điểm trừu tượng cần đo",
+          "Nhận thức về giá (GIA)"
+        ],
+        [
+          "Biến quan sát (item)",
+          "Câu cụ thể đo khái niệm",
+          "GIA1, GIA2, GIA3"
+        ],
+        [
+          "Thang đo (scale)",
+          "Công cụ gán số cho câu trả lời",
+          "Likert 5 điểm"
+        ]
+      ],
+      "boldFirstCol": true,
+      "callout": "Mỗi khái niệm thường đo bằng 3–5 biến quan sát",
+      "notes": "Ba thuật ngữ này sẽ đi theo các bạn đến hết dự án. Khái niệm (construct) là đặc điểm trừu tượng cần đo — sự hài lòng, lòng trung thành, nhận thức về giá. Biến quan sát (item) là phát biểu hoặc câu hỏi cụ thể dùng để đo khái niệm. Thang đo (scale) là công cụ gán số cho câu trả lời, ví dụ 1 = Hoàn toàn không đồng ý … 5 = Hoàn toàn đồng ý.\nĐọc ví dụ giả định — khái niệm Nhận thức về giá (GIA) của mỹ phẩm nội địa: GIA1 “Giá mỹ phẩm nội địa phù hợp với khả năng chi trả của tôi”; GIA2 “Giá mỹ phẩm nội địa tương xứng với chất lượng”; GIA3 “So với mỹ phẩm nhập khẩu cùng loại, giá mỹ phẩm nội địa hợp lý hơn”.\nGiải thích vì sao cần 3–5 biến quan sát: một câu duy nhất dễ bị hiểu lệch, và không bao phủ hết các khía cạnh của khái niệm.\nBáo trước: “Cuối buổi, bảng thang đo của nhóm định lượng sẽ có đúng hình dạng này: mã biến, biến quan sát, thang đo, nguồn.”\nLưu ý cho giảng viên: slide mới, thay UEF #4 “Thuật ngữ cốt lõi”."
+    },
+    {
+      "type": "cards",
+      "title": "Hai quy tắc: mỗi con số một nghĩa, và cùng một nghĩa cho mọi người",
+      "cards": [
+        {
+          "head": "Duy nhất",
+          "text": "Mỗi con số chỉ đại diện cho một mức độ hoặc một phạm trù"
+        },
+        {
+          "head": "Nhất quán",
+          "text": "Cách gán số giữ nguyên cho mọi người trả lời, mọi lần đo"
+        }
+      ],
+      "callout": "Nước mắm (giả định): câu 1 có 5 = rất đồng ý, câu 2 lại 5 = rất không đồng ý",
+      "notes": "Quy tắc duy nhất (uniqueness): mỗi con số chỉ đại diện cho một mức độ hoặc một phạm trù. Nếu “2” vừa là “nữ” vừa là “khác” thì không ai diễn giải được kết quả.\nQuy tắc nhất quán (consistency): cách gán số giữ nguyên cho mọi người trả lời, mọi lần đo — A luôn là 1, B luôn là 2, và mọi người trả lời dùng cùng một thang Likert 1–5.\nĐọc ví dụ ở hộp dưới: bảng hỏi về một thương hiệu nước mắm (giả định). Câu 1 dùng 5 = “rất đồng ý”, câu 2 lại dùng 5 = “rất không đồng ý” mà không báo trước.\nHỏi lớp: “Ví dụ nước mắm vi phạm quy tắc nào? Hậu quả là gì?” Chờ khoảng 15 giây. Đáp án: vi phạm quy tắc nhất quán; người trả lời quen tay chọn 5 ở cả hai câu — dữ liệu sai mà không ai biết.\nLưu ý cho giảng viên: gộp UEF #7, #8, #9; UEF #9 dùng tên một thương hiệu nước mắm thật — trên lớp nói theo tài liệu học tập: “một thương hiệu nước mắm (giả định)”."
+    },
+    {
+      "type": "cards",
+      "title": "Đo sai thì phân tích giỏi đến đâu cũng cho kết luận sai",
+      "cards": [
+        {
+          "head": "Dữ liệu",
+          "text": "Biến nhận thức, thái độ trừu tượng thành dữ liệu phân tích được"
+        },
+        {
+          "head": "Phép tính",
+          "text": "Cấp thang đo quyết định kỹ thuật phân tích nào được phép"
+        },
+        {
+          "head": "Kết luận",
+          "text": "Rác vào, rác ra: đo sai thì phân tích giỏi cũng sai"
+        }
+      ],
+      "notes": "Đo lường có ba ý nghĩa. Thứ nhất, biến khái niệm trừu tượng — nhận thức, thái độ — thành dữ liệu có thể phân tích, so sánh. Thứ hai, quyết định kỹ thuật phân tích nào được phép dùng — phần này học ở mục 7.3 hôm nay và ở Bài 9. Thứ ba, đo sai thì phân tích tốt đến đâu cũng cho kết luận sai; người làm nghiên cứu hay nói “rác vào, rác ra” (garbage in, garbage out).\nNhấn ý thứ hai: “Cấp thang đo quyết định các bạn được tính gì ở Chương 4. Chọn thang ngay lúc viết bảng hỏi — không phải lúc phân tích.”\nCó thể hỏi: “Ai trong lớp đã từng thấy một báo cáo tính ‘giới tính trung bình’?” — chỉ để gây chú ý, không cần trả lời.\nChuyển ý: “Vậy ‘gán số’ có mấy kiểu? Bốn.”\nLưu ý cho giảng viên: tương ứng UEF #10 (hình định tính → dữ liệu → quyết định)."
+    },
+    {
+      "type": "section",
+      "tag": "S4",
+      "kicker": "20–38 phút",
+      "title": "7.2 Các loại thang đo",
+      "notes": "Phân đoạn dài nhất phần lý thuyết — 18 phút cho bốn cấp thang đo và ba thang thái độ. Đây là phân đoạn dày slide (khoảng 11 slide), nên giữ nhịp: mỗi slide ví dụ chỉ 1–1,5 phút.\nNếu đang chậm giờ: gộp slide so sánh cặp vào slide thang thứ tự, chiếu nhanh Stapel và slide hỏi tuổi bằng khoảng. Không cắt slide Likert là quy ước và slide thang tỷ lệ vì sinh viên sẽ cần chúng khi viết chương phương pháp."
+    },
+    {
+      "type": "steps",
+      "title": "Bốn cấp thang đo, xếp từ yếu đến mạnh",
+      "steps": [
+        {
+          "head": "Định danh",
+          "text": "Phân loại"
+        },
+        {
+          "head": "Thứ tự",
+          "text": "Xếp hạng"
+        },
+        {
+          "head": "Quãng (khoảng)",
+          "text": "Khoảng cách đều"
+        },
+        {
+          "head": "Tỷ lệ",
+          "text": "Có điểm 0 thật"
+        }
+      ],
+      "callout": "Cấp sau có đủ tính chất của cấp trước",
+      "notes": "Bốn cấp thang đo xếp từ thấp đến cao: định danh → thứ tự → quãng (khoảng) → tỷ lệ. Hai cấp đầu là thang phi số liệu — dữ liệu định tính, dạng phân loại. Hai cấp sau là thang số liệu — dữ liệu định lượng. Hệ phân loại bốn cấp này bắt nguồn từ Stevens (1946).\nNói rõ về tên gọi: “Đề cương gọi interval là thang đo cấp quãng; tài liệu học tập dùng cả ‘quãng’ và ‘khoảng’ — là một. Hôm nay tôi nói ‘quãng (khoảng)’ lần đầu, sau đó chỉ nói ‘quãng’.”\nBáo trước quy ước cho phần đố sau 25 phút nữa: 1 ngón tay = định danh, 2 = thứ tự, 3 = quãng, 4 = tỷ lệ — ghi nhớ số thứ tự trên các nấc này.\nCó thể quay lại bảng trà sữa: “Có/không là cấp mấy? Xếp hạng quán là cấp mấy?”\nLưu ý cho giảng viên: tương ứng UEF #11 + #12; mỗi nấc ghi tên chữ, không chỉ dựa vào màu."
+    },
+    {
+      "type": "cards",
+      "title": "Định danh: con số chỉ là nhãn dán",
+      "cards": [
+        {
+          "head": "Giới tính",
+          "text": "1 Nam · 2 Nữ · 3 Khác"
+        },
+        {
+          "head": "Nước ngọt đã mua",
+          "text": "Thương hiệu nào trong tháng qua? (chọn nhiều)"
+        }
+      ],
+      "callout": "“Nữ = 2” không có nghĩa là gấp đôi nam",
+      "notes": "Ở thang định danh, con số chỉ dùng để gắn nhãn, phân loại; không có thứ tự hơn kém. Hai ví dụ: giới tính 1. Nam · 2. Nữ · 3. Khác; và câu “Bạn đã mua nước ngọt của những thương hiệu nào trong tháng qua?” cho chọn nhiều đáp án.\nNói: “‘Nữ = 2’ không có nghĩa là ‘gấp đôi nam’. Đổi thành Nữ = 1, Nam = 2 thì thông tin không thay đổi gì.”\nHỏi nhanh: “Mã số sinh viên là thang gì?” Chờ vài giây. Đáp án: định danh — là số nhưng chỉ là nhãn; không ai tính “mã số sinh viên trung bình”.\nThống kê phù hợp với định danh: đếm, tần số, tỷ lệ %, yếu vị (mode).\nLưu ý cho giảng viên: tương ứng UEF #13 + #14; câu giới tính đã thêm lựa chọn “Khác”."
+    },
+    {
+      "type": "case",
+      "title": "Thứ tự: biết ai hơn ai, không biết hơn bao nhiêu",
+      "label": "Câu hỏi mẫu",
+      "scenario": [
+        "Xếp hạng 3 yếu tố khi chọn quán cà phê (1 = quan trọng nhất):",
+        "___ Giá",
+        "___ Không gian",
+        "___ Vị trí"
+      ],
+      "question": "Hạng 1 và hạng 2 cách nhau bao xa?",
+      "notes": "Ở thang thứ tự, con số thể hiện thứ tự, xếp hạng, nhưng khoảng cách giữa các bậc không nhất thiết bằng nhau.\nĐọc câu hỏi mẫu, rồi hỏi lớp câu bên phải: “Hạng 1 và hạng 2 cách nhau bao xa?” Chờ vài giây. Chốt: “Người trả lời có thể thấy hạng 1 và hạng 2 gần như ngang nhau, còn hạng 3 cách rất xa — thang thứ tự không cho biết điều đó. Giống bục nhận huy chương: biết ai về nhất, nhì, ba nhưng không biết hơn nhau mấy giây.”\nThống kê phù hợp: tần số, %, trung vị (median), phân vị — không tính trung bình.\nChuyển ý: “Xếp hạng có một dạng khác, gặp nhiều trong nghiên cứu sở thích thương hiệu: so sánh cặp.”\nLưu ý cho giảng viên: tương ứng UEF #15 + #16 (hình bục 1–2–3)."
+    },
+    {
+      "type": "cards",
+      "title": "So sánh cặp: mỗi lần chỉ chọn một trong hai thương hiệu",
+      "cards": [
+        {
+          "head": "A hay B"
+        },
+        {
+          "head": "A hay C"
+        },
+        {
+          "head": "A hay D"
+        },
+        {
+          "head": "B hay C"
+        },
+        {
+          "head": "B hay D"
+        },
+        {
+          "head": "C hay D"
+        }
+      ],
+      "callout": "5 thương hiệu = 10 cặp → chỉ dùng khi ít đối tượng",
+      "notes": "So sánh cặp là một dạng thang thứ tự: “Giữa A và B, bạn thích cái nào hơn?”, lặp lại cho mọi cặp. Hướng dẫn trên bảng hỏi: “Chọn thương hiệu bạn thích hơn trong từng cặp.” Với 4 thương hiệu cần đủ 6 cặp như trên slide.\nHỏi nhanh: “5 thương hiệu thì bao nhiêu cặp?” — đáp án 10 cặp. 10 thương hiệu thì 45 cặp. Vì vậy dạng này nhanh chóng trở nên dài, chỉ dùng khi số đối tượng ít.\nNếu thiếu giờ: gộp slide này vào slide thang thứ tự (phương án dự phòng), chỉ nói một câu “so sánh cặp cũng là thang thứ tự”.\nLưu ý cho giảng viên: tương ứng UEF #17 đã sửa — slide gốc vẽ 5 thương hiệu nhưng chỉ 4 cặp và hướng dẫn “đánh số 1” trong khi giao diện là nút chọn; bản này đủ 6 cặp cho 4 thương hiệu."
+    },
+    {
+      "type": "compare",
+      "title": "Quãng (khoảng): khoảng cách bằng nhau, nhưng điểm 0 do người đặt",
+      "left": {
+        "head": "Được phép",
+        "items": [
+          "Khoảng cách đều nhau",
+          "Cộng, trừ",
+          "Tính trung bình"
+        ]
+      },
+      "right": {
+        "head": "Không được",
+        "items": [
+          "Coi 0 là “không có gì”",
+          "Nói “gấp bao nhiêu lần”"
+        ]
+      },
+      "callout": "0°C không phải “không có nhiệt độ”",
+      "notes": "Ở thang quãng, khoảng cách giữa các bậc bằng nhau, nhưng điểm 0 không tuyệt đối — 0 không có nghĩa là “không có gì”. Ví dụ kinh điển là nhiệt độ °C: 0°C không phải “không có nhiệt độ”; 20°C không “nóng gấp đôi” 10°C. Vì vậy thang quãng cộng trừ được, tính trung bình được, nhưng không nói được “gấp bao nhiêu lần”.\nHỏi lớp: “Hôm nay 30°C, hôm qua 15°C — hôm nay nóng gấp đôi hôm qua?” Để lớp cười, rồi giải thích: đổi sang độ F thì tỷ lệ khác hẳn, nên “gấp đôi” không có nghĩa.\nChuyển ý: “Trong nghiên cứu marketing, ba thang đo thái độ sau đây thường được xử lý như thang quãng: Likert, đối nghĩa và Stapel.”\nLưu ý cho giảng viên: tương ứng UEF #18 (hình nhiệt kế có vạch 0)."
+    },
+    {
+      "type": "table",
+      "title": "Likert: mỗi phát biểu một hàng, chọn đúng một mức đồng ý",
+      "header": [
+        "Phát biểu (giả định)",
+        "Mức đồng ý"
+      ],
+      "rows": [
+        [
+          "Sữa chua thương hiệu X có vị ngon",
+          "1 · 2 · 3 · 4 · 5"
+        ],
+        [
+          "Tôi sẽ tiếp tục mua sữa chua X",
+          "1 · 2 · 3 · 4 · 5"
+        ]
+      ],
+      "callout": "1 = Hoàn toàn không đồng ý … 5 = Hoàn toàn đồng ý — neo cùng chiều cho mọi câu",
+      "notes": "Thang Likert: người trả lời cho biết mức đồng ý với từng phát biểu — 1 Hoàn toàn không đồng ý · 2 Không đồng ý · 3 Trung lập · 4 Đồng ý · 5 Hoàn toàn đồng ý. Hai ví dụ (giả định): “Sữa chua thương hiệu X có vị ngon”; “Tôi sẽ tiếp tục mua sữa chua thương hiệu X”.\nNói rõ: “Một phát biểu — một hàng — chọn đúng một ô. Slide gốc vẽ bốn hàng nút cho một câu; khi làm Google Forms dạng lưới trắc nghiệm, mỗi phát biểu là một hàng, các mức đồng ý là các cột.”\nNhắc neo thang cùng chiều cho mọi câu: 1 luôn là “hoàn toàn không đồng ý”, 5 luôn là “hoàn toàn đồng ý” — đó chính là quy tắc nhất quán vừa học.\nHỏi: “Đề tài nhóm bạn có khái niệm nào đo bằng Likert không?” — hầu hết nhóm định lượng sẽ gật đầu.\nLưu ý cho giảng viên: tương ứng UEF #19 đã sửa — vẽ lại mỗi phát biểu một hàng; nhãn “Hoàn toàn phản đối” đổi thành “Hoàn toàn không đồng ý” cho khớp tài liệu học tập."
+    },
+    {
+      "type": "table",
+      "title": "Đối nghĩa: hai tính từ trái nghĩa ở hai đầu thang",
+      "header": [
+        "Điểm 1",
+        "Thang 7 điểm",
+        "Điểm 7"
+      ],
+      "rows": [
+        [
+          "Lỗi thời",
+          "1 · 2 · 3 · 4 · 5 · 6 · 7",
+          "Hiện đại"
+        ],
+        [
+          "Đắt",
+          "1 · 2 · 3 · 4 · 5 · 6 · 7",
+          "Rẻ"
+        ],
+        [
+          "Không tin cậy",
+          "1 · 2 · 3 · 4 · 5 · 6 · 7",
+          "Đáng tin cậy"
+        ]
+      ],
+      "callout": "Ví dụ thương hiệu sữa Y: mỗi cặp tính từ là một khía cạnh hình ảnh thương hiệu",
+      "notes": "Thang đối nghĩa (semantic differential): hai tính từ trái nghĩa ở hai đầu, thường 7 bậc. Ví dụ đánh giá thương hiệu sữa Y: Lỗi thời 1 2 3 4 5 6 7 Hiện đại · Đắt … Rẻ · Không tin cậy … Đáng tin cậy.\nNói: “Thang này dùng nhiều để đo hình ảnh thương hiệu — mỗi cặp tính từ là một khía cạnh. Vẽ điểm trung bình của hai thương hiệu lên cùng một thang là thấy ngay hồ sơ hình ảnh của từng bên.”\nHỏi nhanh: “Nếu đo hình ảnh một quán cà phê, bạn chọn cặp tính từ nào?” Nhận 2–3 gợi ý (ồn ào – yên tĩnh, chật – rộng…).\nLưu ý chiều: đặt cực tiêu cực và tích cực nhất quán, hoặc nếu đảo vị trí để tránh khoanh bừa thì phải ghi chú để đảo mã khi phân tích (sẽ nói ở phần đảo mã).\nLưu ý cho giảng viên: tương ứng UEF #20 — giữ kiểu thanh 7 điểm, thay nội dung theo tài liệu học tập."
+    },
+    {
+      "type": "statement",
+      "title": "Stapel: một tính từ ở giữa, chấm từ -5 đến +5",
+      "big": "Thân thiện",
+      "sub": "Nhân viên cửa hàng XYZ · từ -5 đến +5, không có điểm 0",
+      "mark": "“",
+      "notes": "Thang Stapel: chỉ một tính từ ở giữa — ví dụ “Thân thiện” khi đánh giá nhân viên cửa hàng XYZ — người trả lời chấm từ −5 đến +5, không có điểm 0. Số dương càng lớn là tính từ càng mô tả đúng; số âm càng lớn là càng không đúng.\nNói: “Thang này hữu ích khi khó tìm được cặp tính từ trái nghĩa thật chuẩn — ví dụ ‘thân thiện’ trái nghĩa là ‘lạnh lùng’, ‘khó chịu’ hay ‘thờ ơ’? Stapel tránh được câu hỏi đó.”\nChiếu nhanh trong khoảng 1 phút; nếu thiếu giờ, chỉ đọc tên và một câu mô tả.\nChuyển ý: “Ba thang thái độ vừa rồi đều được xử lý như thang quãng. Nhưng chữ ‘xử lý như’ có ý nghĩa — ta xem kỹ.”\nLưu ý cho giảng viên: tương ứng UEF #21 — slide cuối của deck UEF; từ slide sau là slide soạn mới."
+    },
+    {
+      "type": "compare",
+      "title": "Coi Likert là thang quãng là một quy ước, không phải định lý",
+      "left": {
+        "head": "Về lý thuyết",
+        "items": [
+          "Một câu Likert = thứ tự",
+          "Bậc chưa chắc cách đều"
+        ]
+      },
+      "right": {
+        "head": "Theo quy ước",
+        "items": [
+          "Xử lý như thang quãng",
+          "Thang từ 5 bậc",
+          "Gộp nhiều biến quan sát"
+        ]
+      },
+      "callout": "Ghi rõ “theo quy ước” trong chương phương pháp",
+      "notes": "Đây là điểm các bạn sẽ gặp lại khi viết chương phương pháp, nên nói cho rõ.\nHỏi lớp: “Ai bảo đảm khoảng cách từ ‘trung lập’ đến ‘đồng ý’ bằng khoảng cách từ ‘đồng ý’ đến ‘hoàn toàn đồng ý’?” Chờ vài giây. Về lý thuyết, một câu Likert đơn lẻ là thang thứ tự.\nNhưng trong nghiên cứu kinh doanh, việc xử lý Likert như thang quãng — để tính trung bình, độ lệch chuẩn — là quy ước phổ biến, nhất là khi thang có từ 5 bậc trở lên và điểm của khái niệm được tính từ nhiều biến quan sát. Vấn đề này vẫn còn được tranh luận.\nKhông đi sâu vào tranh luận. Cho lớp một câu mẫu để viết vào chương phương pháp: “Theo quy ước phổ biến, thang Likert 5 điểm được xử lý như thang quãng.”\nLưu ý cho giảng viên: UEF #19 viết “Nếu số đo từ 5 điểm trở lên, Likert được xử lý như thang đo quãng” như một quy tắc — slide này bổ sung chữ “quy ước”."
+    },
+    {
+      "type": "cards",
+      "title": "Tỷ lệ: có điểm 0 thật, nên nói được “gấp đôi”",
+      "cards": [
+        {
+          "head": "Chi tiêu",
+          "text": "Mỗi tuần bạn chi bao nhiêu cho đồ uống? ____ đồng"
+        },
+        {
+          "head": "Tần suất",
+          "text": "Tháng qua bạn đến cửa hàng X mấy lần? ____ lần"
+        }
+      ],
+      "callout": "100.000 đ là **gấp đôi** 50.000 đ",
+      "notes": "Thang tỷ lệ có đủ tính chất của thang quãng và có điểm 0 tuyệt đối: 0 nghĩa là không có. Vì vậy so sánh được “gấp bao nhiêu lần”.\nĐọc hai câu hỏi điền số: “Trung bình mỗi tuần bạn chi bao nhiêu tiền cho đồ uống? ____ đồng” và “Trong tháng qua bạn đã đến cửa hàng X bao nhiêu lần? ____ lần”.\nNói: “0 đồng là không chi gì — điểm 0 có thật. Người chi 100.000 đ chi gấp đôi người chi 50.000 đ — phát biểu này hợp lệ.” Tuổi, thu nhập, chi tiêu, số lần mua, thời gian sử dụng là các biến tỷ lệ thường gặp. Đây là thang mạnh nhất: mọi phép tính, mọi thống kê đều dùng được.\nHỏi nhanh — chỉ 20 giây, không sa đà: “Điểm thi môn này trên thang 10 là thang gì?” Đáp án hợp lý: thường xử lý như thang tỷ lệ/quãng; 0 điểm có nghĩa “không đạt gì” trong bài thi đó. Mục đích chỉ để thấy cấp thang đo phụ thuộc vào cách hiểu điểm 0.\nLưu ý cho giảng viên: slide mới (mục 7.2.4) — UEF không có."
+    },
+    {
+      "type": "compare",
+      "title": "Hỏi tuổi bằng khoảng là tự hạ cấp thang đo",
+      "left": {
+        "head": "Tuổi: ____",
+        "items": [
+          "Thang tỷ lệ",
+          "Tính được tuổi trung bình",
+          "Gom nhóm sau vẫn được"
+        ]
+      },
+      "right": {
+        "head": "18–22 · 23–27 · …",
+        "items": [
+          "Thang thứ tự",
+          "Mất trung bình chính xác",
+          "Không đổi ngược lại được"
+        ]
+      },
+      "vs": true,
+      "callout": "Hỏi số cụ thể khi có thể và khi câu hỏi không nhạy cảm",
+      "notes": "Mẹo — đừng tự hạ cấp thang đo. Nếu hỏi tuổi bằng khoảng (18–22, 23–27…), biến trở thành thang thứ tự và mất khả năng tính trung bình chính xác. Ngược lại, nếu hỏi tuổi cụ thể, sau này muốn gom thành nhóm tuổi vẫn làm được.\nNói: “Hỏi số cụ thể khi có thể và khi câu hỏi không nhạy cảm.”\nHỏi lớp: “Nhóm nào đang hỏi tuổi hoặc chi tiêu theo khoảng trong bản nháp bảng hỏi?” Không cần trả lời to — mỗi nhóm tự ghi chú để sửa ở phần thực hành.\nNối sang Buổi 10: “Thu nhập là câu nhạy cảm — Buổi 10 sẽ bàn khi nào nên hỏi theo khoảng.”\nChuyển ý: “Giờ gom bốn cấp lại vào một bảng: cấp nào được tính gì.”"
+    },
+    {
+      "type": "section",
+      "tag": "S5",
+      "kicker": "38–45 phút",
+      "title": "7.3 Cấp thang đo và độ mạnh của chúng",
+      "notes": "Phân đoạn 7 phút: bảng phép tính và thống kê được phép theo từng cấp, ba phát biểu không hợp lệ, và hệ quả cho thiết kế bảng hỏi.\nĐây là phần sinh viên cần nhất khi viết Chương 4 — cho lớp chụp lại bảng bốn cấp. Ngay sau phân đoạn này là hoạt động đố cấp thang đo, nên phần giảng cần gọn để còn đủ 7 phút cho hoạt động trước giải lao.\nTrước khi chuyển sang slide đầu tiên của phân đoạn, nói một câu nối với phần vừa học để lớp thấy mạch bài, và nhắc lớp giữ đề tài của nhóm mình trong đầu khi nghe ví dụ."
+    },
+    {
+      "type": "table",
+      "title": "Cấp càng cao, càng nhiều phép tính được phép",
+      "header": [
+        "Cấp",
+        "Tính chất",
+        "Phép tính",
+        "Thống kê mô tả"
+      ],
+      "rows": [
+        [
+          "Định danh",
+          "Phân loại",
+          "Đếm",
+          "Tần số, %, mode"
+        ],
+        [
+          "Thứ tự",
+          "+ Thứ tự",
+          "+ So sánh hơn kém",
+          "+ Trung vị"
+        ],
+        [
+          "Quãng",
+          "+ Khoảng cách đều",
+          "+ Cộng, trừ",
+          "+ Trung bình, độ lệch chuẩn"
+        ],
+        [
+          "Tỷ lệ",
+          "+ Điểm 0 tuyệt đối",
+          "+ Nhân, chia",
+          "Mọi thống kê"
+        ]
+      ],
+      "boldFirstCol": true,
+      "notes": "Thang đo cấp càng cao thì càng mạnh: mang nhiều thông tin hơn và cho phép nhiều phép tính, kỹ thuật thống kê hơn. Mỗi cấp có đủ tính chất của các cấp thấp hơn — dấu “+” trong bảng nghĩa là kế thừa cấp trên cộng thêm.\nĐi từng dòng: định danh — phân loại, chỉ đếm (bằng hay khác), thống kê tần số, tỷ lệ %, yếu vị (mode); ví dụ giới tính, thương hiệu đang dùng. Thứ tự — thêm thứ tự, so sánh hơn kém, thêm trung vị và phân vị; ví dụ xếp hạng ưu tiên, nhóm thu nhập. Quãng — thêm khoảng cách bằng nhau, cộng trừ, trung bình, độ lệch chuẩn; ví dụ thang Likert, đối nghĩa. Tỷ lệ — thêm điểm 0 tuyệt đối, nhân chia (gấp bao nhiêu lần), mọi thống kê; ví dụ tuổi, chi tiêu, số lần mua.\nNói: “Cho lớp chụp slide này — chúng ta dùng lại ở Buổi 13 khi chọn kỹ thuật phân tích.”\nHỏi kiểm tra nhanh: “Thang nào là thang yếu nhất mà vẫn tính được trung bình?” — quãng."
+    },
+    {
+      "type": "compare",
+      "title": "Cùng một con số, phát biểu đúng hay sai tùy cấp thang đo",
+      "left": {
+        "head": "Phát biểu sai",
+        "items": [
+          "“Hạng trung bình của B là 1,52”",
+          "“A (4,5) hài lòng gấp đôi B (2,3)”",
+          "“Giới tính trung bình là 1,6”"
+        ]
+      },
+      "right": {
+        "head": "Cách nói đúng",
+        "items": [
+          "“60% xếp B ở hạng 1”",
+          "“Điểm khu vực A cao hơn B”",
+          "“60% nữ, 40% nam”"
+        ]
+      },
+      "notes": "Đọc từng phát biểu ở cột trái, hỏi lớp “sai ở đâu?” trước khi hiện cột phải. Số liệu đều là giả định.\n(1) “Thương hiệu B được yêu thích nhất vì thứ hạng trung bình là 1,52.” — Xếp hạng là thang thứ tự; không tính trung bình. Không tồn tại “hạng 1,52”. Cách nói hợp lệ: “60% người trả lời xếp B ở hạng 1.”\n(2) “Khách hàng khu vực A (điểm hài lòng trung bình 4,5) hài lòng gấp đôi khách hàng khu vực B (2,3).” — Thang 1–5 là thang quãng; điểm 0 do người thiết kế đặt. Cách nói hợp lệ: “Điểm hài lòng trung bình ở khu vực A cao hơn khu vực B.” Slide sau giải thích vì sao.\n(3) “Giới tính trung bình của mẫu là 1,6.” — Định danh; chỉ báo cáo tỷ lệ: “60% nữ, 40% nam.”\nLưu ý cho giảng viên: ví dụ 1 và 2 chuyển thể từ video “Question Type Quiz Review” — bản gốc là xếp hạng ba thương hiệu bia nhập khẩu và điểm hài lòng đại lý ô tô ở hai thành phố của Mỹ; con số 1,52; 60%; 4,5; 2,3 là số minh họa."
+    },
+    {
+      "type": "table",
+      "title": "Vì sao 4,5 không “hài lòng gấp đôi” 2,3: đổi điểm 0 là thấy",
+      "header": [
+        "Khu vực",
+        "Thang 1…5",
+        "Trừ 3: thang -2…+2"
+      ],
+      "rows": [
+        [
+          "A",
+          "4,5",
+          "+1,5"
+        ],
+        [
+          "B",
+          "2,3",
+          "-0,7"
+        ],
+        [
+          "Tỷ số A/B",
+          "Khoảng 2 lần",
+          "Mất nghĩa — B âm"
+        ]
+      ],
+      "boldFirstCol": true,
+      "callout": "Trên thang quãng, điểm 0 do người thiết kế đặt — nên phép chia không có nghĩa",
+      "notes": "Thử đổi cách đánh số: lấy thang 1–5 trừ mỗi điểm đi 3, ta được thang −2…+2. Thông tin không thay đổi gì — người hài lòng nhất vẫn ở đầu cao nhất, khoảng cách giữa các bậc vẫn bằng nhau.\nNhưng điểm 4,5 thành +1,5, còn 2,3 thành −0,7. “Gấp đôi” biến mất — thậm chí một bên âm. Một tỷ lệ thay đổi khi chỉ đổi cách đánh số thì không mang ý nghĩa.\nNói: “Trên thang quãng, điểm 0 do người thiết kế đặt — nên phép chia không có nghĩa. Phép trừ thì vẫn giữ: A hơn B 2,2 điểm ở cả hai cách đánh số.”\nHỏi lớp: “Vậy so sánh ‘số người chọn A nhiều gấp đôi số người chọn B’ có hợp lệ không?” Đáp án: có — đó là so sánh tần số, hợp lệ ở mọi cấp. Điều bị cấm là nói “gấp đôi” trên chính giá trị đo.\nLưu ý cho giảng viên: ví dụ chuyển thể từ video “Question Type Quiz Review” — bản gốc: đại lý ô tô ở hai thành phố của Mỹ."
+    },
+    {
+      "type": "cards",
+      "title": "Chọn thang theo kế hoạch phân tích: hạ cấp được, nâng cấp thì không",
+      "cards": [
+        {
+          "head": "Mở lại 4.3.5",
+          "text": "Đọc lại kế hoạch phân tích trong đề cương nhóm trước khi viết câu hỏi"
+        },
+        {
+          "head": "Trung bình?",
+          "text": "Tính hoặc so sánh trung bình → đo bằng thang quãng hoặc tỷ lệ"
+        },
+        {
+          "head": "Nhân khẩu",
+          "text": "Định danh hoặc thứ tự → dùng để chia nhóm so sánh"
+        }
+      ],
+      "callout": "Tuổi cụ thể → nhóm tuổi: được; ngược lại: không",
+      "notes": "Ba hệ quả cho thiết kế bảng hỏi.\nMột: có thể chuyển thang mạnh về thang yếu (tuổi cụ thể → nhóm tuổi), nhưng không chuyển ngược được.\nHai: trước khi viết câu hỏi, mở lại kế hoạch phân tích — mục 4.3.5 — trong đề cương của nhóm. Nếu cần tính trung bình hoặc so sánh trung bình giữa các nhóm, biến đó phải đo bằng thang quãng hoặc tỷ lệ.\nBa: biến nhân khẩu (giới tính, năm học, ngành) thường là định danh hoặc thứ tự — chúng dùng để chia nhóm so sánh, không dùng để tính trung bình.\nNói câu chốt: “Thu dữ liệu xong mới thấy cần trung bình thì đã muộn — không có cách nào gửi lại bảng hỏi cho 200 người.”\nChuyển ý: “Thử ngay xem cả lớp đã phân biệt được chưa.”"
+    },
+    {
+      "type": "section",
+      "tag": "S6",
+      "kicker": "45–52 phút",
+      "title": "Đố cấp thang đo",
+      "notes": "Hoạt động 7 phút theo kiểu Think-Pair-Share rút gọn: làm theo cặp với bạn ngồi cạnh, trả lời bằng cách giơ ngón tay thay cho công cụ bình chọn.\nMốc thời gian: phút 45 đọc kịch bản mở đầu và chiếu câu 1; phút 45–50 câu 1–4 (đọc → 20 giây → 3–2–1 giơ tay → nói đáp án → giơ tay (a)/(b) → giải thích một câu); phút 50–51 câu 5–8 đọc nhanh; phút 51–52 chữa câu lớp chia rẽ nhiều nhất (thường là câu 3 hoặc 6).\nLưu ý cho giảng viên: kịch bản đầy đủ trong phiếu hoạt động “Đố cấp thang đo” của Buổi 9."
+    },
+    {
+      "type": "stat",
+      "title": "Đố cấp thang đo: 20 giây bàn với bạn, rồi giơ tay",
+      "stats": [
+        {
+          "value": "1",
+          "label": "**Định danh**"
+        },
+        {
+          "value": "2",
+          "label": "**Thứ tự**"
+        },
+        {
+          "value": "3",
+          "label": "**Quãng**"
+        },
+        {
+          "value": "4",
+          "label": "**Tỷ lệ**"
+        }
+      ],
+      "callout": "Câu 1–4 hỏi thêm: 1 ngón = (a), 2 ngón = (b)",
+      "notes": "Đọc kịch bản mở đầu: “Mình kiểm tra ngay bảng vừa học. Tôi chiếu 8 câu hỏi khảo sát. Mỗi câu, các bạn có 20 giây bàn với bạn bên cạnh, rồi khi tôi đếm 3–2–1 thì giơ tay: 1 ngón là định danh, 2 ngón là thứ tự, 3 ngón là quãng, 4 ngón là tỷ lệ. Bốn câu đầu tôi hỏi thêm: phát biểu (a) hay (b) mới hợp lệ — giơ 1 ngón cho (a), 2 ngón cho (b). Cả lớp giơ cùng lúc, không nhìn bạn khác.”\nNếu ít bạn giơ tay: nhắc “giơ cùng lúc, sai cũng không sao — đây là luyện tập”; giảng viên tự giơ tay đếm 3–2–1 làm mẫu. Ai không muốn giơ tay có thể ghi đáp án ra giấy — không chấm điểm.\nNếu lớp chia rẽ ở hầu hết các câu: dừng sau câu 3, quay lại bảng bốn cấp, rồi làm tiếp. Nếu chạy quá giờ: chỉ làm câu 1–4; câu 5–8 chuyển thành câu tự kiểm tra."
+    },
+    {
+      "type": "case",
+      "title": "Câu 1: xếp hạng ba thương hiệu trà sữa",
+      "label": "Câu 1",
+      "scenario": [
+        "“Hãy xếp hạng 3 thương hiệu trà sữa A, B, C theo mức độ yêu thích của bạn (1 = thích nhất).”",
+        "(a) “B được yêu thích nhất vì thứ hạng trung bình là 1,52.”",
+        "(b) “B được yêu thích nhất: 60% xếp B ở hạng 1.”"
+      ],
+      "question": "Cấp thang đo nào? Phát biểu nào hợp lệ?",
+      "notes": "Đọc câu hỏi, cho 20 giây bàn theo cặp, đếm 3–2–1 để cả lớp giơ tay cấp thang đo. Nói đáp án trong một câu, rồi hỏi tiếp (a) hay (b).\nĐáp án: thang thứ tự (2 ngón). Thống kê phù hợp: tần số, %, trung vị. Phát biểu hợp lệ là (b). Vì sao (a) sai: không có “hạng 1,52”; thang thứ tự không tính trung bình.\nĐây là câu khởi động — đa số lớp sẽ đúng vì vừa học ví dụ tương tự. Đi nhanh, khoảng 1 phút.\nLưu ý cho giảng viên: câu 1–4 chuyển thể từ video “Question Type Quiz Review” (Tepper School, Module 2) sang bối cảnh giả định ở Việt Nam; số liệu trong phát biểu là số minh họa."
+    },
+    {
+      "type": "case",
+      "title": "Câu 2: chi tiêu ăn uống mỗi tháng",
+      "label": "Câu 2",
+      "scenario": [
+        "“Mỗi tháng bạn chi bao nhiêu tiền cho ăn uống? ____ đồng”",
+        "(a) “SV đi làm thêm chi trung bình 3 triệu/tháng, gấp 1,5 lần SV không đi làm (2 triệu).”",
+        "(b) “Không thể tính trung bình chi tiêu vì mỗi người chi một khác.”"
+      ],
+      "question": "Cấp thang đo nào? Phát biểu nào hợp lệ?",
+      "notes": "Đọc câu hỏi, 20 giây bàn theo cặp, 3–2–1 giơ tay cấp thang đo, rồi giơ tay (a)/(b).\nĐáp án: thang tỷ lệ (4 ngón). Thống kê phù hợp: mọi thống kê. Phát biểu hợp lệ là (a). Vì sao (b) sai: 0 đồng là không chi gì — điểm 0 có thật; tính trung bình và nói “gấp 1,5 lần” đều được.\nDùng câu này để nhấn: (b) là phát biểu “nghe có lý” — nhiều bạn nghĩ dữ liệu khác nhau thì không gộp được. Biến tỷ lệ được tính mọi thống kê.\nGhi nhớ câu này để so sánh với câu 6 — cũng hỏi về tiền nhưng cấp thang đo khác.\nLưu ý cho giảng viên: bản gốc trong video hỏi tổng thu nhập hộ gia đình bằng đô-la Mỹ; phát biểu hợp lệ của video so sánh số đếm (tần số), hợp lệ ở mọi cấp nên đã được thay bằng so sánh “gấp 1,5 lần” trên chính giá trị chi tiêu."
+    },
+    {
+      "type": "case",
+      "title": "Câu 3: hài lòng với dịch vụ giao hàng",
+      "label": "Câu 3",
+      "scenario": [
+        "“Bạn hài lòng thế nào với dịch vụ giao hàng của ứng dụng X?” 1 Rất không hài lòng … 5 Rất hài lòng",
+        "(a) “Khu vực A (4,5) hài lòng gấp đôi khu vực B (2,3).”",
+        "(b) “Điểm hài lòng trung bình ở khu vực A cao hơn B.”"
+      ],
+      "question": "Cấp thang đo nào? Phát biểu nào hợp lệ?",
+      "notes": "Đọc câu hỏi đầy đủ: “Bạn hài lòng thế nào với dịch vụ giao hàng của ứng dụng X ở khu vực bạn sống?” 1 Rất không hài lòng · 2 Không hài lòng · 3 Bình thường · 4 Hài lòng · 5 Rất hài lòng. 20 giây, 3–2–1 giơ tay.\nĐáp án: thang quãng (3 ngón) — theo quy ước. Thống kê phù hợp: trung bình, độ lệch chuẩn. Phát biểu hợp lệ là (b). Vì sao (a) sai: điểm 0 do người đặt; đổi thang 1–5 thành −2…+2 thì 4,5 → +1,5 và 2,3 → −0,7, “gấp đôi” vô nghĩa.\nCâu này hay gây tranh luận (thứ tự hay quãng). Chấp nhận cả hai nếu sinh viên giải thích được; chốt: về lý thuyết một câu hài lòng đơn lẻ là thứ tự; trong nghiên cứu kinh doanh, theo quy ước, xử lý như thang quãng để tính trung bình. Hỏi: “Trong chương phương pháp bạn sẽ viết gì?”"
+    },
+    {
+      "type": "case",
+      "title": "Câu 4: các học phần bạn đã học",
+      "label": "Câu 4",
+      "scenario": [
+        "“Bạn đã học những học phần nào? (chọn tất cả)” NC Marketing · Marketing số · Hành vi NTD · Quản trị thương hiệu",
+        "(a) “NC Marketing được học nhiều nhất vì trung vị lựa chọn là 3,2.”",
+        "(b) “70% đã học NC Marketing, 40% đã học Marketing số.”"
+      ],
+      "question": "Cấp thang đo nào? Phát biểu nào hợp lệ?",
+      "notes": "Đọc câu hỏi đầy đủ: “Bạn đã học những học phần nào sau đây? (chọn tất cả các ô phù hợp) — Nghiên cứu Marketing, Marketing số, Hành vi người tiêu dùng, Quản trị thương hiệu.” 20 giây, 3–2–1 giơ tay.\nĐáp án: thang định danh (1 ngón). Thống kê phù hợp: tần số, %, mode. Phát biểu hợp lệ là (b). Vì sao (a) sai: định danh không có trung vị hay trung bình — thứ tự các học phần trong danh sách chỉ là cách liệt kê.\nNếu lớp đã đúng gần hết câu 1–3, có thể bỏ phần (a)/(b) của câu này để dành thời gian cho câu 6.\nChuyển ý: “Bốn câu tiếp theo đi nhanh — chỉ giơ tay cấp thang đo.”"
+    },
+    {
+      "type": "cards",
+      "title": "Câu 5–8: đọc nhanh, 20 giây, giơ tay",
+      "cards": [
+        {
+          "head": "Câu 5",
+          "text": "Mã số sinh viên",
+          "tag": "5"
+        },
+        {
+          "head": "Câu 6",
+          "text": "Thu nhập: Dưới 5 triệu · 5–10 triệu · Trên 10 triệu",
+          "tag": "6"
+        },
+        {
+          "head": "Câu 7",
+          "text": "Nhiệt độ phòng học lúc 9 giờ sáng (°C)",
+          "tag": "7"
+        },
+        {
+          "head": "Câu 8",
+          "text": "Tuần qua bạn đặt đồ ăn qua ứng dụng mấy lần? ____ lần",
+          "tag": "8"
+        }
+      ],
+      "notes": "Bốn câu này đi nhanh, mỗi câu khoảng 20 giây: đọc, đếm 3–2–1, cả lớp giơ tay cấp thang đo, giảng viên nói đáp án một câu.\nCâu 5 — mã số sinh viên: định danh (1 ngón); là số nhưng chỉ là nhãn.\nCâu 6 — thu nhập hằng tháng theo ba khoảng: thứ tự (2 ngón). Đây là bẫy chính: nhiều bạn chọn 4 vì “là tiền” — nhưng đã gom thành khoảng nên mất điểm 0 và khoảng cách đều. Nối với mẹo “đừng tự hạ cấp thang đo”: nếu nhóm cần thu nhập trung bình thì phải hỏi số cụ thể, và cân nhắc tính nhạy cảm — Buổi 10.\nCâu 7 — nhiệt độ °C: quãng (3 ngón); 0°C không phải “không có nhiệt độ”.\nCâu 8 — số lần đặt đồ ăn: tỷ lệ (4 ngón); 0 lần là không đặt lần nào.\nThảo luận chung nếu còn thời gian: “Câu 2 và câu 6 cùng hỏi về tiền. Vì sao cấp thang đo khác nhau? Câu nào cho bạn nhiều thông tin hơn?”"
+    },
+    {
+      "type": "table",
+      "title": "Đáp án câu 1–4 và phát biểu hợp lệ",
+      "header": [
+        "Câu",
+        "Cấp thang đo",
+        "Thống kê",
+        "Hợp lệ"
+      ],
+      "rows": [
+        [
+          "1 · Xếp hạng",
+          "Thứ tự",
+          "Tần số, trung vị",
+          "(b)"
+        ],
+        [
+          "2 · Chi tiêu",
+          "Tỷ lệ",
+          "Mọi thống kê",
+          "(a)"
+        ],
+        [
+          "3 · Hài lòng",
+          "Quãng (quy ước)",
+          "Trung bình, độ lệch chuẩn",
+          "(b)"
+        ],
+        [
+          "4 · Học phần",
+          "Định danh",
+          "Tần số, %, mode",
+          "(b)"
+        ]
+      ],
+      "boldFirstCol": true,
+      "notes": "Chiếu bảng đáp án sau khi lớp đã trả lời xong — không chiếu trước.\nChữa kỹ câu 3: Likert/hài lòng một câu là thứ tự về lý thuyết, nhưng theo quy ước được xử lý như thang quãng; chấp nhận cả hai câu trả lời nếu sinh viên giải thích được. Nhắc câu mẫu cho chương phương pháp: “Theo quy ước phổ biến, thang Likert 5 điểm được xử lý như thang quãng.”\nNhắc lại vì sao phát biểu kia sai ở mỗi câu: câu 1 — không có hạng 1,52; câu 2 — điểm 0 có thật nên tính trung bình và “gấp 1,5 lần” đều được; câu 3 — điểm 0 do người đặt nên “gấp đôi” vô nghĩa; câu 4 — định danh không có trung vị.\nCho lớp chụp bảng nếu muốn. Thời gian: không quá 1 phút cho slide này.",
+      "callout": "Câu 3: về lý thuyết là thứ tự, theo quy ước là quãng"
+    },
+    {
+      "type": "table",
+      "title": "Đáp án câu 5–8: câu 6 là cái bẫy chính",
+      "header": [
+        "Câu",
+        "Cấp thang đo",
+        "Vì sao"
+      ],
+      "rows": [
+        [
+          "5 · Mã số SV",
+          "Định danh (1 ngón)",
+          "Số nhưng chỉ là nhãn"
+        ],
+        [
+          "6 · Nhóm thu nhập",
+          "Thứ tự (2 ngón)",
+          "Đã gom thành khoảng"
+        ],
+        [
+          "7 · Nhiệt độ °C",
+          "Quãng (3 ngón)",
+          "0°C vẫn có nhiệt độ"
+        ],
+        [
+          "8 · Số lần đặt",
+          "Tỷ lệ (4 ngón)",
+          "0 lần là không đặt"
+        ]
+      ],
+      "boldFirstCol": true,
+      "callout": "Cần trung bình thì hỏi số cụ thể",
+      "notes": "Chữa kỹ câu 6 — nhóm thu nhập là thang thứ tự, không phải tỷ lệ. Nhiều bạn chọn 4 ngón vì “là tiền”, nhưng khi đã gom thành khoảng (dưới 5 triệu, 5–10 triệu, trên 10 triệu) thì mất điểm 0 thật và khoảng cách giữa các nhóm không đều — chỉ còn biết nhóm nào cao hơn nhóm nào.\nSo sánh với câu 2: cùng hỏi về tiền, nhưng câu 2 hỏi số cụ thể nên là tỷ lệ và cho nhiều thông tin hơn. Nếu kế hoạch phân tích của nhóm cần thu nhập trung bình, phải hỏi số cụ thể — và cân nhắc tính nhạy cảm, sẽ bàn ở Buổi 10.\nCâu 5, 7, 8 chỉ nhắc một câu mỗi câu.\nChuyển sang giải lao: “Sau giải lao: vì sao con số đo được không bao giờ đúng hoàn toàn — và nhóm làm gì để nó gần đúng nhất.”"
+    },
+    {
+      "type": "break",
+      "title": "Giải lao 15 phút",
+      "big": "15'",
+      "sub": "Quay lại lúc …",
+      "notes": "Giải lao 15 phút (phút 52–67). Điền giờ quay lại cụ thể trước khi chiếu.\nCâu nối trước khi nghỉ: “Sau giải lao: vì sao con số đo được không bao giờ đúng hoàn toàn — và nhóm làm gì để nó gần đúng nhất.”\nTrong giờ nghỉ, giảng viên có thể đi một vòng hỏi nhanh các nhóm đã mở sẵn đề cương M4 và tổng quan M3 chưa, để phần thực hành sau không mất thời gian khởi động.\nLưu ý cho giảng viên: điền giờ quay lại vào dấu “…” trên slide."
+    },
+    {
+      "type": "section",
+      "tag": "S7",
+      "kicker": "67–85 phút",
+      "title": "7.4 Đánh giá đo lường",
+      "notes": "Phân đoạn 18 phút: sai lệch trong đo lường (khoảng 7 phút), độ tin cậy và giá trị (khoảng 7 phút), Cronbach's Alpha (khoảng 2 phút), cách để có thang đo tốt (khoảng 2 phút).\nĐây là toàn bộ slide soạn mới. Nếu chạy chậm: bỏ slide ví dụ đổi con số trên thang, giữ định nghĩa hai loại sai lệch và hình ảnh bắn bia.\nMở đầu lại sau giải lao bằng câu hỏi: “Có phép đo nào hoàn hảo không?”"
+    },
+    {
+      "type": "compare",
+      "title": "Con số đo được = giá trị thật + sai lệch hệ thống + sai lệch ngẫu nhiên",
+      "left": {
+        "head": "Sai lệch hệ thống",
+        "items": [
+          "Lệch **cùng một hướng**",
+          "Lặp lại mỗi lần đo",
+          "Làm giảm **giá trị**"
+        ]
+      },
+      "right": {
+        "head": "Sai lệch ngẫu nhiên",
+        "items": [
+          "Lúc cao lúc thấp",
+          "Không theo quy luật",
+          "Làm giảm **độ tin cậy**"
+        ]
+      },
+      "callout": "Không có phép đo nào hoàn hảo",
+      "notes": "Giá trị ta đo được hiếm khi trùng hoàn toàn với giá trị thật. Viết công thức lên bảng: Giá trị đo được = Giá trị thật + Sai lệch hệ thống + Sai lệch ngẫu nhiên.\nSai lệch hệ thống (systematic): lệch cùng một hướng, lặp lại mỗi lần đo — nguồn thường gặp là câu hỏi dẫn dắt, thang không cân bằng, người trả lời muốn tỏ ra tốt, người phỏng vấn gợi ý. Ảnh hưởng chính: làm giảm giá trị.\nSai lệch ngẫu nhiên (random): lệch lúc cao lúc thấp, không theo quy luật — nguồn là mệt mỏi, vội vàng, câu hỏi mơ hồ, môi trường ồn ào, nhập liệu nhầm. Ảnh hưởng chính: làm giảm độ tin cậy.\nNói: “Không có phép đo nào hoàn hảo — câu hỏi là sai lệch loại nào, và mình giảm nó thế nào.” Hình ảnh dễ nhớ: cái cân luôn chỉ thừa 2 kg là sai lệch hệ thống; cái cân mỗi lần chỉ một kiểu là sai lệch ngẫu nhiên.\nLưu ý cho giảng viên: slide mới, thay slide tóm tắt UEF #3 (có lỗi chính tả “sai lệi hệ thống”, “sai lịch ngẫu nhiên”)."
+    },
+    {
+      "type": "cards",
+      "title": "Sai lệch hệ thống đến từ chính cách mình hỏi",
+      "cards": [
+        {
+          "head": "Câu hỏi dẫn dắt",
+          "text": "Gợi sẵn đáp án mong muốn"
+        },
+        {
+          "head": "Thang không cân bằng",
+          "text": "Lệch về phía tích cực"
+        },
+        {
+          "head": "Muốn tỏ ra tốt",
+          "text": "Chọn đáp án “đẹp”, không thật"
+        },
+        {
+          "head": "Người phỏng vấn gợi ý",
+          "text": "Cách hỏi đẩy câu trả lời"
+        }
+      ],
+      "callout": "Cỡ mẫu lớn không sửa được sai lệch hệ thống",
+      "notes": "Bốn nguồn sai lệch hệ thống: câu hỏi dẫn dắt; thang đo không cân bằng; người trả lời muốn tỏ ra tốt; người phỏng vấn gợi ý. Điểm chung: tất cả đẩy câu trả lời về cùng một phía, mỗi lần đo đều như vậy.\nHỏi lớp: “Câu ‘Bạn có đồng ý rằng sản phẩm thân thiện môi trường là xu hướng tất yếu?’ lệch về phía nào?” Chờ vài giây. Đáp án: lệch về phía đồng ý — đây là câu dẫn dắt, sai lệch hệ thống. Chữ “tất yếu” đã trả lời hộ người được hỏi.\nNhấn câu chốt: “Cỡ mẫu lớn không sửa được sai lệch hệ thống. Hỏi 2.000 người bằng câu dẫn dắt chỉ cho ra một kết quả sai chắc chắn hơn.”\nChuyển ý: “Thậm chí không cần câu dẫn dắt — chỉ đổi con số trên thang cũng đủ đổi câu trả lời.”"
+    },
+    {
+      "type": "stat",
+      "title": "Chỉ đổi con số hoặc khung đáp án, câu trả lời đã đổi theo",
+      "stats": [
+        {
+          "value": "17%",
+          "label": "Thang -4…+4: chọn 5 ô đầu"
+        },
+        {
+          "value": "44%",
+          "label": "Thang 0…8: chọn 5 ô đầu"
+        },
+        {
+          "value": "16%",
+          "label": "Khung thấp: TV > 2,5 giờ"
+        },
+        {
+          "value": "37%",
+          "label": "Khung cao: TV > 2,5 giờ"
+        }
+      ],
+      "callout": "Ví dụ minh họa từ video bài giảng",
+      "notes": "Hai ví dụ minh họa từ video bài giảng.\nVí dụ 1 — con số trên thang: cùng câu hỏi “Bạn đánh giá mức độ thành công của cuộc sống mình thế nào?”, một nhóm nhận thang −4 … +4, nhóm kia nhận thang 0 … 8 — hai thang cùng 9 bậc, cùng nhãn hai đầu. Theo video, chỉ khoảng 17% nhóm thứ nhất chọn 5 ô đầu, trong khi nhóm thứ hai là khoảng 44%. Người trả lời ngại chọn số âm — họ đọc “−3” là “thất bại”, còn “1” chỉ là “hơi thấp”.\nVí dụ 2 — khung tần suất: hỏi “Mỗi ngày bạn xem TV bao lâu?”. Khung thấp (từ “≤ 0,5 giờ” đến “> 2,5 giờ”): khoảng 16% chọn “> 2,5 giờ”. Khung cao (từ “≤ 2,5 giờ” đến “> 4,5 giờ”): khoảng 37% báo xem hơn 2,5 giờ. Người trả lời dùng khung đáp án như tín hiệu về “mức bình thường” và tránh hai đầu.\nLưu ý cho giảng viên: [VERIFY] số liệu do người giảng video nêu, chưa đối chiếu nguồn gốc — có thể từ thí nghiệm của Schwarz và cộng sự (1985; 1991), nghiên cứu gốc dùng thang 11 điểm −5…+5 so với 0…10; nếu không kiểm chứng được, bỏ con số, chỉ nói chiều tác động. Video gọi thang −4…+4 là “Stapel” — trên slide gọi “thang điểm” để không lẫn với Stapel đã học."
+    },
+    {
+      "type": "cards",
+      "title": "Sai lệch ngẫu nhiên đến từ người trả lời mệt, vội, và câu hỏi mơ hồ",
+      "cards": [
+        {
+          "head": "Mệt mỏi",
+          "text": "Bảng hỏi quá dài"
+        },
+        {
+          "head": "Vội vàng",
+          "text": "Làm trên điện thoại"
+        },
+        {
+          "head": "Câu mơ hồ",
+          "text": "Mỗi người hiểu khác"
+        },
+        {
+          "head": "Ồn ào",
+          "text": "Môi trường xao nhãng"
+        },
+        {
+          "head": "Nhập nhầm",
+          "text": "Gõ sai số liệu"
+        },
+        {
+          "head": "Dấu hiệu",
+          "text": "Chọn cùng một số"
+        }
+      ],
+      "notes": "Sai lệch ngẫu nhiên đến từ người trả lời và hoàn cảnh: người làm khảo sát bận, xao nhãng, chán, mệt. Bảng hỏi dài, câu mơ hồ, làm trên điện thoại giữa giờ giải lao, môi trường ồn, nhập liệu nhầm — đều làm sai lệch ngẫu nhiên tăng.\nDấu hiệu điển hình: khoanh cùng một số từ trên xuống dưới cho cả trang Likert — ví dụ mọi câu đều chọn 4.\nHỏi lớp: “Một bảng hỏi Google Forms 80 câu Likert, gửi vào nhóm lớp lúc 11 giờ đêm — loại sai lệch nào tăng?” Chờ vài giây. Đáp án: sai lệch ngẫu nhiên — người trả lời mệt, vội.\nNói: “Đây là lý do lát nữa ở phần thực hành, tôi sẽ khuyên nhóm nào có 6–8 biến độc lập giữ lại 3–4 biến liên quan nhất: bảng hỏi dài làm tăng sai lệch ngẫu nhiên.”\nChuyển ý: “Hai loại sai lệch ứng với hai tiêu chuẩn đánh giá thang đo: độ tin cậy và giá trị.”"
+    },
+    {
+      "type": "cards",
+      "title": "Độ tin cậy: đo lại vẫn ra gần như cũ",
+      "cards": [
+        {
+          "head": "Đo lặp lại",
+          "text": "Test–retest: đo cùng người hai lần, kết quả tương quan cao"
+        },
+        {
+          "head": "Hai bộ câu",
+          "text": "Hình thức tương đương: kết quả hai bộ gần nhau"
+        },
+        {
+          "head": "Nhất quán nội bộ",
+          "text": "Các biến cùng khái niệm liên hệ chặt: Cronbach's Alpha"
+        }
+      ],
+      "callout": "Tin cậy = ít sai lệch ngẫu nhiên",
+      "notes": "Độ tin cậy (reliability): thang đo cho kết quả ổn định, nhất quán khi đo lặp lại — tức là ít sai lệch ngẫu nhiên.\nBa cách đánh giá. Đo lặp lại (test–retest): đo cùng người hai lần cách nhau một thời gian; kết quả tương quan cao thì đáng tin. Hình thức tương đương: hai bộ câu hỏi tương đương cho kết quả gần nhau. Nhất quán nội bộ: các biến quan sát cùng đo một khái niệm có liên hệ chặt với nhau — thường đo bằng Cronbach's Alpha, cách phổ biến nhất trong khảo sát vì chỉ cần đo một lần.\nHỏi: “Với dự án học phần, nhóm có thể đo lại cùng người hai lần không?” — thường là không, nên cách khả thi là nhất quán nội bộ.\nNói câu chốt: “Tin cậy = ít sai lệch ngẫu nhiên.” Chuyển ý: “Nhưng đo ổn định chưa chắc đã đo đúng.”"
+    },
+    {
+      "type": "table",
+      "title": "Giá trị: đo đúng cái cần đo",
+      "header": [
+        "Loại giá trị",
+        "Câu hỏi kiểm tra"
+      ],
+      "rows": [
+        [
+          "Nội dung (gồm bề mặt)",
+          "Đủ khía cạnh? Đọc thấy hợp lý?"
+        ],
+        [
+          "Tiêu chuẩn",
+          "Khớp với tiêu chuẩn bên ngoài?"
+        ],
+        [
+          "Khái niệm: hội tụ",
+          "Biến cùng khái niệm tương quan cao?"
+        ],
+        [
+          "Khái niệm: phân biệt",
+          "Hai khái niệm thật sự khác nhau?"
+        ]
+      ],
+      "boldFirstCol": true,
+      "callout": "Giá trị = ít cả sai lệch hệ thống lẫn sai lệch ngẫu nhiên",
+      "notes": "Giá trị (validity): thang đo đo đúng cái cần đo — ít cả sai lệch hệ thống lẫn ngẫu nhiên.\nBốn loại, mỗi loại một câu hỏi kiểm tra. Giá trị nội dung (bao gồm giá trị bề mặt): các biến quan sát có bao phủ đủ các khía cạnh của khái niệm không; chuyên gia, người trả lời đọc có thấy hợp lý không? Giá trị tiêu chuẩn: kết quả đo có khớp với một tiêu chuẩn bên ngoài không? Giá trị khái niệm hội tụ: các biến đo cùng một khái niệm có tương quan cao với nhau không? Giá trị khái niệm phân biệt: thang đo của hai khái niệm khác nhau có thực sự khác nhau không?\nVí dụ giá trị tiêu chuẩn: “Người có ý định mua cao — sau đó có mua thật không? Nếu có, thang đo ý định mua có giá trị tiêu chuẩn.”\nVới dự án học phần, giá trị nội dung là thứ nhóm làm được ngay: kế thừa thang đo và phỏng vấn thử."
+    },
+    {
+      "type": "cards",
+      "title": "Tin cậy là điều kiện cần, chưa đủ của giá trị",
+      "cards": [
+        {
+          "head": "Rải rác",
+          "text": "Không tin cậy · Không có giá trị"
+        },
+        {
+          "head": "Tập trung, lệch",
+          "text": "Tin cậy · Không có giá trị"
+        },
+        {
+          "head": "Trúng tâm",
+          "text": "Tin cậy · Có giá trị"
+        }
+      ],
+      "callout": "Ổn định chưa chắc đúng: có thể ổn định ở chỗ sai",
+      "notes": "Hình ảnh bắn bia. Che phần chữ dưới mỗi tấm (hoặc nói trước khi lớp đọc), hỏi lớp từng tấm: “Tin cậy không? Có giá trị không?”\nTấm 1 — các phát bắn rải rác khắp bia: không tin cậy, không có giá trị. Tấm 2 — tập trung nhưng lệch xa hồng tâm: tin cậy, không có giá trị. Tấm 3 — tập trung ở hồng tâm: tin cậy và có giá trị.\nKết luận: độ tin cậy là điều kiện cần nhưng chưa đủ của giá trị. Một thang đo có thể cho kết quả rất ổn định — nhưng ổn định ở chỗ sai.\nVí dụ cho tấm 2 (giả định): đo “lòng trung thành với quán cà phê” bằng ba câu hỏi về giá — ba câu trả lời rất khớp nhau (tin cậy), nhưng thứ đo được là nhận thức về giá, không phải lòng trung thành (không có giá trị).\nHỏi thêm: “Có tấm bia nào có giá trị mà không tin cậy không?” — không, vì phát bắn rải rác thì không thể trúng tâm một cách ổn định."
+    },
+    {
+      "type": "stat",
+      "title": "Cronbach's Alpha từ 0,7: các biến quan sát “đi cùng nhau” — phần điểm cộng",
+      "stats": [
+        {
+          "value": "0,7",
+          "label": "Từ 0,7 trở lên: thường được xem là đạt"
+        },
+        {
+          "value": "0,6",
+          "label": "Chấp nhận được trong nghiên cứu khám phá"
+        }
+      ],
+      "callout": "Alpha là điểm cộng (Hair và cộng sự, 2019)",
+      "notes": "Cronbach's Alpha đo nhất quán nội bộ: các biến quan sát của cùng một khái niệm có “đi cùng nhau” không. Giá trị từ 0,7 trở lên thường được xem là đạt; 0,6 có thể chấp nhận trong nghiên cứu khám phá (Hair và cộng sự, 2019). Alpha tính được trên SPSS, Jamovi và nhiều phần mềm khác sau khi thu dữ liệu.\nTrong học phần này, phân tích bắt buộc dừng ở mô tả, đơn biến, nhị biến. Kiểm định Cronbach's Alpha là điểm cộng cho nhóm định lượng muốn làm thêm. Mở rộng — chỉ một câu: sau Alpha, các nghiên cứu thường chạy phân tích nhân tố khám phá (EFA) để kiểm tra giá trị hội tụ/phân biệt — ngoài phạm vi học phần.\nHỏi lớp câu ôn tập 6 của tài liệu học tập: “Alpha = 0,85 có chắc chắn đo đúng khái niệm không?” Đáp án: không — Alpha cao chỉ nói các câu nhất quán với nhau (tin cậy); đó có thể là tấm bia số 2 nếu đo nhầm khái niệm.\nLưu ý cho giảng viên: [VERIFY] ngưỡng Alpha theo ấn bản Hair và cộng sự giảng viên dùng."
+    },
+    {
+      "type": "steps",
+      "title": "Cách nhanh nhất để có thang đo tốt: kế thừa, điều chỉnh, phỏng vấn thử",
+      "steps": [
+        {
+          "head": "Kế thừa",
+          "text": "thang đo đã công bố, có trích dẫn"
+        },
+        {
+          "head": "Dịch và điều chỉnh",
+          "text": "theo bối cảnh Việt Nam; ghi lại thay đổi"
+        },
+        {
+          "head": "Phỏng vấn thử",
+          "text": "3–5 người, kiểm tra họ hiểu đúng ý"
+        },
+        {
+          "head": "Từ 3 biến quan sát",
+          "text": "cho mỗi khái niệm"
+        },
+        {
+          "head": "(Điểm cộng) Alpha",
+          "text": "sau khi thu dữ liệu"
+        }
+      ],
+      "callout": "AI hay bịa nguồn — luôn mở bài gốc đối chiếu",
+      "notes": "Năm bước để thang đo của nhóm đáng tin cậy và có giá trị. Một: kế thừa thang đo đã được kiểm định trong các nghiên cứu đã công bố, có trích dẫn, thay vì tự viết từ đầu. Hai: dịch và điều chỉnh cho phù hợp bối cảnh Việt Nam; ghi lại những gì đã thay đổi — dịch theo ý, nhờ người khác dịch ngược sang tiếng Anh để kiểm tra (chi tiết ở Bài 8). Ba: phỏng vấn thử 3–5 người để kiểm tra họ hiểu câu hỏi đúng ý — đó là giá trị nội dung. Bốn: mỗi khái niệm dùng 3 biến quan sát trở lên. Năm (điểm cộng): kiểm định Cronbach's Alpha sau khi thu dữ liệu.\nVề AI: công cụ AI có thể gợi ý thang đo và nguồn — và rất hay bịa tên tác giả, năm, hoặc “viết lại” biến quan sát khác bản gốc. Quy định học phần không đổi: được dùng nếu khai báo trong nhật ký AI, và mở bài gốc để đối chiếu từng biến quan sát.\nMột câu cho nhóm định tính: độ tin cậy và giá trị trong định tính được bảo đảm bằng cách khác — tam giác đạc, kiểm chứng bởi người tham gia, mô tả chi tiết bối cảnh; xem tài liệu đọc thêm."
+    },
+    {
+      "type": "section",
+      "tag": "S8",
+      "kicker": "85–93 phút",
+      "title": "Đảo mã, các loại biến và mô hình nghiên cứu",
+      "notes": "Phân đoạn 8 phút, ba nội dung ngắn: đảo mã câu ngược chiều (khoảng 3 phút), bốn vai của biến (khoảng 3 phút), mô hình nghiên cứu (khoảng 2 phút).\nĐây là cầu nối sang phần thực hành: sau phân đoạn này, các nhóm vẽ mô hình của chính mình. Nếu chạy chậm: biến trung gian và điều tiết chỉ nêu một câu và chỉ sang tài liệu đọc thêm.\nLưu ý cho giảng viên: tài liệu học tập Bài 7 chưa có mục đảo mã và biến trung gian/điều tiết — bài giảng bổ sung ở mức giới thiệu."
+    },
+    {
+      "type": "table",
+      "title": "Câu ngược chiều phải đảo mã trước khi tính điểm: mã mới = 6 - mã cũ",
+      "header": [
+        "Mã",
+        "Phát biểu",
+        "Trả lời",
+        "Sau đảo mã"
+      ],
+      "rows": [
+        [
+          "HL1",
+          "Nhân viên thân thiện",
+          "4",
+          "4"
+        ],
+        [
+          "HL2",
+          "Hàng hóa dễ tìm",
+          "5",
+          "5"
+        ],
+        [
+          "HL3 (R)",
+          "Chờ thanh toán quá lâu",
+          "5",
+          "6 - 5 = **1**"
+        ]
+      ],
+      "boldFirstCol": true,
+      "callout": "Trung bình: 4,7 nếu không đảo → 3,3 sau đảo mã",
+      "notes": "Nhiều thang đo kế thừa có một vài câu phát biểu ngược chiều — câu mà đồng ý nghĩa là thái độ tiêu cực — để phát hiện người trả lời khoanh bừa.\nVí dụ (giả định): thang đo hài lòng với một siêu thị gồm 3 câu, Likert 5 điểm. HL1 “Nhân viên siêu thị thân thiện” — trả lời 4. HL2 “Hàng hóa được sắp xếp dễ tìm” — 5. HL3 (R) “Thời gian chờ thanh toán quá lâu” — 5, tức là rất bực chuyện xếp hàng.\nVới thang 5 bậc: mã mới = 6 − mã cũ (tổng quát: số bậc + 1 − mã cũ). 5 → 1, 4 → 2, 3 giữ nguyên. Nếu không đảo, điểm trung bình là (4 + 5 + 5)/3 ≈ 4,7 — nghe như rất hài lòng. Sau đảo mã: (4 + 5 + 1)/3 ≈ 3,3.\nHai lưu ý: neo thang luôn cùng chiều cho mọi câu — chỉ nội dung phát biểu mới có thể ngược; và đánh dấu (R) sau mã biến trong bảng thang đo. Điểm thái độ có ý nghĩa khi so sánh: giữa cửa hàng, nhóm khách, thời điểm.\nLưu ý cho giảng viên: phỏng theo ví dụ chuỗi siêu thị ở Mỹ trong video “Measuring Attitudes and WTP”."
+    },
+    {
+      "type": "table",
+      "title": "Bốn vai của biến: độc lập, phụ thuộc — và hai vai phụ là trung gian, điều tiết",
+      "header": [
+        "Loại biến",
+        "Vai trò",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Độc lập",
+          "Nguyên nhân dự kiến",
+          "Thời gian học"
+        ],
+        [
+          "Phụ thuộc",
+          "Kết quả cần giải thích",
+          "Điểm thi"
+        ],
+        [
+          "Trung gian",
+          "Vì sao — cây cầu",
+          "Phương pháp học"
+        ],
+        [
+          "Điều tiết",
+          "Khi nào — núm vặn",
+          "Kiến thức nền"
+        ]
+      ],
+      "boldFirstCol": true,
+      "notes": "Ở Buổi 1 và Buổi 6 các bạn đã gặp biến độc lập và biến phụ thuộc. Hôm nay gọi tên đủ bốn vai. Biến độc lập: nguyên nhân dự kiến — yếu tố nào ảnh hưởng? Biến phụ thuộc: kết quả cần giải thích — ảnh hưởng lên cái gì? Biến trung gian: nằm giữa độc lập và phụ thuộc, giải thích cơ chế — vì sao, bằng cách nào X dẫn đến Y? Biến điều tiết: làm thay đổi độ mạnh hoặc chiều của quan hệ X → Y — mạnh/yếu khi nào, với ai?\nVí dụ dễ nhớ: thời gian học (độc lập) → điểm thi (phụ thuộc). Phương pháp học là trung gian — giải thích vì sao học nhiều thì điểm cao. Kiến thức nền là điều tiết — cùng thêm một giờ học, người có nền tốt tăng điểm khác người chưa có nền.\nMẹo phân biệt: trung gian là cây cầu (tác động đi qua nó); điều tiết là núm vặn âm lượng (nó làm mạnh lên, yếu đi hoặc đổi chiều tác động). Phân biệt kinh điển này đến từ Baron và Kenny (1986).\nLưu ý cho giảng viên: ví dụ lấy từ video “Struggling with Research Variables?”; có thể vẽ sơ đồ X → M → Y và mũi tên từ W chỉ vào đường X → Y lên bảng.",
+      "callout": "Trung gian giải thích cơ chế; điều tiết đổi độ mạnh"
+    },
+    {
+      "type": "model",
+      "title": "Mô hình nghiên cứu là bản đồ: mỗi ô là một khái niệm, mỗi mũi tên là một giả thuyết",
+      "inputsLabel": "Ví dụ (giả định)",
+      "inputs": [
+        "H1 · Nhận thức về giá",
+        "H2 · Chất lượng cảm nhận",
+        "H3 · Ảnh hưởng xã hội"
+      ],
+      "outputLabel": "Biến phụ thuộc",
+      "output": "Ý định mua mỹ phẩm nội địa",
+      "callout": "Giới tính: so sánh nhóm (H4) · Giữ mô hình đơn giản",
+      "notes": "Mô hình nghiên cứu là sơ đồ: mỗi ô là một khái niệm, đo bằng một bộ biến quan sát; mỗi mũi tên là một giả thuyết. Ví dụ (giả định) — đề tài ý định mua mỹ phẩm nội địa của sinh viên TP.HCM, nối tiếp ví dụ ở Bài 4: Nhận thức về giá (GIA) → Ý định mua (YD) là H1; Chất lượng cảm nhận (CL) → YD là H2; Ảnh hưởng xã hội (XH) → YD là H3. Giới tính — biến định danh — dùng để so sánh ý định mua giữa nam và nữ: H4.\nVới dự án học phần: giữ mô hình đơn giản — vài biến độc lập trỏ vào một biến phụ thuộc. Mô hình có biến trung gian, điều tiết là điểm cộng, cần kỹ thuật phân tích vượt phạm vi bắt buộc và phải có cơ sở lý thuyết từ tổng quan tài liệu, không thêm “cho đẹp”.\nNhóm định tính vẽ khung nghiên cứu: các khái niệm cần tìm hiểu và các khía cạnh của từng khái niệm — không có mũi tên giả thuyết.\nNhắc: mũi tên được kiểm định bằng dữ liệu khảo sát vẫn chỉ cho thấy liên hệ, không chứng minh nhân quả.\nChuyển ý: “Giờ đến lượt mô hình và bảng thang đo của chính nhóm các bạn.”"
+    },
+    {
+      "type": "section",
+      "tag": "S9",
+      "kicker": "93–138 phút",
+      "title": "Thực hành nhóm: Xưởng thang đo",
+      "notes": "Phân đoạn thực hành 45 phút — không cắt phân đoạn này dù chạy chậm giờ ở phần trước.\nKỹ thuật: làm việc nhóm theo sản phẩm dự án, đánh giá đồng đẳng theo checklist và chia sẻ ngắn. Sinh viên cần máy tính, đề cương nhóm (M4), tổng quan tài liệu (M3), các bài báo đã thu thập và phiếu nhóm (bản in hoặc điện tử).\nLưu ý cho giảng viên: kịch bản, phiếu nhóm định lượng/định tính và checklist nằm trong phiếu hoạt động “Xưởng thang đo” của Buổi 9."
+    },
+    {
+      "type": "activity",
+      "title": "Xưởng thang đo (45'): từ khái niệm đến bảng thang đo và mô hình của nhóm",
+      "stages": [
+        {
+          "time": "5'",
+          "text": "Liệt kê khái niệm từ đề cương (M4), tổng quan (M3)"
+        },
+        {
+          "time": "20'",
+          "text": "ĐL: bảng thang đo kế thừa · ĐT: khung chủ đề"
+        },
+        {
+          "time": "10'",
+          "text": "Mô hình / khung + đối chiếu kế hoạch phân tích"
+        },
+        {
+          "time": "10'",
+          "text": "Nhóm chéo kiểm tra + 2 nhóm chia sẻ"
+        }
+      ],
+      "product": "bảng thang đo / khung chủ đề + mô hình",
+      "notes": "Kịch bản mở đầu: “45 phút tới là xưởng thang đo cho đề tài của chính các bạn. Việc đầu tiên: mở đề cương M4 và bản tổng quan M3 — mọi khái niệm phải đến từ đó, không nghĩ thêm. Nhóm định lượng tìm thang đo trong chính các bài báo đã đọc trước khi tìm cái mới. Nếu dùng AI để gợi ý, nhớ: AI rất hay bịa nguồn hoặc viết lại biến quan sát — mở bài gốc ra đối chiếu.”\nMốc: 93–98 chặng 1, đi nhanh các bàn kiểm tra đã xác định biến phụ thuộc (ĐL) / câu hỏi nghiên cứu (ĐT). 98–118 chặng 2: mỗi khái niệm ít nhất 3 biến quan sát, có mã biến, nguồn APA 7, cột “đã điều chỉnh gì”, (R) cho câu ngược chiều; ĐT chia mỗi khái niệm 2–4 khía cạnh, mỗi khía cạnh 1–2 câu hỏi mở và câu gợi mở. Phút 117 báo còn 1 phút. 118–128 chặng 3: mũi tên có giả thuyết; cấp thang đo khớp kế hoạch phân tích. 128–134 đổi phiếu nhóm chéo; 134–138 hai nhóm chia sẻ.\nXử lý: nhóm có 6–8 biến độc lập → giữ 3–4; ĐT viết câu đóng → đổi thành câu mở.\nCâu chốt: “Mỗi ô trong mô hình phải có một bộ biến quan sát trong bảng thang đo, và mỗi biến phải có một dòng trong kế hoạch phân tích.”"
+    },
+    {
+      "type": "section",
+      "tag": "S10",
+      "kicker": "138–146 phút",
+      "title": "Kết buổi",
+      "notes": "Phân đoạn kết buổi 8 phút: phiếu ra về hai câu, giao bài tập về nhà, nhắc bài giữa kỳ và nối sang Buổi 10. Không cắt phân đoạn này.\nPhát giấy nhỏ cho phiếu ra về trước khi chiếu slide sau, để sinh viên viết ngay. Còn 4 phút dự phòng cuối buổi (146–150) nếu phần chia sẻ của thực hành kéo dài.\nTrước khi chuyển sang slide đầu tiên của phân đoạn, nói một câu nối với phần vừa học để lớp thấy mạch bài, và nhắc lớp giữ đề tài của nhóm mình trong đầu khi nghe ví dụ."
+    },
+    {
+      "type": "cards",
+      "title": "Trước khi về: biến quan trọng nhất của nhóm bạn đo bằng thang cấp nào?",
+      "cards": [
+        {
+          "head": "Thang cấp nào?",
+          "text": "Biến quan trọng nhất trong mô hình/khung của nhóm là gì, đo bằng thang cấp nào?"
+        },
+        {
+          "head": "Còn chưa rõ",
+          "text": "Một điều về độ tin cậy hoặc giá trị bạn còn chưa rõ"
+        }
+      ],
+      "callout": "Viết hai dòng, không cần ghi tên — nộp lại trước khi ra về",
+      "notes": "Phát phiếu ra về — giấy nhỏ. Mỗi bạn viết hai dòng, không cần ghi tên: (1) Biến quan trọng nhất trong mô hình hoặc khung của nhóm mình là gì, đo bằng thang cấp nào? (2) Một điều về độ tin cậy hoặc giá trị mình còn chưa rõ.\nCho khoảng 2 phút, rồi thu lại. Giảng viên đọc trước Buổi 10. Nếu nhiều phiếu ghi sai cấp thang đo cho Likert hoặc nhầm tin cậy với giá trị, mở đầu Buổi 10 bằng 2 phút nhắc lại hình ảnh bắn bia.\nTrong lúc lớp viết, có thể nhắc: “Nếu câu (1) bạn ghi ‘Likert’ — hãy ghi thêm: thứ tự hay quãng, và vì sao.”"
+    },
+    {
+      "type": "compare",
+      "title": "Bài tập về nhà, bài giữa kỳ và buổi sau",
+      "left": {
+        "head": "Nhóm định lượng",
+        "items": [
+          "Bảng thang đo có nguồn",
+          "Mô hình + giả thuyết"
+        ]
+      },
+      "right": {
+        "head": "Nhóm định tính",
+        "items": [
+          "Khung chủ đề phỏng vấn",
+          "Khung nghiên cứu"
+        ]
+      },
+      "callout": "Giữa kỳ: nộp LMS trước Buổi 11 (hạn …)",
+      "notes": "Bài tập về nhà, mang đến Buổi 10 — không chấm điểm riêng, là một phần của bài nộp giữa kỳ.\nNhóm định lượng: hoàn thiện bảng thang đo — mỗi khái niệm ít nhất 3 biến quan sát, có mã biến, thang đo, nguồn APA 7, ghi rõ đã điều chỉnh gì, đánh dấu (R) nếu có câu ngược chiều — và mô hình nghiên cứu kèm giả thuyết H1, H2… (Chương 2 và Chương 3).\nNhóm định tính: hoàn thiện khung chủ đề phỏng vấn (khái niệm → khía cạnh → câu hỏi chính → câu gợi mở) và khung nghiên cứu (Chương 1 và Chương 2). Cả lớp đọc tài liệu học tập Bài 7 và tài liệu đọc thêm Buổi 9.\nNhắc bài giữa kỳ: nộp trên LMS trước Buổi 11 — Chương 1–3 (định lượng) hoặc Chương 1–2 (định tính) kèm bản nháp bảng hỏi hoặc dàn bài phỏng vấn. Buổi 10 sẽ viết bản nháp đó trên lớp.\nCâu nối: “Tuần sau, bảng thang đo hôm nay sẽ trở thành bảng hỏi thật: thêm câu gạn lọc, câu hành vi, thông tin cá nhân, sắp xếp theo thứ tự hợp lý. Mang theo bảng thang đo và máy tính.”\nLưu ý cho giảng viên: [NEEDS PROFESSOR INPUT] điền hạn nộp cụ thể, mục nộp trên LMS, định dạng file, tiêu chí chấm, quy định nộp trễ."
+    },
+    {
+      "type": "references",
+      "title": "Tài liệu tham khảo",
+      "refs": [
+        "Baron, R. M., & Kenny, D. A. (1986). The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations. *Journal of Personality and Social Psychology, 51*(6), 1173–1182.",
+        "Brown, T. J., Suter, T. A., & Churchill, G. A. (2014). *Basic marketing research: Customer insights and managerial action* (8th ed.). Cengage Learning.",
+        "Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E. (2019). *Multivariate data analysis* (8th ed.). Cengage Learning.",
+        "Malhotra, N. K. (2019). *Marketing research: An applied orientation* (7th ed.). Pearson.",
+        "Nguyễn, Đ. T. (2011). *Phương pháp nghiên cứu khoa học trong kinh doanh*. NXB Lao động – Xã hội.",
+        "Stevens, S. S. (1946). On the theory of scales of measurement. *Science, 103*(2684), 677–680."
+      ],
+      "notes": "Không giảng slide này — để sinh viên tự tra cứu sau buổi học.\nNhắc nhóm định lượng một điều quan trọng: mỗi dòng “Nguồn” trong bảng thang đo cũng phải có một mục tương ứng trong danh mục tài liệu tham khảo của tiểu luận, trình bày theo APA 7 và sắp xếp theo thứ tự chữ cái như trên slide. Nguồn nào do AI gợi ý mà nhóm chưa mở được bài gốc thì chưa được đưa vào danh mục.\nBaron và Kenny (1986) là tài liệu kinh điển về phân biệt biến trung gian và điều tiết; Stevens (1946) là nguồn gốc của hệ bốn cấp thang đo; Hair và cộng sự (2019) là nguồn cho ngưỡng Cronbach's Alpha."
+    }
+  ]
+}

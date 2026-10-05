@@ -416,7 +416,8 @@ L.table = (ctx, pres, s) => {
   const want = [];
   for (let j = 0; j < nc; j++) {
     const cells = [header[j], ...rows.map((r) => r[j])].filter((v) => v !== undefined);
-    want.push(Math.max(1.6, Math.min(6, ...[0], Math.max(...cells.map((c) => textWidthIn(plain(c), pt, false) / 1.6)))));
+    const widest = Math.max(...cells.map((c, k) => textWidthIn(plain(c), pt, k === 0 && header.length > 0) / 1.6));
+    want.push(Math.max(1.6, Math.min(6, widest)));
   }
   const tot = want.reduce((a, b) => a + b, 0);
   const colW = want.map((w) => (w / tot) * CW);
@@ -443,7 +444,7 @@ L.table = (ctx, pres, s) => {
     x: X0, y: Y0, w: CW, colW, rowH: heights,
     border: { type: "solid", pt: 1, color: tint(hc, 0.35) }, objectName: "Bảng",
   });
-  callout(ctx, slide, s.callout, ROT[(ctx.n + 2) % 6], Y1, Y0 + total + GAP + 0.1);
+  callout(ctx, slide, s.callout, ROT[(ctx.n + 2) % 6], Y1, Y0 + total + GAP + 0.25);
   return slide;
 };
 
@@ -545,8 +546,8 @@ L.break = (ctx, pres, s) => {
   const tsz = ctx.fit("break title", s.title, 5.8, 1.6, { max: 48, min: 32, bold: true });
   txt(slide, s.title, { x: 6.5, y: 2.2, w: 5.8, h: 1.6, fontSize: tsz, bold: true });
   if (s.sub) {
-    const ssz = ctx.fit("break sub", s.sub, 5.8, 1.6, { max: 30 });
-    txt(slide, s.sub, { x: 6.5, y: 3.9, w: 5.8, h: 1.6, fontSize: ssz, color: MUTED });
+    const ssz = ctx.fit("break sub", s.sub, 4.7, 2.2, { max: 30 });
+    txt(slide, s.sub, { x: 6.5, y: 3.9, w: 4.7, h: 2.2, fontSize: ssz, color: MUTED });
   }
   return slide;
 };
@@ -628,11 +629,11 @@ L.timeline = (ctx, pres, s) => {
 
 L.references = (ctx, pres, s) => {
   const refs = s.refs || [];
-  const avail = Y1 - Y0;
+  const avail = Y1 - Y0 + 0.2;
   const chunks = [[]];
   let used = 0;
   refs.forEach((r) => {
-    const h = blockHeight([plain(r)], CW - 0.5, MIN_PT) + 0.12;
+    const h = blockHeight([plain(r)], CW - 0.5, MIN_PT) + 0.08;
     if (used + h > avail && chunks[chunks.length - 1].length) { chunks.push([]); used = 0; }
     chunks[chunks.length - 1].push(r);
     used += h;
@@ -646,7 +647,7 @@ L.references = (ctx, pres, s) => {
       const h = blockHeight([plain(r)], CW - 0.5, MIN_PT);
       circle(slide, X0 + 0.04, y + INSET / 72 + (MIN_PT * LINE) / 144 - 0.09, 0.18, ROT[(ctx.n + i) % 6], "Dấu đầu dòng");
       txt(slide, r, { x: X0 + 0.4, y, w: CW - 0.5, h, fontSize: MIN_PT });
-      y += h + 0.12;
+      y += h + 0.08;
     });
     slide.addNotes(k === 0 ? s.notes || "" : "Tiếp danh mục tài liệu tham khảo.");
     if (!first) first = slide;
