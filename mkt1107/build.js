@@ -55,21 +55,21 @@ const onColor = (hex) => (hex === P.purple ? WHITE : INK);
 // Inline **bold** / *italic* markup -> runs; plain() strips markup for measuring.
 function runs(text, base = {}) {
   const out = [];
-  const re = /(\*\*[^*]+\*\*|\*[^*]+\*)/g;
+  const re = /(\*\*.+?\*\*(?!\*)|\*[^*]+\*)/g;
   let last = 0;
   let m;
   const s = String(text ?? "");
   while ((m = re.exec(s))) {
     if (m.index > last) out.push({ text: s.slice(last, m.index), options: { ...base } });
     const t = m[0];
-    if (t.startsWith("**")) out.push({ text: t.slice(2, -2), options: { ...base, bold: true } });
+    if (t.startsWith("**")) out.push(...runs(t.slice(2, -2), { ...base, bold: true }));
     else out.push({ text: t.slice(1, -1), options: { ...base, italic: true } });
     last = m.index + t.length;
   }
   if (last < s.length) out.push({ text: s.slice(last), options: { ...base } });
   return out.length ? out : [{ text: "", options: { ...base } }];
 }
-const plain = (t) => String(t ?? "").replace(/\*\*([^*]+)\*\*/g, "$1").replace(/\*([^*]+)\*/g, "$1");
+const plain = (t) => String(t ?? "").replace(/\*\*(.+?)\*\*(?!\*)/g, "$1").replace(/\*([^*]+)\*/g, "$1");
 
 class Ctx {
   constructor(week) {
@@ -425,7 +425,7 @@ L.table = (ctx, pres, s) => {
     const inner = colW[j] - cellPad;
     let lines = 0;
     String(plain(c)).split("\n").forEach((p) => {
-      lines += require("./lib/fit").countLines(p, inner, pt, bold);
+      lines += require("./lib/fit").countLines(p, inner, pt, bold || (s.boldFirstCol && j === 0));
     });
     return (lines * pt * LINE) / 72 + 0.14;
   }));
@@ -480,8 +480,10 @@ L.case = (ctx, pres, s) => {
   const rw = CW - lw - GAP;
   const h = Y1 - Y0;
   rrect(slide, X0, Y0, lw, h, tint(c1, 0.18), "Tình huống");
-  rrect(slide, X0 + 0.25, Y0 + 0.25, 2.6, 0.62, c1, "Nhãn tình huống", 0.3);
-  txt(slide, s.label || "Tình huống", { x: X0 + 0.25, y: Y0 + 0.25, w: 2.6, h: 0.62, fontSize: 24, bold: true, color: onColor(c1), align: "center", valign: "middle" });
+  const label = s.label || "Tình huống";
+  const pw = Math.min(lw - 0.5, Math.max(2.6, textWidthIn(label, 24, true) + 0.45));
+  rrect(slide, X0 + 0.25, Y0 + 0.25, pw, 0.62, c1, "Nhãn tình huống", 0.3);
+  txt(slide, label, { x: X0 + 0.25, y: Y0 + 0.25, w: pw, h: 0.62, fontSize: 24, bold: true, color: onColor(c1), align: "center", valign: "middle" });
   const sh = h - 1.2;
   const sitems = Array.isArray(s.scenario) ? s.scenario : [s.scenario];
   const ssz = ctx.fit("case scenario", sitems, lw - 0.5, sh, { max: 28, gapPt: 8 });

@@ -539,7 +539,7 @@
     },
     {
       "type": "table",
-      "title": "Mười lỗi APA hay gặp nhất (1/2): tên tác giả, DOI, trích qua trung gian",
+      "title": "Mười lỗi APA hay gặp nhất (1/2): tên, học vị, DOI",
       "header": [
         "Lỗi",
         "Sai",
@@ -562,22 +562,22 @@
           "Le, Q. H. (2019)."
         ],
         [
-          "DOI kiểu cũ",
-          "doi:10.13106/…",
-          "https://doi.org/…"
+          "Ghi học vị",
+          "TS. Nguyễn Văn A (2020)",
+          "Nguyễn, V. A. (2020)"
         ],
         [
-          "Thiếu năm gốc",
-          "(Malter et al., trích từ Berlian et al. 2023)",
-          "(Malter, 2020, trích trong Berlian et al., 2023)"
+          "DOI kiểu cũ",
+          "doi:10.13106/…",
+          "https://doi.org/10.13106/…"
         ]
       ],
       "boldFirstCol": true,
-      "notes": "Bảng lỗi thường gặp theo tài liệu học tập, chia làm hai phần. Cho lớp 30 giây đọc phần 1.\nSau đó đọc từng dòng; nhóm nào đã mắc lỗi đó trong danh mục của mình thì giơ tay — không phải để phạt, mà để biết cần sửa gì trong 12 phút thực hành.\nDòng 1: trích bằng tên thay vì họ — (Hùng, 2017) phải là (Lê, 2017).\nDòng 2: ghi đủ họ tên trong danh mục — Lê Quang Hùng (2017) phải là Lê, Q. H. (2017).\nDòng 3: đảo tên theo kiểu phương Tây — Quang Hung Le (2019) phải là Le, Q. H. (2019).\nDòng 4: DOI kiểu cũ “doi:” — phải ghi dạng đường dẫn https://doi.org/….\nDòng 5: trích qua trung gian thiếu năm gốc — phải ghi (Malter, 2020, trích trong Berlian et al., 2023).\nGhi nhận nhanh dòng nào nhiều nhóm giơ tay nhất để nhắc lại khi đi các bàn ở chặng sửa danh mục.\nChuyển sang phần 2 của bảng."
+      "notes": "Bảng lỗi thường gặp theo tài liệu học tập, chia làm hai phần. Cho lớp 30 giây đọc phần 1.\nSau đó đọc từng dòng; nhóm nào đã mắc lỗi đó trong danh mục của mình thì giơ tay — không phải để phạt, mà để biết cần sửa gì trong 12 phút thực hành.\nDòng 1: trích bằng tên thay vì họ — (Hùng, 2017) phải là (Lê, 2017).\nDòng 2: ghi đủ họ tên trong danh mục — Lê Quang Hùng (2017) phải là Lê, Q. H. (2017).\nDòng 3: đảo tên theo kiểu phương Tây — Quang Hung Le (2019) phải là Le, Q. H. (2019).\nDòng 4: ghi học vị — “TS. Nguyễn Văn A (2020)” phải là Nguyễn, V. A. (2020); danh mục không ghi ThS., TS., PGS.\nDòng 5: DOI kiểu cũ “doi:” — phải ghi dạng đường dẫn https://doi.org/….\nGhi nhận nhanh dòng nào nhiều nhóm giơ tay nhất để nhắc lại khi đi các bàn ở chặng sửa danh mục.\nChuyển sang phần 2 của bảng."
     },
     {
       "type": "table",
-      "title": "Mười lỗi APA hay gặp nhất (2/2): học vị, et al., khớp danh mục, liêm chính",
+      "title": "Mười lỗi APA hay gặp nhất (2/2): et al., trích trung gian, khớp danh mục, liêm chính",
       "header": [
         "Lỗi",
         "Sai",
@@ -585,14 +585,14 @@
       ],
       "rows": [
         [
-          "Ghi học vị",
-          "TS. Nguyễn Văn A",
-          "Nguyễn, V. A."
-        ],
-        [
-          "et al. với 2 tác giả",
+          "Thừa et al.",
           "(Kotler et al., 2012)",
           "(Kotler & Keller, 2012)"
+        ],
+        [
+          "Thiếu năm gốc",
+          "(Malter et al., trích từ Berlian et al. 2023)",
+          "(Malter, 2020, trích trong Berlian et al., 2023)"
         ],
         [
           "Thiếu mục",
@@ -611,7 +611,7 @@
         ]
       ],
       "boldFirstCol": true,
-      "notes": "Phần 2 của bảng lỗi. Tiếp tục cách làm: đọc từng dòng, nhóm nào đã mắc thì giơ tay.\nDòng 6: ghi học vị — “TS. Nguyễn Văn A (2020)” phải là Nguyễn, V. A. (2020); trên slide rút gọn bỏ năm.\nDòng 7: dùng “et al.” cho bài chỉ có hai tác giả — phải ghi đủ (Kotler & Keller, 2012).\nDòng 8 (“Thiếu mục”): trích trong bài nhưng thiếu trong danh mục — mỗi trích dẫn phải có một mục, và ngược lại; dùng mẹo đánh dấu.\nDòng 9 và 10 — nói chậm: liệt kê tài liệu gốc chưa đọc, và (dòng “Trích AI gợi ý”) đưa trích dẫn do AI gợi ý vào bài mà không kiểm tra. Nhấn: “Hai dòng cuối không chỉ là lỗi định dạng — đây là vấn đề liêm chính học thuật. Trích một tài liệu không tồn tại là lỗi của người nộp bài, không phải của AI.”\nNối sang Buổi 4: tuần sau các bạn sẽ tự kiểm chứng xem AI có bịa tài liệu không.\nThời gian cho cả hai phần bảng lỗi: khoảng 4 phút."
+      "notes": "Phần 2 của bảng lỗi. Tiếp tục cách làm: đọc từng dòng, nhóm nào đã mắc thì giơ tay.\nDòng 6 (“Thừa et al.”): dùng “et al.” cho bài chỉ có hai tác giả — phải ghi đủ (Kotler & Keller, 2012).\nDòng 7: trích qua trung gian thiếu năm gốc — phải ghi (Malter, 2020, trích trong Berlian et al., 2023).\nDòng 8 (“Thiếu mục”): trích trong bài nhưng thiếu trong danh mục — mỗi trích dẫn phải có một mục, và ngược lại; dùng mẹo đánh dấu.\nDòng 9 và 10 — nói chậm: liệt kê tài liệu gốc chưa đọc, và (dòng “Trích AI gợi ý”) đưa trích dẫn do AI gợi ý vào bài mà không kiểm tra. Nhấn: “Hai dòng cuối không chỉ là lỗi định dạng — đây là vấn đề liêm chính học thuật. Trích một tài liệu không tồn tại là lỗi của người nộp bài, không phải của AI.”\nNối sang Buổi 4: tuần sau các bạn sẽ tự kiểm chứng xem AI có bịa tài liệu không.\nThời gian cho cả hai phần bảng lỗi: khoảng 4 phút."
     },
     {
       "type": "cards",
