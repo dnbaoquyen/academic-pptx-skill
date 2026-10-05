@@ -28,7 +28,7 @@
       ],
       "rows": [
         [
-          "Tên tác giả Việt",
+          "Tên tác giả Việt",
           "Lê Quang Hùng (2017)",
           "Lê, Q. H. (2017)"
         ],
@@ -39,8 +39,8 @@
         ],
         [
           "Không khớp",
-          "Trích trong bài, thiếu trong danh mục",
-          "Mỗi trích dẫn một mục"
+          "Trích trong bài, thiếu trong danh mục",
+          "Mỗi trích dẫn một mục"
         ]
       ],
       "boldFirstCol": true,
@@ -79,17 +79,17 @@
       "steps": [
         {
           "head": "Hồi I",
-          "text": "Khái niệm, lịch sử, chuỗi giá trị, phân loại",
+          "text": "Khái niệm, lịch sử, chuỗi giá trị, phân loại",
           "tag": "I"
         },
         {
           "head": "Mở đầu hồi II",
-          "text": "Ảo giác và cách kiểm chứng trích dẫn",
+          "text": "Ảo giác và cách kiểm chứng trích dẫn",
           "tag": "II"
         },
         {
           "head": "Buổi 5",
-          "text": "Hồi II–III: ưu, nhược điểm, công cụ, câu lệnh",
+          "text": "Hồi II–III: ưu, nhược điểm, công cụ, câu lệnh",
           "tag": "III"
         }
       ],
@@ -150,7 +150,7 @@
       ],
       "rows": [
         [
-          "Điểm mạnh",
+          "Điểm mạnh",
           "Chính xác, giải thích được từng bước",
           "Làm được việc khó viết thành quy tắc"
         ],
@@ -172,7 +172,7 @@
         "Cũ"
       ],
       "outputLabel": "Kết quả của AI",
-      "output": "Thiên lệch, lạc hậu",
+      "output": "Thiên lệch, lạc hậu",
       "callout": "Ví dụ: AI tuyển dụng học từ dữ liệu có định kiến → ưu ái một số nhóm",
       "notes": "Hệ quả quan trọng nhất cho người làm nghiên cứu: AI học từ dữ liệu nên chỉ tốt bằng dữ liệu nó đã học.\nDữ liệu thiên lệch thì kết quả thiên lệch. Video bài giảng về AI trong nghiên cứu thị trường đưa một ví dụ minh họa: nếu một công cụ AI dùng để phân tích xu hướng tuyển dụng được huấn luyện trên dữ liệu đã có định kiến, nó có thể ưu ái một số nhóm nhân khẩu học — và lặp lại định kiến đó một cách tự động. Video không nêu tên doanh nghiệp hay số liệu, nên trình bày đây là ví dụ minh họa.\nDữ liệu cũ thì kết quả lạc hậu: một mô hình học từ dữ liệu đến một thời điểm nào đó sẽ không biết chuyện xảy ra sau đó.\nHỏi, chỉ định 1–2 bạn (tình huống giả định): “Một công cụ AI học từ bình luận về mỹ phẩm trên mạng — mà phần lớn bình luận đến từ người ở các thành phố lớn. Dùng nó để kết luận về sở thích của sinh viên ở tỉnh thì có vấn đề gì?” Mong đợi: dữ liệu không đại diện cho sinh viên ở tỉnh, nên kết luận lệch. Nối Buổi 1: “hỏi sai người thì kết luận sai” — với AI, “học từ sai dữ liệu thì trả lời sai”. Buổi 8 học kỹ về mẫu đại diện."
     },
@@ -202,7 +202,7 @@
         },
         {
           "tag": "6",
-          "text": "**2020s** · AI tạo sinh",
+          "text": "**2020s** · AI tạo sinh",
           "highlight": true
         }
       ],
@@ -219,10 +219,10 @@
         },
         {
           "head": "1956",
-          "text": "Thuật ngữ AI ra đời"
+          "text": "Thuật ngữ AI ra đời"
         },
         {
-          "head": "Hệ chuyên gia",
+          "head": "Hệ chuyên gia",
           "text": "Hàng nghìn luật “nếu… thì…”"
         },
         {
@@ -239,7 +239,7 @@
       "cards": [
         {
           "head": "Học máy",
-          "text": "1990s–2000s: nhiều dữ liệu hơn, máy tính mạnh hơn"
+          "text": "1990s–2000s: nhiều dữ liệu hơn, máy tính mạnh hơn"
         },
         {
           "head": "Deep Blue",
@@ -276,7 +276,7 @@
       "type": "statement",
       "title": "AI tạo sinh tạo ra điều nghe hợp lý, không tra cứu sự thật",
       "big": "Nó học một trích dẫn *trông như thế nào* — rồi tạo ra thứ có hình dạng đó",
-      "sub": "Lồng nhau: AI > học máy > học sâu > AI tạo sinh / LLM",
+      "sub": "Lồng nhau: AI > học máy > học sâu > AI tạo sinh / LLM",
       "mark": "!",
       "notes": "Thông điệp quan trọng nhất của S3 — nói chậm, ghi lên bảng: AI tạo sinh (như ChatGPT, Gemini, Claude) chỉ là một nhánh của AI. Nó tạo ra văn bản, hình ảnh “trông hợp lý” dựa trên xác suất — không phải tra cứu một kho sự thật.\nVẽ bốn vòng tròn lồng nhau lên bảng: AI chứa học máy, học máy chứa học sâu, học sâu chứa AI tạo sinh / LLM.\nGiải thích “hình dạng của một trích dẫn”: mô hình ngôn ngữ đã “đọc” một lượng văn bản khổng lồ, trong đó có rất nhiều danh mục tài liệu tham khảo. Nó học được rằng một trích dẫn thường trông như thế nào: họ tác giả, năm trong ngoặc, tên bài, tên tạp chí in nghiêng, số tập, số trang, DOI. Khi các bạn hỏi tài liệu, nó tạo ra thứ có hình dạng của một trích dẫn — có thể trùng với một bài có thật, có thể không.\nNói: “Nhớ câu đố đầu giờ.”\nLưu ý cho giảng viên: một số chatbot có tính năng tìm kiếm web và đưa đường link nguồn — tỷ lệ trích dẫn bịa thường giảm, nhưng phần tóm tắt nội dung vẫn có thể sai. Đừng hứa “công cụ có tìm kiếm thì không cần kiểm chứng”. Chuyển ý: “Kiểm tra nhanh xem các bạn đã phân biệt được ‘luật’ và ‘học’ chưa.”"
     },
@@ -374,7 +374,7 @@
       "type": "section",
       "tag": "S5",
       "kicker": "63–83 phút",
-      "title": "Chuỗi giá trị, cấp độ AI, AI trong nghiên cứu thị trường",
+      "title": "Chuỗi giá trị, cấp độ AI, AI trong nghiên cứu thị trường",
       "notes": "Hai mươi phút: chuỗi giá trị của AI (khoảng 7 phút), các cấp độ của AI (khoảng 7 phút), và giới thiệu AI trong nghiên cứu thị trường cùng ba rủi ro đạo đức (khoảng 6 phút).\nPhần này ở mức giới thiệu — Buổi 5 học sâu hơn về ứng dụng, ưu nhược điểm và công cụ.\nCâu dẫn: “Trước giải lao, mình đã thấy AI học từ dữ liệu. Bây giờ nhìn rộng hơn: chatbot các bạn dùng nằm ở đâu trong cả một chuỗi, và nó thông minh đến mức nào.”\nLưu ý cho giảng viên: phần này dựa trên slide UEF #5 (sửa theo tài liệu học tập), UEF #6, và video “Unlock AI's Potential in Market Research” — video nói ở mức nguyên tắc, không nêu tên doanh nghiệp hay số liệu."
     },
     {
@@ -436,19 +436,19 @@
       "title": "Bốn cấp độ AI: hầu hết AI hiện nay mới ở cấp 2",
       "steps": [
         {
-          "head": "Máy phản ứng",
-          "text": "Deep Blue · đã có"
+          "head": "Máy phản ứng",
+          "text": "Deep Blue · đã có"
         },
         {
-          "head": "Bộ nhớ hạn chế",
+          "head": "Bộ nhớ hạn chế",
           "text": "Xe tự lái, gợi ý, chatbot · đã có"
         },
         {
           "head": "Lý thuyết tâm trí",
-          "text": "Đang nghiên cứu"
+          "text": "Đang nghiên cứu"
         },
         {
-          "head": "Tự nhận thức",
+          "head": "Tự nhận thức",
           "text": "Giả thuyết"
         }
       ],
@@ -463,7 +463,7 @@
         "items": [
           "Giọng đồng cảm",
           "Câu chữ trôi chảy",
-          "Trích dẫn đủ tác giả, DOI"
+          "Trích dẫn đủ tác giả, DOI"
         ]
       },
       "right": {
@@ -491,7 +491,7 @@
         },
         {
           "head": "Tự động hóa",
-          "text": "Khảo sát, làm sạch, mã hóa, gom chủ đề ban đầu"
+          "text": "Khảo sát, làm sạch, mã hóa, gom chủ đề ban đầu"
         }
       ],
       "callout": "Ví dụ (giả định): 20.000 bình luận → đọc mẫu vài trăm để kiểm tra AI",
@@ -502,7 +502,7 @@
       "title": "Ba rủi ro đạo đức: quyền riêng tư, thiên lệch, thiếu minh bạch",
       "cards": [
         {
-          "head": "Quyền riêng tư",
+          "head": "Quyền riêng tư",
           "text": "Không đưa tên, số điện thoại, câu trả lời nhận diện được lên AI"
         },
         {
@@ -510,7 +510,7 @@
           "text": "AI lặp lại, khuếch đại định kiến có sẵn trong dữ liệu"
         },
         {
-          "head": "Thiếu minh bạch",
+          "head": "Thiếu minh bạch",
           "text": "Khó biết vì sao AI đưa ra kết quả đó"
         }
       ],
@@ -521,7 +521,7 @@
       "type": "section",
       "tag": "S6",
       "kicker": "83–95 phút",
-      "title": "Ảo giác và cách kiểm chứng",
+      "title": "Ảo giác và cách kiểm chứng",
       "notes": "Mười hai phút: ảo giác là gì và bốn kiểu trích dẫn sai (khoảng 4 phút); quy trình kiểm chứng 4 bước, giảng viên làm mẫu trực tiếp trên Google Scholar (khoảng 6 phút); mẫu nhật ký AI (khoảng 2 phút).\nĐây là phần nối trực tiếp với thực hành 45 phút sau đó — sinh viên mở sẵn Google Scholar và phiếu hoạt động để theo dõi phần làm mẫu.\nChuẩn bị: Google Scholar đã mở trên máy chiếu; trích dẫn 4 của phụ lục B để làm mẫu; ảnh chụp màn hình dự phòng nếu mất mạng.\nLưu ý cho giảng viên: phần này dùng slide UEF #7 (chỉ ô “Ảo giác AI” trong cột hạn chế) và ô cảnh báo của UEF #12; cả slide ưu/nhược điểm học ở Buổi 5."
     },
     {
@@ -564,15 +564,15 @@
           "text": "Tìm tên bài trên Scholar"
         },
         {
-          "head": "Đúng chi tiết?",
+          "head": "Đúng chi tiết?",
           "text": "Tác giả, năm, tạp chí, trang"
         },
         {
-          "head": "DOI đúng bài?",
-          "text": "Mở doi.org + DOI"
+          "head": "DOI đúng bài?",
+          "text": "Mở doi.org + DOI"
         },
         {
-          "head": "Nội dung đúng?",
+          "head": "Nội dung đúng?",
           "text": "Đọc abstract bài gốc"
         }
       ],
@@ -589,7 +589,7 @@
         },
         {
           "head": "Ngày",
-          "text": "Ngày nhóm dùng AI"
+          "text": "Ngày nhóm dùng AI"
         },
         {
           "head": "Câu lệnh",
@@ -597,7 +597,7 @@
         },
         {
           "head": "Kết quả",
-          "text": "Tóm tắt AI trả về gì"
+          "text": "Tóm tắt AI trả về gì"
         },
         {
           "head": "Kiểm chứng",
@@ -605,7 +605,7 @@
         },
         {
           "head": "Sửa / loại bỏ",
-          "text": "Phần đã sửa, đã bỏ"
+          "text": "Phần đã sửa, đã bỏ"
         }
       ],
       "notes": "Chiếu mẫu nhật ký AI — phụ lục A của phiếu hoạt động. Từ hôm nay, mỗi lần nhóm dùng AI cho dự án, ghi một dòng nhật ký, gồm sáu cột chính: công cụ, ngày, câu lệnh, tóm tắt kết quả, cách kiểm chứng, phần đã sửa hoặc loại bỏ.\nĐọc dòng ví dụ trong phụ lục A: chatbot bản miễn phí, Buổi 4, câu lệnh liệt kê 5 bài báo khoa học, kết quả là 5 trích dẫn kèm DOI; cách kiểm chứng: tra từng bài trên Google Scholar, mở DOI, đọc abstract; phần đã sửa: loại 2 bài không xác minh được, sửa tên tạp chí của 1 bài, viết lại tóm tắt 1 bài. Nhắc: cột “cách kiểm chứng” ghi cụ thể, không ghi chung chung “đã kiểm tra”.\nNhật ký không phải để bắt lỗi các bạn. Nó là bằng chứng về quá trình làm việc của nhóm: đã hỏi gì, đã tin gì, đã sửa gì. Quy định của học phần: được dùng AI, phải khai báo, nộp nhật ký, tự kiểm chứng; giảng viên đánh giá qua nhật ký, các bản nháp theo mốc và khả năng nhóm giải thích bài làm — không dùng phần mềm “phát hiện AI”.\nNói: “Dòng đầu tiên của nhật ký nộp kèm M3 các bạn sẽ viết trong 45 phút tới.”"
@@ -726,7 +726,7 @@
         },
         {
           "head": "Đặt câu lệnh",
-          "text": "Câu lệnh theo khung"
+          "text": "Câu lệnh theo khung"
         }
       ],
       "callout": "Đọc trước Bài 3, mục 3.5–3.8 · mang máy tính",

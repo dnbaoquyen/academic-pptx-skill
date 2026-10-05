@@ -23,7 +23,7 @@
       "title": "Hai nhóm, hai phương pháp thu thập: nghe và hỏi lại",
       "cards": [
         {
-          "head": "Phương pháp",
+          "head": "Cách làm",
           "text": "Khảo sát, phỏng vấn sâu hay thảo luận nhóm?"
         },
         {
@@ -293,7 +293,7 @@
     {
       "type": "statement",
       "title": "Ước lượng trung bình: n = Z²σ²/e² — nhưng phải biết trước σ",
-      "big": "n = Z² × σ² / e² = 3,8416 × 64 ≈ 245,9 → **246**",
+      "big": "n = Z² × σ² / e² = 3,8416 × 64 ≈ 245,9 → **246**",
       "sub": "Ví dụ (giả định): σ ≈ 40.000 đ, e = 5.000 đ, độ tin cậy 95% (Z = 1,96). Luôn làm tròn lên.",
       "mark": "!",
       "notes": "Áp dụng cho mẫu xác suất ngẫu nhiên đơn giản, đám đông lớn. Ký hiệu: Z là giá trị phân phối chuẩn theo độ tin cậy (95% thì Z = 1,96); σ là độ lệch chuẩn của đám đông, ước từ nghiên cứu trước hoặc nghiên cứu thử; e là sai số cho phép, cùng đơn vị với biến.\nVí dụ giả định: ước lượng chi tiêu trà sữa trung bình mỗi tuần của sinh viên. Nghiên cứu thử cho σ ≈ 40.000 đ; muốn sai số không quá 5.000 đ; độ tin cậy 95%. n = 1,96² × 40.000² / 5.000².\nGiải thích bước giữa trên bảng: 40.000² / 5.000² = (40.000 / 5.000)² = 8² = 64. Vậy n = 3,8416 × 64 ≈ 245,9 → làm tròn lên 246.\nNhấn: luôn làm tròn lên, vì làm tròn xuống thì sai số vượt mức cho phép.\nChỉ ra khó khăn: phải biết trước σ — mà thường ta chưa biết. Vì vậy trong thực tế, công thức theo tỷ lệ ở slide sau được dùng nhiều hơn."
@@ -301,8 +301,8 @@
     {
       "type": "statement",
       "title": "Ước lượng tỷ lệ: chưa biết p thì dùng 0,5 — và ra con số 385 quen thuộc",
-      "big": "n = Z² × p(1 − p) / e² = 3,8416 × 0,25 / 0,0025 ≈ 384,2 → **385**",
-      "sub": "Độ tin cậy 95%, sai số ±5%, p = 0,5 — tính nhanh bằng hàm ROUNDUP trong Excel",
+      "big": "n = Z² × p(1 − p) / e² = 3,8416 × 0,25 / 0,0025 ≈ 384,2 → **385**",
+      "sub": "Độ tin cậy 95%, sai số ±5%, p = 0,5. Excel: =ROUNDUP(1.96^2\\*0.5\\*0.5/0.05^2; 0)",
       "mark": "!",
       "notes": "Công thức khi ước lượng tỷ lệ: n = Z² × p(1 − p) / e², trong đó p là tỷ lệ dự kiến; chưa biết thì dùng p = 0,5 — cho cỡ mẫu lớn nhất, an toàn nhất.\nVí dụ: ước lượng tỷ lệ sinh viên đã mua mỹ phẩm nội địa, độ tin cậy 95%, sai số ±5%. Viết từng bước lên bảng: 1,96² × 0,5 × 0,5 / 0,05² = 3,8416 × 0,25 / 0,0025 ≈ 384,2 → 385.\nHỏi: \"Vì sao p = 0,5 lại an toàn nhất?\" Gợi ý: so p(1 − p) với các giá trị p khác: 0,5 × 0,5 = 0,25; 0,2 × 0,8 = 0,16; 0,1 × 0,9 = 0,09. Không biết p thì giả định trường hợp \"khó nhất\".\nNói: \"Con số 385 các bạn sẽ gặp rất nhiều trong các bài nghiên cứu — từ nay gặp, các bạn biết nó từ đâu ra: độ tin cậy 95%, sai số ±5%, p = 0,5.\"\nTính bằng Excel hoặc Google Sheets: =ROUNDUP(1.96^2*0.5*0.5/0.05^2; 0) → 385. Dấu phân cách \",\" hay \";\" và dấu thập phân tùy cài đặt ngôn ngữ của máy."
     },
@@ -365,7 +365,7 @@
     {
       "type": "statement",
       "title": "Công thức chỉ đúng với mẫu xác suất: mẫu thuận tiện thêm người không thêm đại diện",
-      "big": "Mẫu thuận tiện: cỡ mẫu chủ yếu để đủ cho kỹ thuật phân tích",
+      "big": "Mẫu thuận tiện: cỡ mẫu chủ yếu để đủ cho phân tích",
       "sub": "Dự trù 10–20% phiếu hỏng. Cần 385 hợp lệ, dự kiến hỏng 15% → phát 385 / 0,85 ≈ 453 phiếu",
       "mark": "!",
       "notes": "Đây là ý quan trọng nhất của phần cỡ mẫu với dự án sinh viên — nói chậm.\nCông thức ở hai slide trước giả định mẫu được chọn ngẫu nhiên từ khung mẫu. Với mẫu thuận tiện, tăng cỡ mẫu không làm mẫu đại diện hơn. 1.000 phiếu thu từ group Facebook của trường mình vẫn chỉ đại diện cho… những người trong group đó chịu trả lời. Cỡ mẫu khi đó chủ yếu để đủ cho kỹ thuật phân tích.\nNói: \"Đây là bài học '5.000 người giàu' nói bằng ngôn ngữ thống kê.\"\nDự trù phiếu không hợp lệ: nên phát thêm khoảng 10–20% vì sẽ có phiếu trả lời thiếu, trả lời một màu, không qua câu gạn lọc. Cách tính chính xác: cần 385 phiếu hợp lệ, dự kiến 15% không hợp lệ → phát 385 / 0,85 ≈ 453 phiếu. Bài A1(e) của phiếu bài tập sẽ luyện điểm này.\nNếu sinh viên hỏi \"đám đông nhỏ thì sao\": chỉ sang mục hiệu chỉnh đám đông hữu hạn trong tài liệu đọc thêm.\nChuyển ý: \"Câu hỏi thứ ba — chọn họ bằng cách nào — sau giải lao.\""
@@ -858,7 +858,7 @@
       ],
       "rows": [
         [
-          "Ngẫu nhiên đơn giản",
+          "Ngẫu nhiên\nđơn giản",
           "Có khung mẫu đầy đủ, không quá phân tán"
         ],
         [
@@ -887,11 +887,11 @@
       "rows": [
         [
           "Thuận tiện",
-          "Khám phá, thử bảng hỏi, ngân sách rất hạn chế"
+          "Khám phá, thử bảng hỏi, ít ngân sách"
         ],
         [
           "Phán đoán",
-          "Định tính, cần người có hiểu biết, trải nghiệm"
+          "Định tính, cần người am hiểu, trải nghiệm"
         ],
         [
           "Phát triển mầm",
@@ -899,7 +899,7 @@
         ],
         [
           "Định mức",
-          "Muốn cơ cấu giống đám đông, không có khung mẫu"
+          "Cần cơ cấu như đám đông, thiếu khung mẫu"
         ]
       ],
       "boldFirstCol": true,

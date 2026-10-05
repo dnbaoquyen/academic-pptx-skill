@@ -6,7 +6,7 @@
       "type": "cover",
       "lessonTag": "Buổi",
       "number": 3,
-      "title": "Bài 2 (tiếp): Tham khảo và trích dẫn tài liệu",
+      "title": "Bài 2 (tiếp): Tham khảo và trích dẫn tài liệu",
       "subtitle": "MKT1107 · Nghiên cứu Marketing",
       "presenter": "GV: Đoàn Nguyễn Bảo Quyên",
       "notes": "Chiếu slide này trong lúc sinh viên vào lớp. Chưa giảng; chỉ nhắc to: “Các nhóm mở sẵn danh mục tài liệu và bảng tóm tắt đã làm sau Buổi 2 — mình dùng ngay trong mười phút đầu.”\nGiới thiệu ngắn nội dung hôm nay: phần 2.2 Trích dẫn trong bài, phần 2.3 Danh mục tài liệu tham khảo theo APA 7, và phần cuối là viết tổng quan tài liệu — đúng hai thành phần của bài tập M2 (danh mục chuẩn APA 7 và một trang tổng quan có trích dẫn).\nTrong lúc chờ, đi một vòng xem các nhóm đã mở máy chưa; nhóm nào không mang máy thì nhắc ngồi cạnh thành viên có máy.\nLưu ý cho giảng viên: slide bìa này thay cho slide UEF Bài 2 #1. Nguồn chuẩn cho mọi quy tắc APA hôm nay là tài liệu học tập Bài 2 (mục 2.2, 2.3 và bảng “Lỗi thường gặp”) và American Psychological Association (2020); một số slide UEF Bài 2 có cách ghi lỗi thời nên đã được tạo lại trong bộ slide này. Thời lượng buổi: 150 phút, gồm 15 phút giải lao."
@@ -131,7 +131,7 @@
         ]
       ],
       "boldFirstCol": true,
-      "callout": "Từ 3 tác giả: tác giả đầu + et al. / và cộng sự — điểm mới của APA 7",
+      "callout": "Từ 3 tác giả: tác giả đầu + et al. / và cộng sự — mới ở APA 7",
       "notes": "Đi từng dòng của bảng. Một tác giả: (Lê, 2017). Hai tác giả: luôn ghi cả hai — (Kotler & Keller, 2012) trong ngoặc, “Kotler và Keller (2012)” khi dẫn dắt.\nTừ ba tác giả trở lên, ngay từ lần trích đầu tiên chỉ ghi tác giả đầu kèm “et al.” với tài liệu tiếng Anh, hoặc “và cộng sự” với tài liệu tiếng Việt. Đây là điểm mới của APA 7 so với APA 6 — APA 6 yêu cầu ghi đủ ở lần đầu.\nVí dụ: Lê và cộng sự (2023) là cuốn sách chuyên khảo trong danh mục tài liệu tham khảo của đề cương, có sáu tác giả — trong bài chỉ ghi người đầu tiên.\nNhấn mạnh lỗi ngược: dùng “et al.” cho bài chỉ có hai tác giả, ví dụ “(Kotler et al., 2012)”, là một dòng trong bảng lỗi thường gặp mà các bạn sẽ gặp lại sau giải lao.\nLưu ý cho giảng viên: slide UEF #8 dùng “nnk.” cho tài liệu tiếng Việt; tài liệu học tập dùng “và cộng sự” — trên lớp thống nhất dùng “và cộng sự”. Thời gian: khoảng 2 phút."
     },
     {
@@ -163,7 +163,7 @@
           "text": "(C. H. Nguyễn, 2021; K. D. Nguyễn, 2017)"
         },
         {
-          "head": "Cùng tác giả, cùng năm",
+          "head": "Cùng tác giả, cùng năm",
           "text": "(Nguyễn, 2020a, 2020b) — a, b theo thứ tự tên tài liệu trong danh mục"
         }
       ],
@@ -229,7 +229,7 @@
           "text": "chỉ đọc tài liệu trung gian"
         },
         {
-          "head": "Berlian et al. (2023)",
+          "head": "Berlian et al. (2023)",
           "text": "đã đọc → có trong danh mục"
         },
         {
@@ -350,7 +350,7 @@
           "text": "Khi nào?"
         },
         {
-          "head": "Tên tác phẩm.",
+          "head": "Tên tác phẩm.",
           "text": "Tên gì?"
         },
         {
@@ -367,7 +367,7 @@
       "cards": [
         {
           "head": "Sắp xếp",
-          "text": "A–Z theo họ tác giả đầu; một danh mục chung Việt – Anh; không đánh số"
+          "text": "A–Z theo họ tác giả đầu; một danh mục chung Việt – Anh; không đánh số"
         },
         {
           "head": "Tác giả",
@@ -521,7 +521,7 @@
         [
           "Hai tác giả Việt",
           "(Nguyễn & Nguyễn, 2015)",
-          "Nguyễn, Đ. T., & Nguyễn, T. M. T. (2015)."
+          "Nguyễn, Đ. T., & Nguyễn, T. M. T. (2015)."
         ],
         [
           "Viết tiếng Anh, in không dấu",
@@ -529,7 +529,7 @@
           "Le, Q. H. (2019)."
         ],
         [
-          "Nguyễn Như Quỳnh Đoan",
+          "Nguyễn Như Quỳnh Đoan",
           "—",
           "Nguyễn, N. Q. Đ."
         ]
@@ -590,7 +590,7 @@
           "(Kotler & Keller, 2012)"
         ],
         [
-          "Thiếu năm gốc",
+          "Thiếu năm gốc",
           "(Malter et al., trích từ Berlian et al. 2023)",
           "(Malter, 2020, trích trong Berlian et al., 2023)"
         ],
@@ -622,8 +622,8 @@
           "text": "Danh mục APA không đánh số — xếp A–Z theo họ"
         },
         {
-          "head": "Tách Việt – Anh",
-          "text": "Một danh mục chung cho mọi tài liệu"
+          "head": "Tách Việt – Anh",
+          "text": "Một danh mục chung cho mọi tài liệu"
         },
         {
           "head": "Gạch nối ở số trang",
@@ -646,15 +646,15 @@
       "cards": [
         {
           "head": "Bối cảnh",
-          "text": "Những gì đã được nghiên cứu về chủ đề"
+          "text": "Những gì đã được nghiên cứu về chủ đề"
         },
         {
-          "head": "Khoảng trống",
+          "head": "Chỗ trống",
           "text": "Điều còn mâu thuẫn hoặc chưa được nghiên cứu"
         },
         {
-          "head": "Tầm quan trọng",
-          "text": "Vì sao nghiên cứu của nhóm cần thiết"
+          "head": "Tầm quan trọng",
+          "text": "Vì sao nghiên cứu của nhóm cần thiết"
         }
       ],
       "callout": "M2: 1 trang → M3: 2–3 trang → Chương 2 (định lượng) / Chương 1 (định tính)",
@@ -667,9 +667,9 @@
       "scenario": [
         "Nguồn A (2021), sinh viên Hà Nội: giá và không gian quán có ảnh hưởng.",
         "Nguồn B (2022), người đi làm TP.HCM: chất lượng và giá quan trọng nhất.",
-        "Nguồn C (2023), sinh viên đặt qua ứng dụng: khuyến mãi và giá ảnh hưởng nhất."
+        "Nguồn C (2023), sinh viên đặt qua ứng dụng: khuyến mãi và giá ảnh hưởng nhất."
       ],
-      "question": "Đoạn này sai ở đâu?",
+      "question": "Đoạn này sai ở đâu?",
       "notes": "Nói trước: “Ba nguồn dưới đây là nguồn giả định — Nguồn A, B, C — chỉ để thấy cách viết; tình huống chuỗi trà sữa đã dùng ở Buổi 1.”\nĐọc to đoạn 1. Đầy đủ: Nguồn A (2021) nghiên cứu sinh viên ở Hà Nội và thấy giá và không gian quán ảnh hưởng đến việc chọn quán trà sữa. Nguồn B (2022) khảo sát người đi làm ở TP. Hồ Chí Minh và thấy chất lượng đồ uống và giá là quan trọng nhất. Nguồn C (2023) nghiên cứu sinh viên đặt trà sữa qua ứng dụng giao đồ ăn và thấy khuyến mãi và giá ảnh hưởng nhiều nhất.\nHỏi: “Đoạn này sai ở đâu?” Để lớp nói, chờ 3–4 câu trả lời. Dẫn đến kết luận: đoạn này không sai thông tin, nhưng chưa nói được gì mới. Mỗi câu một tác giả; người đọc phải tự nối — tự nhận ra cả ba đều nhắc đến giá, tự nhận ra không gian quán chỉ có ở một nguồn.\nĐây là tóm tắt (summary). Nhiều sinh viên nghĩ tổng quan là tóm tắt lần lượt từng bài đã đọc — slide tiếp theo cho thấy cách viết khác."
     },
     {
@@ -729,7 +729,7 @@
           "—"
         ],
         [
-          "C (2023): SV, qua ứng dụng",
+          "C (2023): SV, qua ứng dụng",
           "có ảnh hưởng",
           "không đề cập",
           "có ảnh hưởng"
@@ -777,7 +777,7 @@
     {
       "type": "statement",
       "title": "Một phút: viết lại câu này thành câu học thuật",
-      "big": "“Mình nghĩ giới trẻ bây giờ thích mua mỹ phẩm nội địa hơn.”",
+      "big": "“Mình nghĩ giới trẻ bây giờ thích mua mỹ phẩm nội địa hơn.”",
       "sub": "Chưa cần nguồn thật: ghi “(Nguồn ?, năm)” vào chỗ cần trích dẫn",
       "mark": "?",
       "notes": "Hoạt động cá nhân 1 phút. Mỗi bạn viết lại câu trên slide thành một câu học thuật — chưa cần nguồn thật, ghi “(Nguồn ?, năm)” vào chỗ cần trích dẫn.\nHết 1 phút, chỉ định 2 bạn đọc to câu của mình. Điểm cần khen: bỏ “mình nghĩ”; bỏ “bây giờ” mơ hồ, thay bằng mốc thời gian hoặc bối cảnh cụ thể; có chỗ trích dẫn; dùng từ thận trọng như “ghi nhận”, “cho thấy” thay vì “chứng minh”. Một câu mẫu có thể gợi ý: “Một số nghiên cứu ghi nhận xu hướng ưa chuộng mỹ phẩm nội địa ở người tiêu dùng trẻ (Nguồn ?, năm).”\nLỗi hiểu thường gặp cần nói sau khi nghe hai bạn: “Trích dẫn càng nhiều thì càng học thuật.” Không — trích dẫn cho mỗi khẳng định, không phải cho mỗi câu. Và tương quan không phải nhân quả: nghiên cứu khảo sát thường chỉ cho thấy hai yếu tố có liên hệ; không viết “TikTok làm sinh viên mua bốc đồng” nếu nguồn chỉ đo mối liên hệ.\nThời gian cho văn phong học thuật cả hai slide: khoảng 3 phút."
@@ -842,7 +842,7 @@
           "A–Z theo họ, không đánh số?",
           "Tên “Họ, T. Đ.”, không học vị?",
           "In nghiêng đúng chỗ?",
-          "DOI https; trang gạch ngang?"
+          "DOI https; trang gạch ngang?"
         ]
       },
       "right": {
@@ -892,7 +892,7 @@
           "text": "Nhóm · 5% · nộp LMS trước Buổi 4, hạn …"
         },
         {
-          "head": "Đề và tiêu chí",
+          "head": "Đề và tiêu chí",
           "text": "Theo đề M2 đã phát ở Buổi 2"
         }
       ],
@@ -917,7 +917,7 @@
           "Chỉ tài liệu đã đọc",
           "Theo chủ đề, có so sánh",
           "Kết bằng khoảng trống",
-          "Tài liệu AI gợi ý đã kiểm chứng"
+          "Tài liệu AI gợi ý đã kiểm chứng"
         ]
       },
       "notes": "Đọc nhanh tám dòng tự kiểm tra; không giải thích lại từng quy tắc — các bạn đã có trong buổi hôm nay.\nCột danh mục: ít nhất 8 tài liệu, trong đó có bài báo khoa học; xếp A–Z theo họ, không đánh số, không tách tiếng Việt và tiếng Anh, thụt lề treo; tên tác giả họ trước, viết tắt tên đệm và tên, giữ dấu với tài liệu tiếng Việt, không học vị; tên tạp chí và số tập in nghiêng, trang có gạch ngang, DOI dạng https://doi.org/….\nCột tổng quan và liêm chính: mỗi trích dẫn trong bài có đúng một mục trong danh mục và ngược lại (đã làm mẹo đánh dấu); chỉ liệt kê tài liệu nhóm đã mở ra đọc, trích qua trung gian ghi đúng cách; tổng quan tổ chức theo chủ đề, có ít nhất một chỗ nhiều nguồn trong một ngoặc, có so sánh đối chiếu, không có câu “mình nghĩ” không nguồn; đoạn kết nêu khoảng trống và nối với câu hỏi nghiên cứu của nhóm; mọi tài liệu do AI gợi ý đều đã được kiểm tra là có thật, và khai báo AI theo quy định học phần.\nNói: “Chụp lại slide này, hoặc mở tài liệu đọc thêm — dò từng dòng trước khi bấm nộp.”"

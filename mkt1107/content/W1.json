@@ -145,7 +145,7 @@
         },
         {
           "tag": "B10",
-          "text": "Bảng hỏi; giữa kỳ trước B11",
+          "text": "Bảng hỏi; giữa kỳ",
           "highlight": true
         },
         {
@@ -235,8 +235,8 @@
           "text": "**Kết nối** khách hàng với nhà marketing **qua thông tin**"
         },
         {
-          "head": "Nguyễn & Nguyễn (2015)",
-          "text": "**Chức năng** gắn với **mọi hoạt động marketing**"
+          "head": "Nguyễn & Nguyễn",
+          "text": "(2015) **Chức năng** gắn với **mọi hoạt động marketing**"
         }
       ],
       "callout": "Cả ba cùng nhấn mạnh điều gì?",
@@ -283,7 +283,7 @@
         "head": "Giới hạn",
         "items": [
           "Không ra quyết định",
-          "Không bảo đảm thành công",
+          "Không bảo đảm thành công",
           "Y = f(x1, x2, …, xn)"
         ]
       },
@@ -327,7 +327,7 @@
       "cards": [
         {
           "head": "Mục tiêu",
-          "text": "Xác định hay giải quyết vấn đề? Hàn lâm hay ứng dụng?"
+          "text": "Xác định hay giải quyết vấn đề? Hàn lâm hay ứng dụng?"
         },
         {
           "head": "Chuyên sâu",
@@ -335,7 +335,7 @@
         },
         {
           "head": "Tính chất",
-          "text": "Định tính hay định lượng?"
+          "text": "Định tính hay định lượng?"
         }
       ],
       "callout": "Ba câu hỏi khác nhau, một nghiên cứu trả lời cả ba.",
@@ -458,14 +458,14 @@
       "left": {
         "head": "Nhóm A (ngẫu nhiên)",
         "items": [
-          "Xem ảnh áo treo trên móc",
+          "Xem ảnh áo treo trên móc",
           "→ Đo tỷ lệ mua"
         ]
       },
       "right": {
         "head": "Nhóm B (ngẫu nhiên)",
         "items": [
-          "Xem ảnh người mẫu mặc",
+          "Xem ảnh người mẫu mặc",
           "→ Đo tỷ lệ mua"
         ]
       },
@@ -584,7 +584,7 @@
       "title": "Tình huống 5: giảng viên kiểm định mô hình niềm tin và ý định mua trực tuyến",
       "label": "Tình huống 5",
       "scenario": "Một nhóm giảng viên đại học kiểm định mô hình về ảnh hưởng của niềm tin đến ý định mua hàng trực tuyến của người tiêu dùng trẻ, để đóng góp cho lý thuyết hành vi người tiêu dùng.",
-      "question": "Loại nào? Hàn lâm hay ứng dụng?",
+      "question": "Loại nào? Hàn lâm hay ứng dụng?",
       "notes": "Đọc tình huống, 30 giây bàn, đếm 3–2–1.\nĐáp án: 3 ngón — tương quan (kiểm định mô hình). Dữ liệu định lượng; mục tiêu hàn lâm.\nTình huống này có thể gây tranh luận giữa tương quan và nhân quả. Chấp nhận “tương quan” và chuyển trọng tâm: điểm chính của tình huống này là hàn lâm — đóng góp cho lý thuyết, không gắn với một doanh nghiệp cụ thể.\nHỏi lớp câu thứ hai trên slide: “Hàn lâm hay ứng dụng?” để nhấn tiêu chí 1. So sánh với dự án của các bạn: ứng dụng, gắn với một quyết định marketing thật.\nNếu chạy quá giờ, có thể bỏ tình huống này."
     },
     {
@@ -592,7 +592,7 @@
       "title": "Tình huống 6: mỹ phẩm nội địa phỏng vấn sâu 12 khách hàng trung thành",
       "label": "Tình huống 6",
       "scenario": "Một thương hiệu mỹ phẩm nội địa phỏng vấn sâu 12 khách hàng trung thành để hiểu vì sao họ chọn mỹ phẩm Việt thay vì hàng ngoại.",
-      "question": "Loại nào? Định tính hay định lượng?",
+      "question": "Loại nào? Định tính hay định lượng?",
       "notes": "Đọc tình huống, 30 giây bàn, đếm 3–2–1.\nĐáp án: 1 ngón — khám phá. Dữ liệu định tính; mục tiêu ứng dụng.\nDấu hiệu nhận biết: phỏng vấn sâu, cỡ mẫu nhỏ (12 người), hỏi “hiểu vì sao”.\nMột số bạn sẽ chọn “mô tả” vì nghĩ là “mô tả lý do”. Câu chốt: 12 người, hỏi sâu “vì sao” → khám phá, định tính; không dùng kết quả này để nói “bao nhiêu phần trăm khách hàng” chọn mỹ phẩm Việt vì lý do đó.\nSau tình huống này chuyển sang slide đáp án tổng hợp."
     },
     {
@@ -675,7 +675,7 @@
           "head": "Thu thập"
         },
         {
-          "head": "Chuẩn bị & phân tích"
+          "head": "Xử lý dữ liệu"
         },
         {
           "head": "Trình bày"
@@ -698,7 +698,7 @@
         "head": "Nghiên cứu: cần **biết** gì?",
         "items": [
           "“Yếu tố nào khiến SV mua ít hơn?”",
-          "Điều cần biết để quyết định"
+          "Điều cần biết để quyết định"
         ]
       },
       "vs": true,
@@ -754,7 +754,7 @@
           "tag": "4"
         },
         {
-          "head": "Chuẩn bị & phân tích",
+          "head": "Chuẩn bị & phân tích",
           "text": "Hiệu chỉnh, mã hóa, làm sạch, phân tích",
           "tag": "5"
         },
@@ -772,15 +772,15 @@
       "title": "Ba lỗi khiến nghiên cứu vô giá trị",
       "cards": [
         {
-          "head": "Sai đối tượng",
+          "head": "Sai đối tượng",
           "text": "Bán điện thoại giá rẻ mà đi hỏi người giàu"
         },
         {
-          "head": "Không thiết kế",
+          "head": "Không thiết kế",
           "text": "In 1.000 phiếu rồi mới thấy câu hỏi sai"
         },
         {
-          "head": "Theo cảm tính",
+          "head": "Theo cảm tính",
           "text": "Dùng giả định, ý kiến cá nhân thay cho dữ liệu"
         }
       ],
@@ -918,11 +918,11 @@
       "cards": [
         {
           "head": "Đã rõ",
-          "text": "Một điều hôm nay mình đã hiểu rõ"
+          "text": "Một điều hôm nay mình đã hiểu rõ"
         },
         {
           "head": "Còn mơ hồ",
-          "text": "Một điều mình vẫn còn mơ hồ"
+          "text": "Một điều mình vẫn còn mơ hồ"
         }
       ],
       "callout": "Không cần ghi tên — nộp lại trước khi ra về.",
@@ -934,7 +934,7 @@
       "cards": [
         {
           "head": "M1",
-          "text": "Phiếu đăng ký đề tài sơ bộ · nhóm · 2,5% · nộp LMS trước Buổi 2 (hạn: …)"
+          "text": "Phiếu đăng ký đề tài sơ bộ · nhóm · 2,5% · nộp LMS trước Buổi 2 (hạn: …)"
         },
         {
           "head": "Tự học",

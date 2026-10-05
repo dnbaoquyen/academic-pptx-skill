@@ -56,7 +56,7 @@
     {
       "type": "statement",
       "title": "Một ly trà sữa “ngon” bao nhiêu?",
-      "big": "Muốn biết trà sữa quán A có ngon hơn quán B không, theo 200 sinh viên — bạn hỏi thế nào?",
+      "big": "Muốn biết trà sữa quán A có ngon hơn quán B không, theo 200 sinh viên — bạn hỏi thế nào?",
       "mark": "?",
       "notes": "Đọc câu hỏi chậm, nhấn chữ “bao nhiêu”: “Một ly trà sữa ngon… bao nhiêu? Nếu tôi muốn biết trà sữa quán A có ngon hơn quán B không, theo ý kiến của 200 sinh viên, thì tôi hỏi thế nào?”\nCho lớp trả lời tự do, ghi lên bảng 3–4 cách. Thường sẽ nghe: chấm sao 1–5 như trên ứng dụng giao đồ ăn; chấm điểm 1–10; hỏi “quán nào ngon hơn?” (xếp hạng); hỏi “có ngon không — có/không”.\nChốt: “Để ý: không ai đề xuất đo độ ngon bằng cân hay bằng thước. Độ ngon nằm trong đầu người uống. Muốn so sánh, phân tích được, ta phải biến nó thành con số — theo một quy tắc. Mỗi cách các bạn vừa nêu là một thang đo khác nhau, và như sẽ thấy hôm nay, mỗi thang cho phép tính những thứ khác nhau.”\nGiữ các cách trên bảng — lát nữa ở phần bốn cấp thang đo, quay lại hỏi lớp mỗi cách thuộc cấp nào (sao 1–5 là quãng theo quy ước, xếp hạng là thứ tự, có/không là định danh)."
     },
@@ -154,7 +154,7 @@
         ],
         [
           "Thang đo (scale)",
-          "Công cụ gán số cho câu trả lời",
+          "Công cụ gán số cho câu trả lời",
           "Likert 5 điểm"
         ]
       ],
@@ -168,7 +168,7 @@
       "cards": [
         {
           "head": "Duy nhất",
-          "text": "Mỗi con số chỉ đại diện cho một mức độ hoặc một phạm trù"
+          "text": "Mỗi con số chỉ đại diện cho một mức độ hoặc một phạm trù"
         },
         {
           "head": "Nhất quán",
@@ -218,11 +218,11 @@
         },
         {
           "head": "Quãng (khoảng)",
-          "text": "Khoảng cách đều"
+          "text": "Khoảng cách đều"
         },
         {
           "head": "Tỷ lệ",
-          "text": "Có điểm 0 thật"
+          "text": "Điểm 0 thật"
         }
       ],
       "callout": "Cấp sau có đủ tính chất của cấp trước",
@@ -356,7 +356,7 @@
       "type": "statement",
       "title": "Stapel: một tính từ ở giữa, chấm từ -5 đến +5",
       "big": "Thân thiện",
-      "sub": "Nhân viên cửa hàng XYZ · từ -5 đến +5, không có điểm 0",
+      "sub": "Nhân viên cửa hàng XYZ · từ -5 đến +5, không có điểm 0",
       "mark": "“",
       "notes": "Thang Stapel: chỉ một tính từ ở giữa — ví dụ “Thân thiện” khi đánh giá nhân viên cửa hàng XYZ — người trả lời chấm từ −5 đến +5, không có điểm 0. Số dương càng lớn là tính từ càng mô tả đúng; số âm càng lớn là càng không đúng.\nNói: “Thang này hữu ích khi khó tìm được cặp tính từ trái nghĩa thật chuẩn — ví dụ ‘thân thiện’ trái nghĩa là ‘lạnh lùng’, ‘khó chịu’ hay ‘thờ ơ’? Stapel tránh được câu hỏi đó.”\nChiếu nhanh trong khoảng 1 phút; nếu thiếu giờ, chỉ đọc tên và một câu mô tả.\nChuyển ý: “Ba thang thái độ vừa rồi đều được xử lý như thang quãng. Nhưng chữ ‘xử lý như’ có ý nghĩa — ta xem kỹ.”\nLưu ý cho giảng viên: tương ứng UEF #21 — slide cuối của deck UEF; từ slide sau là slide soạn mới."
     },
@@ -446,18 +446,18 @@
         [
           "Thứ tự",
           "+ Thứ tự",
-          "+ So sánh hơn kém",
+          "+ So sánh",
           "+ Trung vị"
         ],
         [
           "Quãng",
-          "+ Khoảng cách đều",
+          "+ Cách đều",
           "+ Cộng, trừ",
-          "+ Trung bình, độ lệch chuẩn"
+          "+ Trung bình,\nđộ lệch chuẩn"
         ],
         [
           "Tỷ lệ",
-          "+ Điểm 0 tuyệt đối",
+          "+ Điểm 0 thật",
           "+ Nhân, chia",
           "Mọi thống kê"
         ]
@@ -471,8 +471,8 @@
       "left": {
         "head": "Phát biểu sai",
         "items": [
-          "“Hạng trung bình của B là 1,52”",
-          "“A (4,5) hài lòng gấp đôi B (2,3)”",
+          "“Hạng trung bình của B là 1,52”",
+          "“A (4,5) hài lòng gấp đôi B (2,3)”",
           "“Giới tính trung bình là 1,6”"
         ]
       },
@@ -480,7 +480,7 @@
         "head": "Cách nói đúng",
         "items": [
           "“60% xếp B ở hạng 1”",
-          "“Điểm khu vực A cao hơn B”",
+          "“Điểm khu vực A cao hơn B”",
           "“60% nữ, 40% nam”"
         ]
       },
@@ -521,7 +521,7 @@
       "cards": [
         {
           "head": "Mở lại 4.3.5",
-          "text": "Đọc lại kế hoạch phân tích trong đề cương nhóm trước khi viết câu hỏi"
+          "text": "Đọc lại kế hoạch phân tích trong đề cương nhóm trước khi viết câu hỏi"
         },
         {
           "head": "Trung bình?",
@@ -625,7 +625,7 @@
         },
         {
           "head": "Câu 6",
-          "text": "Thu nhập: Dưới 5 triệu · 5–10 triệu · Trên 10 triệu",
+          "text": "Thu nhập (triệu đồng): Dưới 5 · 5–10 · Trên 10",
           "tag": "6"
         },
         {
@@ -665,8 +665,8 @@
         ],
         [
           "3 · Hài lòng",
-          "Quãng (quy ước)",
-          "Trung bình, độ lệch chuẩn",
+          "Quãng\n(quy ước)",
+          "Trung bình,\nđộ lệch chuẩn",
           "(b)"
         ],
         [
@@ -808,15 +808,15 @@
         },
         {
           "head": "Vội vàng",
-          "text": "Làm trên điện thoại"
+          "text": "Làm trên điện thoại"
         },
         {
           "head": "Câu mơ hồ",
-          "text": "Mỗi người hiểu khác"
+          "text": "Mỗi người hiểu khác"
         },
         {
           "head": "Ồn ào",
-          "text": "Môi trường xao nhãng"
+          "text": "Môi trường xao nhãng"
         },
         {
           "head": "Nhập nhầm",
@@ -843,7 +843,7 @@
         },
         {
           "head": "Nhất quán nội bộ",
-          "text": "Các biến cùng khái niệm liên hệ chặt: Cronbach's Alpha"
+          "text": "Các biến cùng khái niệm liên hệ chặt: Cronbach's Alpha"
         }
       ],
       "callout": "Tin cậy = ít sai lệch ngẫu nhiên",
@@ -887,7 +887,7 @@
           "text": "Không tin cậy · Không có giá trị"
         },
         {
-          "head": "Tập trung, lệch",
+          "head": "Lệch tâm",
           "text": "Tin cậy · Không có giá trị"
         },
         {
@@ -973,7 +973,7 @@
         ],
         [
           "HL3 (R)",
-          "Chờ thanh toán quá lâu",
+          "Chờ thanh toán lâu",
           "5",
           "6 - 5 = **1**"
         ]
@@ -1026,7 +1026,7 @@
         "H3 · Ảnh hưởng xã hội"
       ],
       "outputLabel": "Biến phụ thuộc",
-      "output": "Ý định mua mỹ phẩm nội địa",
+      "output": "Ý định mua mỹ phẩm nội địa",
       "callout": "Giới tính: so sánh nhóm (H4) · Giữ mô hình đơn giản",
       "notes": "Mô hình nghiên cứu là sơ đồ: mỗi ô là một khái niệm, đo bằng một bộ biến quan sát; mỗi mũi tên là một giả thuyết. Ví dụ (giả định) — đề tài ý định mua mỹ phẩm nội địa của sinh viên TP.HCM, nối tiếp ví dụ ở Bài 4: Nhận thức về giá (GIA) → Ý định mua (YD) là H1; Chất lượng cảm nhận (CL) → YD là H2; Ảnh hưởng xã hội (XH) → YD là H3. Giới tính — biến định danh — dùng để so sánh ý định mua giữa nam và nữ: H4.\nVới dự án học phần: giữ mô hình đơn giản — vài biến độc lập trỏ vào một biến phụ thuộc. Mô hình có biến trung gian, điều tiết là điểm cộng, cần kỹ thuật phân tích vượt phạm vi bắt buộc và phải có cơ sở lý thuyết từ tổng quan tài liệu, không thêm “cho đẹp”.\nNhóm định tính vẽ khung nghiên cứu: các khái niệm cần tìm hiểu và các khía cạnh của từng khái niệm — không có mũi tên giả thuyết.\nNhắc: mũi tên được kiểm định bằng dữ liệu khảo sát vẫn chỉ cho thấy liên hệ, không chứng minh nhân quả.\nChuyển ý: “Giờ đến lượt mô hình và bảng thang đo của chính nhóm các bạn.”"
     },

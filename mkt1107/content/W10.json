@@ -24,7 +24,7 @@
       "cards": [
         {
           "head": "Đủ biến?",
-          "text": "Mỗi khái niệm từ 3 biến, có mã và nguồn"
+          "text": "Mỗi khái niệm từ 3 biến, có mã và nguồn"
         },
         {
           "head": "Khớp?",
@@ -67,7 +67,7 @@
         },
         {
           "head": "Bản nháp",
-          "text": "ĐL: bảng hỏi 3 phần · ĐT: dàn bài phỏng vấn"
+          "text": "ĐL: bảng hỏi 3 phần; ĐT: dàn bài phỏng vấn"
         }
       ],
       "callout": "Buổi 11: sâu bước 1–4 · Buổi 12: sâu bước 5–8",
@@ -109,7 +109,7 @@
         "head": "Đầy đủ",
         "items": [
           "Đủ cho mục tiêu",
-          "Đủ cho kế hoạch phân tích"
+          "Đủ cho kế hoạch phân tích"
         ]
       },
       "right": {
@@ -154,15 +154,15 @@
         },
         {
           "tag": "2",
-          "text": "Dạng phỏng vấn"
+          "text": "Dạng phỏng vấn"
         },
         {
           "tag": "3",
-          "text": "Nội dung câu hỏi"
+          "text": "Nội dung câu hỏi"
         },
         {
           "tag": "4",
-          "text": "Hình thức trả lời"
+          "text": "Hình thức trả lời"
         },
         {
           "tag": "5",
@@ -202,7 +202,7 @@
         },
         {
           "head": "Bảng câu hỏi",
-          "text": "Cầu nối giữa hai bên"
+          "text": "Cầu nối giữa hai bên"
         },
         {
           "head": "Đối tượng",
@@ -223,28 +223,28 @@
       ],
       "rows": [
         [
-          "Lọc đúng đối tượng",
+          "Lọc đối tượng",
           "SV học tại TP.HCM",
           "C1 gạn lọc",
           "—"
         ],
         [
-          "Mô tả hành vi mua",
+          "Mô tả hành vi",
           "Đã mua, số lần, nơi mua",
           "C2–C4",
           "Tần số, tỷ lệ"
         ],
         [
-          "Đánh giá giá, chất lượng",
+          "Giá, chất lượng",
           "GIA1–3, CL1–3",
           "C5–C10",
-          "Trung bình, độ lệch chuẩn"
+          "Trung bình,\nđộ lệch chuẩn"
         ],
         [
-          "Đo ý định mua",
+          "Ý định mua",
           "YD1–YD3",
           "C11–C13",
-          "Trung bình, độ lệch chuẩn"
+          "Trung bình,\nđộ lệch chuẩn"
         ]
       ],
       "boldFirstCol": true,
@@ -263,18 +263,18 @@
         [
           "Giá và ý định (H1)",
           "GIA, YD",
-          "C5–C7, C11–C13",
+          "C5–C7,\nC11–C13",
           "Tương quan"
         ],
         [
           "Nam và nữ (H2)",
           "YD, giới tính",
           "C11–C13, C15",
-          "Kiểm định khác biệt"
+          "Kiểm định\nkhác biệt"
         ],
         [
           "Mô tả mẫu",
-          "Giới tính, năm học, chi tiêu",
+          "Giới tính, năm học,\nchi tiêu",
           "C15–C17",
           "Tần số, tỷ lệ"
         ]
@@ -297,7 +297,7 @@
         "head": "Thiếu câu → thêm ngay",
         "items": [
           "Bây giờ: sửa mất 1 phút",
-          "Sau 150 phiếu: không sửa được"
+          "Sau 150 phiếu: không sửa được"
         ]
       },
       "vs": true,
@@ -347,7 +347,7 @@
         },
         {
           "head": "Hướng dẫn rõ",
-          "text": "Không ai đứng cạnh để giải thích"
+          "text": "Không ai đứng cạnh để giải thích"
         },
         {
           "head": "Ngắn",
@@ -355,7 +355,7 @@
         },
         {
           "head": "Hợp điện thoại",
-          "text": "Phần lớn trả lời trên điện thoại"
+          "text": "Phần lớn trả lời trên điện thoại"
         }
       ],
       "notes": "Với dự án định lượng của lớp, dạng gần như chắc chắn là khảo sát trực tuyến (Google Forms hoặc tương tự). Điểm cần nhớ: trực tuyến là dạng rẻ nhất nhưng người trả lời chú ý ít nhất — vừa trả lời vừa nhắn tin, xem video.\nNói: “Không ai đứng cạnh để giải thích câu khó hiểu — câu hỏi phải tự đứng được.”\nVì vậy với khảo sát trực tuyến, phải làm kỹ hơn: câu gạn lọc — để lọc đúng người khi phát link qua mạng xã hội; hướng dẫn trả lời rõ ràng; ngắn; và tối ưu cho điện thoại.\nNhóm định tính: phỏng vấn sâu trực tiếp hoặc trực tuyến qua gọi video; cả hai đều cần xin phép ghi âm ở phần mở đầu.\nHỏi nhanh: “Bạn gần nhất làm một khảo sát trực tuyến là trên thiết bị nào?” — hầu hết sẽ nói điện thoại. Đó là lý do phải xem thử form trên điện thoại trước khi phát hành."
@@ -399,7 +399,8 @@
           "Dưới 3 triệu",
           "Từ 3 đến dưới 5 triệu",
           "Từ 5 đến dưới 7 triệu",
-          "Từ 7 triệu trở lên · Không muốn trả lời"
+          "Từ 7 triệu trở lên",
+          "Không muốn trả lời"
         ]
       },
       "notes": "Câu nhạy cảm — với sinh viên, thường là tiền: thu nhập, chi tiêu, nợ. Thay vì hỏi thẳng “Thu nhập hàng tháng của bạn là bao nhiêu?”, hỏi theo khoảng và đặt ở cuối bảng hỏi: “Mức chi tiêu hàng tháng của bạn (không tính học phí)” với các khoảng: dưới 3 triệu đồng; từ 3 đến dưới 5 triệu; từ 5 đến dưới 7 triệu; từ 7 triệu trở lên; không muốn trả lời.\nChỉ vào dòng “Từ 3 đến dưới 5 triệu”: “Để ý cách viết khoảng — ‘từ… đến dưới…’. Lát nữa ở phần lỗi mình gặp lại chuyện này.”\nNối với Buổi 9: hỏi theo khoảng là chấp nhận hạ cấp thang đo từ tỷ lệ xuống thứ tự — đổi lại người trả lời sẵn lòng trả lời. Với câu nhạy cảm, đó là đánh đổi hợp lý; với câu không nhạy cảm thì hỏi số cụ thể.\nLưu ý cho giảng viên: UEF #9 dùng ví dụ “Bạn bao nhiêu tuổi?” và gọi là “xâm phạm quyền riêng tư”; với sinh viên tuổi ít nhạy cảm — slide đã đổi sang ví dụ chi tiêu như tài liệu học tập và bỏ chữ “xâm phạm quyền riêng tư”."
@@ -433,7 +434,7 @@
       "cards": [
         {
           "head": "Xếp hạng 3 mục",
-          "text": "Giá · Mùi hương · Bao bì: 1 = quan trọng nhất, 3 = ít quan trọng nhất"
+          "text": "Giá · Mùi hương · Bao bì: 1 = quan trọng nhất, 3 = ít quan trọng nhất"
         },
         {
           "head": "Nhiều lựa chọn",
@@ -529,13 +530,15 @@
       "left": {
         "head": "Đã từng → Phần 2",
         "items": [
-          "Sang phần đánh giá"
+          "Sang phần đánh giá",
+          "Đủ thông tin để trả lời"
         ]
       },
       "right": {
         "head": "Chưa từng → Cảm ơn",
         "items": [
-          "Kết thúc, không hỏi tiếp"
+          "Kết thúc, không hỏi tiếp",
+          "Không làm bẩn dữ liệu"
         ]
       },
       "vs": true,
@@ -560,7 +563,7 @@
         },
         {
           "head": "Rẽ nhánh",
-          "text": "Bỏ qua câu không liên quan"
+          "text": "Bỏ qua câu không liên quan"
         }
       ],
       "callout": "Số lần mua 3 tháng qua → thang GIA, CL, YD",
@@ -580,7 +583,7 @@
         },
         {
           "head": "Chỉ hỏi cần",
-          "text": "Chỉ hỏi thông tin dùng trong phân tích"
+          "text": "Chỉ hỏi thông tin dùng trong phân tích"
         }
       ],
       "callout": "Câu “quê quán” nằm ở dòng nào của bảng ánh xạ?",
@@ -630,7 +633,7 @@
       "cards": [
         {
           "head": "Dẫn dắt",
-          "text": "Đẩy về một đáp án"
+          "text": "Đẩy về một đáp án"
         },
         {
           "head": "Câu kép",
@@ -799,7 +802,7 @@
     },
     {
       "type": "steps",
-      "title": "Bước 8: thử trước khi phát hành — bảng hỏi đã gửi đi thì không sửa được",
+      "title": "Bước 8: thử trước khi phát hành — bảng hỏi đã gửi đi thì không sửa được",
       "steps": [
         {
           "head": "Người thử",

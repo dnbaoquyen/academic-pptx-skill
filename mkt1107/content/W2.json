@@ -21,7 +21,7 @@
           "text": "Giám đốc cần quyết định gì?"
         },
         {
-          "head": "Vấn đề nghiên cứu",
+          "head": "Vấn đề nghiên cứu",
           "text": "Cần biết gì?"
         },
         {
@@ -181,7 +181,7 @@
           "text": "Bài báo gửi tạp chí"
         },
         {
-          "head": "Chuyên gia phản biện",
+          "head": "Chuyên gia phản biện",
           "text": "Độc lập, cùng lĩnh vực, đọc và góp ý"
         },
         {
@@ -209,10 +209,10 @@
         [
           "Có điều kiện",
           "Thống kê, báo cáo ngành, báo chí",
-          "Bối cảnh, số liệu thị trường"
+          "Bối cảnh, số liệu thị trường"
         ],
         [
-          "Không dùng làm nguồn",
+          "Không dùng làm nguồn",
           "Blog, fanpage, diễn đàn, AI",
           "Chỉ gợi ý hướng tìm"
         ]
@@ -317,17 +317,17 @@
       "cards": [
         {
           "head": "Đi lùi",
-          "text": "Danh mục tài liệu của bài: các bài cũ hơn",
+          "text": "Danh mục tài liệu của bài: các bài cũ hơn",
           "tag": "←"
         },
         {
           "head": "Đi tới",
-          "text": "“Được trích dẫn bởi”: các bài mới hơn",
+          "text": "“Được trích dẫn bởi”: các bài mới hơn",
           "tag": "→"
         },
         {
           "head": "Bên cạnh",
-          "text": "“Bài viết có liên quan”",
+          "text": "“Bài viết có liên quan”",
           "tag": "↔"
         }
       ],
@@ -379,7 +379,7 @@
       "right": {
         "head": "Cách 2",
         "items": [
-          "\"repurchase intention\" \"bubble tea\" OR \"milk tea\"",
+          "\"repurchase intention\" \"bubble tea\" OR \"milk tea\"",
           "Lọc năm: từ 2020"
         ]
       },
@@ -436,7 +436,7 @@
       "cards": [
         {
           "head": "Giơ 1 ngón",
-          "text": "Thêm ngoặc kép, intitle:, lọc năm",
+          "text": "Thêm ngoặc kép, intitle:, lọc năm",
           "tag": "A"
         },
         {
@@ -489,9 +489,9 @@
           "Blog, mạng xã hội"
         ],
         [
-          "Phương pháp: dựa trên gì?",
+          "Phương pháp: dựa trên gì?",
           "Nêu rõ mẫu, dữ liệu",
-          "Không bằng chứng"
+          "Không bằng chứng"
         ],
         [
           "Cập nhật: khi nào?",
@@ -516,11 +516,11 @@
           "text": "Chỉ nêu mặt có lợi, bỏ qua bằng chứng ngược lại"
         },
         {
-          "head": "Thiếu bằng chứng",
+          "head": "Thiếu bằng chứng",
           "text": "“Ai cũng biết…”, “chắc chắn…”, không dữ liệu"
         },
         {
-          "head": "Xung đột lợi ích",
+          "head": "Xung đột lợi ích",
           "text": "Người viết hoặc nhà tài trợ hưởng lợi từ kết quả"
         }
       ],
@@ -543,7 +543,7 @@
       "cards": [
         {
           "head": "Dùng được",
-          "text": "Làm nguồn học thuật",
+          "text": "Làm nguồn học thuật",
           "tag": "1"
         },
         {
@@ -553,7 +553,7 @@
         },
         {
           "head": "Không dùng",
-          "text": "Không dùng làm nguồn",
+          "text": "Không dùng làm nguồn",
           "tag": "3"
         }
       ],
@@ -564,7 +564,7 @@
       "type": "case",
       "title": "Nguồn 1: bài báo 2022 trên tạp chí có phản biện, khảo sát 350 sinh viên",
       "label": "Nguồn 1",
-      "scenario": "Một bài báo năm 2022 trên tạp chí khoa học có phản biện. Tác giả là giảng viên đại học. Bài khảo sát 350 sinh viên tại TP. Hồ Chí Minh, mô tả rõ cách chọn mẫu và thang đo.",
+      "scenario": "Một bài báo năm 2022 trên tạp chí khoa học có phản biện. Tác giả là giảng viên đại học. Bài khảo sát 350 sinh viên tại TP. Hồ Chí Minh, mô tả rõ cách chọn mẫu và thang đo.",
       "question": "1, 2 hay 3 ngón?",
       "notes": "Đọc nguồn 1, 30 giây bàn, đếm 3–2–1.\nĐáp án: 1 ngón — dùng được. Tiêu chí quyết định: đạt cả bốn tiêu chí — tác giả có chuyên môn (giảng viên đại học), ấn phẩm là tạp chí có phản biện, phương pháp mô tả rõ cách chọn mẫu và thang đo, cập nhật (2022).\nCâu chốt: đây là loại nguồn chính cho phần tổng quan tài liệu của các nhóm.\nNếu lớp đúng gần hết ở nguồn 1–2: đi nhanh, dành thời gian cho nguồn 4–6. Ghi nhớ nguồn 1 để so sánh với nguồn 5 ở cuối hoạt động — cả hai đều đăng trên tạp chí có phản biện."
     },
@@ -663,15 +663,15 @@
       "cards": [
         {
           "head": "Sao chép",
-          "text": "Nguyên văn, không nguồn"
+          "text": "Nguyên văn, không nguồn"
         },
         {
           "head": "Diễn đạt lại",
-          "text": "Viết lại, không ghi nguồn"
+          "text": "Viết lại, không ghi nguồn"
         },
         {
           "head": "Trích chưa đọc",
-          "text": "Như thể đã đọc bản gốc"
+          "text": "Như thể đã đọc bản gốc"
         },
         {
           "head": "Nộp bài cũ",
@@ -683,7 +683,7 @@
         },
         {
           "head": "Dịch",
-          "text": "Dịch Anh–Việt, không nguồn"
+          "text": "Dịch Anh–Việt, không nguồn"
         }
       ],
       "notes": "Định nghĩa: đạo văn (plagiarism) là dùng ý tưởng, câu chữ, số liệu của người khác mà không ghi nguồn, khiến người đọc tưởng đó là của bạn.\nNăm dạng thường gặp — đọc từng dạng, hỏi lớp “đã từng thấy chưa?”: chép nguyên văn mà không đặt trong ngoặc kép và không ghi nguồn; diễn đạt lại ý của người khác nhưng không ghi nguồn — viết lại bằng lời của mình vẫn phải ghi nguồn, vì ý tưởng vẫn là của người khác; trích dẫn một tài liệu mình chưa đọc như thể đã đọc trực tiếp — Buổi 3 học cách trích qua tác giả trung gian; nộp lại bài cũ của mình cho một môn khác mà không nói rõ; dùng nội dung do AI tạo ra mà không khai báo.\nThêm một dạng ít ai nghĩ đến (ô thứ sáu): dịch một đoạn tiếng Anh sang tiếng Việt rồi dùng mà không ghi nguồn cũng là đạo văn — dịch không làm ý tưởng trở thành của bạn.\nLưu ý cho giảng viên: bổ sung quy định cụ thể của trường về xử lý đạo văn nếu muốn nêu."
@@ -716,7 +716,7 @@
       "type": "case",
       "title": "Bản 3: lời của người viết, có ghi nguồn",
       "label": "Bản 3",
-      "scenario": "Theo American Marketing Association (2017), vai trò cốt lõi của nghiên cứu marketing là cung cấp thông tin giúp nhà marketing hiểu khách hàng và thị trường, từ đó nhận diện cơ hội, đánh giá hành động và theo dõi kết quả.",
+      "scenario": "Theo American Marketing Association (2017), vai trò cốt lõi của nghiên cứu marketing là cung cấp thông tin giúp nhà marketing hiểu khách hàng và thị trường, từ đó nhận diện cơ hội, đánh giá hành động và theo dõi kết quả.",
       "question": "Đạt hay chưa đạt? Giơ tay.",
       "notes": "Đọc bản 3. Cặp bàn 15 giây, giơ tay.\nĐáp án: đạt — diễn đạt bằng cấu trúc và từ ngữ của người viết, giữ đúng ý của định nghĩa gốc, và có nguồn theo kiểu dẫn dắt.\nNhấn câu chốt của cả phần demo: diễn đạt lại vẫn phải ghi nguồn — vì ý tưởng vẫn là của người khác. Bản 3 cũng là ví dụ cho cách trích dẫn dẫn dắt đã học ở S2: tên tác giả là một phần của câu, năm trong ngoặc.\nTóm tắt ba bản: bản 1 đạo văn, bản 2 chưa đạt, bản 3 đạt.\nChuyển ý: “Vậy làm sao để không bao giờ rơi vào bản 1 và bản 2?”"
     },
@@ -727,7 +727,7 @@
       "steps": [
         {
           "head": "Ghi nguồn ngay",
-          "text": "mỗi ý ghi chép đều kèm tác giả, năm, trang"
+          "text": "mỗi ý ghi chép đều kèm tác giả, năm, trang"
         },
         {
           "head": "Gập tài liệu lại",
@@ -858,11 +858,11 @@
       "cards": [
         {
           "head": "Mở tài liệu ra đọc",
-          "text": "Không chọn chỉ dựa vào tên bài"
+          "text": "Không chọn chỉ dựa vào tên bài"
         },
         {
           "head": "Tài liệu AI gợi ý",
-          "text": "Phải tìm thấy trên Google Scholar hoặc mở được bằng DOI"
+          "text": "Phải tìm thấy trên Google Scholar hoặc mở được bằng DOI"
         }
       ],
       "callout": "Sản phẩm: 5 tài liệu + bảng tóm tắt.",
