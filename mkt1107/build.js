@@ -677,6 +677,119 @@ L.references = (ctx, pres, s) => {
   return { slide: first, notesDone: true };
 };
 
+// Multiple-choice question: numbered disc, stem (+ optional quoted passage and
+// follow-up ask), then four lettered options — one column when every option fits
+// on one line, otherwise a 2×2 grid. One font size for the whole slide.
+// Keep the last two words of a line of text together (no one-word last line).
+const noWidow = (t) => String(t).replace(/ (\S+)$/, "\u00A0$1");
+
+L.question = (ctx, pres, s) => {
+  s = { ...s, stem: noWidow(s.stem), ask: s.ask && noWidow(s.ask), passage: s.passage && noWidow(s.passage), options: (s.options || []).map(noWidow) };
+  // no slide number: the disc already says which question this is
+  const slide = pres.addSlide({ masterName: "COVER", sectionTitle: ctx.section });
+  decorate(slide, ctx.n);
+  const c = ROT[(ctx.n + 1) % 6];
+  const d = 1.2;
+  const top = 0.3;
+  const sx = X0 + d + 0.35;
+  const sw = 12.3 - sx; // stay clear of the corner decoration
+  const opts = s.options || [];
+  const letters = ["A", "B", "C", "D", "E", "F"];
+  const ld = 0.62;
+  const gap = 0.15;
+  const bottom = 7.1;
+  const passPad = 0.12;
+  // stem sits beside the disc; passage and follow-up ask run full width below it
+  const fw = CW;
+  const stemParts = (pt) => {
+    let h = Math.max(d, blockHeight([plain(s.stem)], sw, pt, { bold: true }));
+    if (s.passage) h += 0.12 + blockHeight([plain(s.passage)], fw - 2 * passPad, pt) + 2 * passPad - 0.17;
+    if (s.ask) h += 0.08 + blockHeight([plain(s.ask)], fw, pt, { bold: true });
+    return h;
+  };
+  const optLayout = (pt) => {
+    const oneW = CW - ld - 0.45;
+    const one = opts.every((o) => blockHeight([plain(o)], oneW, pt) <= (pt * LINE) / 72 + (2 * INSET) / 72 + 1e-6);
+    let single = null;
+    if (one) {
+      const rowH = Math.max(ld + 0.16, (pt * LINE) / 72 + (2 * INSET) / 72 + 0.16);
+      single = { cols: 1, cw: CW, tw: oneW, rows: opts.map(() => rowH), h: rowH * opts.length + gap * (opts.length - 1) };
+    }
+    const cw = (CW - GAP) / 2;
+    const tw = cw - ld - 0.45;
+    const rows = [];
+    for (let i = 0; i < opts.length; i += 2) {
+      const hs = opts.slice(i, i + 2).map((o) => blockHeight([plain(o)], tw, pt) + 0.1);
+      rows.push(Math.max(ld + 0.16, ...hs));
+    }
+    const grid = { cols: 2, cw, tw, rows, h: rows.reduce((a, b) => a + b, 0) + gap * (rows.length - 1) };
+    // a 2×2 grid of one-line options is as readable and much shorter
+    return single && single.h <= grid.h + 0.4 ? single : grid;
+  };
+  let pt = null;
+  let lay = null;
+  for (let p = 30; p >= MIN_PT; p--) {
+    const st = stemParts(p);
+    const l = optLayout(p);
+    if (top + st + 0.3 + l.h <= bottom) { pt = p; lay = l; break; }
+  }
+  if (pt === null) { ctx.warn("question overflows — shorten stem or options"); pt = MIN_PT; lay = optLayout(pt); }
+  // centre the whole question (stem + options) vertically in the free space
+  const y0 = top + Math.max(0, (bottom - top - (stemParts(pt) + 0.3 + lay.h)) / 2);
+  let y = y0;
+  slide.addText(
+    [
+      { text: "CÂU", options: { fontSize: 24, bold: true, breakLine: true } },
+      { text: String(s.number), options: { fontSize: 36, bold: true } },
+    ],
+    { x: X0, y: y0, w: d, h: d, fontFace: FONT, color: onColor(c), align: "center", valign: "middle", margin: 0, isTextBox: true, lineSpacing: 36,
+      shape: "ellipse", fill: { color: c }, objectName: `Câu ${s.number}` }
+  );
+  const sh = blockHeight([plain(s.stem)], sw, pt, { bold: true });
+  txt(slide, s.stem, { x: sx, y, w: sw, h: sh, fontSize: pt, bold: true });
+  y = Math.max(y + sh, y0 + d);
+  if (s.passage) {
+    const ph = blockHeight([plain(s.passage)], fw - 2 * passPad, pt);
+    y += 0.12;
+    rrect(slide, X0, y, fw, ph + 2 * passPad - 0.17, tint(ROT[(ctx.n + 3) % 6], 0.22), "Đoạn trích");
+    txt(slide, s.passage, { x: X0 + passPad, y: y + passPad - 0.085, w: fw - 2 * passPad, h: ph, fontSize: pt, italic: true });
+    y += ph + 2 * passPad - 0.17;
+  }
+  if (s.ask) {
+    const ah = blockHeight([plain(s.ask)], fw, pt, { bold: true });
+    y += 0.08;
+    txt(slide, s.ask, { x: X0, y, w: fw, h: ah, fontSize: pt, bold: true });
+    y += ah;
+  }
+  y += 0.3;
+  opts.forEach((o, i) => {
+    const col = lay.cols === 1 ? 0 : i % 2;
+    const row = lay.cols === 1 ? i : Math.floor(i / 2);
+    const oy = y + lay.rows.slice(0, row).reduce((a, b) => a + b + gap, 0);
+    const ox = X0 + col * (lay.cw + GAP);
+    const h = lay.rows[row];
+    const oc = ROT[(ctx.n + i + 2) % 6];
+    rrect(slide, ox, oy, lay.cw, h, tint(oc, 0.2), "Phương án " + letters[i]);
+    disc(slide, ox + 0.18, oy + h / 2 - ld / 2, ld, oc, letters[i], 26);
+    txt(slide, o, { x: ox + ld + 0.33, y: oy, w: lay.tw, h, fontSize: pt, valign: "middle" });
+  });
+  return slide;
+};
+
+// Auto-advance: every slide moves on after `sec` seconds (a click still advances).
+async function applyAutoAdvance(file, sec) {
+  const JSZip = require("jszip");
+  const zip = await JSZip.loadAsync(fs.readFileSync(file));
+  const tr = `<p:transition spd="med" advTm="${Math.round(sec * 1000)}"><p:fade/></p:transition>`;
+  for (const name of Object.keys(zip.files).filter((n) => /^ppt\/slides\/slide\d+\.xml$/.test(n))) {
+    let xml = await zip.file(name).async("string");
+    xml = xml.replace(/<p:transition[\s\S]*?(<\/p:transition>|\/>)/, "");
+    xml = xml.includes("<p:timing") ? xml.replace("<p:timing", tr + "<p:timing") : xml.replace("</p:sld>", tr + "</p:sld>");
+    zip.file(name, xml);
+  }
+  fs.writeFileSync(file, await zip.generateAsync({ type: "nodebuffer", compression: "DEFLATE" }));
+}
+
 // pptxgenjs cannot write theme colours: patch the colour scheme in place so the
 // palette shows up in PowerPoint's colour picker.
 async function applyTheme(file) {
@@ -737,6 +850,7 @@ async function buildWeek(file, outDir) {
   const out = path.join(outDir, data.fileName || `MKT1107_${week}.pptx`);
   await pres.writeFile({ fileName: out });
   await applyTheme(out);
+  if (data.autoAdvanceSec) await applyAutoAdvance(out, data.autoAdvanceSec);
   return { out, warnings: ctx.warnings, slides: ctx.n };
 }
 
@@ -745,9 +859,9 @@ async function buildWeek(file, outDir) {
   const outDir = path.join(__dirname, "output");
   fs.mkdirSync(outDir, { recursive: true });
   const sel = process.argv.slice(2);
-  const files = fs.readdirSync(dir).filter((f) => /^W\d+\.json$/.test(f))
+  const files = fs.readdirSync(dir).filter((f) => f.endsWith(".json"))
     .filter((f) => !sel.length || sel.includes(f.replace(".json", "")))
-    .sort((a, b) => parseInt(a.slice(1)) - parseInt(b.slice(1)));
+    .sort((a, b) => a.localeCompare(b, "en", { numeric: true }));
   let bad = 0;
   for (const f of files) {
     const r = await buildWeek(path.join(dir, f), outDir);

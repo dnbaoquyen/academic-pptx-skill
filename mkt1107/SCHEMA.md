@@ -5,6 +5,8 @@ Mọi chữ trên slide đều ≥ 24 pt (font Alexandria). Builder đo chữ b�
 của Alexandria; nếu một ô không vừa ở 24 pt, nó in `WARN ... overflows` → **rút gọn chữ hoặc
 tách slide**, không bao giờ để cảnh báo tồn tại.
 
+Thêm `"autoAdvanceSec": 60` ở cấp deck để mọi slide tự chuyển sau 60 giây (bấm chuột vẫn chuyển được).
+
 ```json
 {
   "deckTitle": "MKT1107 · Buổi 1 · Tổng quan về nghiên cứu Marketing",
@@ -41,6 +43,7 @@ Trường chung cho mọi slide:
 | `timeline` | `title`, `items`: `[{tag, text, highlight?}]`, `callout` | ≤ 8 mốc; tag ≤ 3 ký tự; text ≤ 30 |
 | `activity` | `title`, `stages`: `[{time, text}]`, `product` | ≤ 5 chặng (≤ 4 nếu có product), text ≤ 80 |
 | `break` | `title`, `big` (mặc định "15'"), `sub` | |
+| `question` | `number`, `stem`, `passage?` (đoạn trích, in nghiêng), `ask?` (câu hỏi sau đoạn trích), `options[]` (A–D) | builder tự chọn 1 cột hoặc lưới 2×2 và căn giữa theo chiều dọc |
 | `references` | `title` (mặc định "Tài liệu tham khảo"), `refs[]` (APA 7, tên sách/tạp chí trong `*...*`) | builder tự tách sang slide "(tiếp)" |
 
 `callout` là một câu chốt (≤ 110 ký tự; ≤ 50 ký tự thì vừa một dòng) hiển thị trong hộp nổi bật bên dưới nội dung.

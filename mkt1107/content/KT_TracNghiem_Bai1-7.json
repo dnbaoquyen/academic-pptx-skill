@@ -1,0 +1,179 @@
+{
+  "deckTitle": "MKT1107 · Kiểm tra trắc nghiệm cá nhân (Bài 1–7)",
+  "fileName": "MKT1107_KiemTra_TracNghiem_Bai1-7.pptx",
+  "autoAdvanceSec": 60,
+  "slides": [
+    {
+      "type": "cover",
+      "lessonTag": "Bài",
+      "number": "1–7",
+      "kicker": "MKT1107 · NGHIÊN CỨU MARKETING",
+      "title": "Kiểm tra trắc nghiệm cá nhân",
+      "subtitle": "Bài 1 đến Bài 7 (Buổi 1–9)",
+      "presenter": "GV: Đoàn Nguyễn Bảo Quyên",
+      "notes": "Slide tự chuyển sau 60 giây; bấm chuột hoặc phím mũi tên để chuyển sớm. Trong lúc slide này hiện, phát đề hoặc phiếu trả lời, yêu cầu sinh viên cất tài liệu, điện thoại và chỉ để lại bút, máy tính cầm tay."
+    },
+    {
+      "type": "stat",
+      "title": "10 câu, mỗi câu 1 điểm, làm trong 15 phút",
+      "stats": [
+        {
+          "value": "10",
+          "label": "câu trắc nghiệm, tổng 10 điểm"
+        },
+        {
+          "value": "15'",
+          "label": "thời gian làm bài"
+        },
+        {
+          "value": "1–7",
+          "label": "Bài 1–7 (Buổi 1–9)"
+        }
+      ],
+      "callout": "Ghi họ tên, mã số sinh viên và lớp lên bài làm",
+      "notes": "Đọc to: bài kiểm tra trắc nghiệm cá nhân, 10 câu, mỗi câu 1 điểm, tổng 10 điểm, làm trong 15 phút, phạm vi Bài 1 đến Bài 7 (Buổi 1–9). Nhắc sinh viên ghi họ tên, mã số sinh viên và lớp ngay bây giờ, trước khi câu hỏi đầu tiên hiện lên. Ngày kiểm tra: giảng viên điền trên phiếu nếu cần."
+    },
+    {
+      "type": "bullets",
+      "title": "Hướng dẫn làm bài",
+      "numbered": true,
+      "bullets": [
+        "Mỗi câu có **một** đáp án đúng nhất: chọn A, B, C hoặc D",
+        "Làm bài độc lập, không dùng tài liệu, không trao đổi",
+        "Được dùng máy tính cầm tay cho câu tính toán",
+        "Tên người, thương hiệu và số liệu trong đề đều là giả định"
+      ],
+      "callout": "Mỗi câu hiện 60 giây rồi tự chuyển",
+      "notes": "Đọc lần lượt bốn quy định. Nhấn: mỗi câu chỉ có một đáp án đúng nhất; làm độc lập, không tài liệu, không trao đổi; được dùng máy tính cầm tay cho câu tính toán (câu 7); các tên người, thương hiệu và số liệu trong đề đều là giả định. Báo trước: mỗi câu hiện 60 giây rồi tự chuyển, 10 câu mất khoảng 10 phút; thời gian còn lại để rà soát và tô phiếu."
+    },
+    {
+      "type": "question",
+      "number": 1,
+      "stem": "Một chuỗi trà sữa muốn biết tỷ lệ khách hàng từ 18–25 tuổi trong tổng số khách và số lần mua trung bình mỗi tuần của nhóm khách này. Xét theo mức độ chuyên sâu, loại nghiên cứu phù hợp nhất là:",
+      "options": [
+        "Nghiên cứu khám phá",
+        "Nghiên cứu mô tả",
+        "Nghiên cứu tương quan",
+        "Nghiên cứu nhân quả"
+      ],
+      "notes": "Câu 1 / 10 — Bài 1, phân loại nghiên cứu theo mức độ chuyên sâu. Slide tự chuyển sau 60 giây. Không giải thích thêm nội dung câu hỏi trong lúc sinh viên làm bài."
+    },
+    {
+      "type": "question",
+      "number": 2,
+      "stem": "Nhóm trích dẫn một ý từ cuốn sách của tác giả Nguyễn Đình Thọ, xuất bản năm 2011. Cách trích dẫn trong bài (trong ngoặc) đúng theo APA 7 là:",
+      "options": [
+        "(Thọ, 2011)",
+        "(Nguyễn Đình Thọ, 2011)",
+        "(Nguyễn, Đ. T., 2011)",
+        "(Nguyễn, 2011)"
+      ],
+      "notes": "Câu 2 / 10 — Bài 2–3, trích dẫn trong bài theo APA 7. Slide tự chuyển sau 60 giây. Không giải thích thêm nội dung câu hỏi trong lúc sinh viên làm bài."
+    },
+    {
+      "type": "question",
+      "number": 3,
+      "stem": "Đọc đoạn văn sau trong một bài tổng quan tài liệu:",
+      "passage": "Trần (2020) và Lê (2022) cùng thấy giá có ảnh hưởng tích cực đến ý định mua mỹ phẩm nội địa, trong khi Phạm (2023) không thấy tác động này ở nhóm người tiêu dùng có thu nhập cao; điều này gợi ý thu nhập có thể làm thay đổi vai trò của giá.",
+      "ask": "Đoạn văn trên thể hiện rõ nhất kỹ năng nào?",
+      "options": [
+        "Tổng hợp, đối chiếu các nguồn",
+        "Tóm tắt lần lượt từng nguồn",
+        "Trích dẫn nguyên văn các nguồn",
+        "Diễn giải lại một nguồn duy nhất"
+      ],
+      "notes": "Câu 3 / 10 — Bài 2–3, kỹ năng viết tổng quan tài liệu. Câu này có đoạn trích dài; slide vẫn tự chuyển sau 60 giây. Không giải thích thêm nội dung câu hỏi trong lúc sinh viên làm bài."
+    },
+    {
+      "type": "question",
+      "number": 4,
+      "stem": "Một chatbot AI đưa ra 5 bài báo, có đủ tên tác giả, năm và mã DOI, cho đề tài của nhóm. Việc cần làm trước khi đưa các bài này vào danh mục tài liệu tham khảo là:",
+      "options": [
+        "Sử dụng ngay vì thông tin xuất bản đã đầy đủ",
+        "Hỏi lại chính chatbot đó xem các bài có thật không",
+        "Tra từng bài trên Google Scholar hoặc DOI và đọc bản gốc",
+        "Chỉ giữ lại những bài có năm xuất bản gần đây"
+      ],
+      "notes": "Câu 4 / 10 — Bài 3, dùng AI trong nghiên cứu và kiểm chứng trích dẫn. Slide tự chuyển sau 60 giây. Không giải thích thêm nội dung câu hỏi trong lúc sinh viên làm bài."
+    },
+    {
+      "type": "question",
+      "number": 5,
+      "stem": "Giám đốc một chuỗi cà phê đặt vấn đề: “Có nên mở thêm cửa hàng gần một trường đại học không?” Vấn đề nghiên cứu tương ứng phù hợp nhất là:",
+      "options": [
+        "Quyết định có nên mở thêm cửa hàng gần trường hay không",
+        "Tìm cách tăng doanh số của toàn chuỗi trong năm tới",
+        "Lựa chọn mặt bằng có chi phí thuê thấp nhất khu vực",
+        "Xác định nhu cầu, mức chi tiêu và thói quen mua của sinh viên khu vực đó"
+      ],
+      "notes": "Câu 5 / 10 — Bài 4, phân biệt vấn đề quản trị và vấn đề nghiên cứu. Slide tự chuyển sau 60 giây. Không giải thích thêm nội dung câu hỏi trong lúc sinh viên làm bài."
+    },
+    {
+      "type": "question",
+      "number": 6,
+      "stem": "Một nhãn hàng muốn biết bao bì mới có làm tăng ý định mua so với bao bì cũ hay không, và cần kết luận về quan hệ nhân quả. Phương pháp thu thập dữ liệu phù hợp nhất là:",
+      "options": [
+        "Thử nghiệm có nhóm đối chứng và phân nhóm ngẫu nhiên",
+        "Thảo luận nhóm tập trung với khách hàng hiện tại",
+        "Khảo sát trực tuyến về mức yêu thích hai bao bì",
+        "Quan sát khách hàng tại quầy kệ siêu thị"
+      ],
+      "notes": "Câu 6 / 10 — Bài 5, chọn phương pháp thu thập dữ liệu cho câu hỏi nhân quả. Slide tự chuyển sau 60 giây. Không giải thích thêm nội dung câu hỏi trong lúc sinh viên làm bài."
+    },
+    {
+      "type": "question",
+      "number": 7,
+      "stem": "Nhóm muốn ước lượng tỷ lệ sinh viên đã từng mua mỹ phẩm nội địa, với độ tin cậy 95% (Z = 1,96), sai số cho phép ±5% và chưa biết tỷ lệ dự kiến. Áp dụng công thức n = Z² × p(1 − p) / e², cỡ mẫu tối thiểu (làm tròn lên) là:",
+      "options": [
+        "196",
+        "385",
+        "769",
+        "1.537"
+      ],
+      "notes": "Câu 7 / 10 — Bài 6, tính cỡ mẫu khi ước lượng tỷ lệ. Câu tính toán: sinh viên được dùng máy tính cầm tay. Slide tự chuyển sau 60 giây; nếu lớp cần thêm thời gian cho câu này, có thể bấm quay lại sau khi hết 10 câu. Không giải thích thêm nội dung câu hỏi."
+    },
+    {
+      "type": "question",
+      "number": 8,
+      "stem": "Nhóm cần 200 người trả lời, gồm đúng 120 nữ và 80 nam theo tỷ lệ giới tính của tổng thể. Thành viên nhóm mời bất kỳ bạn nào dễ gặp ở căng tin cho đến khi đủ số lượng của mỗi giới. Phương pháp chọn mẫu này là:",
+      "options": [
+        "Chọn mẫu phân tầng",
+        "Chọn mẫu theo nhóm (cụm)",
+        "Chọn mẫu định mức",
+        "Chọn mẫu phát triển mầm"
+      ],
+      "notes": "Câu 8 / 10 — Bài 6, nhận diện phương pháp chọn mẫu. Slide tự chuyển sau 60 giây. Không giải thích thêm nội dung câu hỏi trong lúc sinh viên làm bài."
+    },
+    {
+      "type": "question",
+      "number": 9,
+      "stem": "Câu hỏi khảo sát: “Trong tuần qua, bạn đã chi bao nhiêu nghìn đồng cho đồ uống?” Phát biểu nào dưới đây là hợp lệ về mặt đo lường?",
+      "options": [
+        "Biến này thuộc thang thứ tự nên chỉ được báo cáo trung vị",
+        "Người chi 100 nghìn đồng đã chi gấp đôi người chi 50 nghìn đồng",
+        "Biến này thuộc thang định danh nên chỉ được đếm tần số",
+        "Không được tính trung bình vì biến không có điểm 0 tuyệt đối"
+      ],
+      "notes": "Câu 9 / 10 — Bài 7, các cấp thang đo và phép tính được phép. Slide tự chuyển sau 60 giây. Không giải thích thêm nội dung câu hỏi trong lúc sinh viên làm bài."
+    },
+    {
+      "type": "question",
+      "number": 10,
+      "stem": "Một thang đo “lòng trung thành thương hiệu” cho kết quả rất ổn định khi đo lại trên cùng những người trả lời sau hai tuần, nhưng các câu hỏi của nó thực chất đo mức độ hài lòng với giá. Nhận định đúng nhất về thang đo này là:",
+      "options": [
+        "Có độ tin cậy nhưng chưa có giá trị",
+        "Có giá trị nhưng chưa có độ tin cậy",
+        "Vừa có độ tin cậy vừa có giá trị",
+        "Không có độ tin cậy lẫn giá trị"
+      ],
+      "notes": "Câu 10 / 10 — Bài 7, độ tin cậy và giá trị của thang đo. Slide tự chuyển sau 60 giây sang slide kết thúc. Nhắc sinh viên kiểm tra lại họ tên, mã số sinh viên trước khi nộp."
+    },
+    {
+      "type": "break",
+      "big": "Hết",
+      "title": "Kết thúc bài kiểm tra",
+      "sub": "Kiểm tra lại họ tên, MSSV, lớp và đáp án trước khi nộp bài.",
+      "notes": "Slide kết thúc. Thời gian còn lại của 15 phút dành cho rà soát. Hết giờ: thu bài theo hàng, đếm đủ số bài trước khi cho lớp ra về. Slide này vẫn tự chuyển sau 60 giây; nếu muốn giữ màn hình này đến lúc thu bài, bấm phím B hoặc dừng trình chiếu ở đây."
+    }
+  ]
+}

@@ -7,6 +7,7 @@ Bộ slide được dựng từ dàn ý và bài giảng trong
 | Thư mục | Nội dung |
 |---|---|
 | `output/` | 10 file `.pptx` (`MKT1107_W01_slides.pptx` … `MKT1107_W10_slides.pptx`), có speaker notes ở từng slide |
+| `output/MKT1107_KiemTra_TracNghiem_Bai1-7.pptx` | Đề kiểm tra trắc nghiệm cá nhân Bài 1–7 (10 câu), mỗi slide tự chuyển sau 60 giây |
 | `content/` | Nội dung từng buổi dạng JSON (chữ trên slide + lời giảng) — sửa ở đây rồi dựng lại |
 | `build.js`, `lib/` | Bộ dựng (pptxgenjs) |
 | `SCHEMA.md` | Mô tả các loại slide và giới hạn chữ |
