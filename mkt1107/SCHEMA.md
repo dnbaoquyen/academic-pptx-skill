@@ -5,6 +5,7 @@ Mọi chữ trên slide đều ≥ 24 pt (font Alexandria). Builder đo chữ b�
 của Alexandria; nếu một ô không vừa ở 24 pt, nó in `WARN ... overflows` → **rút gọn chữ hoặc
 tách slide**, không bao giờ để cảnh báo tồn tại.
 
+Thêm `"theme": "dark"` để dùng nền `#172849`, chữ `#FBFAF4` (mặc định là nền sáng `#FBFAF4`).
 Thêm `"autoAdvanceSec": 60` ở cấp deck để mọi slide tự chuyển sau 60 giây (bấm chuột vẫn chuyển được).
 
 ```json

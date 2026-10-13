@@ -11,9 +11,17 @@ const { MIN_PT, LINE, INSET, fitSize, blockHeight, textWidthIn, widestWord } = r
 let CUR = null; // context of the deck being built, for warnings from txt()
 
 const FONT = "Alexandria";
-const BG = "FBFAF4";
-const INK = "2E2A3A";
-const MUTED = "5B5668";
+// Colour roles. Light is the default; a deck with "theme": "dark" swaps them
+// (dark navy background, cream text) for rooms with strong ambient light.
+const THEMES = {
+  light: { BG: "FBFAF4", INK: "2E2A3A", MUTED: "5B5668", ON: "2E2A3A", ACCENT: "962B7C" },
+  dark: { BG: "172849", INK: "FBFAF4", MUTED: "C9CDD8", ON: "172849", ACCENT: "FFD23B" },
+};
+let BG, INK, MUTED, ON, ACCENT; // ON = text on a solid palette colour; ACCENT = coloured text
+function setTheme(name = "light") {
+  ({ BG, INK, MUTED, ON, ACCENT } = THEMES[name] || THEMES.light);
+}
+setTheme();
 const WHITE = "FFFFFF";
 const P = {
   green: "49B296",
@@ -33,7 +41,7 @@ const Y0 = 1.95;
 const Y1 = 6.65;
 const GAP = 0.3;
 
-const THEME = {
+const themeFor = () => ({
   name: "MKT1107",
   headFontFace: FONT,
   bodyFontFace: FONT,
@@ -43,7 +51,7 @@ const THEME = {
     accent4: P.purple, accent5: P.blue, accent6: P.orange,
     hlink: P.blue, folHlink: P.purple,
   },
-};
+});
 
 // ---------- helpers ----------
 function tint(hex, a) {
@@ -51,7 +59,7 @@ function tint(hex, a) {
   const out = [0, 2, 4].map((i) => Math.round(c(BG, i) * (1 - a) + c(hex, i) * a));
   return out.map((v) => v.toString(16).padStart(2, "0")).join("").toUpperCase();
 }
-const onColor = (hex) => (hex === P.purple ? WHITE : INK);
+const onColor = (hex) => (hex === P.purple ? WHITE : ON);
 
 // Inline **bold** / *italic* markup -> runs; plain() strips markup for measuring.
 function runs(text, base = {}) {
@@ -194,7 +202,7 @@ L.cover = (ctx, pres, s) => {
       margin: 0, isTextBox: true, lineSpacing: 100 }
   );
   txt(slide, s.kicker || "MKT1107 · NGHIÊN CỨU MARKETING", {
-    x: X0, y: 0.8, w: 7.6, h: 0.6, fontSize: 24, bold: true, color: P.purple,
+    x: X0, y: 0.8, w: 7.6, h: 0.6, fontSize: 24, bold: true, color: ACCENT,
   });
   const tsz = ctx.fit("cover title", s.title, 7.6, 2.9, { max: 48, min: 32, bold: true });
   txt(slide, s.title, { x: X0, y: 1.6, w: 7.6, h: 2.9, fontSize: tsz, bold: true, valign: "middle" });
@@ -217,7 +225,7 @@ L.section = (ctx, pres, s) => {
   circle(slide, 11.2, 4.9, 1.3, ROT[(ctx.n + 3) % 6]);
   circle(slide, 10.7, 6.3, 0.4, ROT[(ctx.n + 4) % 6]);
   if (s.kicker) {
-    txt(slide, s.kicker, { x: 4.2, y: 1.55, w: 7.4, h: 0.65, fontSize: 28, bold: true, color: P.purple });
+    txt(slide, s.kicker, { x: 4.2, y: 1.55, w: 7.4, h: 0.65, fontSize: 28, bold: true, color: ACCENT });
   }
   const tsz = ctx.fit("section title", s.title, 7.4, 2.4, { max: 44, min: 30, bold: true });
   slide.addText(runs(s.title, { bold: true, color: INK }), {
@@ -530,7 +538,7 @@ L.model = (ctx, pres, s) => {
     const y = sy + i * (ih + gap);
     const c = ROT[(ctx.n + i) % 6] === P.purple ? P.yellow : ROT[(ctx.n + i) % 6];
     rrect(slide, X0, y, iw, ih, c, "Biến " + plain(t));
-    txt(slide, t, { x: X0 + 0.15, y, w: iw - 0.3, h: ih, fontSize: isz, bold: true, valign: "middle" });
+    txt(slide, t, { x: X0 + 0.15, y, w: iw - 0.3, h: ih, fontSize: isz, bold: true, valign: "middle", color: onColor(c) });
     const tx = hasMed ? target.x : ox;
     arrow(slide, X0 + iw + 0.05, y + ih / 2, tx - 0.08, midY + (y + ih / 2 - midY) * 0.25, MUTED);
   });
@@ -554,7 +562,7 @@ L.break = (ctx, pres, s) => {
   circle(slide, 0.6, 5.3, 1.0, P.green);
   circle(slide, 11.4, 4.3, 1.8, P.blue);
   circle(slide, 12.2, 0.4, 0.8, P.orange);
-  slide.addText(s.big || "15'", { x: 1.2, y: 1.3, w: 4.6, h: 4.6, fontFace: FONT, fontSize: 96, bold: true, color: INK, align: "center", valign: "middle", margin: 0, isTextBox: true });
+  slide.addText(s.big || "15'", { x: 1.2, y: 1.3, w: 4.6, h: 4.6, fontFace: FONT, fontSize: 96, bold: true, color: onColor(P.yellow), align: "center", valign: "middle", margin: 0, isTextBox: true });
   const tsz = ctx.fit("break title", s.title, 5.8, 1.6, { max: 48, min: 32, bold: true });
   txt(slide, s.title, { x: 6.5, y: 2.2, w: 5.8, h: 1.6, fontSize: tsz, bold: true });
   if (s.sub) {
@@ -633,7 +641,7 @@ L.timeline = (ctx, pres, s) => {
     const th = blockHeight([plain(it.text)], bw, sz);
     txt(slide, it.text, {
       x: bx, y: up ? lineY - d / 2 - 0.1 - th : lineY + d / 2 + 0.1, w: bw, h: th, fontSize: sz,
-      align: "center", bold: !!it.highlight, color: it.highlight ? P.purple : INK,
+      align: "center", bold: !!it.highlight, color: it.highlight ? ACCENT : INK,
     });
   });
   return slide;
@@ -796,6 +804,7 @@ async function applyTheme(file) {
   const JSZip = require("jszip");
   const zip = await JSZip.loadAsync(fs.readFileSync(file));
   const tf = "ppt/theme/theme1.xml";
+  const THEME = themeFor();
   const c = THEME.colors;
   const keys = ["dk1", "lt1", "dk2", "lt2", "accent1", "accent2", "accent3", "accent4", "accent5", "accent6", "hlink", "folHlink"];
   const scheme = `<a:clrScheme name="${THEME.name}">` + keys.map((k) => `<a:${k}><a:srgbClr val="${c[k]}"/></a:${k}>`).join("") + "</a:clrScheme>";
@@ -825,6 +834,7 @@ async function buildWeek(file, outDir) {
   const week = path.basename(file, ".json");
   const ctx = new Ctx(week);
   CUR = ctx;
+  setTheme(data.theme);
   const pres = new pptxgen();
   pres.layout = "LAYOUT_WIDE";
   pres.theme = { headFontFace: FONT, bodyFontFace: FONT };
