@@ -8,7 +8,7 @@ titles[40] = "Tài liệu tham khảo"
 
 def norm(t):
     t = t.replace("&", " và ").lower()
-    t = re.sub(r"[,.:;!?“”\"'‘’()\[\]·→–—~+−\-…=/•]", " ", t)
+    t = re.sub(r"[,.:;!?“”\"'‘’()\[\]·→–—~+−\-…=/•✓≈]", " ", t)
     return re.sub(r"\s+", " ", t).strip()
 
 def say_words(note):
